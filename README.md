@@ -14,19 +14,18 @@ torchvision library. Create a directory called `celeba`inside the dataset direct
 folder that contains the images as well as all annotation files into it.
 
 ### FairFace
-The dataset can be downloaded from the [official GitHub repository](https://github.com/dchen236/FairFace?
-tab=readme-ov-file#data). For the thesis the dataset version with padding=0.25 is used. Copy the folder with the 
+The dataset can be downloaded from the [official GitHub repository](https://github.com/dchen236/FairFace?tab=readme-ov-file#data). For the thesis the dataset version with padding=0.25 is used. Copy the folder with the 
 images into the dataset folder. Then download the train and val csv file and copy them into the fairface image 
 folder (the folder should have the name `fairface-img-margin-025-trainval`)
 
 ### UTKFace
 
-Down the UTKFace dataset with cropped images from https://www.kaggle.com/datasets/jangedoo/utkface-new. Use the provided jupyter notebook to extract the attributes from the filenames and to crate a csv file with all attribute data.
+Down the UTKFace dataset with cropped images from https://www.kaggle.com/datasets/jangedoo/utkface-new. Use the provided jupyter notebook `create_extracted_info.jpynb` to extract the attributes from the filenames and to crate a csv file with all attribute data.
 
 ### LFW
 
 Download the lfw images aligned with deep funneling from the official website (http://vis-www.cs.umass.edu/lfw/lfw-deepfunneled.tgz). Furthermore, download the attributes (http://www.cs.columbia.edu/CAVE/databases/pubfig/download/lfw_attributes.txt) and the manually verified gender labels (http://bit.ly/lfw-gender) 
-Use the provided jupyter notebook to create a unified and cleaned csv file that contains the gender and attribute information.
+Use the provided jupyter notebook `create_cleaned_attributes.jpynb` to create a unified and cleaned csv file that contains the gender and attribute information.
 
 ### Complete dataset directory
 The dataset directory should then look like this. The sketch images and skew datasets are only available once the corresponding generation scripts have been executed. 
@@ -63,4 +62,18 @@ The dataset directory should then look like this. The sketch images and skew dat
 |-----------------|----------------------------------------------------------|--------------------------------------------------------------------------------------------|------------------------------------------|
 | Image Sketching | Improving Fairness in Image Classification via Sketching | Sketch images are used together with a modified loss function that is as a MSE loss of SPD | https://arxiv.org/pdf/2211.00168.pdf     |
 
-## Evaluate mitigation approaches
+## Execute experiments
+
+To train the models und execute the experiments, the following scripts can be used:
+- **run_baseline.py**: Train the baseline model
+- **run_experiment.py**: Train all mitigation approaches
+- **run_tests.py**: Evaluate baseline and all mitigation approaches with the test data
+- **run_latent_embedding_generation.py**: Generate latent embeddings for t-SNE plots
+
+All scripts can be executed via the terminal and support the same parameters:
+
+```
+python ./src/<script_name>.py --dataset_name <dataset_name> --baseline_path_version <baseline_model_path> --model_path_version <mitigation_models_path_name> --batch_size <batch size> --device <device>
+```
+
+Default values for the parameters or available options can be looked up in the script .
