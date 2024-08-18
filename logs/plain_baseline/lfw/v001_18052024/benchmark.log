@@ -1,0 +1,186 @@
+2024-05-18 17:13:25 - plain_baseline/lfw/v001_18052024 - INFO - Training started.
+2024-05-18 17:13:39 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [1/100], Loss: 1.6618, Valid Acc: 0.3796, Valid F1: 0.5503, Valid DP: 0.0000, Valid EOD: 0.0000
+2024-05-18 17:13:39 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_f1_state.pth.
+2024-05-18 17:13:39 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:13:51 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [2/100], Loss: 0.6325, Valid Acc: 0.4108, Valid F1: 0.5588, Valid DP: 0.0525, Valid EOD: 0.0611
+2024-05-18 17:13:51 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_f1_state.pth.
+2024-05-18 17:13:51 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_eod_state.pth.
+2024-05-18 17:13:51 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:14:03 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [3/100], Loss: 0.4991, Valid Acc: 0.8099, Valid F1: 0.7369, Valid DP: 0.2867, Valid EOD: 0.1764
+2024-05-18 17:14:04 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_f1_state.pth.
+2024-05-18 17:14:04 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:14:16 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [4/100], Loss: 0.2942, Valid Acc: 0.7604, Valid F1: 0.7534, Valid DP: 0.2255, Valid EOD: 0.0796
+2024-05-18 17:14:16 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_f1_state.pth.
+2024-05-18 17:14:16 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:14:29 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [5/100], Loss: 0.2037, Valid Acc: 0.8828, Valid F1: 0.8308, Valid DP: 0.2939, Valid EOD: 0.1201
+2024-05-18 17:14:29 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_f1_state.pth.
+2024-05-18 17:14:29 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:14:41 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [6/100], Loss: 0.1384, Valid Acc: 0.8809, Valid F1: 0.8537, Valid DP: 0.2859, Valid EOD: 0.0921
+2024-05-18 17:14:42 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_f1_state.pth.
+2024-05-18 17:14:42 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:14:55 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [7/100], Loss: 0.0799, Valid Acc: 0.8887, Valid F1: 0.8469, Valid DP: 0.2964, Valid EOD: 0.0993
+2024-05-18 17:14:55 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:15:08 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [8/100], Loss: 0.0482, Valid Acc: 0.8783, Valid F1: 0.8414, Valid DP: 0.3108, Valid EOD: 0.1147
+2024-05-18 17:15:08 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:15:21 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [9/100], Loss: 0.0398, Valid Acc: 0.8704, Valid F1: 0.8289, Valid DP: 0.3240, Valid EOD: 0.1266
+2024-05-18 17:15:21 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:15:34 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [10/100], Loss: 0.0679, Valid Acc: 0.8424, Valid F1: 0.8167, Valid DP: 0.2558, Valid EOD: 0.0549
+2024-05-18 17:15:35 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_eod_state.pth.
+2024-05-18 17:15:48 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [11/100], Loss: 0.0647, Valid Acc: 0.8913, Valid F1: 0.8584, Valid DP: 0.2759, Valid EOD: 0.0582
+2024-05-18 17:15:48 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_f1_state.pth.
+2024-05-18 17:16:02 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [12/100], Loss: 0.0354, Valid Acc: 0.8893, Valid F1: 0.8477, Valid DP: 0.2701, Valid EOD: 0.0766
+2024-05-18 17:16:02 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:16:16 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [13/100], Loss: 0.0194, Valid Acc: 0.8978, Valid F1: 0.8584, Valid DP: 0.2837, Valid EOD: 0.0763
+2024-05-18 17:16:16 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_f1_state.pth.
+2024-05-18 17:16:16 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:16:31 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [14/100], Loss: 0.0135, Valid Acc: 0.8945, Valid F1: 0.8508, Valid DP: 0.2834, Valid EOD: 0.1282
+2024-05-18 17:16:31 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:16:45 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [15/100], Loss: 0.0089, Valid Acc: 0.8939, Valid F1: 0.8586, Valid DP: 0.3052, Valid EOD: 0.1022
+2024-05-18 17:16:45 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_f1_state.pth.
+2024-05-18 17:16:45 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:17:00 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [16/100], Loss: 0.0063, Valid Acc: 0.8919, Valid F1: 0.8650, Valid DP: 0.3111, Valid EOD: 0.0879
+2024-05-18 17:17:00 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_f1_state.pth.
+2024-05-18 17:17:00 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:17:32 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [17/100], Loss: 0.0088, Valid Acc: 0.8861, Valid F1: 0.8555, Valid DP: 0.3113, Valid EOD: 0.0949
+2024-05-18 17:17:52 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [18/100], Loss: 0.0078, Valid Acc: 0.8893, Valid F1: 0.8586, Valid DP: 0.2801, Valid EOD: 0.0850
+2024-05-18 17:18:07 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [19/100], Loss: 0.0074, Valid Acc: 0.8997, Valid F1: 0.8647, Valid DP: 0.2867, Valid EOD: 0.0949
+2024-05-18 17:18:22 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [20/100], Loss: 0.0065, Valid Acc: 0.8997, Valid F1: 0.8654, Valid DP: 0.3088, Valid EOD: 0.1173
+2024-05-18 17:18:23 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_f1_state.pth.
+2024-05-18 17:18:38 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [21/100], Loss: 0.0127, Valid Acc: 0.8887, Valid F1: 0.8499, Valid DP: 0.2897, Valid EOD: 0.0932
+2024-05-18 17:18:54 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [22/100], Loss: 0.0244, Valid Acc: 0.8698, Valid F1: 0.8339, Valid DP: 0.2784, Valid EOD: 0.0687
+2024-05-18 17:19:09 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [23/100], Loss: 0.0493, Valid Acc: 0.8548, Valid F1: 0.8162, Valid DP: 0.2633, Valid EOD: 0.0567
+2024-05-18 17:19:25 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [24/100], Loss: 0.0433, Valid Acc: 0.8333, Valid F1: 0.8069, Valid DP: 0.2547, Valid EOD: 0.0571
+2024-05-18 17:19:41 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [25/100], Loss: 0.0233, Valid Acc: 0.8932, Valid F1: 0.8622, Valid DP: 0.2900, Valid EOD: 0.0777
+2024-05-18 17:19:57 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [26/100], Loss: 0.0111, Valid Acc: 0.8867, Valid F1: 0.8455, Valid DP: 0.2967, Valid EOD: 0.1066
+2024-05-18 17:20:14 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [27/100], Loss: 0.0079, Valid Acc: 0.8932, Valid F1: 0.8579, Valid DP: 0.3083, Valid EOD: 0.0870
+2024-05-18 17:20:30 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [28/100], Loss: 0.0051, Valid Acc: 0.8926, Valid F1: 0.8556, Valid DP: 0.2710, Valid EOD: 0.0649
+2024-05-18 17:20:30 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:20:47 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [29/100], Loss: 0.0025, Valid Acc: 0.8958, Valid F1: 0.8635, Valid DP: 0.2895, Valid EOD: 0.1036
+2024-05-18 17:20:47 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:21:03 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [30/100], Loss: 0.0011, Valid Acc: 0.9036, Valid F1: 0.8720, Valid DP: 0.2911, Valid EOD: 0.0861
+2024-05-18 17:21:04 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_f1_state.pth.
+2024-05-18 17:21:04 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:21:21 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [31/100], Loss: 0.0005, Valid Acc: 0.9049, Valid F1: 0.8765, Valid DP: 0.2851, Valid EOD: 0.0570
+2024-05-18 17:21:21 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_f1_state.pth.
+2024-05-18 17:21:21 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:21:38 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [32/100], Loss: 0.0002, Valid Acc: 0.8984, Valid F1: 0.8680, Valid DP: 0.2889, Valid EOD: 0.0625
+2024-05-18 17:21:38 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:21:55 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [33/100], Loss: 0.0001, Valid Acc: 0.9049, Valid F1: 0.8752, Valid DP: 0.2911, Valid EOD: 0.0651
+2024-05-18 17:21:55 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:22:13 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [34/100], Loss: 0.0001, Valid Acc: 0.9062, Valid F1: 0.8767, Valid DP: 0.2889, Valid EOD: 0.0651
+2024-05-18 17:22:13 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_f1_state.pth.
+2024-05-18 17:22:13 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:22:31 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [35/100], Loss: 0.0001, Valid Acc: 0.9082, Valid F1: 0.8792, Valid DP: 0.2859, Valid EOD: 0.0625
+2024-05-18 17:22:31 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_f1_state.pth.
+2024-05-18 17:22:31 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:22:49 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [36/100], Loss: 0.0001, Valid Acc: 0.9082, Valid F1: 0.8794, Valid DP: 0.2881, Valid EOD: 0.0675
+2024-05-18 17:22:49 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_f1_state.pth.
+2024-05-18 17:22:49 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:23:07 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [37/100], Loss: 0.0001, Valid Acc: 0.9089, Valid F1: 0.8801, Valid DP: 0.2889, Valid EOD: 0.0675
+2024-05-18 17:23:07 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_f1_state.pth.
+2024-05-18 17:23:08 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:23:26 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [38/100], Loss: 0.0000, Valid Acc: 0.9095, Valid F1: 0.8809, Valid DP: 0.2898, Valid EOD: 0.0675
+2024-05-18 17:23:26 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_f1_state.pth.
+2024-05-18 17:23:26 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:23:44 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [39/100], Loss: 0.0000, Valid Acc: 0.9076, Valid F1: 0.8786, Valid DP: 0.2873, Valid EOD: 0.0675
+2024-05-18 17:23:44 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:24:03 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [40/100], Loss: 0.0000, Valid Acc: 0.9089, Valid F1: 0.8801, Valid DP: 0.2889, Valid EOD: 0.0675
+2024-05-18 17:24:03 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:24:22 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [41/100], Loss: 0.0000, Valid Acc: 0.9062, Valid F1: 0.8771, Valid DP: 0.2895, Valid EOD: 0.0675
+2024-05-18 17:24:22 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:24:41 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [42/100], Loss: 0.0000, Valid Acc: 0.9095, Valid F1: 0.8809, Valid DP: 0.2898, Valid EOD: 0.0675
+2024-05-18 17:24:41 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:25:00 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [43/100], Loss: 0.0000, Valid Acc: 0.9095, Valid F1: 0.8809, Valid DP: 0.2898, Valid EOD: 0.0675
+2024-05-18 17:25:00 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:25:19 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [44/100], Loss: 0.0000, Valid Acc: 0.9082, Valid F1: 0.8794, Valid DP: 0.2881, Valid EOD: 0.0675
+2024-05-18 17:25:20 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:25:39 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [45/100], Loss: 0.0000, Valid Acc: 0.9069, Valid F1: 0.8779, Valid DP: 0.2903, Valid EOD: 0.0675
+2024-05-18 17:25:39 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:25:59 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [46/100], Loss: 0.0000, Valid Acc: 0.9089, Valid F1: 0.8801, Valid DP: 0.2889, Valid EOD: 0.0675
+2024-05-18 17:26:19 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [47/100], Loss: 0.0000, Valid Acc: 0.9082, Valid F1: 0.8794, Valid DP: 0.2920, Valid EOD: 0.0675
+2024-05-18 17:26:19 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:26:39 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [48/100], Loss: 0.0000, Valid Acc: 0.9082, Valid F1: 0.8794, Valid DP: 0.2920, Valid EOD: 0.0675
+2024-05-18 17:26:39 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:26:59 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [49/100], Loss: 0.0000, Valid Acc: 0.9082, Valid F1: 0.8794, Valid DP: 0.2920, Valid EOD: 0.0675
+2024-05-18 17:26:59 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:27:19 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [50/100], Loss: 0.0000, Valid Acc: 0.9089, Valid F1: 0.8801, Valid DP: 0.2889, Valid EOD: 0.0675
+2024-05-18 17:27:20 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:27:40 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [51/100], Loss: 0.0000, Valid Acc: 0.9082, Valid F1: 0.8794, Valid DP: 0.2920, Valid EOD: 0.0675
+2024-05-18 17:28:00 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [52/100], Loss: 0.0000, Valid Acc: 0.9089, Valid F1: 0.8799, Valid DP: 0.2867, Valid EOD: 0.0625
+2024-05-18 17:28:21 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [53/100], Loss: 0.0000, Valid Acc: 0.9076, Valid F1: 0.8784, Valid DP: 0.2889, Valid EOD: 0.0625
+2024-05-18 17:28:21 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:28:42 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [54/100], Loss: 0.0000, Valid Acc: 0.9089, Valid F1: 0.8801, Valid DP: 0.2928, Valid EOD: 0.0675
+2024-05-18 17:28:42 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:29:03 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [55/100], Loss: 0.0000, Valid Acc: 0.9082, Valid F1: 0.8792, Valid DP: 0.2898, Valid EOD: 0.0625
+2024-05-18 17:29:03 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:29:24 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [56/100], Loss: 0.0000, Valid Acc: 0.9089, Valid F1: 0.8797, Valid DP: 0.2884, Valid EOD: 0.0651
+2024-05-18 17:29:24 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:29:46 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [57/100], Loss: 0.0000, Valid Acc: 0.9076, Valid F1: 0.8782, Valid DP: 0.2906, Valid EOD: 0.0651
+2024-05-18 17:30:08 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [58/100], Loss: 0.0000, Valid Acc: 0.9082, Valid F1: 0.8792, Valid DP: 0.2898, Valid EOD: 0.0625
+2024-05-18 17:30:08 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:30:30 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [59/100], Loss: 0.0000, Valid Acc: 0.9082, Valid F1: 0.8792, Valid DP: 0.2898, Valid EOD: 0.0625
+2024-05-18 17:30:30 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:30:52 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [60/100], Loss: 0.0000, Valid Acc: 0.9089, Valid F1: 0.8797, Valid DP: 0.2884, Valid EOD: 0.0651
+2024-05-18 17:30:52 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:31:14 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [61/100], Loss: 0.0000, Valid Acc: 0.9089, Valid F1: 0.8797, Valid DP: 0.2884, Valid EOD: 0.0651
+2024-05-18 17:31:14 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:31:36 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [62/100], Loss: 0.0000, Valid Acc: 0.9076, Valid F1: 0.8782, Valid DP: 0.2906, Valid EOD: 0.0651
+2024-05-18 17:31:36 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:31:59 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [63/100], Loss: 0.0000, Valid Acc: 0.9082, Valid F1: 0.8790, Valid DP: 0.2875, Valid EOD: 0.0651
+2024-05-18 17:31:59 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:32:22 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [64/100], Loss: 0.0000, Valid Acc: 0.9076, Valid F1: 0.8784, Valid DP: 0.2889, Valid EOD: 0.0625
+2024-05-18 17:32:44 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [65/100], Loss: 0.0000, Valid Acc: 0.9076, Valid F1: 0.8784, Valid DP: 0.2889, Valid EOD: 0.0625
+2024-05-18 17:32:44 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:33:07 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [66/100], Loss: 0.0000, Valid Acc: 0.9089, Valid F1: 0.8797, Valid DP: 0.2884, Valid EOD: 0.0651
+2024-05-18 17:33:31 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [67/100], Loss: 0.0000, Valid Acc: 0.9076, Valid F1: 0.8780, Valid DP: 0.2922, Valid EOD: 0.0678
+2024-05-18 17:33:54 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [68/100], Loss: 0.0000, Valid Acc: 0.9082, Valid F1: 0.8790, Valid DP: 0.2914, Valid EOD: 0.0651
+2024-05-18 17:33:54 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:34:17 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [69/100], Loss: 0.0000, Valid Acc: 0.9082, Valid F1: 0.8790, Valid DP: 0.2914, Valid EOD: 0.0651
+2024-05-18 17:34:18 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:34:41 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [70/100], Loss: 0.0000, Valid Acc: 0.9069, Valid F1: 0.8770, Valid DP: 0.2892, Valid EOD: 0.0704
+2024-05-18 17:35:05 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [71/100], Loss: 0.0000, Valid Acc: 0.9076, Valid F1: 0.8782, Valid DP: 0.2906, Valid EOD: 0.0651
+2024-05-18 17:35:29 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [72/100], Loss: 0.0000, Valid Acc: 0.9069, Valid F1: 0.8775, Valid DP: 0.2898, Valid EOD: 0.0651
+2024-05-18 17:35:29 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:35:53 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [73/100], Loss: 0.0000, Valid Acc: 0.9069, Valid F1: 0.8770, Valid DP: 0.2892, Valid EOD: 0.0704
+2024-05-18 17:35:53 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:36:17 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [74/100], Loss: 0.0000, Valid Acc: 0.9082, Valid F1: 0.8786, Valid DP: 0.2909, Valid EOD: 0.0704
+2024-05-18 17:36:42 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [75/100], Loss: 0.0000, Valid Acc: 0.9069, Valid F1: 0.8775, Valid DP: 0.2898, Valid EOD: 0.0651
+2024-05-18 17:37:06 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [76/100], Loss: 0.0000, Valid Acc: 0.9069, Valid F1: 0.8775, Valid DP: 0.2898, Valid EOD: 0.0651
+2024-05-18 17:37:06 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:37:31 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [77/100], Loss: 0.0000, Valid Acc: 0.9069, Valid F1: 0.8775, Valid DP: 0.2898, Valid EOD: 0.0651
+2024-05-18 17:37:31 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:37:56 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [78/100], Loss: 0.0000, Valid Acc: 0.9069, Valid F1: 0.8775, Valid DP: 0.2898, Valid EOD: 0.0651
+2024-05-18 17:38:22 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [79/100], Loss: 0.0000, Valid Acc: 0.9069, Valid F1: 0.8775, Valid DP: 0.2898, Valid EOD: 0.0651
+2024-05-18 17:38:47 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [80/100], Loss: 0.0000, Valid Acc: 0.9069, Valid F1: 0.8775, Valid DP: 0.2898, Valid EOD: 0.0651
+2024-05-18 17:38:47 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:39:12 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [81/100], Loss: 0.0000, Valid Acc: 0.9062, Valid F1: 0.8765, Valid DP: 0.2906, Valid EOD: 0.0678
+2024-05-18 17:39:12 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:39:38 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [82/100], Loss: 0.0000, Valid Acc: 0.9069, Valid F1: 0.8775, Valid DP: 0.2898, Valid EOD: 0.0651
+2024-05-18 17:40:04 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [83/100], Loss: 0.0000, Valid Acc: 0.9062, Valid F1: 0.8765, Valid DP: 0.2906, Valid EOD: 0.0678
+2024-05-18 17:40:04 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:40:30 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [84/100], Loss: 0.0000, Valid Acc: 0.9082, Valid F1: 0.8788, Valid DP: 0.2931, Valid EOD: 0.0678
+2024-05-18 17:40:30 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:40:56 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [85/100], Loss: 0.0000, Valid Acc: 0.9069, Valid F1: 0.8773, Valid DP: 0.2914, Valid EOD: 0.0678
+2024-05-18 17:41:22 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [86/100], Loss: 0.0000, Valid Acc: 0.9062, Valid F1: 0.8765, Valid DP: 0.2906, Valid EOD: 0.0678
+2024-05-18 17:41:48 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [87/100], Loss: 0.0000, Valid Acc: 0.9076, Valid F1: 0.8778, Valid DP: 0.2939, Valid EOD: 0.0704
+2024-05-18 17:42:15 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [88/100], Loss: 0.0000, Valid Acc: 0.9069, Valid F1: 0.8770, Valid DP: 0.2931, Valid EOD: 0.0704
+2024-05-18 17:42:15 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:42:42 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [89/100], Loss: 0.0000, Valid Acc: 0.9062, Valid F1: 0.8763, Valid DP: 0.2922, Valid EOD: 0.0704
+2024-05-18 17:42:42 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:43:09 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [90/100], Loss: 0.0000, Valid Acc: 0.9056, Valid F1: 0.8755, Valid DP: 0.2914, Valid EOD: 0.0704
+2024-05-18 17:43:36 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [91/100], Loss: 0.0000, Valid Acc: 0.9062, Valid F1: 0.8763, Valid DP: 0.2922, Valid EOD: 0.0704
+2024-05-18 17:44:03 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [92/100], Loss: 0.0000, Valid Acc: 0.9062, Valid F1: 0.8765, Valid DP: 0.2906, Valid EOD: 0.0678
+2024-05-18 17:44:03 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:44:31 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [93/100], Loss: 0.0000, Valid Acc: 0.9062, Valid F1: 0.8765, Valid DP: 0.2906, Valid EOD: 0.0678
+2024-05-18 17:44:58 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [94/100], Loss: 0.0000, Valid Acc: 0.9069, Valid F1: 0.8773, Valid DP: 0.2914, Valid EOD: 0.0678
+2024-05-18 17:45:26 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [95/100], Loss: 0.0000, Valid Acc: 0.9076, Valid F1: 0.8778, Valid DP: 0.2900, Valid EOD: 0.0704
+2024-05-18 17:45:26 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:45:54 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [96/100], Loss: 0.0000, Valid Acc: 0.9069, Valid F1: 0.8770, Valid DP: 0.2931, Valid EOD: 0.0704
+2024-05-18 17:45:54 - plain_baseline/lfw/v001_18052024 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/best_loss_state.pth.
+2024-05-18 17:46:22 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [97/100], Loss: 0.0000, Valid Acc: 0.9069, Valid F1: 0.8770, Valid DP: 0.2931, Valid EOD: 0.0704
+2024-05-18 17:46:50 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [98/100], Loss: 0.0000, Valid Acc: 0.9069, Valid F1: 0.8773, Valid DP: 0.2914, Valid EOD: 0.0678
+2024-05-18 17:47:19 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [99/100], Loss: 0.0000, Valid Acc: 0.9056, Valid F1: 0.8755, Valid DP: 0.2914, Valid EOD: 0.0704
+2024-05-18 17:47:48 - plain_baseline/lfw/v001_18052024 - INFO - Epoch [100/100], Loss: 0.0000, Valid Acc: 0.9056, Valid F1: 0.8755, Valid DP: 0.2914, Valid EOD: 0.0704
+2024-05-18 17:47:48 - plain_baseline/lfw/v001_18052024 - INFO - Saved model final to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v001_18052024/final_state.pth.
+2024-05-18 17:47:48 - plain_baseline/lfw/v001_18052024 - INFO - Model and metrics saved.
+2024-05-18 17:47:48 - plain_baseline/lfw/v001_18052024 - INFO - Training finished.

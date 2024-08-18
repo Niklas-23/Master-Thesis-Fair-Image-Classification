@@ -1,0 +1,272 @@
+2024-05-14 09:05:12 - adversarial_debiasing/utk_face/v001_final - INFO - Start adversairal debiasing benchmark.
+2024-05-14 09:05:12 - adversarial_debiasing/utk_face/v001_final - INFO - Training started.
+2024-05-14 09:06:06 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 5 has only 49 predictions.
+2024-05-14 09:06:06 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 4 has only 14 predictions.
+2024-05-14 09:06:06 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 3 has only 9 predictions.
+2024-05-14 09:06:06 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 2 has only 23 predictions.
+2024-05-14 09:06:06 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 1 has only 2 predictions.
+2024-05-14 09:06:06 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [1/100], Loss: 11.2208, Valid Acc: 0.1572, Valid F1: 0.1012, Valid DP: 0.7468, Valid EOD: 0.8912
+2024-05-14 09:06:06 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_f1_state.pth.
+2024-05-14 09:06:06 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_eod_state.pth.
+2024-05-14 09:06:06 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 09:06:29 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 7 has only 73 predictions.
+2024-05-14 09:06:29 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 1 has only 24 predictions.
+2024-05-14 09:06:29 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 5 has only 20 predictions.
+2024-05-14 09:06:29 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 6 has only 36 predictions.
+2024-05-14 09:06:29 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [2/100], Loss: 16.4154, Valid Acc: 0.2025, Valid F1: 0.1547, Valid DP: 0.5581, Valid EOD: 0.8690
+2024-05-14 09:06:29 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_f1_state.pth.
+2024-05-14 09:06:52 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 2 has only 44 predictions.
+2024-05-14 09:06:52 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 9 has only 9 predictions.
+2024-05-14 09:06:52 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 8 has only 1 predictions.
+2024-05-14 09:06:52 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 3 has only 1 predictions.
+2024-05-14 09:06:52 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [3/100], Loss: 14.0589, Valid Acc: 0.1603, Valid F1: 0.1031, Valid DP: 0.5747, Valid EOD: 0.7793
+2024-05-14 09:07:15 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 5 has only 16 predictions.
+2024-05-14 09:07:15 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 8 has only 11 predictions.
+2024-05-14 09:07:15 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 3 has only 15 predictions.
+2024-05-14 09:07:15 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 1 has only 2 predictions.
+2024-05-14 09:07:15 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [4/100], Loss: 15.9056, Valid Acc: 0.1431, Valid F1: 0.0692, Valid DP: 0.7294, Valid EOD: 0.8264
+2024-05-14 09:07:37 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 2 has only 68 predictions.
+2024-05-14 09:07:37 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 9 has only 1 predictions.
+2024-05-14 09:07:37 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [5/100], Loss: 7.0437, Valid Acc: 0.2634, Valid F1: 0.1878, Valid DP: 0.4471, Valid EOD: 0.9655
+2024-05-14 09:07:37 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_f1_state.pth.
+2024-05-14 09:07:37 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_eod_state.pth.
+2024-05-14 09:07:37 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 09:08:00 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 3 has only 89 predictions.
+2024-05-14 09:08:00 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 4 has only 72 predictions.
+2024-05-14 09:08:00 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 9 has only 3 predictions.
+2024-05-14 09:08:00 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [6/100], Loss: 4.0094, Valid Acc: 0.2233, Valid F1: 0.1872, Valid DP: 0.3605, Valid EOD: 0.6226
+2024-05-14 09:08:00 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 09:08:23 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 6 has only 66 predictions.
+2024-05-14 09:08:23 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 2 has only 12 predictions.
+2024-05-14 09:08:23 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [7/100], Loss: 2.3370, Valid Acc: 0.2542, Valid F1: 0.2548, Valid DP: 0.2257, Valid EOD: 0.5138
+2024-05-14 09:08:23 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_f1_state.pth.
+2024-05-14 09:08:23 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 09:08:47 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 2 has only 53 predictions.
+2024-05-14 09:08:47 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 4 has only 79 predictions.
+2024-05-14 09:08:47 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 5 has only 53 predictions.
+2024-05-14 09:08:47 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 3 has only 18 predictions.
+2024-05-14 09:08:47 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [8/100], Loss: 1.7117, Valid Acc: 0.2384, Valid F1: 0.2037, Valid DP: 0.3444, Valid EOD: 0.9631
+2024-05-14 09:08:47 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 09:09:10 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 3 has only 84 predictions.
+2024-05-14 09:09:10 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 1 has only 70 predictions.
+2024-05-14 09:09:10 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 2 has only 27 predictions.
+2024-05-14 09:09:10 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 7 has only 47 predictions.
+2024-05-14 09:09:10 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 4 has only 27 predictions.
+2024-05-14 09:09:10 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [9/100], Loss: 1.7256, Valid Acc: 0.2345, Valid F1: 0.2086, Valid DP: 0.4019, Valid EOD: 0.7251
+2024-05-14 09:09:33 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 3 has only 99 predictions.
+2024-05-14 09:09:33 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 5 has only 13 predictions.
+2024-05-14 09:09:33 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [10/100], Loss: 1.5890, Valid Acc: 0.3316, Valid F1: 0.2993, Valid DP: 0.2664, Valid EOD: 0.9068
+2024-05-14 09:09:33 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_f1_state.pth.
+2024-05-14 09:09:33 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 09:09:56 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 7 has only 55 predictions.
+2024-05-14 09:09:56 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 5 has only 99 predictions.
+2024-05-14 09:09:56 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 4 has only 42 predictions.
+2024-05-14 09:09:56 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [11/100], Loss: 1.4743, Valid Acc: 0.3931, Valid F1: 0.3518, Valid DP: 0.2546, Valid EOD: 0.8966
+2024-05-14 09:09:56 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_f1_state.pth.
+2024-05-14 09:09:56 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 09:10:19 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 5 has only 76 predictions.
+2024-05-14 09:10:19 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [12/100], Loss: 1.4132, Valid Acc: 0.3653, Valid F1: 0.3304, Valid DP: 0.2235, Valid EOD: 0.9232
+2024-05-14 09:10:19 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 09:10:42 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [13/100], Loss: 1.3740, Valid Acc: 0.3938, Valid F1: 0.3871, Valid DP: 0.2147, Valid EOD: 0.8531
+2024-05-14 09:10:42 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_f1_state.pth.
+2024-05-14 09:10:42 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 09:11:05 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 5 has only 84 predictions.
+2024-05-14 09:11:05 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 4 has only 26 predictions.
+2024-05-14 09:11:05 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [14/100], Loss: 1.3461, Valid Acc: 0.3815, Valid F1: 0.3442, Valid DP: 0.2035, Valid EOD: 0.9445
+2024-05-14 09:11:05 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 09:11:28 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [15/100], Loss: 1.3063, Valid Acc: 0.3368, Valid F1: 0.3150, Valid DP: 0.2150, Valid EOD: 0.8759
+2024-05-14 09:11:28 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 09:11:51 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [16/100], Loss: 1.2416, Valid Acc: 0.3892, Valid F1: 0.3788, Valid DP: 0.1887, Valid EOD: 0.8997
+2024-05-14 09:11:51 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 09:12:15 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 5 has only 40 predictions.
+2024-05-14 09:12:15 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [17/100], Loss: 1.1719, Valid Acc: 0.3745, Valid F1: 0.3416, Valid DP: 0.3115, Valid EOD: 0.9377
+2024-05-14 09:12:15 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 09:12:38 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 9 has only 57 predictions.
+2024-05-14 09:12:38 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [18/100], Loss: 1.1461, Valid Acc: 0.3210, Valid F1: 0.3085, Valid DP: 0.2632, Valid EOD: 0.8704
+2024-05-14 09:12:38 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 09:13:01 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 5 has only 97 predictions.
+2024-05-14 09:13:01 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [19/100], Loss: 1.0611, Valid Acc: 0.3952, Valid F1: 0.3870, Valid DP: 0.1799, Valid EOD: 0.9086
+2024-05-14 09:13:01 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 09:13:25 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 4 has only 60 predictions.
+2024-05-14 09:13:25 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 7 has only 89 predictions.
+2024-05-14 09:13:25 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [20/100], Loss: 0.9406, Valid Acc: 0.3991, Valid F1: 0.3862, Valid DP: 0.2916, Valid EOD: 0.9007
+2024-05-14 09:13:25 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 09:13:49 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [21/100], Loss: 0.8728, Valid Acc: 0.3829, Valid F1: 0.3758, Valid DP: 0.1305, Valid EOD: 0.7987
+2024-05-14 09:13:49 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 09:14:43 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 1 has only 96 predictions.
+2024-05-14 09:14:43 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [22/100], Loss: 0.7876, Valid Acc: 0.3724, Valid F1: 0.3710, Valid DP: 0.1888, Valid EOD: 0.8650
+2024-05-14 09:14:43 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 09:15:40 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 8 has only 71 predictions.
+2024-05-14 09:15:40 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 5 has only 35 predictions.
+2024-05-14 09:15:40 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 3 has only 44 predictions.
+2024-05-14 09:15:40 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [23/100], Loss: 0.7020, Valid Acc: 0.3618, Valid F1: 0.3381, Valid DP: 0.2504, Valid EOD: 0.9232
+2024-05-14 09:15:40 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 09:16:17 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [24/100], Loss: 0.6386, Valid Acc: 0.3710, Valid F1: 0.3629, Valid DP: 0.1483, Valid EOD: 0.8263
+2024-05-14 09:16:17 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 09:16:40 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [25/100], Loss: 0.5643, Valid Acc: 0.3896, Valid F1: 0.3716, Valid DP: 0.1887, Valid EOD: 0.9284
+2024-05-14 09:16:40 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 09:17:04 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [26/100], Loss: 0.4808, Valid Acc: 0.3527, Valid F1: 0.3584, Valid DP: 0.2287, Valid EOD: 0.7857
+2024-05-14 09:17:04 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 09:17:28 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [27/100], Loss: 0.4608, Valid Acc: 0.3650, Valid F1: 0.3612, Valid DP: 0.1739, Valid EOD: 0.8817
+2024-05-14 09:17:28 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 09:17:52 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 5 has only 88 predictions.
+2024-05-14 09:17:52 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [28/100], Loss: 0.3660, Valid Acc: 0.3703, Valid F1: 0.3503, Valid DP: 0.3047, Valid EOD: 0.9290
+2024-05-14 09:17:52 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 09:18:16 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [29/100], Loss: 0.3003, Valid Acc: 0.3959, Valid F1: 0.3935, Valid DP: 0.1842, Valid EOD: 0.8339
+2024-05-14 09:18:16 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_f1_state.pth.
+2024-05-14 09:18:16 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 09:18:40 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [30/100], Loss: 0.2855, Valid Acc: 0.3776, Valid F1: 0.3675, Valid DP: 0.3486, Valid EOD: 0.9188
+2024-05-14 09:18:40 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 09:19:04 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [31/100], Loss: 0.2689, Valid Acc: 0.3594, Valid F1: 0.3504, Valid DP: 0.2719, Valid EOD: 0.9021
+2024-05-14 09:19:04 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 09:19:28 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 7 has only 91 predictions.
+2024-05-14 09:19:28 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [32/100], Loss: 0.2207, Valid Acc: 0.3805, Valid F1: 0.3768, Valid DP: 0.1847, Valid EOD: 0.8494
+2024-05-14 09:19:28 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 09:19:52 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [33/100], Loss: 0.1806, Valid Acc: 0.3980, Valid F1: 0.3948, Valid DP: 0.2916, Valid EOD: 0.8404
+2024-05-14 09:19:52 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_f1_state.pth.
+2024-05-14 09:19:52 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 09:20:16 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [34/100], Loss: 0.1486, Valid Acc: 0.3734, Valid F1: 0.3560, Valid DP: 0.2502, Valid EOD: 0.9008
+2024-05-14 09:20:16 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 09:20:40 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [35/100], Loss: 0.1396, Valid Acc: 0.3797, Valid F1: 0.3687, Valid DP: 0.2132, Valid EOD: 0.7871
+2024-05-14 09:20:40 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 09:21:05 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [36/100], Loss: 0.1510, Valid Acc: 0.4040, Valid F1: 0.4023, Valid DP: 0.2851, Valid EOD: 0.8457
+2024-05-14 09:21:05 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_f1_state.pth.
+2024-05-14 09:21:29 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 3 has only 76 predictions.
+2024-05-14 09:21:29 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [37/100], Loss: 0.1363, Valid Acc: 0.3506, Valid F1: 0.3365, Valid DP: 0.2137, Valid EOD: 0.7795
+2024-05-14 09:21:29 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 09:21:53 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [38/100], Loss: 0.1219, Valid Acc: 0.3819, Valid F1: 0.3895, Valid DP: 0.1242, Valid EOD: 0.8315
+2024-05-14 09:21:53 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 09:22:17 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [39/100], Loss: 0.1104, Valid Acc: 0.3558, Valid F1: 0.3423, Valid DP: 0.2016, Valid EOD: 0.8621
+2024-05-14 09:22:17 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 09:22:41 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [40/100], Loss: 0.1026, Valid Acc: 0.3787, Valid F1: 0.3808, Valid DP: 0.1514, Valid EOD: 0.8960
+2024-05-14 09:22:41 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 09:23:05 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 3 has only 96 predictions.
+2024-05-14 09:23:05 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [41/100], Loss: 0.0866, Valid Acc: 0.3797, Valid F1: 0.3590, Valid DP: 0.2023, Valid EOD: 0.7868
+2024-05-14 09:23:05 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 09:23:30 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [42/100], Loss: 0.0772, Valid Acc: 0.3762, Valid F1: 0.3721, Valid DP: 0.2139, Valid EOD: 0.9083
+2024-05-14 09:23:30 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 09:23:54 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [43/100], Loss: 0.0731, Valid Acc: 0.3790, Valid F1: 0.3645, Valid DP: 0.1654, Valid EOD: 0.8249
+2024-05-14 09:23:54 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 09:24:45 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [44/100], Loss: 0.0698, Valid Acc: 0.3885, Valid F1: 0.3910, Valid DP: 0.1815, Valid EOD: 0.8243
+2024-05-14 09:24:45 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 09:25:24 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 3 has only 73 predictions.
+2024-05-14 09:25:24 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [45/100], Loss: 0.0700, Valid Acc: 0.3703, Valid F1: 0.3649, Valid DP: 0.1835, Valid EOD: 0.8209
+2024-05-14 09:25:49 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [46/100], Loss: 0.0590, Valid Acc: 0.3787, Valid F1: 0.3881, Valid DP: 0.1858, Valid EOD: 0.8335
+2024-05-14 09:25:49 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 09:26:13 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 4 has only 87 predictions.
+2024-05-14 09:26:13 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [47/100], Loss: 0.0547, Valid Acc: 0.4023, Valid F1: 0.3891, Valid DP: 0.2694, Valid EOD: 0.9173
+2024-05-14 09:26:13 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 09:26:38 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [48/100], Loss: 0.0553, Valid Acc: 0.3797, Valid F1: 0.3836, Valid DP: 0.2232, Valid EOD: 0.8096
+2024-05-14 09:27:02 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 7 has only 97 predictions.
+2024-05-14 09:27:02 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [49/100], Loss: 0.0613, Valid Acc: 0.3826, Valid F1: 0.3807, Valid DP: 0.1762, Valid EOD: 0.8616
+2024-05-14 09:27:27 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [50/100], Loss: 0.0687, Valid Acc: 0.3973, Valid F1: 0.3798, Valid DP: 0.3035, Valid EOD: 0.9559
+2024-05-14 09:27:51 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 4 has only 66 predictions.
+2024-05-14 09:27:51 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 9 has only 69 predictions.
+2024-05-14 09:27:51 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 7 has only 29 predictions.
+2024-05-14 09:27:51 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [51/100], Loss: 0.0901, Valid Acc: 0.3485, Valid F1: 0.3229, Valid DP: 0.3079, Valid EOD: 0.9310
+2024-05-14 09:28:15 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 7 has only 69 predictions.
+2024-05-14 09:28:15 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [52/100], Loss: 0.1141, Valid Acc: 0.3488, Valid F1: 0.3430, Valid DP: 0.2302, Valid EOD: 0.8011
+2024-05-14 09:28:40 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 5 has only 45 predictions.
+2024-05-14 09:28:40 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [53/100], Loss: 0.1584, Valid Acc: 0.3738, Valid F1: 0.3691, Valid DP: 0.2510, Valid EOD: 0.9026
+2024-05-14 09:29:04 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [54/100], Loss: 0.1596, Valid Acc: 0.3625, Valid F1: 0.3654, Valid DP: 0.1856, Valid EOD: 0.7256
+2024-05-14 09:29:28 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [55/100], Loss: 0.1851, Valid Acc: 0.3896, Valid F1: 0.3819, Valid DP: 0.1782, Valid EOD: 0.8552
+2024-05-14 09:29:53 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [56/100], Loss: 0.1354, Valid Acc: 0.3797, Valid F1: 0.3736, Valid DP: 0.2127, Valid EOD: 0.8936
+2024-05-14 09:30:18 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [57/100], Loss: 0.0912, Valid Acc: 0.3667, Valid F1: 0.3687, Valid DP: 0.1902, Valid EOD: 0.8526
+2024-05-14 09:30:42 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [58/100], Loss: 0.0646, Valid Acc: 0.3601, Valid F1: 0.3572, Valid DP: 0.2235, Valid EOD: 0.8860
+2024-05-14 09:31:07 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [59/100], Loss: 0.0567, Valid Acc: 0.3759, Valid F1: 0.3794, Valid DP: 0.1421, Valid EOD: 0.8457
+2024-05-14 09:31:32 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [60/100], Loss: 0.0605, Valid Acc: 0.3745, Valid F1: 0.3587, Valid DP: 0.2591, Valid EOD: 0.9411
+2024-05-14 09:31:56 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [61/100], Loss: 0.0850, Valid Acc: 0.3906, Valid F1: 0.3800, Valid DP: 0.2324, Valid EOD: 0.9008
+2024-05-14 09:32:21 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 4 has only 56 predictions.
+2024-05-14 09:32:21 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [62/100], Loss: 0.1359, Valid Acc: 0.3857, Valid F1: 0.3632, Valid DP: 0.1983, Valid EOD: 0.9490
+2024-05-14 09:32:46 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 9 has only 83 predictions.
+2024-05-14 09:32:46 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [63/100], Loss: 0.2260, Valid Acc: 0.3302, Valid F1: 0.3267, Valid DP: 0.1836, Valid EOD: 0.8516
+2024-05-14 09:33:11 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [64/100], Loss: 0.1981, Valid Acc: 0.3112, Valid F1: 0.2956, Valid DP: 0.2458, Valid EOD: 0.7825
+2024-05-14 09:33:36 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 5 has only 26 predictions.
+2024-05-14 09:33:36 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 7 has only 66 predictions.
+2024-05-14 09:33:36 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 4 has only 36 predictions.
+2024-05-14 09:33:36 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [65/100], Loss: 0.1623, Valid Acc: 0.2672, Valid F1: 0.2239, Valid DP: 0.3928, Valid EOD: 0.9006
+2024-05-14 09:34:01 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [66/100], Loss: 0.1824, Valid Acc: 0.3288, Valid F1: 0.3124, Valid DP: 0.3294, Valid EOD: 0.8860
+2024-05-14 09:34:26 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [67/100], Loss: 0.2283, Valid Acc: 0.3776, Valid F1: 0.3794, Valid DP: 0.2517, Valid EOD: 0.7844
+2024-05-14 09:34:51 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 9 has only 52 predictions.
+2024-05-14 09:34:51 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 8 has only 69 predictions.
+2024-05-14 09:34:51 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 7 has only 33 predictions.
+2024-05-14 09:34:51 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [68/100], Loss: 0.2681, Valid Acc: 0.2918, Valid F1: 0.2834, Valid DP: 0.3106, Valid EOD: 0.7931
+2024-05-14 09:35:16 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 2 has only 55 predictions.
+2024-05-14 09:35:16 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 8 has only 78 predictions.
+2024-05-14 09:35:16 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 9 has only 11 predictions.
+2024-05-14 09:35:16 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [69/100], Loss: 0.3063, Valid Acc: 0.2461, Valid F1: 0.2293, Valid DP: 0.3427, Valid EOD: 0.8706
+2024-05-14 09:35:41 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 3 has only 54 predictions.
+2024-05-14 09:35:41 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 4 has only 55 predictions.
+2024-05-14 09:35:41 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 2 has only 52 predictions.
+2024-05-14 09:35:41 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 6 has only 44 predictions.
+2024-05-14 09:35:41 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [70/100], Loss: 0.4657, Valid Acc: 0.1920, Valid F1: 0.1573, Valid DP: 0.6450, Valid EOD: 0.9738
+2024-05-14 09:35:41 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_eod_state.pth.
+2024-05-14 09:36:06 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 5 has only 48 predictions.
+2024-05-14 09:36:06 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 3 has only 11 predictions.
+2024-05-14 09:36:06 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 8 has only 13 predictions.
+2024-05-14 09:36:06 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 0 has only 5 predictions.
+2024-05-14 09:36:06 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 2 has only 41 predictions.
+2024-05-14 09:36:06 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 09:36:06 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 6 has only 1 predictions.
+2024-05-14 09:36:06 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [71/100], Loss: 0.5319, Valid Acc: 0.1881, Valid F1: 0.0926, Valid DP: 0.5655, Valid EOD: 0.9255
+2024-05-14 09:36:31 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 9 has only 96 predictions.
+2024-05-14 09:36:31 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 2 has only 91 predictions.
+2024-05-14 09:36:31 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 7 has only 42 predictions.
+2024-05-14 09:36:31 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [72/100], Loss: 0.5560, Valid Acc: 0.2943, Valid F1: 0.2716, Valid DP: 0.2246, Valid EOD: 0.9382
+2024-05-14 09:36:56 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 8 has only 88 predictions.
+2024-05-14 09:36:56 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [73/100], Loss: 0.4661, Valid Acc: 0.3063, Valid F1: 0.3012, Valid DP: 0.2603, Valid EOD: 0.6744
+2024-05-14 09:37:21 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 1 has only 94 predictions.
+2024-05-14 09:37:21 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 9 has only 73 predictions.
+2024-05-14 09:37:21 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [74/100], Loss: 0.3823, Valid Acc: 0.3312, Valid F1: 0.3176, Valid DP: 0.2539, Valid EOD: 0.9228
+2024-05-14 09:37:46 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [75/100], Loss: 0.1381, Valid Acc: 0.3762, Valid F1: 0.3725, Valid DP: 0.2309, Valid EOD: 0.8470
+2024-05-14 09:38:11 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [76/100], Loss: 0.0660, Valid Acc: 0.3945, Valid F1: 0.4008, Valid DP: 0.1135, Valid EOD: 0.7603
+2024-05-14 09:38:37 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [77/100], Loss: 0.0446, Valid Acc: 0.3921, Valid F1: 0.3970, Valid DP: 0.1119, Valid EOD: 0.8009
+2024-05-14 09:38:37 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 09:39:02 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [78/100], Loss: 0.0276, Valid Acc: 0.4132, Valid F1: 0.4118, Valid DP: 0.1902, Valid EOD: 0.8516
+2024-05-14 09:39:02 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_f1_state.pth.
+2024-05-14 09:39:02 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 09:39:27 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [79/100], Loss: 0.0244, Valid Acc: 0.3977, Valid F1: 0.3934, Valid DP: 0.1214, Valid EOD: 0.8209
+2024-05-14 09:39:28 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 09:39:53 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [80/100], Loss: 0.0214, Valid Acc: 0.4075, Valid F1: 0.4054, Valid DP: 0.1980, Valid EOD: 0.8222
+2024-05-14 09:39:53 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 09:40:18 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [81/100], Loss: 0.0222, Valid Acc: 0.4072, Valid F1: 0.4069, Valid DP: 0.1103, Valid EOD: 0.7797
+2024-05-14 09:40:43 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [82/100], Loss: 0.0186, Valid Acc: 0.3994, Valid F1: 0.3960, Valid DP: 0.1467, Valid EOD: 0.7519
+2024-05-14 09:40:43 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 09:41:09 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [83/100], Loss: 0.0213, Valid Acc: 0.3790, Valid F1: 0.3762, Valid DP: 0.2813, Valid EOD: 0.8388
+2024-05-14 09:41:34 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [84/100], Loss: 0.0221, Valid Acc: 0.4096, Valid F1: 0.4044, Valid DP: 0.1828, Valid EOD: 0.8374
+2024-05-14 09:41:59 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [85/100], Loss: 0.0155, Valid Acc: 0.3991, Valid F1: 0.4045, Valid DP: 0.1303, Valid EOD: 0.8012
+2024-05-14 09:41:59 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 09:42:25 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [86/100], Loss: 0.0133, Valid Acc: 0.4100, Valid F1: 0.4144, Valid DP: 0.1554, Valid EOD: 0.8404
+2024-05-14 09:42:25 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_f1_state.pth.
+2024-05-14 09:42:25 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 09:42:50 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [87/100], Loss: 0.0150, Valid Acc: 0.3942, Valid F1: 0.3830, Valid DP: 0.2137, Valid EOD: 0.8401
+2024-05-14 09:43:16 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [88/100], Loss: 0.0311, Valid Acc: 0.3741, Valid F1: 0.3739, Valid DP: 0.1562, Valid EOD: 0.8272
+2024-05-14 09:43:56 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [89/100], Loss: 0.0641, Valid Acc: 0.3801, Valid F1: 0.3749, Valid DP: 0.1399, Valid EOD: 0.8144
+2024-05-14 09:44:55 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 7 has only 81 predictions.
+2024-05-14 09:44:55 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 4 has only 84 predictions.
+2024-05-14 09:44:55 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [90/100], Loss: 0.1047, Valid Acc: 0.3474, Valid F1: 0.3478, Valid DP: 0.3220, Valid EOD: 0.9034
+2024-05-14 09:45:21 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 8 has only 65 predictions.
+2024-05-14 09:45:21 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 3 has only 89 predictions.
+2024-05-14 09:45:21 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [91/100], Loss: 0.1201, Valid Acc: 0.3502, Valid F1: 0.3458, Valid DP: 0.3354, Valid EOD: 0.8390
+2024-05-14 09:45:46 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [92/100], Loss: 0.1142, Valid Acc: 0.3917, Valid F1: 0.3884, Valid DP: 0.1559, Valid EOD: 0.8591
+2024-05-14 09:46:11 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 4 has only 72 predictions.
+2024-05-14 09:46:11 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [93/100], Loss: 0.0915, Valid Acc: 0.3499, Valid F1: 0.3352, Valid DP: 0.2650, Valid EOD: 0.8552
+2024-05-14 09:46:37 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [94/100], Loss: 0.0912, Valid Acc: 0.3924, Valid F1: 0.3898, Valid DP: 0.2036, Valid EOD: 0.8478
+2024-05-14 09:47:02 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [95/100], Loss: 0.1186, Valid Acc: 0.3766, Valid F1: 0.3695, Valid DP: 0.1488, Valid EOD: 0.8381
+2024-05-14 09:47:28 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [96/100], Loss: 0.1116, Valid Acc: 0.3703, Valid F1: 0.3602, Valid DP: 0.2717, Valid EOD: 0.9224
+2024-05-14 09:47:54 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 7 has only 96 predictions.
+2024-05-14 09:47:54 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 4 has only 9 predictions.
+2024-05-14 09:47:54 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [97/100], Loss: 0.1508, Valid Acc: 0.3565, Valid F1: 0.3266, Valid DP: 0.2659, Valid EOD: 0.9034
+2024-05-14 09:48:20 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 4 has only 32 predictions.
+2024-05-14 09:48:20 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [98/100], Loss: 0.2627, Valid Acc: 0.3527, Valid F1: 0.3424, Valid DP: 0.2801, Valid EOD: 0.9407
+2024-05-14 09:48:46 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 2 has only 36 predictions.
+2024-05-14 09:48:46 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 6 has only 24 predictions.
+2024-05-14 09:48:46 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 3 has only 31 predictions.
+2024-05-14 09:48:46 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 7 has only 73 predictions.
+2024-05-14 09:48:46 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 4 has only 5 predictions.
+2024-05-14 09:48:46 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [99/100], Loss: 0.2677, Valid Acc: 0.2134, Valid F1: 0.1612, Valid DP: 0.6123, Valid EOD: 0.9604
+2024-05-14 09:49:11 - adversarial_debiasing/utk_face/v001_final - INFO - Warning: Class 2 has only 98 predictions.
+2024-05-14 09:49:11 - adversarial_debiasing/utk_face/v001_final - INFO - Epoch [100/100], Loss: 0.1966, Valid Acc: 0.3681, Valid F1: 0.3453, Valid DP: 0.1524, Valid EOD: 0.8415
+2024-05-14 09:49:11 - adversarial_debiasing/utk_face/v001_final - INFO - Saved model final to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/utk_face/v001_final/final_state.pth.
+2024-05-14 09:49:11 - adversarial_debiasing/utk_face/v001_final - INFO - Model and metrics saved.
+2024-05-14 09:49:11 - adversarial_debiasing/utk_face/v001_final - INFO - Training finished.

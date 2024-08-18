@@ -1,0 +1,168 @@
+2024-07-08 09:28:31 - base_loss_optimization/lfw/v2_target_smiling - INFO - Start base loss benchmark.
+2024-07-08 09:28:31 - base_loss_optimization/lfw/v2_target_smiling - INFO - Training started.
+2024-07-08 09:28:42 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [1/100], Loss: 0.9814, Valid Acc: 0.6208, Valid F1: 0.0033, Valid DP: 0.0008, Valid EOD: 0.0026
+2024-07-08 09:28:42 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_f1_state.pth.
+2024-07-08 09:28:43 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_eod_state.pth.
+2024-07-08 09:28:43 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 09:28:54 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [2/100], Loss: 0.2931, Valid Acc: 0.8725, Valid F1: 0.8359, Valid DP: 0.3163, Valid EOD: 0.1186
+2024-07-08 09:28:54 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_f1_state.pth.
+2024-07-08 09:28:54 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 09:29:06 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [3/100], Loss: 0.1876, Valid Acc: 0.8852, Valid F1: 0.8525, Valid DP: 0.3033, Valid EOD: 0.0831
+2024-07-08 09:29:06 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_f1_state.pth.
+2024-07-08 09:29:06 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 09:29:18 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [4/100], Loss: 0.1102, Valid Acc: 0.8719, Valid F1: 0.8451, Valid DP: 0.2791, Valid EOD: 0.0597
+2024-07-08 09:29:18 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 09:29:30 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [5/100], Loss: 0.0511, Valid Acc: 0.8884, Valid F1: 0.8545, Valid DP: 0.3132, Valid EOD: 0.1058
+2024-07-08 09:29:30 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_f1_state.pth.
+2024-07-08 09:29:30 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 09:29:42 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [6/100], Loss: 0.0730, Valid Acc: 0.8865, Valid F1: 0.8553, Valid DP: 0.3028, Valid EOD: 0.0826
+2024-07-08 09:29:43 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_f1_state.pth.
+2024-07-08 09:29:55 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [7/100], Loss: 0.0767, Valid Acc: 0.8941, Valid F1: 0.8586, Valid DP: 0.3063, Valid EOD: 0.1092
+2024-07-08 09:29:55 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_f1_state.pth.
+2024-07-08 09:30:08 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [8/100], Loss: 0.0321, Valid Acc: 0.8529, Valid F1: 0.8263, Valid DP: 0.2949, Valid EOD: 0.1214
+2024-07-08 09:30:08 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 09:30:21 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [9/100], Loss: 0.0418, Valid Acc: 0.8890, Valid F1: 0.8562, Valid DP: 0.2962, Valid EOD: 0.0883
+2024-07-08 09:30:34 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [10/100], Loss: 0.0258, Valid Acc: 0.8903, Valid F1: 0.8530, Valid DP: 0.3096, Valid EOD: 0.1146
+2024-07-08 09:30:34 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 09:30:47 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [11/100], Loss: 0.0184, Valid Acc: 0.8814, Valid F1: 0.8515, Valid DP: 0.3342, Valid EOD: 0.1129
+2024-07-08 09:30:47 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 09:31:01 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [12/100], Loss: 0.0178, Valid Acc: 0.8865, Valid F1: 0.8426, Valid DP: 0.2813, Valid EOD: 0.1142
+2024-07-08 09:31:01 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 09:31:14 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [13/100], Loss: 0.0140, Valid Acc: 0.8897, Valid F1: 0.8576, Valid DP: 0.2960, Valid EOD: 0.0880
+2024-07-08 09:31:14 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 09:31:28 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [14/100], Loss: 0.0151, Valid Acc: 0.8954, Valid F1: 0.8566, Valid DP: 0.2851, Valid EOD: 0.1006
+2024-07-08 09:31:42 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [15/100], Loss: 0.0276, Valid Acc: 0.8725, Valid F1: 0.8217, Valid DP: 0.3007, Valid EOD: 0.1402
+2024-07-08 09:31:56 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [16/100], Loss: 0.0318, Valid Acc: 0.8985, Valid F1: 0.8616, Valid DP: 0.3151, Valid EOD: 0.1100
+2024-07-08 09:31:56 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_f1_state.pth.
+2024-07-08 09:32:11 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [17/100], Loss: 0.0151, Valid Acc: 0.8941, Valid F1: 0.8557, Valid DP: 0.2879, Valid EOD: 0.0955
+2024-07-08 09:32:25 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [18/100], Loss: 0.0089, Valid Acc: 0.8840, Valid F1: 0.8565, Valid DP: 0.2987, Valid EOD: 0.0880
+2024-07-08 09:32:25 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 09:32:40 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [19/100], Loss: 0.0042, Valid Acc: 0.8954, Valid F1: 0.8653, Valid DP: 0.3011, Valid EOD: 0.0801
+2024-07-08 09:32:40 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_f1_state.pth.
+2024-07-08 09:32:40 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 09:32:54 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [20/100], Loss: 0.0028, Valid Acc: 0.8890, Valid F1: 0.8543, Valid DP: 0.2940, Valid EOD: 0.1087
+2024-07-08 09:32:54 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 09:33:10 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [21/100], Loss: 0.0048, Valid Acc: 0.8935, Valid F1: 0.8641, Valid DP: 0.3112, Valid EOD: 0.0841
+2024-07-08 09:33:25 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [22/100], Loss: 0.0182, Valid Acc: 0.8624, Valid F1: 0.8352, Valid DP: 0.2989, Valid EOD: 0.1147
+2024-07-08 09:33:40 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [23/100], Loss: 0.0319, Valid Acc: 0.9004, Valid F1: 0.8671, Valid DP: 0.3177, Valid EOD: 0.1112
+2024-07-08 09:33:40 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_f1_state.pth.
+2024-07-08 09:33:56 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [24/100], Loss: 0.0169, Valid Acc: 0.8890, Valid F1: 0.8553, Valid DP: 0.3102, Valid EOD: 0.1206
+2024-07-08 09:34:12 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [25/100], Loss: 0.0088, Valid Acc: 0.8782, Valid F1: 0.8454, Valid DP: 0.2988, Valid EOD: 0.1002
+2024-07-08 09:34:28 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [26/100], Loss: 0.0072, Valid Acc: 0.8985, Valid F1: 0.8655, Valid DP: 0.3142, Valid EOD: 0.1183
+2024-07-08 09:34:44 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [27/100], Loss: 0.0059, Valid Acc: 0.8814, Valid F1: 0.8526, Valid DP: 0.3148, Valid EOD: 0.0981
+2024-07-08 09:35:00 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [28/100], Loss: 0.0058, Valid Acc: 0.8947, Valid F1: 0.8621, Valid DP: 0.3181, Valid EOD: 0.1007
+2024-07-08 09:35:16 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [29/100], Loss: 0.0052, Valid Acc: 0.8954, Valid F1: 0.8612, Valid DP: 0.2923, Valid EOD: 0.0891
+2024-07-08 09:35:33 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [30/100], Loss: 0.0168, Valid Acc: 0.8795, Valid F1: 0.8499, Valid DP: 0.3248, Valid EOD: 0.1070
+2024-07-08 09:35:50 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [31/100], Loss: 0.0223, Valid Acc: 0.9030, Valid F1: 0.8689, Valid DP: 0.2987, Valid EOD: 0.0944
+2024-07-08 09:35:50 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_f1_state.pth.
+2024-07-08 09:36:07 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [32/100], Loss: 0.0111, Valid Acc: 0.8966, Valid F1: 0.8613, Valid DP: 0.3187, Valid EOD: 0.1191
+2024-07-08 09:36:24 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [33/100], Loss: 0.0044, Valid Acc: 0.8890, Valid F1: 0.8531, Valid DP: 0.2945, Valid EOD: 0.1066
+2024-07-08 09:36:41 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [34/100], Loss: 0.0028, Valid Acc: 0.8992, Valid F1: 0.8660, Valid DP: 0.3242, Valid EOD: 0.1209
+2024-07-08 09:36:59 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [35/100], Loss: 0.0018, Valid Acc: 0.8947, Valid F1: 0.8614, Valid DP: 0.3191, Valid EOD: 0.1158
+2024-07-08 09:36:59 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 09:37:17 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [36/100], Loss: 0.0009, Valid Acc: 0.8998, Valid F1: 0.8674, Valid DP: 0.3164, Valid EOD: 0.0985
+2024-07-08 09:37:17 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 09:37:35 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [37/100], Loss: 0.0004, Valid Acc: 0.9055, Valid F1: 0.8749, Valid DP: 0.3096, Valid EOD: 0.0956
+2024-07-08 09:37:35 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_f1_state.pth.
+2024-07-08 09:37:35 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 09:37:53 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [38/100], Loss: 0.0002, Valid Acc: 0.9030, Valid F1: 0.8718, Valid DP: 0.3156, Valid EOD: 0.0982
+2024-07-08 09:37:53 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 09:38:11 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [39/100], Loss: 0.0001, Valid Acc: 0.9055, Valid F1: 0.8747, Valid DP: 0.3188, Valid EOD: 0.1056
+2024-07-08 09:38:11 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 09:38:29 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [40/100], Loss: 0.0000, Valid Acc: 0.9055, Valid F1: 0.8749, Valid DP: 0.3172, Valid EOD: 0.1030
+2024-07-08 09:38:29 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 09:38:48 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [41/100], Loss: 0.0000, Valid Acc: 0.9055, Valid F1: 0.8749, Valid DP: 0.3172, Valid EOD: 0.1030
+2024-07-08 09:38:48 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 09:39:07 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [42/100], Loss: 0.0000, Valid Acc: 0.9049, Valid F1: 0.8742, Valid DP: 0.3164, Valid EOD: 0.1030
+2024-07-08 09:39:07 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 09:39:26 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [43/100], Loss: 0.0000, Valid Acc: 0.9055, Valid F1: 0.8747, Valid DP: 0.3188, Valid EOD: 0.1056
+2024-07-08 09:39:26 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 09:39:45 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [44/100], Loss: 0.0000, Valid Acc: 0.9062, Valid F1: 0.8758, Valid DP: 0.3164, Valid EOD: 0.1005
+2024-07-08 09:39:45 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_f1_state.pth.
+2024-07-08 09:39:45 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 09:40:04 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [45/100], Loss: 0.0000, Valid Acc: 0.9055, Valid F1: 0.8749, Valid DP: 0.3210, Valid EOD: 0.1030
+2024-07-08 09:40:04 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 09:40:23 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [46/100], Loss: 0.0000, Valid Acc: 0.9068, Valid F1: 0.8764, Valid DP: 0.3188, Valid EOD: 0.1030
+2024-07-08 09:40:24 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_f1_state.pth.
+2024-07-08 09:40:43 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [47/100], Loss: 0.0000, Valid Acc: 0.9068, Valid F1: 0.8764, Valid DP: 0.3188, Valid EOD: 0.1030
+2024-07-08 09:40:43 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 09:41:03 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [48/100], Loss: 0.0000, Valid Acc: 0.9068, Valid F1: 0.8764, Valid DP: 0.3188, Valid EOD: 0.1030
+2024-07-08 09:41:03 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 09:41:23 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [49/100], Loss: 0.0000, Valid Acc: 0.9068, Valid F1: 0.8766, Valid DP: 0.3172, Valid EOD: 0.1005
+2024-07-08 09:41:23 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_f1_state.pth.
+2024-07-08 09:41:23 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 09:41:43 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [50/100], Loss: 0.0000, Valid Acc: 0.9068, Valid F1: 0.8764, Valid DP: 0.3188, Valid EOD: 0.1030
+2024-07-08 09:42:03 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [51/100], Loss: 0.0000, Valid Acc: 0.9068, Valid F1: 0.8764, Valid DP: 0.3188, Valid EOD: 0.1030
+2024-07-08 09:42:04 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 09:42:24 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [52/100], Loss: 0.0000, Valid Acc: 0.9068, Valid F1: 0.8764, Valid DP: 0.3188, Valid EOD: 0.1030
+2024-07-08 09:42:45 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [53/100], Loss: 0.0000, Valid Acc: 0.9068, Valid F1: 0.8768, Valid DP: 0.3231, Valid EOD: 0.1053
+2024-07-08 09:42:45 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_f1_state.pth.
+2024-07-08 09:42:45 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 09:43:06 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [54/100], Loss: 0.0000, Valid Acc: 0.9068, Valid F1: 0.8764, Valid DP: 0.3188, Valid EOD: 0.1030
+2024-07-08 09:43:27 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [55/100], Loss: 0.0000, Valid Acc: 0.9068, Valid F1: 0.8768, Valid DP: 0.3231, Valid EOD: 0.1053
+2024-07-08 09:43:48 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [56/100], Loss: 0.0000, Valid Acc: 0.9074, Valid F1: 0.8773, Valid DP: 0.3218, Valid EOD: 0.1078
+2024-07-08 09:43:48 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_f1_state.pth.
+2024-07-08 09:43:48 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 09:44:09 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [57/100], Loss: 0.0000, Valid Acc: 0.9068, Valid F1: 0.8768, Valid DP: 0.3231, Valid EOD: 0.1053
+2024-07-08 09:44:09 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 09:44:31 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [58/100], Loss: 0.0000, Valid Acc: 0.9068, Valid F1: 0.8768, Valid DP: 0.3231, Valid EOD: 0.1053
+2024-07-08 09:44:53 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [59/100], Loss: 0.0000, Valid Acc: 0.9081, Valid F1: 0.8783, Valid DP: 0.3210, Valid EOD: 0.1053
+2024-07-08 09:44:53 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_f1_state.pth.
+2024-07-08 09:44:53 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 09:45:15 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [60/100], Loss: 0.0000, Valid Acc: 0.9074, Valid F1: 0.8773, Valid DP: 0.3218, Valid EOD: 0.1078
+2024-07-08 09:45:37 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [61/100], Loss: 0.0000, Valid Acc: 0.9062, Valid F1: 0.8754, Valid DP: 0.3196, Valid EOD: 0.1056
+2024-07-08 09:45:37 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 09:45:59 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [62/100], Loss: 0.0000, Valid Acc: 0.9074, Valid F1: 0.8773, Valid DP: 0.3218, Valid EOD: 0.1078
+2024-07-08 09:45:59 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 09:46:21 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [63/100], Loss: 0.0000, Valid Acc: 0.9068, Valid F1: 0.8766, Valid DP: 0.3247, Valid EOD: 0.1078
+2024-07-08 09:46:44 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [64/100], Loss: 0.0000, Valid Acc: 0.9062, Valid F1: 0.8760, Valid DP: 0.3223, Valid EOD: 0.1053
+2024-07-08 09:47:07 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [65/100], Loss: 0.0000, Valid Acc: 0.9074, Valid F1: 0.8775, Valid DP: 0.3239, Valid EOD: 0.1053
+2024-07-08 09:47:29 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [66/100], Loss: 0.0000, Valid Acc: 0.9074, Valid F1: 0.8775, Valid DP: 0.3239, Valid EOD: 0.1053
+2024-07-08 09:47:29 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 09:47:53 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [67/100], Loss: 0.0000, Valid Acc: 0.9055, Valid F1: 0.8753, Valid DP: 0.3215, Valid EOD: 0.1053
+2024-07-08 09:48:16 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [68/100], Loss: 0.0000, Valid Acc: 0.9074, Valid F1: 0.8777, Valid DP: 0.3223, Valid EOD: 0.1027
+2024-07-08 09:48:39 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [69/100], Loss: 0.0000, Valid Acc: 0.9074, Valid F1: 0.8771, Valid DP: 0.3196, Valid EOD: 0.1104
+2024-07-08 09:49:03 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [70/100], Loss: 0.0000, Valid Acc: 0.9074, Valid F1: 0.8779, Valid DP: 0.3207, Valid EOD: 0.1002
+2024-07-08 09:49:27 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [71/100], Loss: 0.0000, Valid Acc: 0.9074, Valid F1: 0.8779, Valid DP: 0.3207, Valid EOD: 0.1002
+2024-07-08 09:49:51 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [72/100], Loss: 0.0000, Valid Acc: 0.9062, Valid F1: 0.8767, Valid DP: 0.3175, Valid EOD: 0.0976
+2024-07-08 09:50:15 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [73/100], Loss: 0.0000, Valid Acc: 0.9062, Valid F1: 0.8767, Valid DP: 0.3175, Valid EOD: 0.0976
+2024-07-08 09:50:39 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [74/100], Loss: 0.0000, Valid Acc: 0.9074, Valid F1: 0.8773, Valid DP: 0.3218, Valid EOD: 0.1078
+2024-07-08 09:50:39 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 09:51:03 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [75/100], Loss: 0.0000, Valid Acc: 0.9068, Valid F1: 0.8766, Valid DP: 0.3210, Valid EOD: 0.1078
+2024-07-08 09:51:03 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 09:51:28 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [76/100], Loss: 0.0000, Valid Acc: 0.9068, Valid F1: 0.8764, Valid DP: 0.3226, Valid EOD: 0.1104
+2024-07-08 09:51:53 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [77/100], Loss: 0.0000, Valid Acc: 0.9074, Valid F1: 0.8779, Valid DP: 0.3207, Valid EOD: 0.1002
+2024-07-08 09:51:53 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 09:52:18 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [78/100], Loss: 0.0000, Valid Acc: 0.9068, Valid F1: 0.8772, Valid DP: 0.3199, Valid EOD: 0.1002
+2024-07-08 09:52:18 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 09:52:43 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [79/100], Loss: 0.0000, Valid Acc: 0.9074, Valid F1: 0.8779, Valid DP: 0.3207, Valid EOD: 0.1002
+2024-07-08 09:53:08 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [80/100], Loss: 0.0000, Valid Acc: 0.9068, Valid F1: 0.8770, Valid DP: 0.3215, Valid EOD: 0.1027
+2024-07-08 09:53:34 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [81/100], Loss: 0.0000, Valid Acc: 0.9081, Valid F1: 0.8789, Valid DP: 0.3199, Valid EOD: 0.0976
+2024-07-08 09:53:34 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_f1_state.pth.
+2024-07-08 09:54:00 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [82/100], Loss: 0.0000, Valid Acc: 0.9074, Valid F1: 0.8773, Valid DP: 0.3218, Valid EOD: 0.1078
+2024-07-08 09:54:25 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [83/100], Loss: 0.0000, Valid Acc: 0.9068, Valid F1: 0.8770, Valid DP: 0.3215, Valid EOD: 0.1027
+2024-07-08 09:54:26 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 09:54:51 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [84/100], Loss: 0.0000, Valid Acc: 0.9068, Valid F1: 0.8770, Valid DP: 0.3215, Valid EOD: 0.1027
+2024-07-08 09:55:18 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [85/100], Loss: 0.0000, Valid Acc: 0.9081, Valid F1: 0.8783, Valid DP: 0.3210, Valid EOD: 0.1053
+2024-07-08 09:55:44 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [86/100], Loss: 0.0000, Valid Acc: 0.9087, Valid F1: 0.8794, Valid DP: 0.3185, Valid EOD: 0.1002
+2024-07-08 09:55:44 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_f1_state.pth.
+2024-07-08 09:56:10 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [87/100], Loss: 0.0000, Valid Acc: 0.9068, Valid F1: 0.8766, Valid DP: 0.3210, Valid EOD: 0.1078
+2024-07-08 09:56:37 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [88/100], Loss: 0.0000, Valid Acc: 0.9068, Valid F1: 0.8770, Valid DP: 0.3215, Valid EOD: 0.1027
+2024-07-08 09:56:37 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 09:57:04 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [89/100], Loss: 0.0000, Valid Acc: 0.9068, Valid F1: 0.8772, Valid DP: 0.3199, Valid EOD: 0.1002
+2024-07-08 09:57:04 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 09:57:31 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [90/100], Loss: 0.0000, Valid Acc: 0.9062, Valid F1: 0.8765, Valid DP: 0.3191, Valid EOD: 0.1002
+2024-07-08 09:57:58 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [91/100], Loss: 0.0000, Valid Acc: 0.9081, Valid F1: 0.8785, Valid DP: 0.3194, Valid EOD: 0.1027
+2024-07-08 09:58:26 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [92/100], Loss: 0.0000, Valid Acc: 0.9055, Valid F1: 0.8757, Valid DP: 0.3183, Valid EOD: 0.1002
+2024-07-08 09:58:53 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [93/100], Loss: 0.0000, Valid Acc: 0.9062, Valid F1: 0.8767, Valid DP: 0.3175, Valid EOD: 0.0976
+2024-07-08 09:58:53 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 09:59:21 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [94/100], Loss: 0.0000, Valid Acc: 0.9062, Valid F1: 0.8754, Valid DP: 0.3196, Valid EOD: 0.1129
+2024-07-08 09:59:49 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [95/100], Loss: 0.0000, Valid Acc: 0.9087, Valid F1: 0.8794, Valid DP: 0.3185, Valid EOD: 0.1002
+2024-07-08 10:00:17 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [96/100], Loss: 0.0000, Valid Acc: 0.9074, Valid F1: 0.8779, Valid DP: 0.3207, Valid EOD: 0.1002
+2024-07-08 10:00:45 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [97/100], Loss: 0.0000, Valid Acc: 0.9087, Valid F1: 0.8794, Valid DP: 0.3185, Valid EOD: 0.1002
+2024-07-08 10:01:13 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [98/100], Loss: 0.0000, Valid Acc: 0.9068, Valid F1: 0.8768, Valid DP: 0.3231, Valid EOD: 0.1053
+2024-07-08 10:01:42 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [99/100], Loss: 0.0000, Valid Acc: 0.9074, Valid F1: 0.8779, Valid DP: 0.3207, Valid EOD: 0.1002
+2024-07-08 10:02:10 - base_loss_optimization/lfw/v2_target_smiling - INFO - Epoch [100/100], Loss: 0.0000, Valid Acc: 0.9074, Valid F1: 0.8775, Valid DP: 0.3202, Valid EOD: 0.1053
+2024-07-08 10:02:10 - base_loss_optimization/lfw/v2_target_smiling - INFO - Saved model final to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v2_target_smiling/final_state.pth.
+2024-07-08 10:02:10 - base_loss_optimization/lfw/v2_target_smiling - INFO - Model and metrics saved.
+2024-07-08 10:02:10 - base_loss_optimization/lfw/v2_target_smiling - INFO - Training finished.

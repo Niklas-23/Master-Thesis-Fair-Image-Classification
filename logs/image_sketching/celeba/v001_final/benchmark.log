@@ -1,0 +1,67 @@
+2024-07-08 15:48:29 - image_sketching/celeba/v001_final - INFO - Start image sketching benchmark benchmark.
+2024-07-08 15:48:29 - image_sketching/celeba/v001_final - INFO - Training started.
+2024-07-08 16:04:39 - image_sketching/celeba/v001_final - INFO - Epoch [1/50], Loss: 2.7137, Valid Acc: 0.9141, Valid F1: 0.9067, Valid DP: 0.1271, Valid EOD: 0.0456
+2024-07-08 16:04:39 - image_sketching/celeba/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/image_sketching/celeba/v001_final/best_f1_state.pth.
+2024-07-08 16:04:39 - image_sketching/celeba/v001_final - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/image_sketching/celeba/v001_final/best_eod_state.pth.
+2024-07-08 16:04:39 - image_sketching/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/image_sketching/celeba/v001_final/best_loss_state.pth.
+2024-07-08 16:11:39 - image_sketching/celeba/v001_final - INFO - Epoch [2/50], Loss: 3.3078, Valid Acc: 0.9210, Valid F1: 0.9198, Valid DP: 0.1501, Valid EOD: 0.0479
+2024-07-08 16:11:39 - image_sketching/celeba/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/image_sketching/celeba/v001_final/best_f1_state.pth.
+2024-07-08 16:18:45 - image_sketching/celeba/v001_final - INFO - Epoch [3/50], Loss: 3.4810, Valid Acc: 0.9247, Valid F1: 0.9190, Valid DP: 0.1437, Valid EOD: 0.0636
+2024-07-08 16:25:54 - image_sketching/celeba/v001_final - INFO - Epoch [4/50], Loss: 3.3808, Valid Acc: 0.9231, Valid F1: 0.9207, Valid DP: 0.1606, Valid EOD: 0.0573
+2024-07-08 16:25:54 - image_sketching/celeba/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/image_sketching/celeba/v001_final/best_f1_state.pth.
+2024-07-08 16:33:06 - image_sketching/celeba/v001_final - INFO - Epoch [5/50], Loss: 3.2442, Valid Acc: 0.9262, Valid F1: 0.9216, Valid DP: 0.1538, Valid EOD: 0.0688
+2024-07-08 16:33:07 - image_sketching/celeba/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/image_sketching/celeba/v001_final/best_f1_state.pth.
+2024-07-08 16:40:22 - image_sketching/celeba/v001_final - INFO - Epoch [6/50], Loss: 3.1865, Valid Acc: 0.9265, Valid F1: 0.9240, Valid DP: 0.1380, Valid EOD: 0.0400
+2024-07-08 16:40:22 - image_sketching/celeba/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/image_sketching/celeba/v001_final/best_f1_state.pth.
+2024-07-08 16:40:22 - image_sketching/celeba/v001_final - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/image_sketching/celeba/v001_final/best_eod_state.pth.
+2024-07-08 16:47:40 - image_sketching/celeba/v001_final - INFO - Epoch [7/50], Loss: 3.2771, Valid Acc: 0.9264, Valid F1: 0.9226, Valid DP: 0.1437, Valid EOD: 0.0547
+2024-07-08 16:55:02 - image_sketching/celeba/v001_final - INFO - Epoch [8/50], Loss: 3.2747, Valid Acc: 0.9243, Valid F1: 0.9200, Valid DP: 0.1259, Valid EOD: 0.0387
+2024-07-08 16:55:02 - image_sketching/celeba/v001_final - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/image_sketching/celeba/v001_final/best_eod_state.pth.
+2024-07-08 17:02:25 - image_sketching/celeba/v001_final - INFO - Epoch [9/50], Loss: 3.2546, Valid Acc: 0.9076, Valid F1: 0.9085, Valid DP: 0.1609, Valid EOD: 0.0586
+2024-07-08 17:09:55 - image_sketching/celeba/v001_final - INFO - Epoch [10/50], Loss: 3.1855, Valid Acc: 0.9197, Valid F1: 0.9128, Valid DP: 0.1544, Valid EOD: 0.0852
+2024-07-08 17:17:23 - image_sketching/celeba/v001_final - INFO - Epoch [11/50], Loss: 3.1721, Valid Acc: 0.9202, Valid F1: 0.9161, Valid DP: 0.1495, Valid EOD: 0.0702
+2024-07-08 17:24:56 - image_sketching/celeba/v001_final - INFO - Epoch [12/50], Loss: 3.0819, Valid Acc: 0.9209, Valid F1: 0.9175, Valid DP: 0.1222, Valid EOD: 0.0354
+2024-07-08 17:24:56 - image_sketching/celeba/v001_final - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/image_sketching/celeba/v001_final/best_eod_state.pth.
+2024-07-08 17:32:31 - image_sketching/celeba/v001_final - INFO - Epoch [13/50], Loss: 3.0826, Valid Acc: 0.9146, Valid F1: 0.9118, Valid DP: 0.1477, Valid EOD: 0.0559
+2024-07-08 17:40:12 - image_sketching/celeba/v001_final - INFO - Epoch [14/50], Loss: 3.0837, Valid Acc: 0.9168, Valid F1: 0.9120, Valid DP: 0.1422, Valid EOD: 0.0610
+2024-07-08 17:47:54 - image_sketching/celeba/v001_final - INFO - Epoch [15/50], Loss: 3.0403, Valid Acc: 0.9090, Valid F1: 0.9072, Valid DP: 0.1420, Valid EOD: 0.0446
+2024-07-08 17:55:39 - image_sketching/celeba/v001_final - INFO - Epoch [16/50], Loss: 3.0616, Valid Acc: 0.9181, Valid F1: 0.9138, Valid DP: 0.1207, Valid EOD: 0.0307
+2024-07-08 17:55:39 - image_sketching/celeba/v001_final - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/image_sketching/celeba/v001_final/best_eod_state.pth.
+2024-07-08 18:03:27 - image_sketching/celeba/v001_final - INFO - Epoch [17/50], Loss: 3.0896, Valid Acc: 0.9194, Valid F1: 0.9155, Valid DP: 0.1352, Valid EOD: 0.0481
+2024-07-08 18:11:21 - image_sketching/celeba/v001_final - INFO - Epoch [18/50], Loss: 3.0812, Valid Acc: 0.9181, Valid F1: 0.9146, Valid DP: 0.1383, Valid EOD: 0.0481
+2024-07-08 18:19:17 - image_sketching/celeba/v001_final - INFO - Epoch [19/50], Loss: 3.1247, Valid Acc: 0.9141, Valid F1: 0.9074, Valid DP: 0.1502, Valid EOD: 0.0781
+2024-07-08 18:27:17 - image_sketching/celeba/v001_final - INFO - Epoch [20/50], Loss: 3.1673, Valid Acc: 0.9176, Valid F1: 0.9142, Valid DP: 0.1428, Valid EOD: 0.0534
+2024-07-08 18:35:20 - image_sketching/celeba/v001_final - INFO - Epoch [21/50], Loss: 3.1013, Valid Acc: 0.9192, Valid F1: 0.9160, Valid DP: 0.1350, Valid EOD: 0.0423
+2024-07-08 18:43:26 - image_sketching/celeba/v001_final - INFO - Epoch [22/50], Loss: 3.0092, Valid Acc: 0.9141, Valid F1: 0.9120, Valid DP: 0.1393, Valid EOD: 0.0448
+2024-07-08 18:51:34 - image_sketching/celeba/v001_final - INFO - Epoch [23/50], Loss: 3.0363, Valid Acc: 0.9160, Valid F1: 0.9141, Valid DP: 0.1290, Valid EOD: 0.0303
+2024-07-08 18:51:34 - image_sketching/celeba/v001_final - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/image_sketching/celeba/v001_final/best_eod_state.pth.
+2024-07-08 18:59:46 - image_sketching/celeba/v001_final - INFO - Epoch [24/50], Loss: 2.9811, Valid Acc: 0.9178, Valid F1: 0.9155, Valid DP: 0.1374, Valid EOD: 0.0425
+2024-07-08 19:08:02 - image_sketching/celeba/v001_final - INFO - Epoch [25/50], Loss: 3.0746, Valid Acc: 0.9169, Valid F1: 0.9109, Valid DP: 0.1266, Valid EOD: 0.0389
+2024-07-08 19:16:21 - image_sketching/celeba/v001_final - INFO - Epoch [26/50], Loss: 3.0829, Valid Acc: 0.9144, Valid F1: 0.9115, Valid DP: 0.1306, Valid EOD: 0.0392
+2024-07-08 19:24:41 - image_sketching/celeba/v001_final - INFO - Epoch [27/50], Loss: 3.1254, Valid Acc: 0.9149, Valid F1: 0.9092, Valid DP: 0.1374, Valid EOD: 0.0509
+2024-07-08 19:33:04 - image_sketching/celeba/v001_final - INFO - Epoch [28/50], Loss: 2.9816, Valid Acc: 0.9189, Valid F1: 0.9140, Valid DP: 0.1392, Valid EOD: 0.0508
+2024-07-08 19:41:31 - image_sketching/celeba/v001_final - INFO - Epoch [29/50], Loss: 3.1326, Valid Acc: 0.9176, Valid F1: 0.9129, Valid DP: 0.1374, Valid EOD: 0.0485
+2024-07-08 19:50:04 - image_sketching/celeba/v001_final - INFO - Epoch [30/50], Loss: 3.0471, Valid Acc: 0.9143, Valid F1: 0.9100, Valid DP: 0.1445, Valid EOD: 0.0548
+2024-07-08 19:58:40 - image_sketching/celeba/v001_final - INFO - Epoch [31/50], Loss: 3.0246, Valid Acc: 0.9162, Valid F1: 0.9104, Valid DP: 0.1376, Valid EOD: 0.0507
+2024-07-08 20:07:18 - image_sketching/celeba/v001_final - INFO - Epoch [32/50], Loss: 2.9882, Valid Acc: 0.9180, Valid F1: 0.9136, Valid DP: 0.1449, Valid EOD: 0.0581
+2024-07-08 20:16:01 - image_sketching/celeba/v001_final - INFO - Epoch [33/50], Loss: 3.1386, Valid Acc: 0.9119, Valid F1: 0.9102, Valid DP: 0.1438, Valid EOD: 0.0419
+2024-07-08 20:24:48 - image_sketching/celeba/v001_final - INFO - Epoch [34/50], Loss: 2.9792, Valid Acc: 0.9174, Valid F1: 0.9134, Valid DP: 0.1421, Valid EOD: 0.0519
+2024-07-08 20:33:39 - image_sketching/celeba/v001_final - INFO - Epoch [35/50], Loss: 3.0224, Valid Acc: 0.9160, Valid F1: 0.9101, Valid DP: 0.1414, Valid EOD: 0.0614
+2024-07-08 20:42:31 - image_sketching/celeba/v001_final - INFO - Epoch [36/50], Loss: 3.0509, Valid Acc: 0.9179, Valid F1: 0.9154, Valid DP: 0.1494, Valid EOD: 0.0511
+2024-07-08 20:51:26 - image_sketching/celeba/v001_final - INFO - Epoch [37/50], Loss: 2.9592, Valid Acc: 0.9213, Valid F1: 0.9172, Valid DP: 0.1361, Valid EOD: 0.0459
+2024-07-08 21:00:23 - image_sketching/celeba/v001_final - INFO - Epoch [38/50], Loss: 3.0516, Valid Acc: 0.9189, Valid F1: 0.9154, Valid DP: 0.1222, Valid EOD: 0.0312
+2024-07-08 21:11:58 - image_sketching/celeba/v001_final - INFO - Epoch [39/50], Loss: 3.0132, Valid Acc: 0.9189, Valid F1: 0.9155, Valid DP: 0.1421, Valid EOD: 0.0535
+2024-07-08 21:26:57 - image_sketching/celeba/v001_final - INFO - Epoch [40/50], Loss: 3.1637, Valid Acc: 0.9161, Valid F1: 0.9127, Valid DP: 0.1385, Valid EOD: 0.0488
+2024-07-08 21:36:02 - image_sketching/celeba/v001_final - INFO - Epoch [41/50], Loss: 3.0824, Valid Acc: 0.9155, Valid F1: 0.9130, Valid DP: 0.1510, Valid EOD: 0.0625
+2024-07-08 21:45:14 - image_sketching/celeba/v001_final - INFO - Epoch [42/50], Loss: 3.0882, Valid Acc: 0.9171, Valid F1: 0.9151, Valid DP: 0.1539, Valid EOD: 0.0586
+2024-07-08 21:54:27 - image_sketching/celeba/v001_final - INFO - Epoch [43/50], Loss: 3.0545, Valid Acc: 0.9167, Valid F1: 0.9141, Valid DP: 0.1391, Valid EOD: 0.0515
+2024-07-08 22:03:44 - image_sketching/celeba/v001_final - INFO - Epoch [44/50], Loss: 3.1395, Valid Acc: 0.9174, Valid F1: 0.9144, Valid DP: 0.1493, Valid EOD: 0.0587
+2024-07-08 22:13:05 - image_sketching/celeba/v001_final - INFO - Epoch [45/50], Loss: 3.1487, Valid Acc: 0.9166, Valid F1: 0.9144, Valid DP: 0.1370, Valid EOD: 0.0385
+2024-07-08 22:22:31 - image_sketching/celeba/v001_final - INFO - Epoch [46/50], Loss: 3.0752, Valid Acc: 0.9177, Valid F1: 0.9140, Valid DP: 0.1304, Valid EOD: 0.0414
+2024-07-08 22:31:56 - image_sketching/celeba/v001_final - INFO - Epoch [47/50], Loss: 3.0457, Valid Acc: 0.9151, Valid F1: 0.9124, Valid DP: 0.1247, Valid EOD: 0.0323
+2024-07-08 22:41:28 - image_sketching/celeba/v001_final - INFO - Epoch [48/50], Loss: 3.1922, Valid Acc: 0.9152, Valid F1: 0.9114, Valid DP: 0.1394, Valid EOD: 0.0516
+2024-07-08 22:51:00 - image_sketching/celeba/v001_final - INFO - Epoch [49/50], Loss: 3.0493, Valid Acc: 0.9160, Valid F1: 0.9121, Valid DP: 0.1456, Valid EOD: 0.0533
+2024-07-08 23:00:34 - image_sketching/celeba/v001_final - INFO - Epoch [50/50], Loss: 2.9647, Valid Acc: 0.9190, Valid F1: 0.9167, Valid DP: 0.1320, Valid EOD: 0.0328
+2024-07-08 23:00:34 - image_sketching/celeba/v001_final - INFO - Saved model final to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/image_sketching/celeba/v001_final/final_state.pth.
+2024-07-08 23:00:34 - image_sketching/celeba/v001_final - INFO - Model and metrics saved.
+2024-07-08 23:00:34 - image_sketching/celeba/v001_final - INFO - Training finished.

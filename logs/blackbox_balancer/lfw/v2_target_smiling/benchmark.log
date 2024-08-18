@@ -1,0 +1,4 @@
+2024-07-08 10:02:10 - blackbox_balancer/lfw/v2_target_smiling - INFO - Start blackbox multiclass balancer benchmark.
+2024-07-08 10:02:11 - blackbox_balancer/lfw/v2_target_smiling - INFO - Model has been loaded from C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/blackbox_balancer/lfw/v2_target_smiling.
+2024-07-08 10:02:12 - blackbox_balancer/lfw/v2_target_smiling - INFO - Applied post processing
+2024-07-08 10:02:12 - blackbox_balancer/lfw/v2_target_smiling - INFO - Validation metrics: {'valid_acc': 0.8731769181991123, 'valid_f1': 0.8360655737704918, 'valid_precision': 0.821256038647343, 'valid_auc': 0.8689610496020976, 'valid_eod': 0.005724929465581952, 'valid_dp': 0.2219576186639039, 'valid_TPR': 0.8514190317195326, 'valid_TNR': 0.8865030674846626, 'valid_FPR': 0.11349693251533742, 'valid_FNR': 0.14858096828046743, 'valid_MCC': 0.7330247003839679}

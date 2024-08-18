@@ -1,0 +1,123 @@
+2024-07-08 12:55:08 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Start shared adversarial encoder benchmark.
+2024-07-08 12:55:08 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Training started.
+2024-07-08 12:55:20 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [1/100], Loss: -0.2466, Valid Acc: 0.8706, Valid F1: 0.8053, Valid DP: 0.2925, Valid EOD: 0.1636
+2024-07-08 12:55:20 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/lfw/v2_target_smiling/best_f1_state.pth.
+2024-07-08 12:55:20 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/lfw/v2_target_smiling/best_eod_state.pth.
+2024-07-08 12:55:20 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 12:55:32 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [2/100], Loss: -0.4938, Valid Acc: 0.6550, Valid F1: 0.2070, Valid DP: 0.2173, Valid EOD: 0.2987
+2024-07-08 12:55:32 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 12:55:44 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [3/100], Loss: -0.4690, Valid Acc: 0.7502, Valid F1: 0.5100, Valid DP: 0.3454, Valid EOD: 0.4736
+2024-07-08 12:55:56 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [4/100], Loss: -0.4589, Valid Acc: 0.8998, Valid F1: 0.8548, Valid DP: 0.3624, Valid EOD: 0.2163
+2024-07-08 12:55:56 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/lfw/v2_target_smiling/best_f1_state.pth.
+2024-07-08 12:56:08 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [5/100], Loss: -0.4060, Valid Acc: 0.8719, Valid F1: 0.8453, Valid DP: 0.2699, Valid EOD: 0.0585
+2024-07-08 12:56:08 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/lfw/v2_target_smiling/best_eod_state.pth.
+2024-07-08 12:56:21 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [6/100], Loss: -0.4055, Valid Acc: 0.9081, Valid F1: 0.8828, Valid DP: 0.3179, Valid EOD: 0.0881
+2024-07-08 12:56:21 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/lfw/v2_target_smiling/best_f1_state.pth.
+2024-07-08 12:56:33 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [7/100], Loss: -0.4330, Valid Acc: 0.9036, Valid F1: 0.8606, Valid DP: 0.3154, Valid EOD: 0.1471
+2024-07-08 12:56:46 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [8/100], Loss: -0.4784, Valid Acc: 0.8922, Valid F1: 0.8529, Valid DP: 0.2660, Valid EOD: 0.0785
+2024-07-08 12:56:59 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [9/100], Loss: -0.4879, Valid Acc: 0.9081, Valid F1: 0.8718, Valid DP: 0.2823, Valid EOD: 0.0859
+2024-07-08 12:57:12 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [10/100], Loss: -0.5103, Valid Acc: 0.7933, Valid F1: 0.7818, Valid DP: 0.1865, Valid EOD: 0.0359
+2024-07-08 12:57:13 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/lfw/v2_target_smiling/best_eod_state.pth.
+2024-07-08 12:57:13 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 12:57:26 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [11/100], Loss: -0.4682, Valid Acc: 0.9049, Valid F1: 0.8788, Valid DP: 0.2982, Valid EOD: 0.0667
+2024-07-08 12:57:40 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [12/100], Loss: -0.5210, Valid Acc: 0.8332, Valid F1: 0.8131, Valid DP: 0.2415, Valid EOD: 0.0346
+2024-07-08 12:57:40 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/lfw/v2_target_smiling/best_eod_state.pth.
+2024-07-08 12:57:40 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 12:57:54 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [13/100], Loss: -0.5579, Valid Acc: 0.9125, Valid F1: 0.8871, Valid DP: 0.2960, Valid EOD: 0.0568
+2024-07-08 12:57:54 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/lfw/v2_target_smiling/best_f1_state.pth.
+2024-07-08 12:57:54 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 12:58:08 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [14/100], Loss: -0.5724, Valid Acc: 0.9004, Valid F1: 0.8631, Valid DP: 0.2619, Valid EOD: 0.0586
+2024-07-08 12:58:08 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 12:58:22 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [15/100], Loss: -0.5079, Valid Acc: 0.9017, Valid F1: 0.8582, Valid DP: 0.3243, Valid EOD: 0.1471
+2024-07-08 12:58:37 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [16/100], Loss: -0.5356, Valid Acc: 0.9049, Valid F1: 0.8707, Valid DP: 0.3119, Valid EOD: 0.1069
+2024-07-08 12:58:51 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [17/100], Loss: -0.5127, Valid Acc: 0.9030, Valid F1: 0.8759, Valid DP: 0.2909, Valid EOD: 0.0679
+2024-07-08 12:59:06 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [18/100], Loss: -0.5156, Valid Acc: 0.9087, Valid F1: 0.8780, Valid DP: 0.3071, Valid EOD: 0.0811
+2024-07-08 12:59:20 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [19/100], Loss: -0.5224, Valid Acc: 0.9106, Valid F1: 0.8845, Valid DP: 0.3081, Valid EOD: 0.0731
+2024-07-08 12:59:35 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [20/100], Loss: -0.5000, Valid Acc: 0.8890, Valid F1: 0.8608, Valid DP: 0.3245, Valid EOD: 0.1212
+2024-07-08 12:59:51 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [21/100], Loss: -0.5037, Valid Acc: 0.9030, Valid F1: 0.8628, Valid DP: 0.3141, Valid EOD: 0.1017
+2024-07-08 13:00:06 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [22/100], Loss: -0.5030, Valid Acc: 0.9068, Valid F1: 0.8747, Valid DP: 0.3090, Valid EOD: 0.0791
+2024-07-08 13:00:22 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [23/100], Loss: -0.5130, Valid Acc: 0.9023, Valid F1: 0.8668, Valid DP: 0.3113, Valid EOD: 0.0950
+2024-07-08 13:00:37 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [24/100], Loss: -0.4924, Valid Acc: 0.8840, Valid F1: 0.8591, Valid DP: 0.2945, Valid EOD: 0.0828
+2024-07-08 13:00:53 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [25/100], Loss: -0.4924, Valid Acc: 0.8922, Valid F1: 0.8534, Valid DP: 0.3195, Valid EOD: 0.1103
+2024-07-08 13:01:09 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [26/100], Loss: -0.5030, Valid Acc: 0.9055, Valid F1: 0.8797, Valid DP: 0.3163, Valid EOD: 0.0846
+2024-07-08 13:01:26 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [27/100], Loss: -0.4970, Valid Acc: 0.9023, Valid F1: 0.8740, Valid DP: 0.2998, Valid EOD: 0.0738
+2024-07-08 13:01:42 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [28/100], Loss: -0.4996, Valid Acc: 0.9049, Valid F1: 0.8798, Valid DP: 0.2977, Valid EOD: 0.0787
+2024-07-08 13:01:59 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [29/100], Loss: -0.5032, Valid Acc: 0.9144, Valid F1: 0.8819, Valid DP: 0.3067, Valid EOD: 0.0799
+2024-07-08 13:02:15 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [30/100], Loss: -0.5058, Valid Acc: 0.8985, Valid F1: 0.8748, Valid DP: 0.3000, Valid EOD: 0.0730
+2024-07-08 13:02:32 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [31/100], Loss: -0.5043, Valid Acc: 0.9074, Valid F1: 0.8777, Valid DP: 0.3110, Valid EOD: 0.0806
+2024-07-08 13:02:50 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [32/100], Loss: -0.5003, Valid Acc: 0.9062, Valid F1: 0.8690, Valid DP: 0.3247, Valid EOD: 0.1279
+2024-07-08 13:03:07 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [33/100], Loss: -0.4936, Valid Acc: 0.8903, Valid F1: 0.8652, Valid DP: 0.2847, Valid EOD: 0.0624
+2024-07-08 13:03:24 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [34/100], Loss: -0.5001, Valid Acc: 0.9150, Valid F1: 0.8876, Valid DP: 0.3202, Valid EOD: 0.0974
+2024-07-08 13:03:25 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/lfw/v2_target_smiling/best_f1_state.pth.
+2024-07-08 13:03:42 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [35/100], Loss: -0.4998, Valid Acc: 0.8928, Valid F1: 0.8660, Valid DP: 0.3175, Valid EOD: 0.1045
+2024-07-08 13:04:00 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [36/100], Loss: -0.5014, Valid Acc: 0.9112, Valid F1: 0.8851, Valid DP: 0.3106, Valid EOD: 0.0754
+2024-07-08 13:04:18 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [37/100], Loss: -0.5033, Valid Acc: 0.9011, Valid F1: 0.8760, Valid DP: 0.3048, Valid EOD: 0.0782
+2024-07-08 13:04:37 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [38/100], Loss: -0.5041, Valid Acc: 0.9087, Valid F1: 0.8798, Valid DP: 0.3153, Valid EOD: 0.0849
+2024-07-08 13:04:55 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [39/100], Loss: -0.5033, Valid Acc: 0.9074, Valid F1: 0.8823, Valid DP: 0.3117, Valid EOD: 0.0810
+2024-07-08 13:05:14 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [40/100], Loss: -0.5018, Valid Acc: 0.9074, Valid F1: 0.8771, Valid DP: 0.3158, Valid EOD: 0.0809
+2024-07-08 13:05:33 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [41/100], Loss: -0.5011, Valid Acc: 0.9087, Valid F1: 0.8773, Valid DP: 0.3233, Valid EOD: 0.0901
+2024-07-08 13:05:51 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [42/100], Loss: -0.5000, Valid Acc: 0.9163, Valid F1: 0.8883, Valid DP: 0.3131, Valid EOD: 0.0746
+2024-07-08 13:05:52 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/lfw/v2_target_smiling/best_f1_state.pth.
+2024-07-08 13:06:11 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [43/100], Loss: -0.5010, Valid Acc: 0.9112, Valid F1: 0.8803, Valid DP: 0.3303, Valid EOD: 0.0962
+2024-07-08 13:06:30 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [44/100], Loss: -0.4995, Valid Acc: 0.8941, Valid F1: 0.8667, Valid DP: 0.2975, Valid EOD: 0.0657
+2024-07-08 13:06:49 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [45/100], Loss: -0.4975, Valid Acc: 0.9017, Valid F1: 0.8712, Valid DP: 0.2924, Valid EOD: 0.0585
+2024-07-08 13:07:09 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [46/100], Loss: -0.4987, Valid Acc: 0.9106, Valid F1: 0.8849, Valid DP: 0.3087, Valid EOD: 0.0975
+2024-07-08 13:07:29 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [47/100], Loss: -0.4995, Valid Acc: 0.9087, Valid F1: 0.8756, Valid DP: 0.3173, Valid EOD: 0.0944
+2024-07-08 13:07:49 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [48/100], Loss: -0.4974, Valid Acc: 0.8998, Valid F1: 0.8548, Valid DP: 0.2829, Valid EOD: 0.1056
+2024-07-08 13:08:09 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [49/100], Loss: -0.4999, Valid Acc: 0.9138, Valid F1: 0.8842, Valid DP: 0.2968, Valid EOD: 0.0680
+2024-07-08 13:08:29 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [50/100], Loss: -0.5035, Valid Acc: 0.9131, Valid F1: 0.8867, Valid DP: 0.3027, Valid EOD: 0.0736
+2024-07-08 13:08:50 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [51/100], Loss: -0.5045, Valid Acc: 0.9081, Valid F1: 0.8826, Valid DP: 0.3120, Valid EOD: 0.0893
+2024-07-08 13:09:10 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [52/100], Loss: -0.5050, Valid Acc: 0.9023, Valid F1: 0.8731, Valid DP: 0.2987, Valid EOD: 0.0653
+2024-07-08 13:09:31 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [53/100], Loss: -0.5040, Valid Acc: 0.9112, Valid F1: 0.8839, Valid DP: 0.3127, Valid EOD: 0.0736
+2024-07-08 13:09:52 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [54/100], Loss: -0.5041, Valid Acc: 0.9055, Valid F1: 0.8792, Valid DP: 0.3098, Valid EOD: 0.0881
+2024-07-08 13:10:13 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [55/100], Loss: -0.5034, Valid Acc: 0.9131, Valid F1: 0.8836, Valid DP: 0.3096, Valid EOD: 0.0746
+2024-07-08 13:10:35 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [56/100], Loss: -0.5030, Valid Acc: 0.9100, Valid F1: 0.8774, Valid DP: 0.3135, Valid EOD: 0.0845
+2024-07-08 13:10:56 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [57/100], Loss: -0.5017, Valid Acc: 0.9042, Valid F1: 0.8715, Valid DP: 0.3074, Valid EOD: 0.0891
+2024-07-08 13:11:18 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [58/100], Loss: -0.5011, Valid Acc: 0.9042, Valid F1: 0.8755, Valid DP: 0.2768, Valid EOD: 0.0451
+2024-07-08 13:11:40 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [59/100], Loss: -0.5039, Valid Acc: 0.9004, Valid F1: 0.8737, Valid DP: 0.3018, Valid EOD: 0.0775
+2024-07-08 13:12:02 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [60/100], Loss: -0.5042, Valid Acc: 0.9087, Valid F1: 0.8812, Valid DP: 0.3116, Valid EOD: 0.0855
+2024-07-08 13:12:24 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [61/100], Loss: -0.5057, Valid Acc: 0.9093, Valid F1: 0.8787, Valid DP: 0.3004, Valid EOD: 0.0738
+2024-07-08 13:12:46 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [62/100], Loss: -0.5018, Valid Acc: 0.9068, Valid F1: 0.8804, Valid DP: 0.2941, Valid EOD: 0.0559
+2024-07-08 13:13:09 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [63/100], Loss: -0.5023, Valid Acc: 0.9087, Valid F1: 0.8800, Valid DP: 0.3175, Valid EOD: 0.0837
+2024-07-08 13:13:32 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [64/100], Loss: -0.5041, Valid Acc: 0.9074, Valid F1: 0.8799, Valid DP: 0.3159, Valid EOD: 0.0820
+2024-07-08 13:13:54 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [65/100], Loss: -0.5044, Valid Acc: 0.9093, Valid F1: 0.8799, Valid DP: 0.3096, Valid EOD: 0.0732
+2024-07-08 13:14:17 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [66/100], Loss: -0.5026, Valid Acc: 0.8966, Valid F1: 0.8732, Valid DP: 0.3133, Valid EOD: 0.0849
+2024-07-08 13:14:41 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [67/100], Loss: -0.5033, Valid Acc: 0.8998, Valid F1: 0.8707, Valid DP: 0.2960, Valid EOD: 0.0750
+2024-07-08 13:15:04 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [68/100], Loss: -0.5029, Valid Acc: 0.9081, Valid F1: 0.8787, Valid DP: 0.3215, Valid EOD: 0.0860
+2024-07-08 13:15:28 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [69/100], Loss: -0.5032, Valid Acc: 0.9125, Valid F1: 0.8850, Valid DP: 0.3175, Valid EOD: 0.0872
+2024-07-08 13:15:52 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [70/100], Loss: -0.5041, Valid Acc: 0.9125, Valid F1: 0.8861, Valid DP: 0.3230, Valid EOD: 0.0980
+2024-07-08 13:16:16 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [71/100], Loss: -0.5019, Valid Acc: 0.9100, Valid F1: 0.8847, Valid DP: 0.3144, Valid EOD: 0.0749
+2024-07-08 13:16:40 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [72/100], Loss: -0.5037, Valid Acc: 0.9106, Valid F1: 0.8822, Valid DP: 0.3161, Valid EOD: 0.0925
+2024-07-08 13:17:04 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [73/100], Loss: -0.5045, Valid Acc: 0.9068, Valid F1: 0.8802, Valid DP: 0.2995, Valid EOD: 0.0749
+2024-07-08 13:17:29 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [74/100], Loss: -0.5044, Valid Acc: 0.9169, Valid F1: 0.8891, Valid DP: 0.3215, Valid EOD: 0.0847
+2024-07-08 13:17:29 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/lfw/v2_target_smiling/best_f1_state.pth.
+2024-07-08 13:17:54 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [75/100], Loss: -0.5030, Valid Acc: 0.9112, Valid F1: 0.8847, Valid DP: 0.3213, Valid EOD: 0.0843
+2024-07-08 13:18:19 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [76/100], Loss: -0.5033, Valid Acc: 0.9036, Valid F1: 0.8784, Valid DP: 0.2999, Valid EOD: 0.0611
+2024-07-08 13:18:44 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [77/100], Loss: -0.5046, Valid Acc: 0.9087, Valid F1: 0.8827, Valid DP: 0.3214, Valid EOD: 0.0940
+2024-07-08 13:19:09 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [78/100], Loss: -0.5042, Valid Acc: 0.9150, Valid F1: 0.8902, Valid DP: 0.2976, Valid EOD: 0.0543
+2024-07-08 13:19:09 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/lfw/v2_target_smiling/best_f1_state.pth.
+2024-07-08 13:19:34 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [79/100], Loss: -0.5039, Valid Acc: 0.9106, Valid F1: 0.8847, Valid DP: 0.3179, Valid EOD: 0.0808
+2024-07-08 13:20:00 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [80/100], Loss: -0.5053, Valid Acc: 0.9112, Valid F1: 0.8829, Valid DP: 0.3358, Valid EOD: 0.0999
+2024-07-08 13:20:26 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [81/100], Loss: -0.5041, Valid Acc: 0.9074, Valid F1: 0.8821, Valid DP: 0.3436, Valid EOD: 0.1405
+2024-07-08 13:20:52 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [82/100], Loss: -0.5031, Valid Acc: 0.9106, Valid F1: 0.8845, Valid DP: 0.3081, Valid EOD: 0.0693
+2024-07-08 13:21:18 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [83/100], Loss: -0.5052, Valid Acc: 0.9081, Valid F1: 0.8814, Valid DP: 0.3179, Valid EOD: 0.0792
+2024-07-08 13:21:45 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [84/100], Loss: -0.5042, Valid Acc: 0.9081, Valid F1: 0.8807, Valid DP: 0.3130, Valid EOD: 0.0821
+2024-07-08 13:22:11 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [85/100], Loss: -0.5062, Valid Acc: 0.9049, Valid F1: 0.8786, Valid DP: 0.3301, Valid EOD: 0.1036
+2024-07-08 13:22:38 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [86/100], Loss: -0.5042, Valid Acc: 0.9112, Valid F1: 0.8869, Valid DP: 0.2982, Valid EOD: 0.0547
+2024-07-08 13:23:05 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [87/100], Loss: -0.4998, Valid Acc: 0.9100, Valid F1: 0.8790, Valid DP: 0.3309, Valid EOD: 0.1010
+2024-07-08 13:23:31 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [88/100], Loss: -0.4983, Valid Acc: 0.9036, Valid F1: 0.8731, Valid DP: 0.3078, Valid EOD: 0.0831
+2024-07-08 13:23:59 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [89/100], Loss: -0.5022, Valid Acc: 0.9055, Valid F1: 0.8782, Valid DP: 0.3292, Valid EOD: 0.0940
+2024-07-08 13:24:26 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [90/100], Loss: -0.5004, Valid Acc: 0.8985, Valid F1: 0.8754, Valid DP: 0.2876, Valid EOD: 0.0501
+2024-07-08 13:24:53 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [91/100], Loss: -0.4984, Valid Acc: 0.9112, Valid F1: 0.8864, Valid DP: 0.3333, Valid EOD: 0.0940
+2024-07-08 13:25:21 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [92/100], Loss: -0.5004, Valid Acc: 0.9087, Valid F1: 0.8776, Valid DP: 0.3028, Valid EOD: 0.0936
+2024-07-08 13:25:49 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [93/100], Loss: -0.5011, Valid Acc: 0.9131, Valid F1: 0.8861, Valid DP: 0.3113, Valid EOD: 0.0872
+2024-07-08 13:26:17 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [94/100], Loss: -0.4984, Valid Acc: 0.9030, Valid F1: 0.8771, Valid DP: 0.2926, Valid EOD: 0.0614
+2024-07-08 13:26:45 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [95/100], Loss: -0.4961, Valid Acc: 0.9074, Valid F1: 0.8744, Valid DP: 0.2990, Valid EOD: 0.0919
+2024-07-08 13:27:13 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [96/100], Loss: -0.5014, Valid Acc: 0.9100, Valid F1: 0.8821, Valid DP: 0.2954, Valid EOD: 0.0849
+2024-07-08 13:27:42 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [97/100], Loss: -0.5025, Valid Acc: 0.9119, Valid F1: 0.8803, Valid DP: 0.3338, Valid EOD: 0.1285
+2024-07-08 13:28:10 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [98/100], Loss: -0.5040, Valid Acc: 0.9163, Valid F1: 0.8866, Valid DP: 0.3049, Valid EOD: 0.0936
+2024-07-08 13:28:39 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [99/100], Loss: -0.5037, Valid Acc: 0.8916, Valid F1: 0.8690, Valid DP: 0.2707, Valid EOD: 0.0447
+2024-07-08 13:29:09 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Epoch [100/100], Loss: -0.5031, Valid Acc: 0.9081, Valid F1: 0.8846, Valid DP: 0.2867, Valid EOD: 0.0433
+2024-07-08 13:29:09 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Saved model final to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/lfw/v2_target_smiling/final_state.pth.
+2024-07-08 13:29:09 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Model and metrics saved.
+2024-07-08 13:29:09 - shared_adv_encoder/lfw/v2_target_smiling - INFO - Training finished.

@@ -1,0 +1,102 @@
+2024-05-15 17:17:59 - base_loss_optimization/celeba/v001_final - INFO - Start base loss benchmark.
+2024-05-15 17:17:59 - base_loss_optimization/celeba/v001_final - INFO - Training started.
+2024-05-15 17:32:26 - base_loss_optimization/celeba/v001_final - INFO - Epoch [1/50], Loss: 0.2774, Valid Acc: 0.8863, Valid F1: 0.8698, Valid DP: 0.1072, Valid EOD: 0.0279
+2024-05-15 17:32:26 - base_loss_optimization/celeba/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/celeba/v001_final/best_f1_state.pth.
+2024-05-15 17:32:26 - base_loss_optimization/celeba/v001_final - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/celeba/v001_final/best_eod_state.pth.
+2024-05-15 17:32:26 - base_loss_optimization/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/celeba/v001_final/best_loss_state.pth.
+2024-05-15 17:38:56 - base_loss_optimization/celeba/v001_final - INFO - Epoch [2/50], Loss: 0.1854, Valid Acc: 0.9122, Valid F1: 0.9038, Valid DP: 0.1223, Valid EOD: 0.0424
+2024-05-15 17:38:56 - base_loss_optimization/celeba/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/celeba/v001_final/best_f1_state.pth.
+2024-05-15 17:38:56 - base_loss_optimization/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/celeba/v001_final/best_loss_state.pth.
+2024-05-15 17:45:30 - base_loss_optimization/celeba/v001_final - INFO - Epoch [3/50], Loss: 0.1760, Valid Acc: 0.9136, Valid F1: 0.9049, Valid DP: 0.1355, Valid EOD: 0.0617
+2024-05-15 17:45:31 - base_loss_optimization/celeba/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/celeba/v001_final/best_f1_state.pth.
+2024-05-15 17:45:31 - base_loss_optimization/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/celeba/v001_final/best_loss_state.pth.
+2024-05-15 17:52:12 - base_loss_optimization/celeba/v001_final - INFO - Epoch [4/50], Loss: 0.1655, Valid Acc: 0.9151, Valid F1: 0.9071, Valid DP: 0.1327, Valid EOD: 0.0550
+2024-05-15 17:52:12 - base_loss_optimization/celeba/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/celeba/v001_final/best_f1_state.pth.
+2024-05-15 17:52:12 - base_loss_optimization/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/celeba/v001_final/best_loss_state.pth.
+2024-05-15 17:58:56 - base_loss_optimization/celeba/v001_final - INFO - Epoch [5/50], Loss: 0.1577, Valid Acc: 0.9077, Valid F1: 0.8970, Valid DP: 0.1324, Valid EOD: 0.0606
+2024-05-15 17:58:57 - base_loss_optimization/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/celeba/v001_final/best_loss_state.pth.
+2024-05-15 18:05:45 - base_loss_optimization/celeba/v001_final - INFO - Epoch [6/50], Loss: 0.1474, Valid Acc: 0.9193, Valid F1: 0.9124, Valid DP: 0.1426, Valid EOD: 0.0659
+2024-05-15 18:05:45 - base_loss_optimization/celeba/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/celeba/v001_final/best_f1_state.pth.
+2024-05-15 18:05:45 - base_loss_optimization/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/celeba/v001_final/best_loss_state.pth.
+2024-05-15 18:12:40 - base_loss_optimization/celeba/v001_final - INFO - Epoch [7/50], Loss: 0.1377, Valid Acc: 0.9165, Valid F1: 0.9090, Valid DP: 0.1352, Valid EOD: 0.0577
+2024-05-15 18:12:40 - base_loss_optimization/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/celeba/v001_final/best_loss_state.pth.
+2024-05-15 18:19:36 - base_loss_optimization/celeba/v001_final - INFO - Epoch [8/50], Loss: 0.1237, Valid Acc: 0.9105, Valid F1: 0.9107, Valid DP: 0.1542, Valid EOD: 0.0480
+2024-05-15 18:19:36 - base_loss_optimization/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/celeba/v001_final/best_loss_state.pth.
+2024-05-15 18:26:38 - base_loss_optimization/celeba/v001_final - INFO - Epoch [9/50], Loss: 0.1104, Valid Acc: 0.9156, Valid F1: 0.9085, Valid DP: 0.1331, Valid EOD: 0.0550
+2024-05-15 18:26:38 - base_loss_optimization/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/celeba/v001_final/best_loss_state.pth.
+2024-05-15 18:33:45 - base_loss_optimization/celeba/v001_final - INFO - Epoch [10/50], Loss: 0.0915, Valid Acc: 0.9173, Valid F1: 0.9130, Valid DP: 0.1478, Valid EOD: 0.0639
+2024-05-15 18:33:45 - base_loss_optimization/celeba/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/celeba/v001_final/best_f1_state.pth.
+2024-05-15 18:33:45 - base_loss_optimization/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/celeba/v001_final/best_loss_state.pth.
+2024-05-15 18:40:55 - base_loss_optimization/celeba/v001_final - INFO - Epoch [11/50], Loss: 0.0772, Valid Acc: 0.9198, Valid F1: 0.9155, Valid DP: 0.1289, Valid EOD: 0.0372
+2024-05-15 18:40:55 - base_loss_optimization/celeba/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/celeba/v001_final/best_f1_state.pth.
+2024-05-15 18:40:55 - base_loss_optimization/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/celeba/v001_final/best_loss_state.pth.
+2024-05-15 18:48:10 - base_loss_optimization/celeba/v001_final - INFO - Epoch [12/50], Loss: 0.0606, Valid Acc: 0.9141, Valid F1: 0.9114, Valid DP: 0.1559, Valid EOD: 0.0608
+2024-05-15 18:48:10 - base_loss_optimization/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/celeba/v001_final/best_loss_state.pth.
+2024-05-15 18:55:28 - base_loss_optimization/celeba/v001_final - INFO - Epoch [13/50], Loss: 0.0467, Valid Acc: 0.9123, Valid F1: 0.9110, Valid DP: 0.1498, Valid EOD: 0.0523
+2024-05-15 18:55:29 - base_loss_optimization/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/celeba/v001_final/best_loss_state.pth.
+2024-05-15 19:02:52 - base_loss_optimization/celeba/v001_final - INFO - Epoch [14/50], Loss: 0.0388, Valid Acc: 0.9119, Valid F1: 0.9075, Valid DP: 0.1518, Valid EOD: 0.0628
+2024-05-15 19:02:52 - base_loss_optimization/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/celeba/v001_final/best_loss_state.pth.
+2024-05-15 19:10:23 - base_loss_optimization/celeba/v001_final - INFO - Epoch [15/50], Loss: 0.0331, Valid Acc: 0.9147, Valid F1: 0.9100, Valid DP: 0.1379, Valid EOD: 0.0495
+2024-05-15 19:10:23 - base_loss_optimization/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/celeba/v001_final/best_loss_state.pth.
+2024-05-15 19:17:56 - base_loss_optimization/celeba/v001_final - INFO - Epoch [16/50], Loss: 0.0268, Valid Acc: 0.9148, Valid F1: 0.9118, Valid DP: 0.1475, Valid EOD: 0.0562
+2024-05-15 19:17:56 - base_loss_optimization/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/celeba/v001_final/best_loss_state.pth.
+2024-05-15 19:25:34 - base_loss_optimization/celeba/v001_final - INFO - Epoch [17/50], Loss: 0.0249, Valid Acc: 0.9160, Valid F1: 0.9123, Valid DP: 0.1196, Valid EOD: 0.0266
+2024-05-15 19:25:34 - base_loss_optimization/celeba/v001_final - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/celeba/v001_final/best_eod_state.pth.
+2024-05-15 19:25:34 - base_loss_optimization/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/celeba/v001_final/best_loss_state.pth.
+2024-05-15 19:33:15 - base_loss_optimization/celeba/v001_final - INFO - Epoch [18/50], Loss: 0.0221, Valid Acc: 0.9090, Valid F1: 0.9025, Valid DP: 0.1291, Valid EOD: 0.0493
+2024-05-15 19:33:15 - base_loss_optimization/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/celeba/v001_final/best_loss_state.pth.
+2024-05-15 19:41:01 - base_loss_optimization/celeba/v001_final - INFO - Epoch [19/50], Loss: 0.0189, Valid Acc: 0.9145, Valid F1: 0.9108, Valid DP: 0.1377, Valid EOD: 0.0491
+2024-05-15 19:41:01 - base_loss_optimization/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/celeba/v001_final/best_loss_state.pth.
+2024-05-15 19:48:50 - base_loss_optimization/celeba/v001_final - INFO - Epoch [20/50], Loss: 0.0180, Valid Acc: 0.9153, Valid F1: 0.9119, Valid DP: 0.1354, Valid EOD: 0.0416
+2024-05-15 19:48:50 - base_loss_optimization/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/celeba/v001_final/best_loss_state.pth.
+2024-05-15 19:56:42 - base_loss_optimization/celeba/v001_final - INFO - Epoch [21/50], Loss: 0.0177, Valid Acc: 0.9159, Valid F1: 0.9120, Valid DP: 0.1452, Valid EOD: 0.0571
+2024-05-15 19:56:42 - base_loss_optimization/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/celeba/v001_final/best_loss_state.pth.
+2024-05-15 20:04:38 - base_loss_optimization/celeba/v001_final - INFO - Epoch [22/50], Loss: 0.0158, Valid Acc: 0.9168, Valid F1: 0.9134, Valid DP: 0.1287, Valid EOD: 0.0355
+2024-05-15 20:04:38 - base_loss_optimization/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/celeba/v001_final/best_loss_state.pth.
+2024-05-15 20:12:38 - base_loss_optimization/celeba/v001_final - INFO - Epoch [23/50], Loss: 0.0152, Valid Acc: 0.9153, Valid F1: 0.9132, Valid DP: 0.1368, Valid EOD: 0.0461
+2024-05-15 20:12:38 - base_loss_optimization/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/celeba/v001_final/best_loss_state.pth.
+2024-05-15 20:20:41 - base_loss_optimization/celeba/v001_final - INFO - Epoch [24/50], Loss: 0.0146, Valid Acc: 0.9101, Valid F1: 0.9097, Valid DP: 0.1515, Valid EOD: 0.0501
+2024-05-15 20:20:41 - base_loss_optimization/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/celeba/v001_final/best_loss_state.pth.
+2024-05-15 20:28:49 - base_loss_optimization/celeba/v001_final - INFO - Epoch [25/50], Loss: 0.0136, Valid Acc: 0.9146, Valid F1: 0.9113, Valid DP: 0.1341, Valid EOD: 0.0427
+2024-05-15 20:28:49 - base_loss_optimization/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/celeba/v001_final/best_loss_state.pth.
+2024-05-15 20:37:04 - base_loss_optimization/celeba/v001_final - INFO - Epoch [26/50], Loss: 0.0129, Valid Acc: 0.9163, Valid F1: 0.9120, Valid DP: 0.1305, Valid EOD: 0.0398
+2024-05-15 20:37:04 - base_loss_optimization/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/celeba/v001_final/best_loss_state.pth.
+2024-05-15 20:45:23 - base_loss_optimization/celeba/v001_final - INFO - Epoch [27/50], Loss: 0.0137, Valid Acc: 0.9153, Valid F1: 0.9121, Valid DP: 0.1327, Valid EOD: 0.0408
+2024-05-15 20:53:45 - base_loss_optimization/celeba/v001_final - INFO - Epoch [28/50], Loss: 0.0124, Valid Acc: 0.9161, Valid F1: 0.9124, Valid DP: 0.1221, Valid EOD: 0.0336
+2024-05-15 20:53:45 - base_loss_optimization/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/celeba/v001_final/best_loss_state.pth.
+2024-05-15 21:02:06 - base_loss_optimization/celeba/v001_final - INFO - Epoch [29/50], Loss: 0.0107, Valid Acc: 0.9162, Valid F1: 0.9123, Valid DP: 0.1351, Valid EOD: 0.0435
+2024-05-15 21:02:06 - base_loss_optimization/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/celeba/v001_final/best_loss_state.pth.
+2024-05-15 21:10:32 - base_loss_optimization/celeba/v001_final - INFO - Epoch [30/50], Loss: 0.0130, Valid Acc: 0.9154, Valid F1: 0.9105, Valid DP: 0.1327, Valid EOD: 0.0458
+2024-05-15 21:19:03 - base_loss_optimization/celeba/v001_final - INFO - Epoch [31/50], Loss: 0.0112, Valid Acc: 0.9158, Valid F1: 0.9136, Valid DP: 0.1421, Valid EOD: 0.0462
+2024-05-15 21:28:27 - base_loss_optimization/celeba/v001_final - INFO - Epoch [32/50], Loss: 0.0098, Valid Acc: 0.9159, Valid F1: 0.9122, Valid DP: 0.1289, Valid EOD: 0.0404
+2024-05-15 21:28:27 - base_loss_optimization/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/celeba/v001_final/best_loss_state.pth.
+2024-05-15 21:43:39 - base_loss_optimization/celeba/v001_final - INFO - Epoch [33/50], Loss: 0.0093, Valid Acc: 0.9129, Valid F1: 0.9091, Valid DP: 0.1192, Valid EOD: 0.0293
+2024-05-15 21:43:39 - base_loss_optimization/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/celeba/v001_final/best_loss_state.pth.
+2024-05-15 21:52:23 - base_loss_optimization/celeba/v001_final - INFO - Epoch [34/50], Loss: 0.0102, Valid Acc: 0.9144, Valid F1: 0.9107, Valid DP: 0.1223, Valid EOD: 0.0314
+2024-05-15 22:01:10 - base_loss_optimization/celeba/v001_final - INFO - Epoch [35/50], Loss: 0.0103, Valid Acc: 0.9161, Valid F1: 0.9127, Valid DP: 0.1307, Valid EOD: 0.0380
+2024-05-15 22:10:00 - base_loss_optimization/celeba/v001_final - INFO - Epoch [36/50], Loss: 0.0100, Valid Acc: 0.9155, Valid F1: 0.9107, Valid DP: 0.1348, Valid EOD: 0.0489
+2024-05-15 22:18:58 - base_loss_optimization/celeba/v001_final - INFO - Epoch [37/50], Loss: 0.0090, Valid Acc: 0.9143, Valid F1: 0.9110, Valid DP: 0.1339, Valid EOD: 0.0415
+2024-05-15 22:18:58 - base_loss_optimization/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/celeba/v001_final/best_loss_state.pth.
+2024-05-15 22:27:58 - base_loss_optimization/celeba/v001_final - INFO - Epoch [38/50], Loss: 0.0080, Valid Acc: 0.9177, Valid F1: 0.9142, Valid DP: 0.1401, Valid EOD: 0.0499
+2024-05-15 22:27:59 - base_loss_optimization/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/celeba/v001_final/best_loss_state.pth.
+2024-05-15 22:37:03 - base_loss_optimization/celeba/v001_final - INFO - Epoch [39/50], Loss: 0.0085, Valid Acc: 0.9148, Valid F1: 0.9100, Valid DP: 0.1296, Valid EOD: 0.0405
+2024-05-15 22:46:12 - base_loss_optimization/celeba/v001_final - INFO - Epoch [40/50], Loss: 0.0083, Valid Acc: 0.9127, Valid F1: 0.9090, Valid DP: 0.1326, Valid EOD: 0.0435
+2024-05-15 22:55:23 - base_loss_optimization/celeba/v001_final - INFO - Epoch [41/50], Loss: 0.0087, Valid Acc: 0.9171, Valid F1: 0.9148, Valid DP: 0.1308, Valid EOD: 0.0353
+2024-05-15 23:04:40 - base_loss_optimization/celeba/v001_final - INFO - Epoch [42/50], Loss: 0.0084, Valid Acc: 0.9181, Valid F1: 0.9146, Valid DP: 0.1458, Valid EOD: 0.0544
+2024-05-15 23:14:02 - base_loss_optimization/celeba/v001_final - INFO - Epoch [43/50], Loss: 0.0074, Valid Acc: 0.9136, Valid F1: 0.9098, Valid DP: 0.1526, Valid EOD: 0.0648
+2024-05-15 23:14:02 - base_loss_optimization/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/celeba/v001_final/best_loss_state.pth.
+2024-05-15 23:23:27 - base_loss_optimization/celeba/v001_final - INFO - Epoch [44/50], Loss: 0.0069, Valid Acc: 0.9169, Valid F1: 0.9137, Valid DP: 0.1327, Valid EOD: 0.0399
+2024-05-15 23:23:27 - base_loss_optimization/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/celeba/v001_final/best_loss_state.pth.
+2024-05-15 23:32:58 - base_loss_optimization/celeba/v001_final - INFO - Epoch [45/50], Loss: 0.0080, Valid Acc: 0.9149, Valid F1: 0.9117, Valid DP: 0.1395, Valid EOD: 0.0502
+2024-05-15 23:42:34 - base_loss_optimization/celeba/v001_final - INFO - Epoch [46/50], Loss: 0.0064, Valid Acc: 0.9159, Valid F1: 0.9116, Valid DP: 0.1436, Valid EOD: 0.0522
+2024-05-15 23:42:34 - base_loss_optimization/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/celeba/v001_final/best_loss_state.pth.
+2024-05-15 23:52:10 - base_loss_optimization/celeba/v001_final - INFO - Epoch [47/50], Loss: 0.0076, Valid Acc: 0.9165, Valid F1: 0.9129, Valid DP: 0.1348, Valid EOD: 0.0446
+2024-05-16 00:01:54 - base_loss_optimization/celeba/v001_final - INFO - Epoch [48/50], Loss: 0.0064, Valid Acc: 0.9143, Valid F1: 0.9094, Valid DP: 0.1387, Valid EOD: 0.0559
+2024-05-16 00:01:54 - base_loss_optimization/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/celeba/v001_final/best_loss_state.pth.
+2024-05-16 00:11:40 - base_loss_optimization/celeba/v001_final - INFO - Epoch [49/50], Loss: 0.0063, Valid Acc: 0.9186, Valid F1: 0.9158, Valid DP: 0.1401, Valid EOD: 0.0456
+2024-05-16 00:11:41 - base_loss_optimization/celeba/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/celeba/v001_final/best_f1_state.pth.
+2024-05-16 00:11:41 - base_loss_optimization/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/celeba/v001_final/best_loss_state.pth.
+2024-05-16 00:21:31 - base_loss_optimization/celeba/v001_final - INFO - Epoch [50/50], Loss: 0.0067, Valid Acc: 0.9177, Valid F1: 0.9145, Valid DP: 0.1247, Valid EOD: 0.0394
+2024-05-16 00:21:31 - base_loss_optimization/celeba/v001_final - INFO - Saved model final to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/celeba/v001_final/final_state.pth.
+2024-05-16 00:21:31 - base_loss_optimization/celeba/v001_final - INFO - Model and metrics saved.
+2024-05-16 00:21:31 - base_loss_optimization/celeba/v001_final - INFO - Training finished.

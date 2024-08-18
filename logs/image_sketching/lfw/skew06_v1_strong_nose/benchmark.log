@@ -1,0 +1,121 @@
+2024-07-07 12:25:41 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Start image sketching benchmark benchmark.
+2024-07-07 12:25:44 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Training started.
+2024-07-07 12:25:54 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [1/100], Loss: 2.0909, Valid Acc: 0.5865, Valid F1: 0.0000, Valid DP: 0.0000, Valid EOD: 0.0000
+2024-07-07 12:25:54 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/image_sketching/lfw/skew06_v1_strong_nose/best_loss_state.pth.
+2024-07-07 12:26:03 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [2/100], Loss: 0.8143, Valid Acc: 0.5966, Valid F1: 0.0612, Valid DP: 0.0328, Valid EOD: 0.0203
+2024-07-07 12:26:03 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/image_sketching/lfw/skew06_v1_strong_nose/best_f1_state.pth.
+2024-07-07 12:26:03 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/image_sketching/lfw/skew06_v1_strong_nose/best_eod_state.pth.
+2024-07-07 12:26:03 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/image_sketching/lfw/skew06_v1_strong_nose/best_loss_state.pth.
+2024-07-07 12:26:11 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [3/100], Loss: 1.1732, Valid Acc: 0.6036, Valid F1: 0.0968, Valid DP: 0.0546, Valid EOD: 0.0335
+2024-07-07 12:26:12 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/image_sketching/lfw/skew06_v1_strong_nose/best_f1_state.pth.
+2024-07-07 12:26:20 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [4/100], Loss: 1.4620, Valid Acc: 0.6491, Valid F1: 0.3288, Valid DP: 0.2478, Valid EOD: 0.1885
+2024-07-07 12:26:20 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/image_sketching/lfw/skew06_v1_strong_nose/best_f1_state.pth.
+2024-07-07 12:26:29 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [5/100], Loss: 2.3016, Valid Acc: 0.7371, Valid F1: 0.6012, Valid DP: 0.6136, Valid EOD: 0.4866
+2024-07-07 12:26:29 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/image_sketching/lfw/skew06_v1_strong_nose/best_f1_state.pth.
+2024-07-07 12:26:38 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [6/100], Loss: 3.0895, Valid Acc: 0.8079, Valid F1: 0.7903, Valid DP: 0.5805, Valid EOD: 0.2397
+2024-07-07 12:26:38 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/image_sketching/lfw/skew06_v1_strong_nose/best_f1_state.pth.
+2024-07-07 12:26:47 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [7/100], Loss: 2.9566, Valid Acc: 0.8655, Valid F1: 0.8327, Valid DP: 0.6925, Valid EOD: 0.2627
+2024-07-07 12:26:47 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/image_sketching/lfw/skew06_v1_strong_nose/best_f1_state.pth.
+2024-07-07 12:26:56 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [8/100], Loss: 3.2156, Valid Acc: 0.8817, Valid F1: 0.8458, Valid DP: 0.7308, Valid EOD: 0.2979
+2024-07-07 12:26:56 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/image_sketching/lfw/skew06_v1_strong_nose/best_f1_state.pth.
+2024-07-07 12:27:06 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [9/100], Loss: 3.4250, Valid Acc: 0.8746, Valid F1: 0.8469, Valid DP: 0.6804, Valid EOD: 0.2185
+2024-07-07 12:27:06 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/image_sketching/lfw/skew06_v1_strong_nose/best_f1_state.pth.
+2024-07-07 12:27:15 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [10/100], Loss: 3.3042, Valid Acc: 0.8787, Valid F1: 0.8492, Valid DP: 0.6979, Valid EOD: 0.2410
+2024-07-07 12:27:15 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/image_sketching/lfw/skew06_v1_strong_nose/best_f1_state.pth.
+2024-07-07 12:27:25 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [11/100], Loss: 3.2720, Valid Acc: 0.8595, Valid F1: 0.8088, Valid DP: 0.6784, Valid EOD: 0.2816
+2024-07-07 12:27:34 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [12/100], Loss: 3.3685, Valid Acc: 0.8554, Valid F1: 0.8000, Valid DP: 0.6934, Valid EOD: 0.3176
+2024-07-07 12:27:44 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [13/100], Loss: 3.2583, Valid Acc: 0.8857, Valid F1: 0.8643, Valid DP: 0.6847, Valid EOD: 0.1912
+2024-07-07 12:27:44 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/image_sketching/lfw/skew06_v1_strong_nose/best_f1_state.pth.
+2024-07-07 12:27:54 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [14/100], Loss: 3.2497, Valid Acc: 0.8483, Valid F1: 0.7807, Valid DP: 0.7188, Valid EOD: 0.3835
+2024-07-07 12:28:04 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [15/100], Loss: 3.3176, Valid Acc: 0.8918, Valid F1: 0.8725, Valid DP: 0.6640, Valid EOD: 0.1444
+2024-07-07 12:28:04 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/image_sketching/lfw/skew06_v1_strong_nose/best_f1_state.pth.
+2024-07-07 12:28:14 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [16/100], Loss: 3.2311, Valid Acc: 0.8392, Valid F1: 0.8303, Valid DP: 0.5748, Valid EOD: 0.2397
+2024-07-07 12:28:24 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [17/100], Loss: 3.2471, Valid Acc: 0.8878, Valid F1: 0.8645, Valid DP: 0.6890, Valid EOD: 0.1985
+2024-07-07 12:28:35 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [18/100], Loss: 3.3134, Valid Acc: 0.8878, Valid F1: 0.8677, Valid DP: 0.6904, Valid EOD: 0.1929
+2024-07-07 12:28:45 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [19/100], Loss: 3.3112, Valid Acc: 0.9029, Valid F1: 0.8800, Valid DP: 0.7193, Valid EOD: 0.2173
+2024-07-07 12:28:45 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/image_sketching/lfw/skew06_v1_strong_nose/best_f1_state.pth.
+2024-07-07 12:28:56 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [20/100], Loss: 3.3401, Valid Acc: 0.8888, Valid F1: 0.8639, Valid DP: 0.6895, Valid EOD: 0.2013
+2024-07-07 12:29:07 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [21/100], Loss: 3.3150, Valid Acc: 0.8918, Valid F1: 0.8667, Valid DP: 0.7023, Valid EOD: 0.2157
+2024-07-07 12:29:18 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [22/100], Loss: 3.2573, Valid Acc: 0.8898, Valid F1: 0.8533, Valid DP: 0.6980, Valid EOD: 0.2371
+2024-07-07 12:29:29 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [23/100], Loss: 3.2891, Valid Acc: 0.8959, Valid F1: 0.8717, Valid DP: 0.7155, Valid EOD: 0.2264
+2024-07-07 12:29:40 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [24/100], Loss: 3.2744, Valid Acc: 0.8878, Valid F1: 0.8579, Valid DP: 0.6968, Valid EOD: 0.2250
+2024-07-07 12:29:51 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [25/100], Loss: 3.2562, Valid Acc: 0.8908, Valid F1: 0.8650, Valid DP: 0.7061, Valid EOD: 0.2247
+2024-07-07 12:30:03 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [26/100], Loss: 3.3548, Valid Acc: 0.8524, Valid F1: 0.8396, Valid DP: 0.5953, Valid EOD: 0.2052
+2024-07-07 12:30:15 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [27/100], Loss: 3.2676, Valid Acc: 0.8837, Valid F1: 0.8444, Valid DP: 0.7492, Valid EOD: 0.3286
+2024-07-07 12:30:26 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [28/100], Loss: 3.2857, Valid Acc: 0.8888, Valid F1: 0.8618, Valid DP: 0.6979, Valid EOD: 0.2185
+2024-07-07 12:30:38 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [29/100], Loss: 3.3007, Valid Acc: 0.8959, Valid F1: 0.8724, Valid DP: 0.7105, Valid EOD: 0.2173
+2024-07-07 12:30:49 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [30/100], Loss: 3.3758, Valid Acc: 0.8918, Valid F1: 0.8674, Valid DP: 0.7105, Valid EOD: 0.2264
+2024-07-07 12:31:01 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [31/100], Loss: 3.2567, Valid Acc: 0.9090, Valid F1: 0.8883, Valid DP: 0.7052, Valid EOD: 0.1805
+2024-07-07 12:31:01 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/image_sketching/lfw/skew06_v1_strong_nose/best_f1_state.pth.
+2024-07-07 12:31:13 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [32/100], Loss: 3.2998, Valid Acc: 0.8847, Valid F1: 0.8656, Valid DP: 0.6726, Valid EOD: 0.1695
+2024-07-07 12:31:25 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [33/100], Loss: 3.3082, Valid Acc: 0.8938, Valid F1: 0.8766, Valid DP: 0.6689, Valid EOD: 0.1425
+2024-07-07 12:31:37 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [34/100], Loss: 3.2753, Valid Acc: 0.8948, Valid F1: 0.8667, Valid DP: 0.7310, Valid EOD: 0.2607
+2024-07-07 12:31:49 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [35/100], Loss: 3.3532, Valid Acc: 0.8999, Valid F1: 0.8791, Valid DP: 0.6956, Valid EOD: 0.1813
+2024-07-07 12:32:02 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [36/100], Loss: 3.2782, Valid Acc: 0.8979, Valid F1: 0.8767, Valid DP: 0.7022, Valid EOD: 0.1957
+2024-07-07 12:32:14 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [37/100], Loss: 3.2896, Valid Acc: 0.8959, Valid F1: 0.8720, Valid DP: 0.7130, Valid EOD: 0.2219
+2024-07-07 12:32:27 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [38/100], Loss: 3.2895, Valid Acc: 0.8989, Valid F1: 0.8756, Valid DP: 0.7209, Valid EOD: 0.2272
+2024-07-07 12:32:40 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [39/100], Loss: 3.2936, Valid Acc: 0.8959, Valid F1: 0.8752, Valid DP: 0.6881, Valid EOD: 0.1768
+2024-07-07 12:32:53 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [40/100], Loss: 3.3058, Valid Acc: 0.9090, Valid F1: 0.8866, Valid DP: 0.7201, Valid EOD: 0.2075
+2024-07-07 12:33:06 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [41/100], Loss: 3.2603, Valid Acc: 0.9050, Valid F1: 0.8837, Valid DP: 0.7093, Valid EOD: 0.1948
+2024-07-07 12:33:19 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [42/100], Loss: 3.3279, Valid Acc: 0.9039, Valid F1: 0.8837, Valid DP: 0.7047, Valid EOD: 0.1867
+2024-07-07 12:33:32 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [43/100], Loss: 3.2800, Valid Acc: 0.9019, Valid F1: 0.8819, Valid DP: 0.6997, Valid EOD: 0.1822
+2024-07-07 12:33:45 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [44/100], Loss: 3.2809, Valid Acc: 0.9019, Valid F1: 0.8816, Valid DP: 0.7022, Valid EOD: 0.1867
+2024-07-07 12:33:59 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [45/100], Loss: 3.3035, Valid Acc: 0.8999, Valid F1: 0.8794, Valid DP: 0.6997, Valid EOD: 0.1867
+2024-07-07 12:34:12 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [46/100], Loss: 3.2951, Valid Acc: 0.8999, Valid F1: 0.8791, Valid DP: 0.7022, Valid EOD: 0.1912
+2024-07-07 12:34:26 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [47/100], Loss: 3.2809, Valid Acc: 0.8999, Valid F1: 0.8791, Valid DP: 0.7022, Valid EOD: 0.1912
+2024-07-07 12:34:39 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [48/100], Loss: 3.2716, Valid Acc: 0.9009, Valid F1: 0.8808, Valid DP: 0.7050, Valid EOD: 0.1920
+2024-07-07 12:34:53 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [49/100], Loss: 3.3468, Valid Acc: 0.9009, Valid F1: 0.8802, Valid DP: 0.7034, Valid EOD: 0.1912
+2024-07-07 12:35:07 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [50/100], Loss: 3.3082, Valid Acc: 0.9019, Valid F1: 0.8813, Valid DP: 0.7047, Valid EOD: 0.1912
+2024-07-07 12:35:21 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [51/100], Loss: 3.2989, Valid Acc: 0.9029, Valid F1: 0.8824, Valid DP: 0.7059, Valid EOD: 0.1912
+2024-07-07 12:35:35 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [52/100], Loss: 3.2566, Valid Acc: 0.8999, Valid F1: 0.8794, Valid DP: 0.7063, Valid EOD: 0.1965
+2024-07-07 12:35:49 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [53/100], Loss: 3.2715, Valid Acc: 0.9009, Valid F1: 0.8802, Valid DP: 0.7034, Valid EOD: 0.1912
+2024-07-07 12:36:04 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [54/100], Loss: 3.3133, Valid Acc: 0.9019, Valid F1: 0.8813, Valid DP: 0.7047, Valid EOD: 0.1912
+2024-07-07 12:36:18 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [55/100], Loss: 3.2996, Valid Acc: 0.9009, Valid F1: 0.8802, Valid DP: 0.7034, Valid EOD: 0.1912
+2024-07-07 12:36:33 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [56/100], Loss: 3.3268, Valid Acc: 0.9029, Valid F1: 0.8826, Valid DP: 0.7034, Valid EOD: 0.1867
+2024-07-07 12:36:48 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [57/100], Loss: 3.3414, Valid Acc: 0.8999, Valid F1: 0.8794, Valid DP: 0.6997, Valid EOD: 0.1867
+2024-07-07 12:37:03 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [58/100], Loss: 3.3004, Valid Acc: 0.9019, Valid F1: 0.8821, Valid DP: 0.6972, Valid EOD: 0.1777
+2024-07-07 12:37:18 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [59/100], Loss: 3.3268, Valid Acc: 0.8999, Valid F1: 0.8791, Valid DP: 0.6956, Valid EOD: 0.1813
+2024-07-07 12:37:33 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [60/100], Loss: 3.3428, Valid Acc: 0.9019, Valid F1: 0.8819, Valid DP: 0.7063, Valid EOD: 0.1920
+2024-07-07 12:37:48 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [61/100], Loss: 3.3512, Valid Acc: 0.9029, Valid F1: 0.8824, Valid DP: 0.6993, Valid EOD: 0.1813
+2024-07-07 12:38:03 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [62/100], Loss: 3.3233, Valid Acc: 0.9019, Valid F1: 0.8813, Valid DP: 0.6981, Valid EOD: 0.1813
+2024-07-07 12:38:18 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [63/100], Loss: 3.2773, Valid Acc: 0.9029, Valid F1: 0.8829, Valid DP: 0.7075, Valid EOD: 0.1920
+2024-07-07 12:38:34 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [64/100], Loss: 3.3351, Valid Acc: 0.9039, Valid F1: 0.8837, Valid DP: 0.7047, Valid EOD: 0.1867
+2024-07-07 12:38:49 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [65/100], Loss: 3.2723, Valid Acc: 0.9009, Valid F1: 0.8808, Valid DP: 0.7050, Valid EOD: 0.1920
+2024-07-07 12:39:05 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [66/100], Loss: 3.2743, Valid Acc: 0.9029, Valid F1: 0.8824, Valid DP: 0.6993, Valid EOD: 0.1813
+2024-07-07 12:39:21 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [67/100], Loss: 3.3385, Valid Acc: 0.9029, Valid F1: 0.8826, Valid DP: 0.7034, Valid EOD: 0.1867
+2024-07-07 12:39:37 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [68/100], Loss: 3.2562, Valid Acc: 0.9019, Valid F1: 0.8824, Valid DP: 0.7013, Valid EOD: 0.1830
+2024-07-07 12:39:53 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [69/100], Loss: 3.3353, Valid Acc: 0.9039, Valid F1: 0.8837, Valid DP: 0.7047, Valid EOD: 0.1867
+2024-07-07 12:40:09 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [70/100], Loss: 3.3754, Valid Acc: 0.9029, Valid F1: 0.8824, Valid DP: 0.7059, Valid EOD: 0.1912
+2024-07-07 12:40:25 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [71/100], Loss: 3.2950, Valid Acc: 0.9029, Valid F1: 0.8826, Valid DP: 0.7034, Valid EOD: 0.1867
+2024-07-07 12:40:41 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [72/100], Loss: 3.2638, Valid Acc: 0.9019, Valid F1: 0.8819, Valid DP: 0.6997, Valid EOD: 0.1822
+2024-07-07 12:40:58 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [73/100], Loss: 3.2931, Valid Acc: 0.9029, Valid F1: 0.8826, Valid DP: 0.7034, Valid EOD: 0.1867
+2024-07-07 12:41:14 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [74/100], Loss: 3.3389, Valid Acc: 0.9029, Valid F1: 0.8829, Valid DP: 0.7009, Valid EOD: 0.1822
+2024-07-07 12:41:31 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [75/100], Loss: 3.3608, Valid Acc: 0.9039, Valid F1: 0.8837, Valid DP: 0.7047, Valid EOD: 0.1867
+2024-07-07 12:41:48 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [76/100], Loss: 3.3222, Valid Acc: 0.9039, Valid F1: 0.8840, Valid DP: 0.7022, Valid EOD: 0.1822
+2024-07-07 12:42:05 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [77/100], Loss: 3.2703, Valid Acc: 0.9019, Valid F1: 0.8816, Valid DP: 0.7022, Valid EOD: 0.1867
+2024-07-07 12:42:22 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [78/100], Loss: 3.3493, Valid Acc: 0.9050, Valid F1: 0.8845, Valid DP: 0.7084, Valid EOD: 0.1912
+2024-07-07 12:42:39 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [79/100], Loss: 3.2973, Valid Acc: 0.9039, Valid F1: 0.8840, Valid DP: 0.7022, Valid EOD: 0.1822
+2024-07-07 12:42:57 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [80/100], Loss: 3.2921, Valid Acc: 0.9039, Valid F1: 0.8843, Valid DP: 0.6997, Valid EOD: 0.1777
+2024-07-07 12:43:14 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [81/100], Loss: 3.3503, Valid Acc: 0.9029, Valid F1: 0.8824, Valid DP: 0.7059, Valid EOD: 0.1912
+2024-07-07 12:43:31 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [82/100], Loss: 3.2693, Valid Acc: 0.9029, Valid F1: 0.8832, Valid DP: 0.6984, Valid EOD: 0.1777
+2024-07-07 12:43:49 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [83/100], Loss: 3.3110, Valid Acc: 0.9039, Valid F1: 0.8840, Valid DP: 0.7022, Valid EOD: 0.1822
+2024-07-07 12:44:06 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [84/100], Loss: 3.3156, Valid Acc: 0.9029, Valid F1: 0.8829, Valid DP: 0.7009, Valid EOD: 0.1822
+2024-07-07 12:44:24 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [85/100], Loss: 3.2853, Valid Acc: 0.9039, Valid F1: 0.8840, Valid DP: 0.7022, Valid EOD: 0.1822
+2024-07-07 12:44:42 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [86/100], Loss: 3.3477, Valid Acc: 0.9039, Valid F1: 0.8834, Valid DP: 0.7071, Valid EOD: 0.1912
+2024-07-07 12:45:01 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [87/100], Loss: 3.2578, Valid Acc: 0.9039, Valid F1: 0.8840, Valid DP: 0.7022, Valid EOD: 0.1822
+2024-07-07 12:45:19 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [88/100], Loss: 3.3663, Valid Acc: 0.9039, Valid F1: 0.8840, Valid DP: 0.7022, Valid EOD: 0.1822
+2024-07-07 12:45:37 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [89/100], Loss: 3.2823, Valid Acc: 0.9029, Valid F1: 0.8826, Valid DP: 0.7034, Valid EOD: 0.1867
+2024-07-07 12:45:55 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [90/100], Loss: 3.3107, Valid Acc: 0.9039, Valid F1: 0.8843, Valid DP: 0.6997, Valid EOD: 0.1777
+2024-07-07 12:46:14 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [91/100], Loss: 3.3432, Valid Acc: 0.9039, Valid F1: 0.8843, Valid DP: 0.6997, Valid EOD: 0.1777
+2024-07-07 12:46:32 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [92/100], Loss: 3.3902, Valid Acc: 0.9039, Valid F1: 0.8837, Valid DP: 0.7047, Valid EOD: 0.1867
+2024-07-07 12:46:51 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [93/100], Loss: 3.2420, Valid Acc: 0.9039, Valid F1: 0.8843, Valid DP: 0.6997, Valid EOD: 0.1777
+2024-07-07 12:47:10 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [94/100], Loss: 3.3469, Valid Acc: 0.9050, Valid F1: 0.8848, Valid DP: 0.7059, Valid EOD: 0.1867
+2024-07-07 12:47:29 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [95/100], Loss: 3.3307, Valid Acc: 0.9060, Valid F1: 0.8862, Valid DP: 0.7047, Valid EOD: 0.1822
+2024-07-07 12:47:47 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [96/100], Loss: 3.2880, Valid Acc: 0.9060, Valid F1: 0.8862, Valid DP: 0.7047, Valid EOD: 0.1822
+2024-07-07 12:48:07 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [97/100], Loss: 3.3169, Valid Acc: 0.9029, Valid F1: 0.8829, Valid DP: 0.7009, Valid EOD: 0.1822
+2024-07-07 12:48:26 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [98/100], Loss: 3.3104, Valid Acc: 0.9050, Valid F1: 0.8848, Valid DP: 0.7059, Valid EOD: 0.1867
+2024-07-07 12:48:45 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [99/100], Loss: 3.3386, Valid Acc: 0.9050, Valid F1: 0.8848, Valid DP: 0.7059, Valid EOD: 0.1867
+2024-07-07 12:49:04 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Epoch [100/100], Loss: 3.3129, Valid Acc: 0.9060, Valid F1: 0.8862, Valid DP: 0.7047, Valid EOD: 0.1822
+2024-07-07 12:49:05 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Saved model final to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/image_sketching/lfw/skew06_v1_strong_nose/final_state.pth.
+2024-07-07 12:49:05 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Model and metrics saved.
+2024-07-07 12:49:05 - image_sketching/lfw/skew06_v1_strong_nose - INFO - Training finished.

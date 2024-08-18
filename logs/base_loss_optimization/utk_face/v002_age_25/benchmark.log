@@ -1,0 +1,178 @@
+2024-05-20 14:39:38 - base_loss_optimization/utk_face/v002_age_25 - INFO - Start base loss benchmark.
+2024-05-20 14:39:38 - base_loss_optimization/utk_face/v002_age_25 - INFO - Training started.
+2024-05-20 14:39:58 - base_loss_optimization/utk_face/v002_age_25 - INFO - Warning: Class 2 has only 6 predictions.
+2024-05-20 14:39:58 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [1/100], Loss: 0.9024, Valid Acc: 0.6399, Valid F1: 0.4458, Valid DP: 0.6597, Valid EOD: 0.7989
+2024-05-20 14:39:58 - base_loss_optimization/utk_face/v002_age_25 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/utk_face/v002_age_25/best_f1_state.pth.
+2024-05-20 14:39:58 - base_loss_optimization/utk_face/v002_age_25 - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/utk_face/v002_age_25/best_eod_state.pth.
+2024-05-20 14:39:58 - base_loss_optimization/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 14:40:18 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [2/100], Loss: 0.5175, Valid Acc: 0.7426, Valid F1: 0.4845, Valid DP: 0.8607, Valid EOD: 0.9868
+2024-05-20 14:40:18 - base_loss_optimization/utk_face/v002_age_25 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/utk_face/v002_age_25/best_f1_state.pth.
+2024-05-20 14:40:18 - base_loss_optimization/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 14:40:38 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [3/100], Loss: 0.4532, Valid Acc: 0.7644, Valid F1: 0.6605, Valid DP: 0.7842, Valid EOD: 0.5653
+2024-05-20 14:40:38 - base_loss_optimization/utk_face/v002_age_25 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/utk_face/v002_age_25/best_f1_state.pth.
+2024-05-20 14:40:38 - base_loss_optimization/utk_face/v002_age_25 - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/utk_face/v002_age_25/best_eod_state.pth.
+2024-05-20 14:40:38 - base_loss_optimization/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 14:40:57 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [4/100], Loss: 0.3810, Valid Acc: 0.7131, Valid F1: 0.6325, Valid DP: 0.5657, Valid EOD: 0.4465
+2024-05-20 14:40:58 - base_loss_optimization/utk_face/v002_age_25 - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/utk_face/v002_age_25/best_eod_state.pth.
+2024-05-20 14:40:58 - base_loss_optimization/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 14:41:17 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [5/100], Loss: 0.3354, Valid Acc: 0.6649, Valid F1: 0.5712, Valid DP: 0.5888, Valid EOD: 0.5083
+2024-05-20 14:41:17 - base_loss_optimization/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 14:41:37 - base_loss_optimization/utk_face/v002_age_25 - INFO - Warning: Class 2 has only 90 predictions.
+2024-05-20 14:41:37 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [6/100], Loss: 0.2721, Valid Acc: 0.7778, Valid F1: 0.6830, Valid DP: 0.7417, Valid EOD: 0.5726
+2024-05-20 14:41:37 - base_loss_optimization/utk_face/v002_age_25 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/utk_face/v002_age_25/best_f1_state.pth.
+2024-05-20 14:41:37 - base_loss_optimization/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 14:41:57 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [7/100], Loss: 0.2254, Valid Acc: 0.7208, Valid F1: 0.6446, Valid DP: 0.5425, Valid EOD: 0.3560
+2024-05-20 14:41:57 - base_loss_optimization/utk_face/v002_age_25 - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/utk_face/v002_age_25/best_eod_state.pth.
+2024-05-20 14:41:57 - base_loss_optimization/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 14:42:17 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [8/100], Loss: 0.1980, Valid Acc: 0.6990, Valid F1: 0.6384, Valid DP: 0.4284, Valid EOD: 0.2123
+2024-05-20 14:42:17 - base_loss_optimization/utk_face/v002_age_25 - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/utk_face/v002_age_25/best_eod_state.pth.
+2024-05-20 14:42:17 - base_loss_optimization/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 14:42:37 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [9/100], Loss: 0.1390, Valid Acc: 0.7423, Valid F1: 0.6660, Valid DP: 0.6172, Valid EOD: 0.3284
+2024-05-20 14:42:37 - base_loss_optimization/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 14:42:57 - base_loss_optimization/utk_face/v002_age_25 - INFO - Warning: Class 2 has only 78 predictions.
+2024-05-20 14:42:57 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [10/100], Loss: 0.1248, Valid Acc: 0.7739, Valid F1: 0.6773, Valid DP: 0.7083, Valid EOD: 0.5773
+2024-05-20 14:42:57 - base_loss_optimization/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 14:43:17 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [11/100], Loss: 0.1202, Valid Acc: 0.6874, Valid F1: 0.6110, Valid DP: 0.4417, Valid EOD: 0.2697
+2024-05-20 14:43:17 - base_loss_optimization/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 14:43:37 - base_loss_optimization/utk_face/v002_age_25 - INFO - Warning: Class 2 has only 50 predictions.
+2024-05-20 14:43:37 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [12/100], Loss: 0.0806, Valid Acc: 0.7198, Valid F1: 0.6078, Valid DP: 0.6658, Valid EOD: 0.6351
+2024-05-20 14:43:37 - base_loss_optimization/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 14:43:57 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [13/100], Loss: 0.0795, Valid Acc: 0.7595, Valid F1: 0.6868, Valid DP: 0.6877, Valid EOD: 0.5077
+2024-05-20 14:43:57 - base_loss_optimization/utk_face/v002_age_25 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/utk_face/v002_age_25/best_f1_state.pth.
+2024-05-20 14:43:57 - base_loss_optimization/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 14:44:17 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [14/100], Loss: 0.0694, Valid Acc: 0.7704, Valid F1: 0.6884, Valid DP: 0.7190, Valid EOD: 0.4348
+2024-05-20 14:44:17 - base_loss_optimization/utk_face/v002_age_25 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/utk_face/v002_age_25/best_f1_state.pth.
+2024-05-20 14:44:17 - base_loss_optimization/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 14:44:37 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [15/100], Loss: 0.0523, Valid Acc: 0.7746, Valid F1: 0.7136, Valid DP: 0.6374, Valid EOD: 0.3514
+2024-05-20 14:44:37 - base_loss_optimization/utk_face/v002_age_25 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/utk_face/v002_age_25/best_f1_state.pth.
+2024-05-20 14:44:37 - base_loss_optimization/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 14:44:57 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [16/100], Loss: 0.0478, Valid Acc: 0.7838, Valid F1: 0.7082, Valid DP: 0.6910, Valid EOD: 0.4176
+2024-05-20 14:44:57 - base_loss_optimization/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 14:45:17 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [17/100], Loss: 0.0386, Valid Acc: 0.7866, Valid F1: 0.7167, Valid DP: 0.7128, Valid EOD: 0.4135
+2024-05-20 14:45:17 - base_loss_optimization/utk_face/v002_age_25 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/utk_face/v002_age_25/best_f1_state.pth.
+2024-05-20 14:45:17 - base_loss_optimization/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 14:45:38 - base_loss_optimization/utk_face/v002_age_25 - INFO - Warning: Class 2 has only 79 predictions.
+2024-05-20 14:45:38 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [18/100], Loss: 0.0316, Valid Acc: 0.7746, Valid F1: 0.6824, Valid DP: 0.7063, Valid EOD: 0.5647
+2024-05-20 14:45:38 - base_loss_optimization/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 14:45:58 - base_loss_optimization/utk_face/v002_age_25 - INFO - Warning: Class 2 has only 47 predictions.
+2024-05-20 14:45:58 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [19/100], Loss: 0.0228, Valid Acc: 0.7753, Valid F1: 0.6380, Valid DP: 0.7185, Valid EOD: 0.7053
+2024-05-20 14:45:58 - base_loss_optimization/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 14:46:18 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [20/100], Loss: 0.0194, Valid Acc: 0.7781, Valid F1: 0.7102, Valid DP: 0.7097, Valid EOD: 0.4325
+2024-05-20 14:46:18 - base_loss_optimization/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 14:46:38 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [21/100], Loss: 0.0167, Valid Acc: 0.7802, Valid F1: 0.7199, Valid DP: 0.6975, Valid EOD: 0.3854
+2024-05-20 14:46:38 - base_loss_optimization/utk_face/v002_age_25 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/utk_face/v002_age_25/best_f1_state.pth.
+2024-05-20 14:46:38 - base_loss_optimization/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 14:46:58 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [22/100], Loss: 0.0145, Valid Acc: 0.7869, Valid F1: 0.7036, Valid DP: 0.7274, Valid EOD: 0.5433
+2024-05-20 14:46:58 - base_loss_optimization/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 14:47:18 - base_loss_optimization/utk_face/v002_age_25 - INFO - Warning: Class 2 has only 90 predictions.
+2024-05-20 14:47:18 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [23/100], Loss: 0.0122, Valid Acc: 0.7760, Valid F1: 0.6988, Valid DP: 0.6956, Valid EOD: 0.5412
+2024-05-20 14:47:18 - base_loss_optimization/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 14:47:39 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [24/100], Loss: 0.0103, Valid Acc: 0.7335, Valid F1: 0.6503, Valid DP: 0.6196, Valid EOD: 0.4376
+2024-05-20 14:47:39 - base_loss_optimization/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 14:47:59 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [25/100], Loss: 0.0089, Valid Acc: 0.7841, Valid F1: 0.7235, Valid DP: 0.6695, Valid EOD: 0.3424
+2024-05-20 14:47:59 - base_loss_optimization/utk_face/v002_age_25 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/utk_face/v002_age_25/best_f1_state.pth.
+2024-05-20 14:47:59 - base_loss_optimization/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 14:48:19 - base_loss_optimization/utk_face/v002_age_25 - INFO - Warning: Class 2 has only 72 predictions.
+2024-05-20 14:48:19 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [26/100], Loss: 0.0076, Valid Acc: 0.7753, Valid F1: 0.6723, Valid DP: 0.7033, Valid EOD: 0.6089
+2024-05-20 14:48:19 - base_loss_optimization/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 14:48:39 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [27/100], Loss: 0.0058, Valid Acc: 0.7795, Valid F1: 0.7215, Valid DP: 0.6712, Valid EOD: 0.3569
+2024-05-20 14:48:39 - base_loss_optimization/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 14:49:00 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [28/100], Loss: 0.0050, Valid Acc: 0.7809, Valid F1: 0.7160, Valid DP: 0.6670, Valid EOD: 0.4542
+2024-05-20 14:49:00 - base_loss_optimization/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 14:49:20 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [29/100], Loss: 0.0050, Valid Acc: 0.7743, Valid F1: 0.7036, Valid DP: 0.6755, Valid EOD: 0.3855
+2024-05-20 14:49:20 - base_loss_optimization/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 14:49:41 - base_loss_optimization/utk_face/v002_age_25 - INFO - Warning: Class 2 has only 98 predictions.
+2024-05-20 14:49:41 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [30/100], Loss: 0.0043, Valid Acc: 0.7880, Valid F1: 0.7137, Valid DP: 0.6998, Valid EOD: 0.5012
+2024-05-20 14:49:41 - base_loss_optimization/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 14:50:01 - base_loss_optimization/utk_face/v002_age_25 - INFO - Warning: Class 2 has only 68 predictions.
+2024-05-20 14:50:01 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [31/100], Loss: 0.0048, Valid Acc: 0.7799, Valid F1: 0.6776, Valid DP: 0.7053, Valid EOD: 0.6022
+2024-05-20 14:50:21 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [32/100], Loss: 0.0065, Valid Acc: 0.7693, Valid F1: 0.6972, Valid DP: 0.6487, Valid EOD: 0.3507
+2024-05-20 14:50:42 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [33/100], Loss: 0.0051, Valid Acc: 0.7897, Valid F1: 0.7144, Valid DP: 0.7243, Valid EOD: 0.4861
+2024-05-20 14:51:03 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [34/100], Loss: 0.0067, Valid Acc: 0.6899, Valid F1: 0.5995, Valid DP: 0.5961, Valid EOD: 0.4898
+2024-05-20 14:51:23 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [35/100], Loss: 0.0146, Valid Acc: 0.7683, Valid F1: 0.7008, Valid DP: 0.7045, Valid EOD: 0.4028
+2024-05-20 14:51:44 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [36/100], Loss: 0.0734, Valid Acc: 0.7222, Valid F1: 0.6660, Valid DP: 0.5046, Valid EOD: 0.2149
+2024-05-20 14:52:04 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [37/100], Loss: 0.1373, Valid Acc: 0.7187, Valid F1: 0.6392, Valid DP: 0.5727, Valid EOD: 0.4023
+2024-05-20 14:52:25 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [38/100], Loss: 0.1071, Valid Acc: 0.7546, Valid F1: 0.6702, Valid DP: 0.6828, Valid EOD: 0.4225
+2024-05-20 14:52:45 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [39/100], Loss: 0.0787, Valid Acc: 0.7504, Valid F1: 0.6708, Valid DP: 0.6414, Valid EOD: 0.3953
+2024-05-20 14:53:06 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [40/100], Loss: 0.0528, Valid Acc: 0.7380, Valid F1: 0.6509, Valid DP: 0.6647, Valid EOD: 0.4431
+2024-05-20 14:53:27 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [41/100], Loss: 0.0392, Valid Acc: 0.7676, Valid F1: 0.6964, Valid DP: 0.7223, Valid EOD: 0.4512
+2024-05-20 14:53:48 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [42/100], Loss: 0.0477, Valid Acc: 0.7489, Valid F1: 0.6818, Valid DP: 0.5897, Valid EOD: 0.3062
+2024-05-20 14:54:08 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [43/100], Loss: 0.0350, Valid Acc: 0.7852, Valid F1: 0.7076, Valid DP: 0.7138, Valid EOD: 0.4990
+2024-05-20 14:54:29 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [44/100], Loss: 0.0318, Valid Acc: 0.7809, Valid F1: 0.7140, Valid DP: 0.7007, Valid EOD: 0.4274
+2024-05-20 14:54:50 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [45/100], Loss: 0.0295, Valid Acc: 0.7718, Valid F1: 0.6998, Valid DP: 0.6795, Valid EOD: 0.3945
+2024-05-20 14:55:11 - base_loss_optimization/utk_face/v002_age_25 - INFO - Warning: Class 2 has only 49 predictions.
+2024-05-20 14:55:11 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [46/100], Loss: 0.0208, Valid Acc: 0.7778, Valid F1: 0.6431, Valid DP: 0.7462, Valid EOD: 0.7293
+2024-05-20 14:55:32 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [47/100], Loss: 0.0169, Valid Acc: 0.7637, Valid F1: 0.7010, Valid DP: 0.6501, Valid EOD: 0.4435
+2024-05-20 14:55:53 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [48/100], Loss: 0.0152, Valid Acc: 0.7732, Valid F1: 0.7073, Valid DP: 0.6384, Valid EOD: 0.3199
+2024-05-20 14:56:13 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [49/100], Loss: 0.0082, Valid Acc: 0.7880, Valid F1: 0.7181, Valid DP: 0.7151, Valid EOD: 0.4446
+2024-05-20 14:56:34 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [50/100], Loss: 0.0080, Valid Acc: 0.7880, Valid F1: 0.7195, Valid DP: 0.6910, Valid EOD: 0.4241
+2024-05-20 14:56:55 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [51/100], Loss: 0.0060, Valid Acc: 0.7890, Valid F1: 0.7288, Valid DP: 0.6611, Valid EOD: 0.3998
+2024-05-20 14:56:55 - base_loss_optimization/utk_face/v002_age_25 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/utk_face/v002_age_25/best_f1_state.pth.
+2024-05-20 14:57:16 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [52/100], Loss: 0.0059, Valid Acc: 0.7848, Valid F1: 0.7194, Valid DP: 0.6601, Valid EOD: 0.3349
+2024-05-20 14:57:38 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [53/100], Loss: 0.0039, Valid Acc: 0.7961, Valid F1: 0.7233, Valid DP: 0.7058, Valid EOD: 0.4661
+2024-05-20 14:57:38 - base_loss_optimization/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 14:57:59 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [54/100], Loss: 0.0036, Valid Acc: 0.7957, Valid F1: 0.7223, Valid DP: 0.7097, Valid EOD: 0.4573
+2024-05-20 14:57:59 - base_loss_optimization/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 14:58:20 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [55/100], Loss: 0.0037, Valid Acc: 0.7964, Valid F1: 0.7263, Valid DP: 0.7084, Valid EOD: 0.4434
+2024-05-20 14:58:41 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [56/100], Loss: 0.0037, Valid Acc: 0.7911, Valid F1: 0.7219, Valid DP: 0.6899, Valid EOD: 0.3961
+2024-05-20 14:59:02 - base_loss_optimization/utk_face/v002_age_25 - INFO - Warning: Class 2 has only 85 predictions.
+2024-05-20 14:59:02 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [57/100], Loss: 0.0036, Valid Acc: 0.7932, Valid F1: 0.7027, Valid DP: 0.7269, Valid EOD: 0.5617
+2024-05-20 14:59:24 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [58/100], Loss: 0.0030, Valid Acc: 0.7925, Valid F1: 0.7209, Valid DP: 0.7056, Valid EOD: 0.4393
+2024-05-20 14:59:24 - base_loss_optimization/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 14:59:45 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [59/100], Loss: 0.0032, Valid Acc: 0.7982, Valid F1: 0.7220, Valid DP: 0.7197, Valid EOD: 0.5008
+2024-05-20 15:00:06 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [60/100], Loss: 0.0031, Valid Acc: 0.7915, Valid F1: 0.7235, Valid DP: 0.6846, Valid EOD: 0.4128
+2024-05-20 15:00:28 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [61/100], Loss: 0.0033, Valid Acc: 0.7897, Valid F1: 0.7212, Valid DP: 0.6861, Valid EOD: 0.3811
+2024-05-20 15:00:49 - base_loss_optimization/utk_face/v002_age_25 - INFO - Warning: Class 2 has only 97 predictions.
+2024-05-20 15:00:49 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [62/100], Loss: 0.0030, Valid Acc: 0.7975, Valid F1: 0.7185, Valid DP: 0.7172, Valid EOD: 0.5154
+2024-05-20 15:01:10 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [63/100], Loss: 0.0026, Valid Acc: 0.7964, Valid F1: 0.7233, Valid DP: 0.7152, Valid EOD: 0.4821
+2024-05-20 15:01:10 - base_loss_optimization/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 15:01:32 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [64/100], Loss: 0.0028, Valid Acc: 0.7943, Valid F1: 0.7224, Valid DP: 0.7117, Valid EOD: 0.4613
+2024-05-20 15:01:53 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [65/100], Loss: 0.0031, Valid Acc: 0.7932, Valid F1: 0.7218, Valid DP: 0.6952, Valid EOD: 0.4648
+2024-05-20 15:02:14 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [66/100], Loss: 0.0028, Valid Acc: 0.7957, Valid F1: 0.7229, Valid DP: 0.7256, Valid EOD: 0.4871
+2024-05-20 15:02:36 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [67/100], Loss: 0.0037, Valid Acc: 0.7936, Valid F1: 0.7197, Valid DP: 0.7178, Valid EOD: 0.4752
+2024-05-20 15:02:57 - base_loss_optimization/utk_face/v002_age_25 - INFO - Warning: Class 2 has only 96 predictions.
+2024-05-20 15:02:57 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [68/100], Loss: 0.0029, Valid Acc: 0.7971, Valid F1: 0.7167, Valid DP: 0.7191, Valid EOD: 0.5273
+2024-05-20 15:03:19 - base_loss_optimization/utk_face/v002_age_25 - INFO - Warning: Class 2 has only 99 predictions.
+2024-05-20 15:03:19 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [69/100], Loss: 0.0031, Valid Acc: 0.7964, Valid F1: 0.7144, Valid DP: 0.7191, Valid EOD: 0.5253
+2024-05-20 15:03:41 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [70/100], Loss: 0.0031, Valid Acc: 0.7936, Valid F1: 0.7189, Valid DP: 0.7041, Valid EOD: 0.4464
+2024-05-20 15:04:02 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [71/100], Loss: 0.0032, Valid Acc: 0.7897, Valid F1: 0.7151, Valid DP: 0.7054, Valid EOD: 0.4287
+2024-05-20 15:04:24 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [72/100], Loss: 0.0031, Valid Acc: 0.7964, Valid F1: 0.7210, Valid DP: 0.7248, Valid EOD: 0.4902
+2024-05-20 15:04:45 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [73/100], Loss: 0.0029, Valid Acc: 0.7982, Valid F1: 0.7271, Valid DP: 0.7140, Valid EOD: 0.4587
+2024-05-20 15:05:07 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [74/100], Loss: 0.0027, Valid Acc: 0.7964, Valid F1: 0.7285, Valid DP: 0.6931, Valid EOD: 0.4446
+2024-05-20 15:05:29 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [75/100], Loss: 0.0033, Valid Acc: 0.7954, Valid F1: 0.7253, Valid DP: 0.7019, Valid EOD: 0.4476
+2024-05-20 15:05:51 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [76/100], Loss: 0.0030, Valid Acc: 0.7947, Valid F1: 0.7220, Valid DP: 0.7051, Valid EOD: 0.4506
+2024-05-20 15:06:12 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [77/100], Loss: 0.0030, Valid Acc: 0.7992, Valid F1: 0.7295, Valid DP: 0.7065, Valid EOD: 0.4494
+2024-05-20 15:06:12 - base_loss_optimization/utk_face/v002_age_25 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/utk_face/v002_age_25/best_f1_state.pth.
+2024-05-20 15:06:34 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [78/100], Loss: 0.0030, Valid Acc: 0.7982, Valid F1: 0.7228, Valid DP: 0.7175, Valid EOD: 0.5008
+2024-05-20 15:06:56 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [79/100], Loss: 0.0028, Valid Acc: 0.7968, Valid F1: 0.7214, Valid DP: 0.7294, Valid EOD: 0.4932
+2024-05-20 15:07:18 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [80/100], Loss: 0.0026, Valid Acc: 0.7982, Valid F1: 0.7293, Valid DP: 0.7006, Valid EOD: 0.4516
+2024-05-20 15:07:18 - base_loss_optimization/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 15:07:40 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [81/100], Loss: 0.0027, Valid Acc: 0.7992, Valid F1: 0.7265, Valid DP: 0.7093, Valid EOD: 0.4722
+2024-05-20 15:08:01 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [82/100], Loss: 0.0026, Valid Acc: 0.7971, Valid F1: 0.7212, Valid DP: 0.7223, Valid EOD: 0.5028
+2024-05-20 15:08:23 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [83/100], Loss: 0.0031, Valid Acc: 0.7929, Valid F1: 0.7188, Valid DP: 0.7172, Valid EOD: 0.4741
+2024-05-20 15:08:45 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [84/100], Loss: 0.0026, Valid Acc: 0.7943, Valid F1: 0.7175, Valid DP: 0.7276, Valid EOD: 0.5079
+2024-05-20 15:08:45 - base_loss_optimization/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 15:09:07 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [85/100], Loss: 0.0028, Valid Acc: 0.7925, Valid F1: 0.7165, Valid DP: 0.7184, Valid EOD: 0.4664
+2024-05-20 15:09:28 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [86/100], Loss: 0.0025, Valid Acc: 0.7985, Valid F1: 0.7250, Valid DP: 0.7187, Valid EOD: 0.4782
+2024-05-20 15:09:29 - base_loss_optimization/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 15:09:50 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [87/100], Loss: 0.0027, Valid Acc: 0.7978, Valid F1: 0.7285, Valid DP: 0.7033, Valid EOD: 0.4593
+2024-05-20 15:10:12 - base_loss_optimization/utk_face/v002_age_25 - INFO - Warning: Class 2 has only 90 predictions.
+2024-05-20 15:10:12 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [88/100], Loss: 0.0027, Valid Acc: 0.7975, Valid F1: 0.7104, Valid DP: 0.7346, Valid EOD: 0.5729
+2024-05-20 15:10:34 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [89/100], Loss: 0.0030, Valid Acc: 0.7975, Valid F1: 0.7223, Valid DP: 0.7209, Valid EOD: 0.4905
+2024-05-20 15:10:56 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [90/100], Loss: 0.0025, Valid Acc: 0.7950, Valid F1: 0.7214, Valid DP: 0.7139, Valid EOD: 0.4634
+2024-05-20 15:10:56 - base_loss_optimization/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 15:11:18 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [91/100], Loss: 0.0029, Valid Acc: 0.7975, Valid F1: 0.7264, Valid DP: 0.7166, Valid EOD: 0.4684
+2024-05-20 15:11:40 - base_loss_optimization/utk_face/v002_age_25 - INFO - Warning: Class 2 has only 95 predictions.
+2024-05-20 15:11:40 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [92/100], Loss: 0.0026, Valid Acc: 0.7947, Valid F1: 0.7098, Valid DP: 0.7371, Valid EOD: 0.5592
+2024-05-20 15:12:02 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [93/100], Loss: 0.0027, Valid Acc: 0.7975, Valid F1: 0.7261, Valid DP: 0.7079, Valid EOD: 0.4613
+2024-05-20 15:12:24 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [94/100], Loss: 0.0029, Valid Acc: 0.7968, Valid F1: 0.7223, Valid DP: 0.7147, Valid EOD: 0.4811
+2024-05-20 15:12:46 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [95/100], Loss: 0.0026, Valid Acc: 0.7929, Valid F1: 0.7237, Valid DP: 0.6857, Valid EOD: 0.3921
+2024-05-20 15:13:08 - base_loss_optimization/utk_face/v002_age_25 - INFO - Warning: Class 2 has only 79 predictions.
+2024-05-20 15:13:08 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [96/100], Loss: 0.0030, Valid Acc: 0.7932, Valid F1: 0.6998, Valid DP: 0.7517, Valid EOD: 0.5987
+2024-05-20 15:13:30 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [97/100], Loss: 0.0030, Valid Acc: 0.7918, Valid F1: 0.7202, Valid DP: 0.6926, Valid EOD: 0.4236
+2024-05-20 15:13:52 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [98/100], Loss: 0.0030, Valid Acc: 0.7950, Valid F1: 0.7175, Valid DP: 0.7234, Valid EOD: 0.4905
+2024-05-20 15:14:14 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [99/100], Loss: 0.0027, Valid Acc: 0.7911, Valid F1: 0.7150, Valid DP: 0.7185, Valid EOD: 0.4742
+2024-05-20 15:14:36 - base_loss_optimization/utk_face/v002_age_25 - INFO - Epoch [100/100], Loss: 0.0027, Valid Acc: 0.7950, Valid F1: 0.7203, Valid DP: 0.7275, Valid EOD: 0.4902
+2024-05-20 15:14:36 - base_loss_optimization/utk_face/v002_age_25 - INFO - Saved model final to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/utk_face/v002_age_25/final_state.pth.
+2024-05-20 15:14:36 - base_loss_optimization/utk_face/v002_age_25 - INFO - Model and metrics saved.
+2024-05-20 15:14:36 - base_loss_optimization/utk_face/v002_age_25 - INFO - Training finished.

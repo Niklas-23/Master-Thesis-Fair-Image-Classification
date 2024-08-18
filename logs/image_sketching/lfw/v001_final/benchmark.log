@@ -1,0 +1,123 @@
+2024-05-21 14:51:02 - image_sketching/lfw/v001_final - INFO - Start image sketching benchmark benchmark.
+2024-05-21 14:51:05 - image_sketching/lfw/v001_final - INFO - Training started.
+2024-05-21 14:51:44 - image_sketching/lfw/v001_final - INFO - Epoch [1/100], Loss: 1.8535, Valid Acc: 0.3798, Valid F1: 0.5506, Valid DP: 0.0000, Valid EOD: 0.0000
+2024-05-21 14:51:44 - image_sketching/lfw/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/image_sketching/lfw/v001_final/best_f1_state.pth.
+2024-05-21 14:51:44 - image_sketching/lfw/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/image_sketching/lfw/v001_final/best_loss_state.pth.
+2024-05-21 14:51:57 - image_sketching/lfw/v001_final - INFO - Epoch [2/100], Loss: 0.8411, Valid Acc: 0.3970, Valid F1: 0.5474, Valid DP: 0.0302, Valid EOD: 0.0317
+2024-05-21 14:51:57 - image_sketching/lfw/v001_final - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/image_sketching/lfw/v001_final/best_eod_state.pth.
+2024-05-21 14:51:57 - image_sketching/lfw/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/image_sketching/lfw/v001_final/best_loss_state.pth.
+2024-05-21 14:52:11 - image_sketching/lfw/v001_final - INFO - Epoch [3/100], Loss: 1.4489, Valid Acc: 0.6912, Valid F1: 0.3828, Valid DP: 0.2478, Valid EOD: 0.2718
+2024-05-21 14:52:24 - image_sketching/lfw/v001_final - INFO - Epoch [4/100], Loss: 1.1343, Valid Acc: 0.8237, Valid F1: 0.7186, Valid DP: 0.3030, Valid EOD: 0.2091
+2024-05-21 14:52:24 - image_sketching/lfw/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/image_sketching/lfw/v001_final/best_f1_state.pth.
+2024-05-21 14:52:38 - image_sketching/lfw/v001_final - INFO - Epoch [5/100], Loss: 0.9260, Valid Acc: 0.8491, Valid F1: 0.7591, Valid DP: 0.3030, Valid EOD: 0.2171
+2024-05-21 14:52:38 - image_sketching/lfw/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/image_sketching/lfw/v001_final/best_f1_state.pth.
+2024-05-21 14:52:53 - image_sketching/lfw/v001_final - INFO - Epoch [6/100], Loss: 0.9712, Valid Acc: 0.8136, Valid F1: 0.7970, Valid DP: 0.2803, Valid EOD: 0.1440
+2024-05-21 14:52:53 - image_sketching/lfw/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/image_sketching/lfw/v001_final/best_f1_state.pth.
+2024-05-21 14:53:07 - image_sketching/lfw/v001_final - INFO - Epoch [7/100], Loss: 0.9347, Valid Acc: 0.8687, Valid F1: 0.8064, Valid DP: 0.3285, Valid EOD: 0.1997
+2024-05-21 14:53:07 - image_sketching/lfw/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/image_sketching/lfw/v001_final/best_f1_state.pth.
+2024-05-21 14:53:21 - image_sketching/lfw/v001_final - INFO - Epoch [8/100], Loss: 0.8344, Valid Acc: 0.8694, Valid F1: 0.8306, Valid DP: 0.3197, Valid EOD: 0.1092
+2024-05-21 14:53:21 - image_sketching/lfw/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/image_sketching/lfw/v001_final/best_f1_state.pth.
+2024-05-21 14:53:21 - image_sketching/lfw/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/image_sketching/lfw/v001_final/best_loss_state.pth.
+2024-05-21 14:53:36 - image_sketching/lfw/v001_final - INFO - Epoch [9/100], Loss: 0.7772, Valid Acc: 0.8852, Valid F1: 0.8505, Valid DP: 0.2935, Valid EOD: 0.0740
+2024-05-21 14:53:36 - image_sketching/lfw/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/image_sketching/lfw/v001_final/best_f1_state.pth.
+2024-05-21 14:53:36 - image_sketching/lfw/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/image_sketching/lfw/v001_final/best_loss_state.pth.
+2024-05-21 14:53:51 - image_sketching/lfw/v001_final - INFO - Epoch [10/100], Loss: 0.8137, Valid Acc: 0.8751, Valid F1: 0.8294, Valid DP: 0.3122, Valid EOD: 0.1142
+2024-05-21 14:54:06 - image_sketching/lfw/v001_final - INFO - Epoch [11/100], Loss: 0.8253, Valid Acc: 0.8472, Valid F1: 0.8150, Valid DP: 0.3139, Valid EOD: 0.1445
+2024-05-21 14:54:21 - image_sketching/lfw/v001_final - INFO - Epoch [12/100], Loss: 0.8590, Valid Acc: 0.8434, Valid F1: 0.8093, Valid DP: 0.2977, Valid EOD: 0.1457
+2024-05-21 14:54:37 - image_sketching/lfw/v001_final - INFO - Epoch [13/100], Loss: 0.7193, Valid Acc: 0.8935, Valid F1: 0.8595, Valid DP: 0.3056, Valid EOD: 0.0808
+2024-05-21 14:54:37 - image_sketching/lfw/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/image_sketching/lfw/v001_final/best_f1_state.pth.
+2024-05-21 14:54:37 - image_sketching/lfw/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/image_sketching/lfw/v001_final/best_loss_state.pth.
+2024-05-21 14:54:53 - image_sketching/lfw/v001_final - INFO - Epoch [14/100], Loss: 0.7520, Valid Acc: 0.8903, Valid F1: 0.8538, Valid DP: 0.3009, Valid EOD: 0.0848
+2024-05-21 14:55:09 - image_sketching/lfw/v001_final - INFO - Epoch [15/100], Loss: 0.7508, Valid Acc: 0.8916, Valid F1: 0.8552, Valid DP: 0.3101, Valid EOD: 0.0879
+2024-05-21 14:55:25 - image_sketching/lfw/v001_final - INFO - Epoch [16/100], Loss: 0.7925, Valid Acc: 0.8960, Valid F1: 0.8629, Valid DP: 0.2753, Valid EOD: 0.0564
+2024-05-21 14:55:25 - image_sketching/lfw/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/image_sketching/lfw/v001_final/best_f1_state.pth.
+2024-05-21 14:55:41 - image_sketching/lfw/v001_final - INFO - Epoch [17/100], Loss: 0.7310, Valid Acc: 0.8649, Valid F1: 0.8370, Valid DP: 0.2994, Valid EOD: 0.1318
+2024-05-21 14:55:57 - image_sketching/lfw/v001_final - INFO - Epoch [18/100], Loss: 0.6804, Valid Acc: 0.8472, Valid F1: 0.8206, Valid DP: 0.2779, Valid EOD: 0.0763
+2024-05-21 14:55:57 - image_sketching/lfw/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/image_sketching/lfw/v001_final/best_loss_state.pth.
+2024-05-21 14:56:13 - image_sketching/lfw/v001_final - INFO - Epoch [19/100], Loss: 0.7778, Valid Acc: 0.8459, Valid F1: 0.8193, Valid DP: 0.2839, Valid EOD: 0.1097
+2024-05-21 14:56:30 - image_sketching/lfw/v001_final - INFO - Epoch [20/100], Loss: 0.8145, Valid Acc: 0.8630, Valid F1: 0.8131, Valid DP: 0.3227, Valid EOD: 0.1519
+2024-05-21 14:56:46 - image_sketching/lfw/v001_final - INFO - Epoch [21/100], Loss: 0.7444, Valid Acc: 0.8846, Valid F1: 0.8363, Valid DP: 0.3014, Valid EOD: 0.1130
+2024-05-21 14:57:03 - image_sketching/lfw/v001_final - INFO - Epoch [22/100], Loss: 0.7108, Valid Acc: 0.8694, Valid F1: 0.8388, Valid DP: 0.3189, Valid EOD: 0.1352
+2024-05-21 14:57:20 - image_sketching/lfw/v001_final - INFO - Epoch [23/100], Loss: 0.7391, Valid Acc: 0.8890, Valid F1: 0.8625, Valid DP: 0.2814, Valid EOD: 0.0582
+2024-05-21 14:57:37 - image_sketching/lfw/v001_final - INFO - Epoch [24/100], Loss: 0.7194, Valid Acc: 0.8941, Valid F1: 0.8508, Valid DP: 0.3185, Valid EOD: 0.1514
+2024-05-21 14:57:55 - image_sketching/lfw/v001_final - INFO - Epoch [25/100], Loss: 0.7469, Valid Acc: 0.8992, Valid F1: 0.8616, Valid DP: 0.3208, Valid EOD: 0.1324
+2024-05-21 14:58:12 - image_sketching/lfw/v001_final - INFO - Epoch [26/100], Loss: 0.7663, Valid Acc: 0.9068, Valid F1: 0.8780, Valid DP: 0.3135, Valid EOD: 0.0826
+2024-05-21 14:58:12 - image_sketching/lfw/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/image_sketching/lfw/v001_final/best_f1_state.pth.
+2024-05-21 14:58:30 - image_sketching/lfw/v001_final - INFO - Epoch [27/100], Loss: 0.7552, Valid Acc: 0.8992, Valid F1: 0.8669, Valid DP: 0.3140, Valid EOD: 0.0885
+2024-05-21 14:58:48 - image_sketching/lfw/v001_final - INFO - Epoch [28/100], Loss: 0.7376, Valid Acc: 0.9004, Valid F1: 0.8673, Valid DP: 0.3123, Valid EOD: 0.0865
+2024-05-21 14:59:06 - image_sketching/lfw/v001_final - INFO - Epoch [29/100], Loss: 0.7211, Valid Acc: 0.9011, Valid F1: 0.8689, Valid DP: 0.3104, Valid EOD: 0.0837
+2024-05-21 14:59:24 - image_sketching/lfw/v001_final - INFO - Epoch [30/100], Loss: 0.7187, Valid Acc: 0.8998, Valid F1: 0.8672, Valid DP: 0.3142, Valid EOD: 0.0862
+2024-05-21 14:59:43 - image_sketching/lfw/v001_final - INFO - Epoch [31/100], Loss: 0.7903, Valid Acc: 0.9004, Valid F1: 0.8684, Valid DP: 0.3118, Valid EOD: 0.0811
+2024-05-21 15:00:02 - image_sketching/lfw/v001_final - INFO - Epoch [32/100], Loss: 0.7100, Valid Acc: 0.9011, Valid F1: 0.8689, Valid DP: 0.3142, Valid EOD: 0.0837
+2024-05-21 15:00:20 - image_sketching/lfw/v001_final - INFO - Epoch [33/100], Loss: 0.8002, Valid Acc: 0.9030, Valid F1: 0.8713, Valid DP: 0.3112, Valid EOD: 0.0811
+2024-05-21 15:00:39 - image_sketching/lfw/v001_final - INFO - Epoch [34/100], Loss: 0.7890, Valid Acc: 0.9023, Valid F1: 0.8706, Valid DP: 0.3104, Valid EOD: 0.0811
+2024-05-21 15:00:59 - image_sketching/lfw/v001_final - INFO - Epoch [35/100], Loss: 0.7539, Valid Acc: 0.9023, Valid F1: 0.8706, Valid DP: 0.3104, Valid EOD: 0.0811
+2024-05-21 15:01:18 - image_sketching/lfw/v001_final - INFO - Epoch [36/100], Loss: 0.7682, Valid Acc: 0.9023, Valid F1: 0.8706, Valid DP: 0.3104, Valid EOD: 0.0811
+2024-05-21 15:01:38 - image_sketching/lfw/v001_final - INFO - Epoch [37/100], Loss: 0.7136, Valid Acc: 0.9023, Valid F1: 0.8706, Valid DP: 0.3104, Valid EOD: 0.0811
+2024-05-21 15:01:58 - image_sketching/lfw/v001_final - INFO - Epoch [38/100], Loss: 0.7587, Valid Acc: 0.9023, Valid F1: 0.8706, Valid DP: 0.3104, Valid EOD: 0.0811
+2024-05-21 15:02:18 - image_sketching/lfw/v001_final - INFO - Epoch [39/100], Loss: 0.7393, Valid Acc: 0.9030, Valid F1: 0.8713, Valid DP: 0.3112, Valid EOD: 0.0811
+2024-05-21 15:02:38 - image_sketching/lfw/v001_final - INFO - Epoch [40/100], Loss: 0.7977, Valid Acc: 0.9023, Valid F1: 0.8708, Valid DP: 0.3088, Valid EOD: 0.0786
+2024-05-21 15:02:59 - image_sketching/lfw/v001_final - INFO - Epoch [41/100], Loss: 0.7766, Valid Acc: 0.9030, Valid F1: 0.8715, Valid DP: 0.3096, Valid EOD: 0.0786
+2024-05-21 15:03:19 - image_sketching/lfw/v001_final - INFO - Epoch [42/100], Loss: 0.7478, Valid Acc: 0.9030, Valid F1: 0.8715, Valid DP: 0.3096, Valid EOD: 0.0786
+2024-05-21 15:03:40 - image_sketching/lfw/v001_final - INFO - Epoch [43/100], Loss: 0.7665, Valid Acc: 0.9030, Valid F1: 0.8715, Valid DP: 0.3096, Valid EOD: 0.0786
+2024-05-21 15:04:01 - image_sketching/lfw/v001_final - INFO - Epoch [44/100], Loss: 0.7827, Valid Acc: 0.9023, Valid F1: 0.8708, Valid DP: 0.3088, Valid EOD: 0.0786
+2024-05-21 15:04:21 - image_sketching/lfw/v001_final - INFO - Epoch [45/100], Loss: 0.7668, Valid Acc: 0.9036, Valid F1: 0.8723, Valid DP: 0.3104, Valid EOD: 0.0786
+2024-05-21 15:04:43 - image_sketching/lfw/v001_final - INFO - Epoch [46/100], Loss: 0.7592, Valid Acc: 0.9036, Valid F1: 0.8723, Valid DP: 0.3104, Valid EOD: 0.0786
+2024-05-21 15:05:04 - image_sketching/lfw/v001_final - INFO - Epoch [47/100], Loss: 0.7028, Valid Acc: 0.9030, Valid F1: 0.8715, Valid DP: 0.3096, Valid EOD: 0.0786
+2024-05-21 15:05:25 - image_sketching/lfw/v001_final - INFO - Epoch [48/100], Loss: 0.7594, Valid Acc: 0.9036, Valid F1: 0.8723, Valid DP: 0.3104, Valid EOD: 0.0786
+2024-05-21 15:05:47 - image_sketching/lfw/v001_final - INFO - Epoch [49/100], Loss: 0.7259, Valid Acc: 0.9036, Valid F1: 0.8723, Valid DP: 0.3104, Valid EOD: 0.0786
+2024-05-21 15:06:09 - image_sketching/lfw/v001_final - INFO - Epoch [50/100], Loss: 0.7089, Valid Acc: 0.9036, Valid F1: 0.8723, Valid DP: 0.3104, Valid EOD: 0.0786
+2024-05-21 15:06:30 - image_sketching/lfw/v001_final - INFO - Epoch [51/100], Loss: 0.7060, Valid Acc: 0.9030, Valid F1: 0.8715, Valid DP: 0.3096, Valid EOD: 0.0786
+2024-05-21 15:06:53 - image_sketching/lfw/v001_final - INFO - Epoch [52/100], Loss: 0.7987, Valid Acc: 0.9036, Valid F1: 0.8723, Valid DP: 0.3104, Valid EOD: 0.0786
+2024-05-21 15:07:15 - image_sketching/lfw/v001_final - INFO - Epoch [53/100], Loss: 0.7221, Valid Acc: 0.9030, Valid F1: 0.8715, Valid DP: 0.3096, Valid EOD: 0.0786
+2024-05-21 15:07:38 - image_sketching/lfw/v001_final - INFO - Epoch [54/100], Loss: 0.7135, Valid Acc: 0.9023, Valid F1: 0.8706, Valid DP: 0.3066, Valid EOD: 0.0748
+2024-05-21 15:08:00 - image_sketching/lfw/v001_final - INFO - Epoch [55/100], Loss: 0.7603, Valid Acc: 0.9023, Valid F1: 0.8708, Valid DP: 0.3088, Valid EOD: 0.0786
+2024-05-21 15:08:23 - image_sketching/lfw/v001_final - INFO - Epoch [56/100], Loss: 0.7298, Valid Acc: 0.9023, Valid F1: 0.8706, Valid DP: 0.3066, Valid EOD: 0.0748
+2024-05-21 15:08:46 - image_sketching/lfw/v001_final - INFO - Epoch [57/100], Loss: 0.7107, Valid Acc: 0.9023, Valid F1: 0.8708, Valid DP: 0.3088, Valid EOD: 0.0786
+2024-05-21 15:09:10 - image_sketching/lfw/v001_final - INFO - Epoch [58/100], Loss: 0.7516, Valid Acc: 0.9023, Valid F1: 0.8706, Valid DP: 0.3066, Valid EOD: 0.0748
+2024-05-21 15:09:33 - image_sketching/lfw/v001_final - INFO - Epoch [59/100], Loss: 0.7470, Valid Acc: 0.9042, Valid F1: 0.8728, Valid DP: 0.3091, Valid EOD: 0.0783
+2024-05-21 15:09:56 - image_sketching/lfw/v001_final - INFO - Epoch [60/100], Loss: 0.7426, Valid Acc: 0.9030, Valid F1: 0.8713, Valid DP: 0.3074, Valid EOD: 0.0759
+2024-05-21 15:10:20 - image_sketching/lfw/v001_final - INFO - Epoch [61/100], Loss: 0.7017, Valid Acc: 0.9030, Valid F1: 0.8713, Valid DP: 0.3074, Valid EOD: 0.0759
+2024-05-21 15:10:44 - image_sketching/lfw/v001_final - INFO - Epoch [62/100], Loss: 0.7312, Valid Acc: 0.9030, Valid F1: 0.8713, Valid DP: 0.3074, Valid EOD: 0.0759
+2024-05-21 15:11:08 - image_sketching/lfw/v001_final - INFO - Epoch [63/100], Loss: 0.6883, Valid Acc: 0.9030, Valid F1: 0.8713, Valid DP: 0.3074, Valid EOD: 0.0759
+2024-05-21 15:11:32 - image_sketching/lfw/v001_final - INFO - Epoch [64/100], Loss: 0.7624, Valid Acc: 0.9011, Valid F1: 0.8691, Valid DP: 0.3088, Valid EOD: 0.0813
+2024-05-21 15:11:57 - image_sketching/lfw/v001_final - INFO - Epoch [65/100], Loss: 0.7565, Valid Acc: 0.9017, Valid F1: 0.8699, Valid DP: 0.3096, Valid EOD: 0.0825
+2024-05-21 15:12:21 - image_sketching/lfw/v001_final - INFO - Epoch [66/100], Loss: 0.6921, Valid Acc: 0.9023, Valid F1: 0.8706, Valid DP: 0.3066, Valid EOD: 0.0748
+2024-05-21 15:12:46 - image_sketching/lfw/v001_final - INFO - Epoch [67/100], Loss: 0.6843, Valid Acc: 0.9017, Valid F1: 0.8699, Valid DP: 0.3096, Valid EOD: 0.0825
+2024-05-21 15:13:14 - image_sketching/lfw/v001_final - INFO - Epoch [68/100], Loss: 0.7455, Valid Acc: 0.9017, Valid F1: 0.8699, Valid DP: 0.3096, Valid EOD: 0.0825
+2024-05-21 15:13:58 - image_sketching/lfw/v001_final - INFO - Epoch [69/100], Loss: 0.7545, Valid Acc: 0.9017, Valid F1: 0.8699, Valid DP: 0.3096, Valid EOD: 0.0825
+2024-05-21 15:14:24 - image_sketching/lfw/v001_final - INFO - Epoch [70/100], Loss: 0.7333, Valid Acc: 0.9023, Valid F1: 0.8706, Valid DP: 0.3104, Valid EOD: 0.0837
+2024-05-21 15:14:49 - image_sketching/lfw/v001_final - INFO - Epoch [71/100], Loss: 0.6888, Valid Acc: 0.9030, Valid F1: 0.8713, Valid DP: 0.3112, Valid EOD: 0.0849
+2024-05-21 15:15:15 - image_sketching/lfw/v001_final - INFO - Epoch [72/100], Loss: 0.7915, Valid Acc: 0.9036, Valid F1: 0.8721, Valid DP: 0.3083, Valid EOD: 0.0771
+2024-05-21 15:15:40 - image_sketching/lfw/v001_final - INFO - Epoch [73/100], Loss: 0.7323, Valid Acc: 0.9023, Valid F1: 0.8706, Valid DP: 0.3104, Valid EOD: 0.0837
+2024-05-21 15:16:06 - image_sketching/lfw/v001_final - INFO - Epoch [74/100], Loss: 0.7203, Valid Acc: 0.9017, Valid F1: 0.8699, Valid DP: 0.3096, Valid EOD: 0.0825
+2024-05-21 15:16:33 - image_sketching/lfw/v001_final - INFO - Epoch [75/100], Loss: 0.7325, Valid Acc: 0.9030, Valid F1: 0.8713, Valid DP: 0.3112, Valid EOD: 0.0849
+2024-05-21 15:16:59 - image_sketching/lfw/v001_final - INFO - Epoch [76/100], Loss: 0.7755, Valid Acc: 0.9023, Valid F1: 0.8706, Valid DP: 0.3104, Valid EOD: 0.0837
+2024-05-21 15:17:25 - image_sketching/lfw/v001_final - INFO - Epoch [77/100], Loss: 0.6610, Valid Acc: 0.9023, Valid F1: 0.8706, Valid DP: 0.3104, Valid EOD: 0.0837
+2024-05-21 15:17:25 - image_sketching/lfw/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/image_sketching/lfw/v001_final/best_loss_state.pth.
+2024-05-21 15:17:52 - image_sketching/lfw/v001_final - INFO - Epoch [78/100], Loss: 0.8067, Valid Acc: 0.9023, Valid F1: 0.8706, Valid DP: 0.3104, Valid EOD: 0.0837
+2024-05-21 15:18:19 - image_sketching/lfw/v001_final - INFO - Epoch [79/100], Loss: 0.7351, Valid Acc: 0.9023, Valid F1: 0.8706, Valid DP: 0.3104, Valid EOD: 0.0837
+2024-05-21 15:18:46 - image_sketching/lfw/v001_final - INFO - Epoch [80/100], Loss: 0.7641, Valid Acc: 0.9030, Valid F1: 0.8713, Valid DP: 0.3112, Valid EOD: 0.0849
+2024-05-21 15:19:13 - image_sketching/lfw/v001_final - INFO - Epoch [81/100], Loss: 0.7563, Valid Acc: 0.9023, Valid F1: 0.8706, Valid DP: 0.3104, Valid EOD: 0.0837
+2024-05-21 15:19:41 - image_sketching/lfw/v001_final - INFO - Epoch [82/100], Loss: 0.7594, Valid Acc: 0.9023, Valid F1: 0.8706, Valid DP: 0.3104, Valid EOD: 0.0837
+2024-05-21 15:20:08 - image_sketching/lfw/v001_final - INFO - Epoch [83/100], Loss: 0.7317, Valid Acc: 0.9036, Valid F1: 0.8721, Valid DP: 0.3120, Valid EOD: 0.0860
+2024-05-21 15:20:35 - image_sketching/lfw/v001_final - INFO - Epoch [84/100], Loss: 0.7166, Valid Acc: 0.9049, Valid F1: 0.8735, Valid DP: 0.3099, Valid EOD: 0.0795
+2024-05-21 15:21:03 - image_sketching/lfw/v001_final - INFO - Epoch [85/100], Loss: 0.7232, Valid Acc: 0.9036, Valid F1: 0.8721, Valid DP: 0.3120, Valid EOD: 0.0860
+2024-05-21 15:21:32 - image_sketching/lfw/v001_final - INFO - Epoch [86/100], Loss: 0.7852, Valid Acc: 0.9030, Valid F1: 0.8713, Valid DP: 0.3112, Valid EOD: 0.0849
+2024-05-21 15:21:59 - image_sketching/lfw/v001_final - INFO - Epoch [87/100], Loss: 0.7764, Valid Acc: 0.9036, Valid F1: 0.8721, Valid DP: 0.3120, Valid EOD: 0.0860
+2024-05-21 15:22:28 - image_sketching/lfw/v001_final - INFO - Epoch [88/100], Loss: 0.6700, Valid Acc: 0.9036, Valid F1: 0.8721, Valid DP: 0.3120, Valid EOD: 0.0860
+2024-05-21 15:22:56 - image_sketching/lfw/v001_final - INFO - Epoch [89/100], Loss: 0.7416, Valid Acc: 0.9036, Valid F1: 0.8721, Valid DP: 0.3120, Valid EOD: 0.0860
+2024-05-21 15:23:25 - image_sketching/lfw/v001_final - INFO - Epoch [90/100], Loss: 0.7810, Valid Acc: 0.9036, Valid F1: 0.8725, Valid DP: 0.3088, Valid EOD: 0.0837
+2024-05-21 15:23:53 - image_sketching/lfw/v001_final - INFO - Epoch [91/100], Loss: 0.7411, Valid Acc: 0.9036, Valid F1: 0.8721, Valid DP: 0.3120, Valid EOD: 0.0860
+2024-05-21 15:24:22 - image_sketching/lfw/v001_final - INFO - Epoch [92/100], Loss: 0.7645, Valid Acc: 0.9055, Valid F1: 0.8743, Valid DP: 0.3107, Valid EOD: 0.0806
+2024-05-21 15:24:51 - image_sketching/lfw/v001_final - INFO - Epoch [93/100], Loss: 0.7667, Valid Acc: 0.9049, Valid F1: 0.8735, Valid DP: 0.3099, Valid EOD: 0.0795
+2024-05-21 15:25:21 - image_sketching/lfw/v001_final - INFO - Epoch [94/100], Loss: 0.7225, Valid Acc: 0.9049, Valid F1: 0.8733, Valid DP: 0.3115, Valid EOD: 0.0806
+2024-05-21 15:25:51 - image_sketching/lfw/v001_final - INFO - Epoch [95/100], Loss: 0.7415, Valid Acc: 0.9036, Valid F1: 0.8721, Valid DP: 0.3120, Valid EOD: 0.0860
+2024-05-21 15:26:20 - image_sketching/lfw/v001_final - INFO - Epoch [96/100], Loss: 0.7652, Valid Acc: 0.9055, Valid F1: 0.8743, Valid DP: 0.3107, Valid EOD: 0.0806
+2024-05-21 15:26:50 - image_sketching/lfw/v001_final - INFO - Epoch [97/100], Loss: 0.7821, Valid Acc: 0.9062, Valid F1: 0.8750, Valid DP: 0.3077, Valid EOD: 0.0738
+2024-05-21 15:27:20 - image_sketching/lfw/v001_final - INFO - Epoch [98/100], Loss: 0.7565, Valid Acc: 0.9036, Valid F1: 0.8721, Valid DP: 0.3120, Valid EOD: 0.0860
+2024-05-21 15:27:50 - image_sketching/lfw/v001_final - INFO - Epoch [99/100], Loss: 0.7480, Valid Acc: 0.9049, Valid F1: 0.8735, Valid DP: 0.3136, Valid EOD: 0.0884
+2024-05-21 15:28:21 - image_sketching/lfw/v001_final - INFO - Epoch [100/100], Loss: 0.7379, Valid Acc: 0.9036, Valid F1: 0.8721, Valid DP: 0.3120, Valid EOD: 0.0860
+2024-05-21 15:28:21 - image_sketching/lfw/v001_final - INFO - Saved model final to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/image_sketching/lfw/v001_final/final_state.pth.
+2024-05-21 15:28:21 - image_sketching/lfw/v001_final - INFO - Model and metrics saved.
+2024-05-21 15:28:21 - image_sketching/lfw/v001_final - INFO - Training finished.

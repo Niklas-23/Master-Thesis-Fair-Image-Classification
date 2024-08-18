@@ -1,0 +1,741 @@
+2024-05-14 15:29:26 - orthogonal_representations/utk_face/v001_final - INFO - Start orthogonal representation benchmark.
+2024-05-14 15:29:26 - orthogonal_representations/utk_face/v001_final - INFO - Train model protected feature
+2024-05-14 15:29:26 - orthogonal_representations/utk_face/v001_final - INFO - Training started.
+2024-05-14 15:29:45 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [1/100], Loss: 0.4512, Valid Acc: 0.0907, Valid F1: 0.0309, Valid DP: 0.9451, Valid EOD: 0.9792
+2024-05-14 15:29:45 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_f1_state.pth.
+2024-05-14 15:29:45 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_eod_state.pth.
+2024-05-14 15:29:46 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 15:30:05 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [2/100], Loss: 0.2987, Valid Acc: 0.0949, Valid F1: 0.0320, Valid DP: 0.8841, Valid EOD: 0.9347
+2024-05-14 15:30:05 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_f1_state.pth.
+2024-05-14 15:30:05 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 15:30:24 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [3/100], Loss: 0.2465, Valid Acc: 0.1199, Valid F1: 0.0397, Valid DP: 0.9451, Valid EOD: 0.9651
+2024-05-14 15:30:24 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_f1_state.pth.
+2024-05-14 15:30:24 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 15:30:44 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [4/100], Loss: 0.2082, Valid Acc: 0.1375, Valid F1: 0.0455, Valid DP: 0.9324, Valid EOD: 0.9399
+2024-05-14 15:30:44 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_f1_state.pth.
+2024-05-14 15:30:44 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 15:31:03 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [5/100], Loss: 0.1874, Valid Acc: 0.0967, Valid F1: 0.0326, Valid DP: 0.8989, Valid EOD: 0.9421
+2024-05-14 15:31:03 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 15:31:22 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [6/100], Loss: 0.1539, Valid Acc: 0.0911, Valid F1: 0.0290, Valid DP: 0.9437, Valid EOD: 0.9454
+2024-05-14 15:31:22 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 15:31:42 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [7/100], Loss: 0.1472, Valid Acc: 0.1086, Valid F1: 0.0366, Valid DP: 0.9096, Valid EOD: 0.9473
+2024-05-14 15:31:42 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 15:32:01 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [8/100], Loss: 0.1206, Valid Acc: 0.0953, Valid F1: 0.0314, Valid DP: 0.9090, Valid EOD: 0.9187
+2024-05-14 15:32:01 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 15:32:20 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [9/100], Loss: 0.1184, Valid Acc: 0.1231, Valid F1: 0.0404, Valid DP: 0.9591, Valid EOD: 0.9711
+2024-05-14 15:32:20 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 15:32:40 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [10/100], Loss: 0.0922, Valid Acc: 0.1013, Valid F1: 0.0338, Valid DP: 0.9104, Valid EOD: 0.9375
+2024-05-14 15:32:40 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 15:32:59 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [11/100], Loss: 0.0818, Valid Acc: 0.1044, Valid F1: 0.0354, Valid DP: 0.9344, Valid EOD: 0.9659
+2024-05-14 15:32:59 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 15:33:19 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [12/100], Loss: 0.0728, Valid Acc: 0.0985, Valid F1: 0.0327, Valid DP: 0.9193, Valid EOD: 0.9313
+2024-05-14 15:33:19 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 15:33:38 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [13/100], Loss: 0.0729, Valid Acc: 0.1079, Valid F1: 0.0362, Valid DP: 0.9076, Valid EOD: 0.9399
+2024-05-14 15:33:58 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [14/100], Loss: 0.0633, Valid Acc: 0.1101, Valid F1: 0.0368, Valid DP: 0.9102, Valid EOD: 0.9384
+2024-05-14 15:33:58 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 15:34:17 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [15/100], Loss: 0.0628, Valid Acc: 0.1104, Valid F1: 0.0369, Valid DP: 0.8955, Valid EOD: 0.9236
+2024-05-14 15:34:17 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 15:34:37 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [16/100], Loss: 0.0513, Valid Acc: 0.1266, Valid F1: 0.0420, Valid DP: 0.9357, Valid EOD: 0.9503
+2024-05-14 15:34:37 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 15:34:57 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [17/100], Loss: 0.0489, Valid Acc: 0.1101, Valid F1: 0.0363, Valid DP: 0.9282, Valid EOD: 0.9563
+2024-05-14 15:34:57 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 15:35:16 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [18/100], Loss: 0.0498, Valid Acc: 0.0946, Valid F1: 0.0310, Valid DP: 0.9252, Valid EOD: 0.9437
+2024-05-14 15:35:36 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [19/100], Loss: 0.0473, Valid Acc: 0.0830, Valid F1: 0.0269, Valid DP: 0.9430, Valid EOD: 0.9437
+2024-05-14 15:35:36 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 15:35:56 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [20/100], Loss: 0.0430, Valid Acc: 0.1167, Valid F1: 0.0387, Valid DP: 0.9149, Valid EOD: 0.9375
+2024-05-14 15:35:56 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 15:36:15 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [21/100], Loss: 0.0460, Valid Acc: 0.1153, Valid F1: 0.0384, Valid DP: 0.9163, Valid EOD: 0.9384
+2024-05-14 15:36:35 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [22/100], Loss: 0.0452, Valid Acc: 0.1136, Valid F1: 0.0379, Valid DP: 0.9089, Valid EOD: 0.9355
+2024-05-14 15:36:55 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [23/100], Loss: 0.0370, Valid Acc: 0.1037, Valid F1: 0.0348, Valid DP: 0.9143, Valid EOD: 0.9481
+2024-05-14 15:36:55 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 15:37:15 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [24/100], Loss: 0.0307, Valid Acc: 0.1108, Valid F1: 0.0369, Valid DP: 0.9038, Valid EOD: 0.9221
+2024-05-14 15:37:16 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 15:37:36 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [25/100], Loss: 0.0438, Valid Acc: 0.1062, Valid F1: 0.0353, Valid DP: 0.9178, Valid EOD: 0.9187
+2024-05-14 15:37:56 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [26/100], Loss: 0.0367, Valid Acc: 0.1072, Valid F1: 0.0358, Valid DP: 0.9029, Valid EOD: 0.9332
+2024-05-14 15:38:16 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [27/100], Loss: 0.0335, Valid Acc: 0.1111, Valid F1: 0.0370, Valid DP: 0.9023, Valid EOD: 0.9191
+2024-05-14 15:38:36 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [28/100], Loss: 0.0394, Valid Acc: 0.0977, Valid F1: 0.0323, Valid DP: 0.9267, Valid EOD: 0.9270
+2024-05-14 15:38:56 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [29/100], Loss: 0.0271, Valid Acc: 0.1171, Valid F1: 0.0389, Valid DP: 0.9156, Valid EOD: 0.9375
+2024-05-14 15:38:56 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 15:39:16 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [30/100], Loss: 0.0293, Valid Acc: 0.1023, Valid F1: 0.0340, Valid DP: 0.9223, Valid EOD: 0.9280
+2024-05-14 15:39:36 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [31/100], Loss: 0.0227, Valid Acc: 0.1013, Valid F1: 0.0341, Valid DP: 0.9250, Valid EOD: 0.9570
+2024-05-14 15:39:37 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 15:39:56 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [32/100], Loss: 0.0319, Valid Acc: 0.1009, Valid F1: 0.0332, Valid DP: 0.9260, Valid EOD: 0.9313
+2024-05-14 15:40:16 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [33/100], Loss: 0.0258, Valid Acc: 0.0963, Valid F1: 0.0318, Valid DP: 0.9334, Valid EOD: 0.9375
+2024-05-14 15:40:36 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [34/100], Loss: 0.0247, Valid Acc: 0.1146, Valid F1: 0.0383, Valid DP: 0.9136, Valid EOD: 0.9318
+2024-05-14 15:40:56 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [35/100], Loss: 0.0182, Valid Acc: 0.1030, Valid F1: 0.0345, Valid DP: 0.9203, Valid EOD: 0.9496
+2024-05-14 15:40:56 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 15:41:17 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [36/100], Loss: 0.0169, Valid Acc: 0.1086, Valid F1: 0.0358, Valid DP: 0.9363, Valid EOD: 0.9688
+2024-05-14 15:41:17 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 15:41:37 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [37/100], Loss: 0.0209, Valid Acc: 0.1188, Valid F1: 0.0396, Valid DP: 0.9263, Valid EOD: 0.9421
+2024-05-14 15:41:57 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [38/100], Loss: 0.0232, Valid Acc: 0.1013, Valid F1: 0.0336, Valid DP: 0.9178, Valid EOD: 0.9202
+2024-05-14 15:42:17 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [39/100], Loss: 0.0152, Valid Acc: 0.1048, Valid F1: 0.0350, Valid DP: 0.9097, Valid EOD: 0.9414
+2024-05-14 15:42:17 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 15:42:37 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [40/100], Loss: 0.0151, Valid Acc: 0.0974, Valid F1: 0.0319, Valid DP: 0.9378, Valid EOD: 0.9563
+2024-05-14 15:42:37 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 15:42:58 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [41/100], Loss: 0.0138, Valid Acc: 0.1153, Valid F1: 0.0384, Valid DP: 0.9056, Valid EOD: 0.9325
+2024-05-14 15:42:58 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 15:43:18 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [42/100], Loss: 0.0196, Valid Acc: 0.1030, Valid F1: 0.0343, Valid DP: 0.9082, Valid EOD: 0.9236
+2024-05-14 15:43:38 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [43/100], Loss: 0.0137, Valid Acc: 0.1174, Valid F1: 0.0392, Valid DP: 0.9116, Valid EOD: 0.9332
+2024-05-14 15:43:38 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 15:43:59 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [44/100], Loss: 0.0125, Valid Acc: 0.1090, Valid F1: 0.0364, Valid DP: 0.9090, Valid EOD: 0.9303
+2024-05-14 15:43:59 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 15:44:19 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [45/100], Loss: 0.0131, Valid Acc: 0.1083, Valid F1: 0.0362, Valid DP: 0.9082, Valid EOD: 0.9377
+2024-05-14 15:44:39 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [46/100], Loss: 0.0138, Valid Acc: 0.1079, Valid F1: 0.0362, Valid DP: 0.9297, Valid EOD: 0.9570
+2024-05-14 15:45:00 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [47/100], Loss: 0.0220, Valid Acc: 0.1086, Valid F1: 0.0362, Valid DP: 0.9112, Valid EOD: 0.9214
+2024-05-14 15:45:20 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [48/100], Loss: 0.0205, Valid Acc: 0.1150, Valid F1: 0.0383, Valid DP: 0.9056, Valid EOD: 0.9273
+2024-05-14 15:45:41 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [49/100], Loss: 0.0146, Valid Acc: 0.1160, Valid F1: 0.0387, Valid DP: 0.9149, Valid EOD: 0.9399
+2024-05-14 15:46:15 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [50/100], Loss: 0.0136, Valid Acc: 0.1055, Valid F1: 0.0352, Valid DP: 0.8995, Valid EOD: 0.9288
+2024-05-14 15:46:35 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [51/100], Loss: 0.0148, Valid Acc: 0.1016, Valid F1: 0.0333, Valid DP: 0.9400, Valid EOD: 0.9563
+2024-05-14 15:46:56 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [52/100], Loss: 0.0117, Valid Acc: 0.1023, Valid F1: 0.0342, Valid DP: 0.9082, Valid EOD: 0.9332
+2024-05-14 15:46:56 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 15:47:16 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [53/100], Loss: 0.0114, Valid Acc: 0.1108, Valid F1: 0.0370, Valid DP: 0.9143, Valid EOD: 0.9407
+2024-05-14 15:47:17 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 15:47:37 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [54/100], Loss: 0.0167, Valid Acc: 0.1101, Valid F1: 0.0366, Valid DP: 0.9141, Valid EOD: 0.9313
+2024-05-14 15:47:58 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [55/100], Loss: 0.0152, Valid Acc: 0.1076, Valid F1: 0.0360, Valid DP: 0.9089, Valid EOD: 0.9369
+2024-05-14 15:48:19 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [56/100], Loss: 0.0155, Valid Acc: 0.1150, Valid F1: 0.0383, Valid DP: 0.9176, Valid EOD: 0.9384
+2024-05-14 15:48:39 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [57/100], Loss: 0.0108, Valid Acc: 0.1065, Valid F1: 0.0355, Valid DP: 0.9178, Valid EOD: 0.9347
+2024-05-14 15:48:39 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 15:49:00 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [58/100], Loss: 0.0108, Valid Acc: 0.1153, Valid F1: 0.0384, Valid DP: 0.9283, Valid EOD: 0.9466
+2024-05-14 15:49:00 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 15:49:21 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [59/100], Loss: 0.0120, Valid Acc: 0.0988, Valid F1: 0.0328, Valid DP: 0.9230, Valid EOD: 0.9261
+2024-05-14 15:49:42 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [60/100], Loss: 0.0144, Valid Acc: 0.1125, Valid F1: 0.0375, Valid DP: 0.9082, Valid EOD: 0.9313
+2024-05-14 15:50:02 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [61/100], Loss: 0.0157, Valid Acc: 0.1051, Valid F1: 0.0349, Valid DP: 0.9134, Valid EOD: 0.9250
+2024-05-14 15:50:23 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [62/100], Loss: 0.0146, Valid Acc: 0.1104, Valid F1: 0.0368, Valid DP: 0.9060, Valid EOD: 0.9375
+2024-05-14 15:50:44 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [63/100], Loss: 0.0121, Valid Acc: 0.1076, Valid F1: 0.0360, Valid DP: 0.9096, Valid EOD: 0.9399
+2024-05-14 15:51:05 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [64/100], Loss: 0.0098, Valid Acc: 0.1044, Valid F1: 0.0350, Valid DP: 0.9102, Valid EOD: 0.9414
+2024-05-14 15:51:05 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 15:51:26 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [65/100], Loss: 0.0113, Valid Acc: 0.1076, Valid F1: 0.0360, Valid DP: 0.9042, Valid EOD: 0.9332
+2024-05-14 15:51:47 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [66/100], Loss: 0.0083, Valid Acc: 0.1108, Valid F1: 0.0371, Valid DP: 0.9257, Valid EOD: 0.9503
+2024-05-14 15:51:47 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 15:52:08 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [67/100], Loss: 0.0104, Valid Acc: 0.1041, Valid F1: 0.0348, Valid DP: 0.9049, Valid EOD: 0.9347
+2024-05-14 15:52:29 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [68/100], Loss: 0.0115, Valid Acc: 0.1006, Valid F1: 0.0337, Valid DP: 0.9190, Valid EOD: 0.9488
+2024-05-14 15:52:50 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [69/100], Loss: 0.0142, Valid Acc: 0.1023, Valid F1: 0.0340, Valid DP: 0.9245, Valid EOD: 0.9500
+2024-05-14 15:53:11 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [70/100], Loss: 0.0171, Valid Acc: 0.1041, Valid F1: 0.0349, Valid DP: 0.9163, Valid EOD: 0.9488
+2024-05-14 15:53:32 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [71/100], Loss: 0.0083, Valid Acc: 0.0977, Valid F1: 0.0327, Valid DP: 0.9082, Valid EOD: 0.9436
+2024-05-14 15:53:53 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [72/100], Loss: 0.0086, Valid Acc: 0.1016, Valid F1: 0.0340, Valid DP: 0.9035, Valid EOD: 0.9407
+2024-05-14 15:54:15 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [73/100], Loss: 0.0056, Valid Acc: 0.0977, Valid F1: 0.0325, Valid DP: 0.9208, Valid EOD: 0.9273
+2024-05-14 15:54:15 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 15:54:36 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [74/100], Loss: 0.0094, Valid Acc: 0.1027, Valid F1: 0.0344, Valid DP: 0.8955, Valid EOD: 0.9332
+2024-05-14 15:54:57 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [75/100], Loss: 0.0218, Valid Acc: 0.1143, Valid F1: 0.0382, Valid DP: 0.9062, Valid EOD: 0.9437
+2024-05-14 15:55:18 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [76/100], Loss: 0.0136, Valid Acc: 0.1090, Valid F1: 0.0366, Valid DP: 0.9203, Valid EOD: 0.9518
+2024-05-14 15:55:39 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [77/100], Loss: 0.0147, Valid Acc: 0.1065, Valid F1: 0.0357, Valid DP: 0.9069, Valid EOD: 0.9384
+2024-05-14 15:56:01 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [78/100], Loss: 0.0066, Valid Acc: 0.1122, Valid F1: 0.0374, Valid DP: 0.9060, Valid EOD: 0.9437
+2024-05-14 15:56:22 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [79/100], Loss: 0.0098, Valid Acc: 0.1044, Valid F1: 0.0348, Valid DP: 0.9127, Valid EOD: 0.9437
+2024-05-14 15:56:43 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [80/100], Loss: 0.0114, Valid Acc: 0.1055, Valid F1: 0.0353, Valid DP: 0.9116, Valid EOD: 0.9399
+2024-05-14 15:57:04 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [81/100], Loss: 0.0080, Valid Acc: 0.1192, Valid F1: 0.0397, Valid DP: 0.9190, Valid EOD: 0.9369
+2024-05-14 15:57:25 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [82/100], Loss: 0.0090, Valid Acc: 0.1139, Valid F1: 0.0382, Valid DP: 0.9223, Valid EOD: 0.9496
+2024-05-14 15:57:47 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [83/100], Loss: 0.0067, Valid Acc: 0.1048, Valid F1: 0.0346, Valid DP: 0.9326, Valid EOD: 0.9375
+2024-05-14 15:58:08 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [84/100], Loss: 0.0056, Valid Acc: 0.1027, Valid F1: 0.0344, Valid DP: 0.9082, Valid EOD: 0.9451
+2024-05-14 15:58:08 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 15:58:30 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [85/100], Loss: 0.0058, Valid Acc: 0.1062, Valid F1: 0.0356, Valid DP: 0.9176, Valid EOD: 0.9488
+2024-05-14 15:58:51 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [86/100], Loss: 0.0103, Valid Acc: 0.1079, Valid F1: 0.0362, Valid DP: 0.9350, Valid EOD: 0.9599
+2024-05-14 15:59:12 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [87/100], Loss: 0.0114, Valid Acc: 0.1153, Valid F1: 0.0385, Valid DP: 0.9183, Valid EOD: 0.9384
+2024-05-14 15:59:34 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [88/100], Loss: 0.0094, Valid Acc: 0.1041, Valid F1: 0.0348, Valid DP: 0.9097, Valid EOD: 0.9377
+2024-05-14 15:59:55 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [89/100], Loss: 0.0074, Valid Acc: 0.1181, Valid F1: 0.0393, Valid DP: 0.9049, Valid EOD: 0.9251
+2024-05-14 16:00:17 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [90/100], Loss: 0.0122, Valid Acc: 0.1136, Valid F1: 0.0380, Valid DP: 0.9223, Valid EOD: 0.9451
+2024-05-14 16:00:39 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [91/100], Loss: 0.0132, Valid Acc: 0.1072, Valid F1: 0.0358, Valid DP: 0.9089, Valid EOD: 0.9369
+2024-05-14 16:01:00 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [92/100], Loss: 0.0075, Valid Acc: 0.1055, Valid F1: 0.0352, Valid DP: 0.9082, Valid EOD: 0.9332
+2024-05-14 16:01:21 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [93/100], Loss: 0.0102, Valid Acc: 0.1072, Valid F1: 0.0360, Valid DP: 0.9116, Valid EOD: 0.9414
+2024-05-14 16:01:43 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [94/100], Loss: 0.0081, Valid Acc: 0.1136, Valid F1: 0.0380, Valid DP: 0.9210, Valid EOD: 0.9436
+2024-05-14 16:02:05 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [95/100], Loss: 0.0081, Valid Acc: 0.1094, Valid F1: 0.0365, Valid DP: 0.9076, Valid EOD: 0.9347
+2024-05-14 16:02:26 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [96/100], Loss: 0.0066, Valid Acc: 0.1055, Valid F1: 0.0352, Valid DP: 0.9090, Valid EOD: 0.9295
+2024-05-14 16:02:48 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [97/100], Loss: 0.0056, Valid Acc: 0.1020, Valid F1: 0.0341, Valid DP: 0.9097, Valid EOD: 0.9392
+2024-05-14 16:03:09 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [98/100], Loss: 0.0055, Valid Acc: 0.0939, Valid F1: 0.0313, Valid DP: 0.9208, Valid EOD: 0.9377
+2024-05-14 16:03:10 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:03:31 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [99/100], Loss: 0.0091, Valid Acc: 0.1041, Valid F1: 0.0349, Valid DP: 0.9196, Valid EOD: 0.9503
+2024-05-14 16:03:53 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [100/100], Loss: 0.0096, Valid Acc: 0.1210, Valid F1: 0.0402, Valid DP: 0.9102, Valid EOD: 0.9251
+2024-05-14 16:03:53 - orthogonal_representations/utk_face/v001_final - INFO - Saved model final to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/final_state.pth.
+2024-05-14 16:03:53 - orthogonal_representations/utk_face/v001_final - INFO - Model and metrics saved.
+2024-05-14 16:03:53 - orthogonal_representations/utk_face/v001_final - INFO - Training finished.
+2024-05-14 16:03:53 - orthogonal_representations/utk_face/v001_final - INFO - Train model target
+2024-05-14 16:03:53 - orthogonal_representations/utk_face/v001_final - INFO - Building static subspace for sensitive representations on 16592 samples.
+2024-05-14 16:04:04 - orthogonal_representations/utk_face/v001_final - INFO - Training started.
+2024-05-14 16:04:22 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 26 predictions.
+2024-05-14 16:04:22 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:04:22 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:04:22 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:04:25 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 6 has only 8 predictions.
+2024-05-14 16:04:25 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [1/100], Loss: 7.0275, Valid Acc: 0.1181, Valid F1: 0.0232, Valid DP: 0.9978, Valid EOD: 1.0000
+2024-05-14 16:04:25 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_f1_state.pth.
+2024-05-14 16:04:25 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_eod_state.pth.
+2024-05-14 16:04:25 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:04:43 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 26 predictions.
+2024-05-14 16:04:43 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:04:43 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:04:43 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:04:45 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 6 has only 80 predictions.
+2024-05-14 16:04:45 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [2/100], Loss: 2.3352, Valid Acc: 0.1171, Valid F1: 0.0256, Valid DP: 0.9822, Valid EOD: 0.9833
+2024-05-14 16:04:46 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_f1_state.pth.
+2024-05-14 16:04:46 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:05:04 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 26 predictions.
+2024-05-14 16:05:04 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:05:04 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:05:04 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:05:06 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 2 has only 4 predictions.
+2024-05-14 16:05:06 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [3/100], Loss: 2.3166, Valid Acc: 0.1217, Valid F1: 0.0228, Valid DP: 0.9987, Valid EOD: 1.0000
+2024-05-14 16:05:06 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:05:24 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 26 predictions.
+2024-05-14 16:05:24 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:05:24 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:05:24 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:05:27 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [4/100], Loss: 2.3126, Valid Acc: 0.1171, Valid F1: 0.0210, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 16:05:27 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:05:45 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 26 predictions.
+2024-05-14 16:05:45 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:05:45 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:05:45 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:05:47 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [5/100], Loss: 2.3094, Valid Acc: 0.1255, Valid F1: 0.0307, Valid DP: 0.9699, Valid EOD: 0.9858
+2024-05-14 16:05:47 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_f1_state.pth.
+2024-05-14 16:05:48 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:06:06 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 26 predictions.
+2024-05-14 16:06:06 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:06:06 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:06:06 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:06:08 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [6/100], Loss: 2.3082, Valid Acc: 0.1210, Valid F1: 0.0216, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 16:06:08 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:06:27 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 26 predictions.
+2024-05-14 16:06:27 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:06:27 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:06:27 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:06:29 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [7/100], Loss: 2.3073, Valid Acc: 0.1171, Valid F1: 0.0210, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 16:06:29 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:06:47 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 26 predictions.
+2024-05-14 16:06:47 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:06:47 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:06:47 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:06:50 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [8/100], Loss: 2.3059, Valid Acc: 0.1262, Valid F1: 0.0357, Valid DP: 0.9049, Valid EOD: 0.9318
+2024-05-14 16:06:50 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_f1_state.pth.
+2024-05-14 16:06:50 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:07:08 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 26 predictions.
+2024-05-14 16:07:08 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:07:08 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:07:08 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:07:11 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [9/100], Loss: 2.3056, Valid Acc: 0.1164, Valid F1: 0.0270, Valid DP: 0.9600, Valid EOD: 0.9669
+2024-05-14 16:07:11 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:07:29 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 26 predictions.
+2024-05-14 16:07:29 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:07:29 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:07:29 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:07:31 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 2 has only 59 predictions.
+2024-05-14 16:07:31 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [10/100], Loss: 2.3044, Valid Acc: 0.1245, Valid F1: 0.0284, Valid DP: 0.9846, Valid EOD: 1.0000
+2024-05-14 16:07:31 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:07:50 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 26 predictions.
+2024-05-14 16:07:50 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:07:50 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:07:50 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:07:52 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [11/100], Loss: 2.3036, Valid Acc: 0.1171, Valid F1: 0.0210, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 16:07:52 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:08:11 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 26 predictions.
+2024-05-14 16:08:11 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:08:11 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:08:11 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:08:13 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [12/100], Loss: 2.3030, Valid Acc: 0.1171, Valid F1: 0.0285, Valid DP: 0.9571, Valid EOD: 0.9596
+2024-05-14 16:08:13 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:08:32 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 26 predictions.
+2024-05-14 16:08:32 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:08:32 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:08:32 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:08:34 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 6 has only 11 predictions.
+2024-05-14 16:08:34 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [13/100], Loss: 2.3025, Valid Acc: 0.1160, Valid F1: 0.0213, Valid DP: 0.9963, Valid EOD: 0.9982
+2024-05-14 16:08:34 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:08:52 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 26 predictions.
+2024-05-14 16:08:52 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:08:52 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:08:52 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:08:55 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 6 has only 31 predictions.
+2024-05-14 16:08:55 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [14/100], Loss: 2.3023, Valid Acc: 0.1160, Valid F1: 0.0224, Valid DP: 0.9911, Valid EOD: 0.9930
+2024-05-14 16:08:55 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:09:13 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 26 predictions.
+2024-05-14 16:09:13 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:09:13 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:09:13 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:09:16 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [15/100], Loss: 2.3020, Valid Acc: 0.1294, Valid F1: 0.0370, Valid DP: 0.9096, Valid EOD: 0.9394
+2024-05-14 16:09:16 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_f1_state.pth.
+2024-05-14 16:09:16 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:09:34 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 26 predictions.
+2024-05-14 16:09:34 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:09:34 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:09:34 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:09:37 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [16/100], Loss: 2.3018, Valid Acc: 0.1171, Valid F1: 0.0210, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 16:09:37 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:09:55 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 26 predictions.
+2024-05-14 16:09:55 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:09:55 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:09:55 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:09:58 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [17/100], Loss: 2.3014, Valid Acc: 0.1185, Valid F1: 0.0325, Valid DP: 0.8734, Valid EOD: 0.8915
+2024-05-14 16:09:58 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:10:16 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 26 predictions.
+2024-05-14 16:10:16 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:10:16 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:10:16 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:10:19 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 2 has only 36 predictions.
+2024-05-14 16:10:19 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [18/100], Loss: 2.3016, Valid Acc: 0.1227, Valid F1: 0.0260, Valid DP: 0.9886, Valid EOD: 0.9953
+2024-05-14 16:10:37 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 26 predictions.
+2024-05-14 16:10:37 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:10:37 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:10:37 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:10:40 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [19/100], Loss: 2.3013, Valid Acc: 0.1312, Valid F1: 0.0422, Valid DP: 0.6358, Valid EOD: 0.6894
+2024-05-14 16:10:40 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_f1_state.pth.
+2024-05-14 16:10:40 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:10:58 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 26 predictions.
+2024-05-14 16:10:58 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:10:58 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:10:58 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:11:01 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [20/100], Loss: 2.3010, Valid Acc: 0.1174, Valid F1: 0.0263, Valid DP: 0.9630, Valid EOD: 0.9752
+2024-05-14 16:11:01 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:11:19 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 26 predictions.
+2024-05-14 16:11:19 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:11:19 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:11:19 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:11:22 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 2 has only 39 predictions.
+2024-05-14 16:11:22 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [21/100], Loss: 2.3008, Valid Acc: 0.1238, Valid F1: 0.0271, Valid DP: 0.9893, Valid EOD: 1.0000
+2024-05-14 16:11:22 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:11:41 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 26 predictions.
+2024-05-14 16:11:41 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:11:41 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:11:41 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:11:43 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [22/100], Loss: 2.3009, Valid Acc: 0.1210, Valid F1: 0.0216, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 16:12:02 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 26 predictions.
+2024-05-14 16:12:02 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:12:02 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:12:02 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:12:04 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 6 has only 2 predictions.
+2024-05-14 16:12:04 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [23/100], Loss: 2.3006, Valid Acc: 0.1167, Valid F1: 0.0209, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 16:12:04 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:12:23 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 26 predictions.
+2024-05-14 16:12:23 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:12:23 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:12:23 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:12:25 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [24/100], Loss: 2.3006, Valid Acc: 0.1238, Valid F1: 0.0384, Valid DP: 0.7388, Valid EOD: 0.7851
+2024-05-14 16:12:26 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:12:44 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 26 predictions.
+2024-05-14 16:12:44 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:12:44 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:12:44 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:12:47 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [25/100], Loss: 2.3003, Valid Acc: 0.1210, Valid F1: 0.0216, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 16:12:47 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:13:05 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 26 predictions.
+2024-05-14 16:13:05 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:13:05 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:13:05 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:13:08 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [26/100], Loss: 2.3003, Valid Acc: 0.1382, Valid F1: 0.0432, Valid DP: 0.7535, Valid EOD: 0.8561
+2024-05-14 16:13:08 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_f1_state.pth.
+2024-05-14 16:13:27 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 26 predictions.
+2024-05-14 16:13:27 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:13:27 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:13:27 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:13:29 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [27/100], Loss: 2.3000, Valid Acc: 0.1181, Valid F1: 0.0289, Valid DP: 0.9129, Valid EOD: 0.9587
+2024-05-14 16:13:29 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:13:48 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 26 predictions.
+2024-05-14 16:13:48 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:13:48 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:13:48 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:13:51 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [28/100], Loss: 2.3001, Valid Acc: 0.1171, Valid F1: 0.0210, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 16:14:09 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 26 predictions.
+2024-05-14 16:14:09 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:14:09 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:14:09 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:14:12 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [29/100], Loss: 2.2997, Valid Acc: 0.1287, Valid F1: 0.0341, Valid DP: 0.9518, Valid EOD: 0.9858
+2024-05-14 16:14:12 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:14:31 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 26 predictions.
+2024-05-14 16:14:31 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:14:31 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:14:31 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:14:33 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [30/100], Loss: 2.3000, Valid Acc: 0.1210, Valid F1: 0.0216, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 16:14:52 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 26 predictions.
+2024-05-14 16:14:52 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:14:52 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:14:52 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:14:55 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [31/100], Loss: 2.2995, Valid Acc: 0.1354, Valid F1: 0.0437, Valid DP: 0.5365, Valid EOD: 0.6038
+2024-05-14 16:14:55 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_f1_state.pth.
+2024-05-14 16:14:55 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:15:13 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 26 predictions.
+2024-05-14 16:15:13 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:15:13 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:15:13 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:15:16 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 6 has only 7 predictions.
+2024-05-14 16:15:16 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [32/100], Loss: 2.2996, Valid Acc: 0.1171, Valid F1: 0.0210, Valid DP: 0.9985, Valid EOD: 1.0000
+2024-05-14 16:15:35 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 26 predictions.
+2024-05-14 16:15:35 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:15:35 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:15:35 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:15:37 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [33/100], Loss: 2.2993, Valid Acc: 0.1171, Valid F1: 0.0210, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 16:15:38 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:15:56 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 26 predictions.
+2024-05-14 16:15:56 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:15:56 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:15:56 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:15:59 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [34/100], Loss: 2.2993, Valid Acc: 0.1171, Valid F1: 0.0210, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 16:16:18 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 26 predictions.
+2024-05-14 16:16:18 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:16:18 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:16:18 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:16:20 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [35/100], Loss: 2.2992, Valid Acc: 0.1375, Valid F1: 0.0438, Valid DP: 0.6588, Valid EOD: 0.7727
+2024-05-14 16:16:21 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_f1_state.pth.
+2024-05-14 16:16:21 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:16:39 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 26 predictions.
+2024-05-14 16:16:39 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:16:39 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:16:39 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:16:42 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [36/100], Loss: 2.2992, Valid Acc: 0.1171, Valid F1: 0.0210, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 16:16:42 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:17:01 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 26 predictions.
+2024-05-14 16:17:01 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:17:01 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:17:01 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:17:04 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [37/100], Loss: 2.2988, Valid Acc: 0.1171, Valid F1: 0.0210, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 16:17:04 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:17:23 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 26 predictions.
+2024-05-14 16:17:23 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:17:23 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:17:23 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:17:26 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [38/100], Loss: 2.2985, Valid Acc: 0.1171, Valid F1: 0.0210, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 16:17:26 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:17:45 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 26 predictions.
+2024-05-14 16:17:45 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:17:45 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:17:45 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:17:48 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [39/100], Loss: 2.2987, Valid Acc: 0.1336, Valid F1: 0.0420, Valid DP: 0.7298, Valid EOD: 0.8264
+2024-05-14 16:18:06 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 26 predictions.
+2024-05-14 16:18:06 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:18:06 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:18:06 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:18:09 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 2 has only 17 predictions.
+2024-05-14 16:18:09 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [40/100], Loss: 2.2988, Valid Acc: 0.1224, Valid F1: 0.0240, Valid DP: 0.9953, Valid EOD: 1.0000
+2024-05-14 16:18:28 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 26 predictions.
+2024-05-14 16:18:28 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:18:28 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:18:28 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:18:31 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 6 has only 4 predictions.
+2024-05-14 16:18:31 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [41/100], Loss: 2.2984, Valid Acc: 0.1171, Valid F1: 0.0210, Valid DP: 0.9987, Valid EOD: 1.0000
+2024-05-14 16:18:31 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:18:49 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 26 predictions.
+2024-05-14 16:18:49 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:18:49 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:18:49 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:18:52 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [42/100], Loss: 2.2979, Valid Acc: 0.1396, Valid F1: 0.0441, Valid DP: 0.7113, Valid EOD: 0.8258
+2024-05-14 16:18:52 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_f1_state.pth.
+2024-05-14 16:18:52 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:19:11 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 26 predictions.
+2024-05-14 16:19:11 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:19:11 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:19:11 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:19:14 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [43/100], Loss: 2.2984, Valid Acc: 0.1382, Valid F1: 0.0445, Valid DP: 0.5646, Valid EOD: 0.6860
+2024-05-14 16:19:14 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_f1_state.pth.
+2024-05-14 16:19:33 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 26 predictions.
+2024-05-14 16:19:33 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:19:33 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:19:33 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:19:36 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [44/100], Loss: 2.2977, Valid Acc: 0.1399, Valid F1: 0.0451, Valid DP: 0.6536, Valid EOD: 0.7424
+2024-05-14 16:19:36 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_f1_state.pth.
+2024-05-14 16:19:36 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:19:55 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 26 predictions.
+2024-05-14 16:19:55 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:19:55 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:19:55 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:19:58 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [45/100], Loss: 2.2985, Valid Acc: 0.1171, Valid F1: 0.0210, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 16:20:17 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 26 predictions.
+2024-05-14 16:20:17 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:20:17 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:20:17 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:20:20 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [46/100], Loss: 2.2976, Valid Acc: 0.1378, Valid F1: 0.0445, Valid DP: 0.5529, Valid EOD: 0.6364
+2024-05-14 16:20:20 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:20:38 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 26 predictions.
+2024-05-14 16:20:38 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:20:38 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:20:38 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:20:41 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 0 has only 5 predictions.
+2024-05-14 16:20:41 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [47/100], Loss: 2.2973, Valid Acc: 0.1326, Valid F1: 0.0390, Valid DP: 0.9397, Valid EOD: 0.9858
+2024-05-14 16:20:41 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:21:00 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 26 predictions.
+2024-05-14 16:21:00 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:21:00 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:21:00 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:21:03 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 0 has only 3 predictions.
+2024-05-14 16:21:03 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [48/100], Loss: 2.2968, Valid Acc: 0.1329, Valid F1: 0.0419, Valid DP: 0.8682, Valid EOD: 0.9340
+2024-05-14 16:21:04 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:21:23 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 26 predictions.
+2024-05-14 16:21:23 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:21:23 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:21:23 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:21:26 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [49/100], Loss: 2.2970, Valid Acc: 0.1428, Valid F1: 0.0461, Valid DP: 0.5315, Valid EOD: 0.6439
+2024-05-14 16:21:26 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_f1_state.pth.
+2024-05-14 16:21:44 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 26 predictions.
+2024-05-14 16:21:44 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:21:44 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:21:44 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:21:48 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 0 has only 1 predictions.
+2024-05-14 16:21:48 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [50/100], Loss: 2.2964, Valid Acc: 0.1392, Valid F1: 0.0454, Valid DP: 0.6162, Valid EOD: 0.7521
+2024-05-14 16:21:48 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:22:06 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 26 predictions.
+2024-05-14 16:22:06 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:22:06 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:22:06 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:22:10 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 0 has only 14 predictions.
+2024-05-14 16:22:10 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [51/100], Loss: 2.2958, Valid Acc: 0.1378, Valid F1: 0.0511, Valid DP: 0.6443, Valid EOD: 0.7273
+2024-05-14 16:22:10 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_f1_state.pth.
+2024-05-14 16:22:10 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:22:29 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 26 predictions.
+2024-05-14 16:22:29 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:22:29 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:22:29 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:22:32 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 0 has only 9 predictions.
+2024-05-14 16:22:32 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [52/100], Loss: 2.2957, Valid Acc: 0.1399, Valid F1: 0.0495, Valid DP: 0.6309, Valid EOD: 0.7603
+2024-05-14 16:22:32 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:22:51 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 26 predictions.
+2024-05-14 16:22:51 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:22:51 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:22:51 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:22:54 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 0 has only 17 predictions.
+2024-05-14 16:22:54 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [53/100], Loss: 2.2954, Valid Acc: 0.1449, Valid F1: 0.0529, Valid DP: 0.7757, Valid EOD: 0.8939
+2024-05-14 16:22:54 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_f1_state.pth.
+2024-05-14 16:22:54 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:23:13 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 26 predictions.
+2024-05-14 16:23:13 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:23:13 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:23:13 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:23:16 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 0 has only 5 predictions.
+2024-05-14 16:23:16 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [54/100], Loss: 2.2940, Valid Acc: 0.1241, Valid F1: 0.0327, Valid DP: 0.9711, Valid EOD: 0.9953
+2024-05-14 16:23:16 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:23:35 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 26 predictions.
+2024-05-14 16:23:35 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:23:35 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:23:35 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:23:38 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 0 has only 61 predictions.
+2024-05-14 16:23:38 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [55/100], Loss: 2.2932, Valid Acc: 0.1579, Valid F1: 0.0731, Valid DP: 0.6987, Valid EOD: 0.7955
+2024-05-14 16:23:38 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_f1_state.pth.
+2024-05-14 16:23:38 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:23:57 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 26 predictions.
+2024-05-14 16:23:57 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:23:57 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:23:57 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:24:00 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 0 has only 98 predictions.
+2024-05-14 16:24:00 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [56/100], Loss: 2.2929, Valid Acc: 0.1684, Valid F1: 0.0872, Valid DP: 0.5033, Valid EOD: 0.6529
+2024-05-14 16:24:00 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_f1_state.pth.
+2024-05-14 16:24:01 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:24:20 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 26 predictions.
+2024-05-14 16:24:20 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:24:20 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:24:20 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:24:23 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 0 has only 26 predictions.
+2024-05-14 16:24:23 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [57/100], Loss: 2.2929, Valid Acc: 0.1329, Valid F1: 0.0473, Valid DP: 0.9415, Valid EOD: 0.9858
+2024-05-14 16:24:23 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:24:42 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 26 predictions.
+2024-05-14 16:24:42 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:24:42 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:24:42 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:24:45 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [58/100], Loss: 2.2916, Valid Acc: 0.1653, Valid F1: 0.0867, Valid DP: 0.7550, Valid EOD: 0.8333
+2024-05-14 16:24:45 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:25:04 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 26 predictions.
+2024-05-14 16:25:04 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:25:04 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:25:04 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:25:07 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 0 has only 94 predictions.
+2024-05-14 16:25:07 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [59/100], Loss: 2.2907, Valid Acc: 0.1610, Valid F1: 0.0837, Valid DP: 0.7232, Valid EOD: 0.8430
+2024-05-14 16:25:07 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:25:26 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 26 predictions.
+2024-05-14 16:25:26 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:25:26 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:25:26 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:25:29 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [60/100], Loss: 2.2909, Valid Acc: 0.1814, Valid F1: 0.0938, Valid DP: 0.8090, Valid EOD: 0.9481
+2024-05-14 16:25:30 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_f1_state.pth.
+2024-05-14 16:25:49 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 26 predictions.
+2024-05-14 16:25:49 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:25:49 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:25:49 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:25:52 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [61/100], Loss: 2.2884, Valid Acc: 0.1902, Valid F1: 0.0865, Valid DP: 0.4219, Valid EOD: 0.7935
+2024-05-14 16:25:52 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:26:11 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 32 predictions.
+2024-05-14 16:26:11 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:26:11 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:26:11 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:26:14 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [62/100], Loss: 2.2855, Valid Acc: 0.1857, Valid F1: 0.0999, Valid DP: 0.6751, Valid EOD: 0.8443
+2024-05-14 16:26:14 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_f1_state.pth.
+2024-05-14 16:26:15 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:26:34 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 32 predictions.
+2024-05-14 16:26:34 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:26:34 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:26:34 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:26:37 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [63/100], Loss: 2.2826, Valid Acc: 0.1969, Valid F1: 0.1068, Valid DP: 0.4903, Valid EOD: 0.7273
+2024-05-14 16:26:37 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_f1_state.pth.
+2024-05-14 16:26:37 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:26:56 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:26:56 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:26:56 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:27:00 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [64/100], Loss: 2.2851, Valid Acc: 0.1874, Valid F1: 0.1011, Valid DP: 0.4990, Valid EOD: 0.6612
+2024-05-14 16:27:19 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:27:19 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:27:19 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:27:22 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [65/100], Loss: 2.2844, Valid Acc: 0.1934, Valid F1: 0.1057, Valid DP: 0.5887, Valid EOD: 0.6792
+2024-05-14 16:27:41 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:27:41 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:27:41 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:27:45 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 95 predictions.
+2024-05-14 16:27:45 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [66/100], Loss: 2.2865, Valid Acc: 0.1994, Valid F1: 0.1009, Valid DP: 0.3982, Valid EOD: 0.8581
+2024-05-14 16:28:04 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:28:04 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:28:04 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:28:07 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 6 has only 92 predictions.
+2024-05-14 16:28:07 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [67/100], Loss: 2.2780, Valid Acc: 0.1828, Valid F1: 0.0831, Valid DP: 0.8138, Valid EOD: 0.9504
+2024-05-14 16:28:07 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:28:26 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:28:26 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:28:26 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 20 predictions.
+2024-05-14 16:28:30 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 29 predictions.
+2024-05-14 16:28:30 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [68/100], Loss: 2.2890, Valid Acc: 0.1800, Valid F1: 0.0960, Valid DP: 0.8816, Valid EOD: 0.9773
+2024-05-14 16:28:49 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:28:49 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:28:49 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 22 predictions.
+2024-05-14 16:28:52 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [69/100], Loss: 2.2765, Valid Acc: 0.2155, Valid F1: 0.1171, Valid DP: 0.4663, Valid EOD: 0.7521
+2024-05-14 16:28:52 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_f1_state.pth.
+2024-05-14 16:28:53 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:29:12 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:29:12 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:29:12 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 22 predictions.
+2024-05-14 16:29:15 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [70/100], Loss: 2.2684, Valid Acc: 0.1923, Valid F1: 0.1092, Valid DP: 0.5440, Valid EOD: 0.7025
+2024-05-14 16:29:15 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:29:34 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:29:34 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:29:34 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 22 predictions.
+2024-05-14 16:29:38 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 2 predictions.
+2024-05-14 16:29:38 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [71/100], Loss: 2.2867, Valid Acc: 0.2155, Valid F1: 0.1076, Valid DP: 0.6247, Valid EOD: 0.8182
+2024-05-14 16:29:57 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:29:57 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:29:57 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 22 predictions.
+2024-05-14 16:30:01 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 22 predictions.
+2024-05-14 16:30:01 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [72/100], Loss: 2.2736, Valid Acc: 0.2068, Valid F1: 0.1131, Valid DP: 0.5399, Valid EOD: 0.8099
+2024-05-14 16:30:20 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:30:20 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:30:20 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 22 predictions.
+2024-05-14 16:30:23 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [73/100], Loss: 2.2617, Valid Acc: 0.2187, Valid F1: 0.1237, Valid DP: 0.4367, Valid EOD: 0.8759
+2024-05-14 16:30:23 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_f1_state.pth.
+2024-05-14 16:30:24 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:30:43 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:30:43 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:30:43 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 23 predictions.
+2024-05-14 16:30:46 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 1 predictions.
+2024-05-14 16:30:46 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [74/100], Loss: 2.2636, Valid Acc: 0.1610, Valid F1: 0.0678, Valid DP: 0.6070, Valid EOD: 0.8710
+2024-05-14 16:31:06 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:31:06 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:31:06 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 23 predictions.
+2024-05-14 16:31:09 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 82 predictions.
+2024-05-14 16:31:09 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [75/100], Loss: 2.2602, Valid Acc: 0.1906, Valid F1: 0.1152, Valid DP: 0.7803, Valid EOD: 0.9015
+2024-05-14 16:31:09 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:31:29 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:31:29 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:31:29 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 23 predictions.
+2024-05-14 16:31:32 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 8 predictions.
+2024-05-14 16:31:32 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [76/100], Loss: 2.2672, Valid Acc: 0.2293, Valid F1: 0.1170, Valid DP: 0.5171, Valid EOD: 0.8759
+2024-05-14 16:31:51 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:31:51 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:31:51 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 25 predictions.
+2024-05-14 16:31:55 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 86 predictions.
+2024-05-14 16:31:55 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [77/100], Loss: 2.2389, Valid Acc: 0.2046, Valid F1: 0.1007, Valid DP: 0.4656, Valid EOD: 0.8966
+2024-05-14 16:31:55 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:32:15 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:32:15 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:32:15 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 25 predictions.
+2024-05-14 16:32:18 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [78/100], Loss: 2.2564, Valid Acc: 0.2053, Valid F1: 0.1255, Valid DP: 0.4759, Valid EOD: 0.5985
+2024-05-14 16:32:18 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_f1_state.pth.
+2024-05-14 16:32:38 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:32:38 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:32:38 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 25 predictions.
+2024-05-14 16:32:41 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [79/100], Loss: 2.2564, Valid Acc: 0.2029, Valid F1: 0.1295, Valid DP: 0.4027, Valid EOD: 0.5801
+2024-05-14 16:32:41 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_f1_state.pth.
+2024-05-14 16:33:01 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:33:01 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:33:04 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 53 predictions.
+2024-05-14 16:33:04 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [80/100], Loss: 2.2453, Valid Acc: 0.2268, Valid F1: 0.1308, Valid DP: 0.4769, Valid EOD: 0.8099
+2024-05-14 16:33:04 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_f1_state.pth.
+2024-05-14 16:33:24 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:33:24 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:33:28 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 1 predictions.
+2024-05-14 16:33:28 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [81/100], Loss: 2.2255, Valid Acc: 0.2194, Valid F1: 0.1212, Valid DP: 0.3457, Valid EOD: 0.8828
+2024-05-14 16:33:28 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:33:47 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:33:47 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:33:51 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [82/100], Loss: 2.2316, Valid Acc: 0.2395, Valid F1: 0.1393, Valid DP: 0.4012, Valid EOD: 0.8552
+2024-05-14 16:33:51 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_f1_state.pth.
+2024-05-14 16:34:10 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:34:10 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:34:14 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 9 predictions.
+2024-05-14 16:34:14 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [83/100], Loss: 2.2150, Valid Acc: 0.2412, Valid F1: 0.1501, Valid DP: 0.3590, Valid EOD: 0.7724
+2024-05-14 16:34:14 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_f1_state.pth.
+2024-05-14 16:34:14 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:34:33 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:34:33 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:34:37 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [84/100], Loss: 2.2237, Valid Acc: 0.2039, Valid F1: 0.1280, Valid DP: 0.6454, Valid EOD: 0.7121
+2024-05-14 16:34:56 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:34:56 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:35:00 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [85/100], Loss: 2.2124, Valid Acc: 0.2233, Valid F1: 0.1314, Valid DP: 0.4463, Valid EOD: 0.7655
+2024-05-14 16:35:00 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:35:20 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:35:20 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:35:23 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 29 predictions.
+2024-05-14 16:35:23 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [86/100], Loss: 2.2210, Valid Acc: 0.2377, Valid F1: 0.1424, Valid DP: 0.3496, Valid EOD: 0.9103
+2024-05-14 16:35:43 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:35:43 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:35:47 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 10 predictions.
+2024-05-14 16:35:47 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [87/100], Loss: 2.2241, Valid Acc: 0.2257, Valid F1: 0.1269, Valid DP: 0.4977, Valid EOD: 0.8966
+2024-05-14 16:36:06 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:36:06 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:36:10 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [88/100], Loss: 2.2011, Valid Acc: 0.2514, Valid F1: 0.1590, Valid DP: 0.4071, Valid EOD: 0.7793
+2024-05-14 16:36:10 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_f1_state.pth.
+2024-05-14 16:36:10 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:36:30 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:36:30 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:36:33 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 1 predictions.
+2024-05-14 16:36:33 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [89/100], Loss: 2.2153, Valid Acc: 0.2549, Valid F1: 0.1508, Valid DP: 0.3885, Valid EOD: 0.8966
+2024-05-14 16:36:53 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:36:53 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:36:57 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [90/100], Loss: 2.1975, Valid Acc: 0.2071, Valid F1: 0.1137, Valid DP: 0.7239, Valid EOD: 0.9174
+2024-05-14 16:36:57 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:37:16 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:37:16 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:37:20 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [91/100], Loss: 2.2222, Valid Acc: 0.2511, Valid F1: 0.1476, Valid DP: 0.4159, Valid EOD: 0.9172
+2024-05-14 16:37:39 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:37:39 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:37:43 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 1 predictions.
+2024-05-14 16:37:43 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [92/100], Loss: 2.1786, Valid Acc: 0.2268, Valid F1: 0.1169, Valid DP: 0.4977, Valid EOD: 0.9517
+2024-05-14 16:37:43 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:38:03 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:38:03 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:38:06 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 8 has only 64 predictions.
+2024-05-14 16:38:06 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [93/100], Loss: 2.2253, Valid Acc: 0.2004, Valid F1: 0.0897, Valid DP: 0.4826, Valid EOD: 0.9310
+2024-05-14 16:38:26 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:38:26 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:38:30 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 6 predictions.
+2024-05-14 16:38:30 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [94/100], Loss: 2.1904, Valid Acc: 0.2563, Valid F1: 0.1693, Valid DP: 0.4041, Valid EOD: 0.7521
+2024-05-14 16:38:30 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_f1_state.pth.
+2024-05-14 16:38:49 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:38:49 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:38:53 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 7 predictions.
+2024-05-14 16:38:53 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [95/100], Loss: 2.1762, Valid Acc: 0.2451, Valid F1: 0.1392, Valid DP: 0.3449, Valid EOD: 0.9586
+2024-05-14 16:38:53 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:39:13 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:39:13 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:39:17 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 73 predictions.
+2024-05-14 16:39:17 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [96/100], Loss: 2.1725, Valid Acc: 0.2588, Valid F1: 0.1683, Valid DP: 0.3878, Valid EOD: 0.8323
+2024-05-14 16:39:17 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:39:37 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:39:37 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:39:41 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 24 predictions.
+2024-05-14 16:39:41 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [97/100], Loss: 2.1681, Valid Acc: 0.2546, Valid F1: 0.1619, Valid DP: 0.4064, Valid EOD: 0.8276
+2024-05-14 16:39:41 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:40:00 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:40:00 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:40:04 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 7 predictions.
+2024-05-14 16:40:04 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [98/100], Loss: 2.1518, Valid Acc: 0.2454, Valid F1: 0.1385, Valid DP: 0.3396, Valid EOD: 0.9724
+2024-05-14 16:40:04 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 16:40:24 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:40:24 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:40:28 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 6 predictions.
+2024-05-14 16:40:28 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [99/100], Loss: 2.1806, Valid Acc: 0.2335, Valid F1: 0.1330, Valid DP: 0.5412, Valid EOD: 0.9310
+2024-05-14 16:40:48 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 4 has only 59 predictions.
+2024-05-14 16:40:48 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 7 has only 13 predictions.
+2024-05-14 16:40:51 - orthogonal_representations/utk_face/v001_final - INFO - Warning: Class 9 has only 90 predictions.
+2024-05-14 16:40:51 - orthogonal_representations/utk_face/v001_final - INFO - Epoch [100/100], Loss: 2.1812, Valid Acc: 0.2725, Valid F1: 0.1821, Valid DP: 0.4634, Valid EOD: 0.9517
+2024-05-14 16:40:52 - orthogonal_representations/utk_face/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/best_f1_state.pth.
+2024-05-14 16:40:52 - orthogonal_representations/utk_face/v001_final - INFO - Saved model final to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v001_final/final_state.pth.
+2024-05-14 16:40:52 - orthogonal_representations/utk_face/v001_final - INFO - Model and metrics saved.
+2024-05-14 16:40:52 - orthogonal_representations/utk_face/v001_final - INFO - Training finished.

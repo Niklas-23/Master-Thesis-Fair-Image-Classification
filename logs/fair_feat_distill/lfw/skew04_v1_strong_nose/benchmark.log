@@ -1,0 +1,155 @@
+2024-06-11 12:11:13 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Start fair feature distillation benchmark.
+2024-06-11 12:11:13 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Training started.
+2024-06-11 12:11:23 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [1/100], Loss: 3.1018, Valid Acc: 0.6209, Valid F1: 0.7026, Valid DP: 0.1773, Valid EOD: 0.6425
+2024-06-11 12:11:23 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/skew04_v1_strong_nose/best_f1_state.pth.
+2024-06-11 12:11:23 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/skew04_v1_strong_nose/best_eod_state.pth.
+2024-06-11 12:11:23 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/skew04_v1_strong_nose/best_loss_state.pth.
+2024-06-11 12:11:33 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [2/100], Loss: 1.1327, Valid Acc: 0.6624, Valid F1: 0.5155, Valid DP: 0.2908, Valid EOD: 0.1108
+2024-06-11 12:11:34 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/skew04_v1_strong_nose/best_eod_state.pth.
+2024-06-11 12:11:34 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/skew04_v1_strong_nose/best_loss_state.pth.
+2024-06-11 12:11:44 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [3/100], Loss: 0.5313, Valid Acc: 0.8412, Valid F1: 0.8584, Valid DP: 0.4354, Valid EOD: 0.2570
+2024-06-11 12:11:44 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/skew04_v1_strong_nose/best_f1_state.pth.
+2024-06-11 12:11:44 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/skew04_v1_strong_nose/best_loss_state.pth.
+2024-06-11 12:11:55 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [4/100], Loss: 0.3658, Valid Acc: 0.8691, Valid F1: 0.8684, Valid DP: 0.5148, Valid EOD: 0.1024
+2024-06-11 12:11:55 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/skew04_v1_strong_nose/best_f1_state.pth.
+2024-06-11 12:11:55 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/skew04_v1_strong_nose/best_eod_state.pth.
+2024-06-11 12:11:55 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/skew04_v1_strong_nose/best_loss_state.pth.
+2024-06-11 12:12:06 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [5/100], Loss: 0.2410, Valid Acc: 0.8540, Valid F1: 0.8659, Valid DP: 0.4512, Valid EOD: 0.2109
+2024-06-11 12:12:06 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/skew04_v1_strong_nose/best_loss_state.pth.
+2024-06-11 12:12:17 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [6/100], Loss: 0.1615, Valid Acc: 0.8571, Valid F1: 0.8653, Valid DP: 0.4689, Valid EOD: 0.1779
+2024-06-11 12:12:17 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/skew04_v1_strong_nose/best_loss_state.pth.
+2024-06-11 12:12:28 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [7/100], Loss: 0.1153, Valid Acc: 0.8683, Valid F1: 0.8732, Valid DP: 0.4902, Valid EOD: 0.1433
+2024-06-11 12:12:28 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/skew04_v1_strong_nose/best_f1_state.pth.
+2024-06-11 12:12:28 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/skew04_v1_strong_nose/best_loss_state.pth.
+2024-06-11 12:12:40 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [8/100], Loss: 0.0898, Valid Acc: 0.8699, Valid F1: 0.8720, Valid DP: 0.5114, Valid EOD: 0.1186
+2024-06-11 12:12:40 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/skew04_v1_strong_nose/best_loss_state.pth.
+2024-06-11 12:12:51 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [9/100], Loss: 0.0861, Valid Acc: 0.8627, Valid F1: 0.8685, Valid DP: 0.4721, Valid EOD: 0.1549
+2024-06-11 12:12:52 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/skew04_v1_strong_nose/best_loss_state.pth.
+2024-06-11 12:13:03 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [10/100], Loss: 0.0804, Valid Acc: 0.8667, Valid F1: 0.8714, Valid DP: 0.5090, Valid EOD: 0.1433
+2024-06-11 12:13:03 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/skew04_v1_strong_nose/best_loss_state.pth.
+2024-06-11 12:13:15 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [11/100], Loss: 0.0689, Valid Acc: 0.8627, Valid F1: 0.8637, Valid DP: 0.5050, Valid EOD: 0.1170
+2024-06-11 12:13:15 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/skew04_v1_strong_nose/best_loss_state.pth.
+2024-06-11 12:13:27 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [12/100], Loss: 0.0628, Valid Acc: 0.8603, Valid F1: 0.8689, Valid DP: 0.4631, Valid EOD: 0.1796
+2024-06-11 12:13:27 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/skew04_v1_strong_nose/best_loss_state.pth.
+2024-06-11 12:13:39 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [13/100], Loss: 0.0608, Valid Acc: 0.8771, Valid F1: 0.8839, Valid DP: 0.5114, Valid EOD: 0.1549
+2024-06-11 12:13:40 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/skew04_v1_strong_nose/best_f1_state.pth.
+2024-06-11 12:13:40 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/skew04_v1_strong_nose/best_loss_state.pth.
+2024-06-11 12:13:52 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [14/100], Loss: 0.0663, Valid Acc: 0.8635, Valid F1: 0.8698, Valid DP: 0.4899, Valid EOD: 0.1582
+2024-06-11 12:14:04 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [15/100], Loss: 0.0821, Valid Acc: 0.8428, Valid F1: 0.8594, Valid DP: 0.4393, Valid EOD: 0.2521
+2024-06-11 12:14:17 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [16/100], Loss: 0.1787, Valid Acc: 0.7877, Valid F1: 0.8210, Valid DP: 0.3406, Valid EOD: 0.3789
+2024-06-11 12:14:29 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [17/100], Loss: 0.2029, Valid Acc: 0.8603, Valid F1: 0.8679, Valid DP: 0.5010, Valid EOD: 0.1713
+2024-06-11 12:14:42 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [18/100], Loss: 0.1524, Valid Acc: 0.8627, Valid F1: 0.8673, Valid DP: 0.4836, Valid EOD: 0.1450
+2024-06-11 12:14:55 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [19/100], Loss: 0.1000, Valid Acc: 0.8492, Valid F1: 0.8582, Valid DP: 0.4481, Valid EOD: 0.1895
+2024-06-11 12:15:08 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [20/100], Loss: 0.0730, Valid Acc: 0.8699, Valid F1: 0.8768, Valid DP: 0.4690, Valid EOD: 0.1598
+2024-06-11 12:15:22 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [21/100], Loss: 0.0581, Valid Acc: 0.8763, Valid F1: 0.8825, Valid DP: 0.5181, Valid EOD: 0.1499
+2024-06-11 12:15:22 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/skew04_v1_strong_nose/best_loss_state.pth.
+2024-06-11 12:15:35 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [22/100], Loss: 0.0540, Valid Acc: 0.8747, Valid F1: 0.8799, Valid DP: 0.4844, Valid EOD: 0.1417
+2024-06-11 12:15:35 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/skew04_v1_strong_nose/best_loss_state.pth.
+2024-06-11 12:15:49 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [23/100], Loss: 0.0504, Valid Acc: 0.8787, Valid F1: 0.8841, Valid DP: 0.5192, Valid EOD: 0.1417
+2024-06-11 12:15:49 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/skew04_v1_strong_nose/best_f1_state.pth.
+2024-06-11 12:15:49 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/skew04_v1_strong_nose/best_loss_state.pth.
+2024-06-11 12:16:03 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [24/100], Loss: 0.0442, Valid Acc: 0.8811, Valid F1: 0.8851, Valid DP: 0.5166, Valid EOD: 0.1269
+2024-06-11 12:16:03 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/skew04_v1_strong_nose/best_f1_state.pth.
+2024-06-11 12:16:03 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/skew04_v1_strong_nose/best_loss_state.pth.
+2024-06-11 12:16:17 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [25/100], Loss: 0.0432, Valid Acc: 0.8907, Valid F1: 0.8927, Valid DP: 0.5359, Valid EOD: 0.1005
+2024-06-11 12:16:17 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/skew04_v1_strong_nose/best_f1_state.pth.
+2024-06-11 12:16:17 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/skew04_v1_strong_nose/best_eod_state.pth.
+2024-06-11 12:16:17 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/skew04_v1_strong_nose/best_loss_state.pth.
+2024-06-11 12:16:31 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [26/100], Loss: 0.0425, Valid Acc: 0.8803, Valid F1: 0.8837, Valid DP: 0.5120, Valid EOD: 0.1219
+2024-06-11 12:16:31 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/skew04_v1_strong_nose/best_loss_state.pth.
+2024-06-11 12:16:45 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [27/100], Loss: 0.0389, Valid Acc: 0.8787, Valid F1: 0.8829, Valid DP: 0.5213, Valid EOD: 0.1301
+2024-06-11 12:16:45 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/skew04_v1_strong_nose/best_loss_state.pth.
+2024-06-11 12:17:00 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [28/100], Loss: 0.0378, Valid Acc: 0.8803, Valid F1: 0.8837, Valid DP: 0.5120, Valid EOD: 0.1219
+2024-06-11 12:17:00 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/skew04_v1_strong_nose/best_loss_state.pth.
+2024-06-11 12:17:14 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [29/100], Loss: 0.0388, Valid Acc: 0.8811, Valid F1: 0.8872, Valid DP: 0.4935, Valid EOD: 0.1466
+2024-06-11 12:17:29 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [30/100], Loss: 0.0378, Valid Acc: 0.8699, Valid F1: 0.8770, Valid DP: 0.4954, Valid EOD: 0.1614
+2024-06-11 12:17:44 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [31/100], Loss: 0.0394, Valid Acc: 0.8659, Valid F1: 0.8737, Valid DP: 0.4792, Valid EOD: 0.1697
+2024-06-11 12:17:59 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [32/100], Loss: 0.0379, Valid Acc: 0.8787, Valid F1: 0.8827, Valid DP: 0.5232, Valid EOD: 0.1285
+2024-06-11 12:18:14 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [33/100], Loss: 0.0370, Valid Acc: 0.8739, Valid F1: 0.8785, Valid DP: 0.5137, Valid EOD: 0.1367
+2024-06-11 12:18:14 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/skew04_v1_strong_nose/best_loss_state.pth.
+2024-06-11 12:18:29 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [34/100], Loss: 0.0380, Valid Acc: 0.8779, Valid F1: 0.8813, Valid DP: 0.5130, Valid EOD: 0.1236
+2024-06-11 12:18:44 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [35/100], Loss: 0.0372, Valid Acc: 0.8707, Valid F1: 0.8802, Valid DP: 0.4920, Valid EOD: 0.1829
+2024-06-11 12:19:00 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [36/100], Loss: 0.0418, Valid Acc: 0.8795, Valid F1: 0.8816, Valid DP: 0.5265, Valid EOD: 0.1104
+2024-06-11 12:19:15 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [37/100], Loss: 0.0414, Valid Acc: 0.8819, Valid F1: 0.8844, Valid DP: 0.5273, Valid EOD: 0.1120
+2024-06-11 12:19:31 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [38/100], Loss: 0.0392, Valid Acc: 0.8771, Valid F1: 0.8791, Valid DP: 0.5331, Valid EOD: 0.1146
+2024-06-11 12:19:47 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [39/100], Loss: 0.0394, Valid Acc: 0.8771, Valid F1: 0.8815, Valid DP: 0.5194, Valid EOD: 0.1334
+2024-06-11 12:20:02 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [40/100], Loss: 0.0352, Valid Acc: 0.8723, Valid F1: 0.8773, Valid DP: 0.4873, Valid EOD: 0.1417
+2024-06-11 12:20:02 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/skew04_v1_strong_nose/best_loss_state.pth.
+2024-06-11 12:20:19 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [41/100], Loss: 0.0368, Valid Acc: 0.8691, Valid F1: 0.8756, Valid DP: 0.4738, Valid EOD: 0.1565
+2024-06-11 12:20:35 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [42/100], Loss: 0.0426, Valid Acc: 0.8843, Valid F1: 0.8884, Valid DP: 0.5147, Valid EOD: 0.1252
+2024-06-11 12:20:51 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [43/100], Loss: 0.0466, Valid Acc: 0.8651, Valid F1: 0.8701, Valid DP: 0.5184, Valid EOD: 0.1466
+2024-06-11 12:21:08 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [44/100], Loss: 0.0766, Valid Acc: 0.8723, Valid F1: 0.8777, Valid DP: 0.5343, Valid EOD: 0.1450
+2024-06-11 12:21:25 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [45/100], Loss: 0.1195, Valid Acc: 0.8683, Valid F1: 0.8728, Valid DP: 0.4940, Valid EOD: 0.1400
+2024-06-11 12:21:41 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [46/100], Loss: 0.1474, Valid Acc: 0.8675, Valid F1: 0.8725, Valid DP: 0.4948, Valid EOD: 0.1450
+2024-06-11 12:21:58 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [47/100], Loss: 0.1133, Valid Acc: 0.8755, Valid F1: 0.8725, Valid DP: 0.5359, Valid EOD: 0.1186
+2024-06-11 12:22:15 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [48/100], Loss: 0.0795, Valid Acc: 0.8691, Valid F1: 0.8738, Valid DP: 0.5137, Valid EOD: 0.1417
+2024-06-11 12:22:32 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [49/100], Loss: 0.0506, Valid Acc: 0.8843, Valid F1: 0.8832, Valid DP: 0.5535, Valid EOD: 0.1283
+2024-06-11 12:22:50 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [50/100], Loss: 0.0475, Valid Acc: 0.8755, Valid F1: 0.8807, Valid DP: 0.5117, Valid EOD: 0.1417
+2024-06-11 12:23:08 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [51/100], Loss: 0.0441, Valid Acc: 0.8819, Valid F1: 0.8867, Valid DP: 0.5136, Valid EOD: 0.1334
+2024-06-11 12:23:25 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [52/100], Loss: 0.0384, Valid Acc: 0.8747, Valid F1: 0.8797, Valid DP: 0.5033, Valid EOD: 0.1400
+2024-06-11 12:23:43 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [53/100], Loss: 0.0354, Valid Acc: 0.8755, Valid F1: 0.8772, Valid DP: 0.5369, Valid EOD: 0.1215
+2024-06-11 12:24:01 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [54/100], Loss: 0.0327, Valid Acc: 0.8763, Valid F1: 0.8807, Valid DP: 0.5090, Valid EOD: 0.1334
+2024-06-11 12:24:01 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/skew04_v1_strong_nose/best_loss_state.pth.
+2024-06-11 12:24:19 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [55/100], Loss: 0.0309, Valid Acc: 0.8731, Valid F1: 0.8785, Valid DP: 0.4881, Valid EOD: 0.1450
+2024-06-11 12:24:20 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/skew04_v1_strong_nose/best_loss_state.pth.
+2024-06-11 12:24:38 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [56/100], Loss: 0.0306, Valid Acc: 0.8795, Valid F1: 0.8827, Valid DP: 0.5093, Valid EOD: 0.1203
+2024-06-11 12:24:38 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/skew04_v1_strong_nose/best_loss_state.pth.
+2024-06-11 12:24:56 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [57/100], Loss: 0.0328, Valid Acc: 0.8859, Valid F1: 0.8882, Valid DP: 0.5170, Valid EOD: 0.1071
+2024-06-11 12:25:15 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [58/100], Loss: 0.0320, Valid Acc: 0.8811, Valid F1: 0.8856, Valid DP: 0.5052, Valid EOD: 0.1318
+2024-06-11 12:25:34 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [59/100], Loss: 0.0339, Valid Acc: 0.8819, Valid F1: 0.8856, Valid DP: 0.5082, Valid EOD: 0.1236
+2024-06-11 12:25:52 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [60/100], Loss: 0.0313, Valid Acc: 0.8747, Valid F1: 0.8817, Valid DP: 0.4821, Valid EOD: 0.1582
+2024-06-11 12:26:11 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [61/100], Loss: 0.0301, Valid Acc: 0.8811, Valid F1: 0.8856, Valid DP: 0.4995, Valid EOD: 0.1318
+2024-06-11 12:26:11 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/skew04_v1_strong_nose/best_loss_state.pth.
+2024-06-11 12:26:31 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [62/100], Loss: 0.0318, Valid Acc: 0.8731, Valid F1: 0.8798, Valid DP: 0.4860, Valid EOD: 0.1565
+2024-06-11 12:26:50 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [63/100], Loss: 0.0342, Valid Acc: 0.8787, Valid F1: 0.8843, Valid DP: 0.5003, Valid EOD: 0.1433
+2024-06-11 12:27:09 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [64/100], Loss: 0.0353, Valid Acc: 0.8859, Valid F1: 0.8904, Valid DP: 0.5259, Valid EOD: 0.1285
+2024-06-11 12:27:29 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [65/100], Loss: 0.0327, Valid Acc: 0.8835, Valid F1: 0.8863, Valid DP: 0.5065, Valid EOD: 0.1137
+2024-06-11 12:27:48 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [66/100], Loss: 0.0304, Valid Acc: 0.8827, Valid F1: 0.8882, Valid DP: 0.4937, Valid EOD: 0.1400
+2024-06-11 12:28:08 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [67/100], Loss: 0.0319, Valid Acc: 0.8915, Valid F1: 0.8952, Valid DP: 0.5100, Valid EOD: 0.1170
+2024-06-11 12:28:08 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/skew04_v1_strong_nose/best_f1_state.pth.
+2024-06-11 12:28:28 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [68/100], Loss: 0.0308, Valid Acc: 0.8867, Valid F1: 0.8914, Valid DP: 0.5060, Valid EOD: 0.1301
+2024-06-11 12:28:48 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [69/100], Loss: 0.0295, Valid Acc: 0.8883, Valid F1: 0.8926, Valid DP: 0.5156, Valid EOD: 0.1252
+2024-06-11 12:28:48 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/skew04_v1_strong_nose/best_loss_state.pth.
+2024-06-11 12:29:09 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [70/100], Loss: 0.0305, Valid Acc: 0.8867, Valid F1: 0.8914, Valid DP: 0.5117, Valid EOD: 0.1301
+2024-06-11 12:29:29 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [71/100], Loss: 0.0319, Valid Acc: 0.8811, Valid F1: 0.8877, Valid DP: 0.4934, Valid EOD: 0.1516
+2024-06-11 12:29:50 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [72/100], Loss: 0.0302, Valid Acc: 0.8843, Valid F1: 0.8909, Valid DP: 0.4915, Valid EOD: 0.1499
+2024-06-11 12:30:10 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [73/100], Loss: 0.0326, Valid Acc: 0.8819, Valid F1: 0.8862, Valid DP: 0.5024, Valid EOD: 0.1285
+2024-06-11 12:30:31 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [74/100], Loss: 0.0295, Valid Acc: 0.8843, Valid F1: 0.8880, Valid DP: 0.5185, Valid EOD: 0.1219
+2024-06-11 12:30:52 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [75/100], Loss: 0.0297, Valid Acc: 0.8827, Valid F1: 0.8880, Valid DP: 0.5182, Valid EOD: 0.1384
+2024-06-11 12:31:13 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [76/100], Loss: 0.0294, Valid Acc: 0.8803, Valid F1: 0.8858, Valid DP: 0.5003, Valid EOD: 0.1417
+2024-06-11 12:31:13 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/skew04_v1_strong_nose/best_loss_state.pth.
+2024-06-11 12:31:34 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [77/100], Loss: 0.0294, Valid Acc: 0.8883, Valid F1: 0.8921, Valid DP: 0.5383, Valid EOD: 0.1203
+2024-06-11 12:31:56 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [78/100], Loss: 0.0297, Valid Acc: 0.8763, Valid F1: 0.8835, Valid DP: 0.5122, Valid EOD: 0.1598
+2024-06-11 12:32:18 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [79/100], Loss: 0.0291, Valid Acc: 0.8883, Valid F1: 0.8931, Valid DP: 0.5268, Valid EOD: 0.1301
+2024-06-11 12:32:18 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/skew04_v1_strong_nose/best_loss_state.pth.
+2024-06-11 12:32:39 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [80/100], Loss: 0.0292, Valid Acc: 0.8779, Valid F1: 0.8828, Valid DP: 0.5146, Valid EOD: 0.1367
+2024-06-11 12:33:01 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [81/100], Loss: 0.0295, Valid Acc: 0.8787, Valid F1: 0.8866, Valid DP: 0.4979, Valid EOD: 0.1647
+2024-06-11 12:33:23 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [82/100], Loss: 0.0286, Valid Acc: 0.8803, Valid F1: 0.8846, Valid DP: 0.5137, Valid EOD: 0.1301
+2024-06-11 12:33:23 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/skew04_v1_strong_nose/best_loss_state.pth.
+2024-06-11 12:33:45 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [83/100], Loss: 0.0286, Valid Acc: 0.8811, Valid F1: 0.8853, Valid DP: 0.5090, Valid EOD: 0.1285
+2024-06-11 12:33:45 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/skew04_v1_strong_nose/best_loss_state.pth.
+2024-06-11 12:34:07 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [84/100], Loss: 0.0276, Valid Acc: 0.8827, Valid F1: 0.8861, Valid DP: 0.5167, Valid EOD: 0.1203
+2024-06-11 12:34:07 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/skew04_v1_strong_nose/best_loss_state.pth.
+2024-06-11 12:34:29 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [85/100], Loss: 0.0279, Valid Acc: 0.8907, Valid F1: 0.8957, Valid DP: 0.5126, Valid EOD: 0.1301
+2024-06-11 12:34:29 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/skew04_v1_strong_nose/best_f1_state.pth.
+2024-06-11 12:34:51 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [86/100], Loss: 0.0280, Valid Acc: 0.8843, Valid F1: 0.8907, Valid DP: 0.5047, Valid EOD: 0.1483
+2024-06-11 12:35:14 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [87/100], Loss: 0.0284, Valid Acc: 0.8851, Valid F1: 0.8892, Valid DP: 0.5194, Valid EOD: 0.1252
+2024-06-11 12:35:37 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [88/100], Loss: 0.0287, Valid Acc: 0.8811, Valid F1: 0.8858, Valid DP: 0.5259, Valid EOD: 0.1334
+2024-06-11 12:35:59 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [89/100], Loss: 0.0306, Valid Acc: 0.8715, Valid F1: 0.8792, Valid DP: 0.4933, Valid EOD: 0.1664
+2024-06-11 12:36:22 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [90/100], Loss: 0.0301, Valid Acc: 0.8811, Valid F1: 0.8842, Valid DP: 0.5319, Valid EOD: 0.1186
+2024-06-11 12:36:45 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [91/100], Loss: 0.0313, Valid Acc: 0.8803, Valid F1: 0.8879, Valid DP: 0.5111, Valid EOD: 0.1614
+2024-06-11 12:37:09 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [92/100], Loss: 0.0287, Valid Acc: 0.8803, Valid F1: 0.8870, Valid DP: 0.5038, Valid EOD: 0.1532
+2024-06-11 12:37:32 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [93/100], Loss: 0.0276, Valid Acc: 0.8843, Valid F1: 0.8891, Valid DP: 0.5183, Valid EOD: 0.1318
+2024-06-11 12:37:32 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/skew04_v1_strong_nose/best_loss_state.pth.
+2024-06-11 12:37:56 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [94/100], Loss: 0.0270, Valid Acc: 0.8723, Valid F1: 0.8801, Valid DP: 0.4980, Valid EOD: 0.1664
+2024-06-11 12:37:56 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/skew04_v1_strong_nose/best_loss_state.pth.
+2024-06-11 12:38:19 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [95/100], Loss: 0.0300, Valid Acc: 0.8859, Valid F1: 0.8892, Valid DP: 0.5281, Valid EOD: 0.1170
+2024-06-11 12:38:43 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [96/100], Loss: 0.0273, Valid Acc: 0.8819, Valid F1: 0.8886, Valid DP: 0.5038, Valid EOD: 0.1516
+2024-06-11 12:39:07 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [97/100], Loss: 0.0289, Valid Acc: 0.8819, Valid F1: 0.8884, Valid DP: 0.5057, Valid EOD: 0.1499
+2024-06-11 12:39:31 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [98/100], Loss: 0.0268, Valid Acc: 0.8915, Valid F1: 0.8946, Valid DP: 0.5403, Valid EOD: 0.1104
+2024-06-11 12:39:31 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/skew04_v1_strong_nose/best_loss_state.pth.
+2024-06-11 12:39:55 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [99/100], Loss: 0.0280, Valid Acc: 0.8811, Valid F1: 0.8894, Valid DP: 0.4855, Valid EOD: 0.1680
+2024-06-11 12:40:20 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Epoch [100/100], Loss: 0.0282, Valid Acc: 0.8851, Valid F1: 0.8899, Valid DP: 0.5174, Valid EOD: 0.1318
+2024-06-11 12:40:20 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Saved model final to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/skew04_v1_strong_nose/final_state.pth.
+2024-06-11 12:40:20 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Model and metrics saved.
+2024-06-11 12:40:20 - fair_feat_distill/lfw/skew04_v1_strong_nose - INFO - Training finished.

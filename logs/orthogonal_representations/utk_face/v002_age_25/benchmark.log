@@ -1,0 +1,428 @@
+2024-05-20 17:02:10 - orthogonal_representations/utk_face/v002_age_25 - INFO - Start orthogonal representation benchmark.
+2024-05-20 17:02:10 - orthogonal_representations/utk_face/v002_age_25 - INFO - Train model protected feature
+2024-05-20 17:02:10 - orthogonal_representations/utk_face/v002_age_25 - INFO - Training started.
+2024-05-20 17:02:29 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [1/100], Loss: 0.4688, Valid Acc: 0.3291, Valid F1: 0.2263, Valid DP: 0.8962, Valid EOD: 0.9791
+2024-05-20 17:02:29 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_protected/best_f1_state.pth.
+2024-05-20 17:02:29 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_protected/best_eod_state.pth.
+2024-05-20 17:02:29 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_protected/best_loss_state.pth.
+2024-05-20 17:02:48 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [2/100], Loss: 0.3083, Valid Acc: 0.3393, Valid F1: 0.2240, Valid DP: 0.8845, Valid EOD: 0.9564
+2024-05-20 17:02:48 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_protected/best_eod_state.pth.
+2024-05-20 17:02:48 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_protected/best_loss_state.pth.
+2024-05-20 17:03:08 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [3/100], Loss: 0.2569, Valid Acc: 0.3492, Valid F1: 0.2249, Valid DP: 0.9415, Valid EOD: 0.9475
+2024-05-20 17:03:08 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_protected/best_eod_state.pth.
+2024-05-20 17:03:08 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_protected/best_loss_state.pth.
+2024-05-20 17:03:27 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [4/100], Loss: 0.2194, Valid Acc: 0.3453, Valid F1: 0.2305, Valid DP: 0.8835, Valid EOD: 0.9736
+2024-05-20 17:03:27 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_protected/best_f1_state.pth.
+2024-05-20 17:03:27 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_protected/best_loss_state.pth.
+2024-05-20 17:03:47 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [5/100], Loss: 0.1897, Valid Acc: 0.3646, Valid F1: 0.2410, Valid DP: 0.9104, Valid EOD: 0.9418
+2024-05-20 17:03:47 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_protected/best_f1_state.pth.
+2024-05-20 17:03:47 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_protected/best_eod_state.pth.
+2024-05-20 17:03:47 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_protected/best_loss_state.pth.
+2024-05-20 17:04:06 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [6/100], Loss: 0.1624, Valid Acc: 0.3956, Valid F1: 0.2681, Valid DP: 0.9062, Valid EOD: 0.9555
+2024-05-20 17:04:06 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_protected/best_f1_state.pth.
+2024-05-20 17:04:06 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_protected/best_loss_state.pth.
+2024-05-20 17:04:26 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [7/100], Loss: 0.1483, Valid Acc: 0.3843, Valid F1: 0.2615, Valid DP: 0.9176, Valid EOD: 0.9618
+2024-05-20 17:04:26 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_protected/best_loss_state.pth.
+2024-05-20 17:04:45 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [8/100], Loss: 0.1302, Valid Acc: 0.3857, Valid F1: 0.2576, Valid DP: 0.9053, Valid EOD: 0.9400
+2024-05-20 17:04:45 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_protected/best_eod_state.pth.
+2024-05-20 17:04:45 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_protected/best_loss_state.pth.
+2024-05-20 17:05:05 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [9/100], Loss: 0.1181, Valid Acc: 0.3805, Valid F1: 0.2582, Valid DP: 0.9062, Valid EOD: 0.9618
+2024-05-20 17:05:05 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_protected/best_loss_state.pth.
+2024-05-20 17:05:24 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [10/100], Loss: 0.1035, Valid Acc: 0.3639, Valid F1: 0.2446, Valid DP: 0.8881, Valid EOD: 0.9591
+2024-05-20 17:05:24 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_protected/best_loss_state.pth.
+2024-05-20 17:05:44 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [11/100], Loss: 0.0978, Valid Acc: 0.3787, Valid F1: 0.2556, Valid DP: 0.9035, Valid EOD: 0.9636
+2024-05-20 17:05:44 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_protected/best_loss_state.pth.
+2024-05-20 17:06:03 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [12/100], Loss: 0.0835, Valid Acc: 0.3857, Valid F1: 0.2620, Valid DP: 0.9283, Valid EOD: 0.9727
+2024-05-20 17:06:04 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_protected/best_loss_state.pth.
+2024-05-20 17:06:23 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [13/100], Loss: 0.0778, Valid Acc: 0.3713, Valid F1: 0.2430, Valid DP: 0.9408, Valid EOD: 0.9542
+2024-05-20 17:06:23 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_protected/best_loss_state.pth.
+2024-05-20 17:06:42 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [14/100], Loss: 0.0682, Valid Acc: 0.3727, Valid F1: 0.2530, Valid DP: 0.9183, Valid EOD: 0.9745
+2024-05-20 17:06:43 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_protected/best_loss_state.pth.
+2024-05-20 17:07:02 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [15/100], Loss: 0.0592, Valid Acc: 0.4001, Valid F1: 0.2712, Valid DP: 0.9056, Valid EOD: 0.9500
+2024-05-20 17:07:02 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_protected/best_f1_state.pth.
+2024-05-20 17:07:02 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_protected/best_loss_state.pth.
+2024-05-20 17:07:22 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [16/100], Loss: 0.0564, Valid Acc: 0.3780, Valid F1: 0.2556, Valid DP: 0.9102, Valid EOD: 0.9664
+2024-05-20 17:07:22 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_protected/best_loss_state.pth.
+2024-05-20 17:07:41 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [17/100], Loss: 0.0548, Valid Acc: 0.4114, Valid F1: 0.2789, Valid DP: 0.9076, Valid EOD: 0.9418
+2024-05-20 17:07:41 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_protected/best_f1_state.pth.
+2024-05-20 17:07:41 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_protected/best_loss_state.pth.
+2024-05-20 17:08:01 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [18/100], Loss: 0.0561, Valid Acc: 0.3963, Valid F1: 0.2687, Valid DP: 0.9123, Valid EOD: 0.9518
+2024-05-20 17:08:20 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [19/100], Loss: 0.0513, Valid Acc: 0.3808, Valid F1: 0.2548, Valid DP: 0.9060, Valid EOD: 0.9482
+2024-05-20 17:08:21 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_protected/best_loss_state.pth.
+2024-05-20 17:08:40 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [20/100], Loss: 0.0461, Valid Acc: 0.3713, Valid F1: 0.2465, Valid DP: 0.9245, Valid EOD: 0.9491
+2024-05-20 17:08:40 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_protected/best_loss_state.pth.
+2024-05-20 17:09:00 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [21/100], Loss: 0.0451, Valid Acc: 0.3822, Valid F1: 0.2547, Valid DP: 0.9119, Valid EOD: 0.9409
+2024-05-20 17:09:00 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_protected/best_loss_state.pth.
+2024-05-20 17:09:20 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [22/100], Loss: 0.0462, Valid Acc: 0.3914, Valid F1: 0.2646, Valid DP: 0.9143, Valid EOD: 0.9609
+2024-05-20 17:09:40 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [23/100], Loss: 0.0432, Valid Acc: 0.3759, Valid F1: 0.2522, Valid DP: 0.9069, Valid EOD: 0.9655
+2024-05-20 17:09:40 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_protected/best_loss_state.pth.
+2024-05-20 17:10:00 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [24/100], Loss: 0.0393, Valid Acc: 0.3836, Valid F1: 0.2599, Valid DP: 0.9243, Valid EOD: 0.9709
+2024-05-20 17:10:00 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_protected/best_loss_state.pth.
+2024-05-20 17:10:20 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [25/100], Loss: 0.0438, Valid Acc: 0.3840, Valid F1: 0.2571, Valid DP: 0.9127, Valid EOD: 0.9545
+2024-05-20 17:10:40 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [26/100], Loss: 0.0390, Valid Acc: 0.3815, Valid F1: 0.2531, Valid DP: 0.9282, Valid EOD: 0.9502
+2024-05-20 17:10:40 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_protected/best_loss_state.pth.
+2024-05-20 17:11:00 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [27/100], Loss: 0.0377, Valid Acc: 0.3973, Valid F1: 0.2689, Valid DP: 0.9129, Valid EOD: 0.9591
+2024-05-20 17:11:00 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_protected/best_loss_state.pth.
+2024-05-20 17:11:20 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [28/100], Loss: 0.0351, Valid Acc: 0.3882, Valid F1: 0.2611, Valid DP: 0.8969, Valid EOD: 0.9491
+2024-05-20 17:11:20 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_protected/best_loss_state.pth.
+2024-05-20 17:11:40 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [29/100], Loss: 0.0379, Valid Acc: 0.3769, Valid F1: 0.2494, Valid DP: 0.9223, Valid EOD: 0.9408
+2024-05-20 17:12:00 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [30/100], Loss: 0.0375, Valid Acc: 0.3910, Valid F1: 0.2655, Valid DP: 0.9216, Valid EOD: 0.9636
+2024-05-20 17:12:19 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [31/100], Loss: 0.0409, Valid Acc: 0.3724, Valid F1: 0.2445, Valid DP: 0.9393, Valid EOD: 0.9556
+2024-05-20 17:12:40 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [32/100], Loss: 0.0334, Valid Acc: 0.3819, Valid F1: 0.2540, Valid DP: 0.9186, Valid EOD: 0.9421
+2024-05-20 17:12:40 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_protected/best_loss_state.pth.
+2024-05-20 17:13:00 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [33/100], Loss: 0.0363, Valid Acc: 0.3783, Valid F1: 0.2503, Valid DP: 0.9289, Valid EOD: 0.9489
+2024-05-20 17:13:20 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [34/100], Loss: 0.0275, Valid Acc: 0.3741, Valid F1: 0.2500, Valid DP: 0.9090, Valid EOD: 0.9573
+2024-05-20 17:13:20 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_protected/best_loss_state.pth.
+2024-05-20 17:13:40 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [35/100], Loss: 0.0265, Valid Acc: 0.3671, Valid F1: 0.2431, Valid DP: 0.9156, Valid EOD: 0.9509
+2024-05-20 17:13:40 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_protected/best_loss_state.pth.
+2024-05-20 17:14:00 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [36/100], Loss: 0.0200, Valid Acc: 0.3903, Valid F1: 0.2629, Valid DP: 0.8975, Valid EOD: 0.9491
+2024-05-20 17:14:00 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_protected/best_loss_state.pth.
+2024-05-20 17:14:21 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [37/100], Loss: 0.0345, Valid Acc: 0.3794, Valid F1: 0.2548, Valid DP: 0.8821, Valid EOD: 0.9464
+2024-05-20 17:14:41 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [38/100], Loss: 0.0286, Valid Acc: 0.3780, Valid F1: 0.2510, Valid DP: 0.9171, Valid EOD: 0.9435
+2024-05-20 17:15:01 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [39/100], Loss: 0.0206, Valid Acc: 0.3924, Valid F1: 0.2678, Valid DP: 0.9411, Valid EOD: 0.9800
+2024-05-20 17:15:21 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [40/100], Loss: 0.0247, Valid Acc: 0.3889, Valid F1: 0.2620, Valid DP: 0.9009, Valid EOD: 0.9527
+2024-05-20 17:15:42 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [41/100], Loss: 0.0201, Valid Acc: 0.3896, Valid F1: 0.2626, Valid DP: 0.9076, Valid EOD: 0.9564
+2024-05-20 17:16:02 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [42/100], Loss: 0.0201, Valid Acc: 0.3815, Valid F1: 0.2544, Valid DP: 0.9119, Valid EOD: 0.9436
+2024-05-20 17:16:22 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [43/100], Loss: 0.0196, Valid Acc: 0.3878, Valid F1: 0.2605, Valid DP: 0.8956, Valid EOD: 0.9491
+2024-05-20 17:16:22 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_protected/best_loss_state.pth.
+2024-05-20 17:16:43 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [44/100], Loss: 0.0194, Valid Acc: 0.3724, Valid F1: 0.2503, Valid DP: 0.9056, Valid EOD: 0.9691
+2024-05-20 17:16:43 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_protected/best_loss_state.pth.
+2024-05-20 17:17:03 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [45/100], Loss: 0.0211, Valid Acc: 0.3882, Valid F1: 0.2599, Valid DP: 0.9008, Valid EOD: 0.9364
+2024-05-20 17:17:03 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_protected/best_eod_state.pth.
+2024-05-20 17:17:24 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [46/100], Loss: 0.0205, Valid Acc: 0.3812, Valid F1: 0.2549, Valid DP: 0.9067, Valid EOD: 0.9500
+2024-05-20 17:17:44 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [47/100], Loss: 0.0192, Valid Acc: 0.3889, Valid F1: 0.2601, Valid DP: 0.9149, Valid EOD: 0.9421
+2024-05-20 17:17:44 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_protected/best_loss_state.pth.
+2024-05-20 17:18:05 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [48/100], Loss: 0.0194, Valid Acc: 0.3931, Valid F1: 0.2645, Valid DP: 0.8979, Valid EOD: 0.9436
+2024-05-20 17:18:25 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [49/100], Loss: 0.0170, Valid Acc: 0.3759, Valid F1: 0.2512, Valid DP: 0.9156, Valid EOD: 0.9591
+2024-05-20 17:18:25 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_protected/best_loss_state.pth.
+2024-05-20 17:18:46 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [50/100], Loss: 0.0156, Valid Acc: 0.3822, Valid F1: 0.2579, Valid DP: 0.9196, Valid EOD: 0.9691
+2024-05-20 17:18:46 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_protected/best_loss_state.pth.
+2024-05-20 17:19:07 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [51/100], Loss: 0.0191, Valid Acc: 0.3643, Valid F1: 0.2433, Valid DP: 0.9016, Valid EOD: 0.9655
+2024-05-20 17:19:27 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [52/100], Loss: 0.0165, Valid Acc: 0.3738, Valid F1: 0.2504, Valid DP: 0.9082, Valid EOD: 0.9645
+2024-05-20 17:19:48 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [53/100], Loss: 0.0136, Valid Acc: 0.3717, Valid F1: 0.2488, Valid DP: 0.9045, Valid EOD: 0.9645
+2024-05-20 17:19:48 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_protected/best_loss_state.pth.
+2024-05-20 17:20:09 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [54/100], Loss: 0.0136, Valid Acc: 0.3833, Valid F1: 0.2567, Valid DP: 0.9112, Valid EOD: 0.9509
+2024-05-20 17:20:09 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_protected/best_loss_state.pth.
+2024-05-20 17:20:29 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [55/100], Loss: 0.0151, Valid Acc: 0.3717, Valid F1: 0.2485, Valid DP: 0.8993, Valid EOD: 0.9536
+2024-05-20 17:20:50 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [56/100], Loss: 0.0125, Valid Acc: 0.3759, Valid F1: 0.2505, Valid DP: 0.9171, Valid EOD: 0.9536
+2024-05-20 17:20:50 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_protected/best_loss_state.pth.
+2024-05-20 17:21:11 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [57/100], Loss: 0.0118, Valid Acc: 0.3917, Valid F1: 0.2659, Valid DP: 0.9270, Valid EOD: 0.9655
+2024-05-20 17:21:11 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_protected/best_loss_state.pth.
+2024-05-20 17:21:32 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [58/100], Loss: 0.0121, Valid Acc: 0.3885, Valid F1: 0.2624, Valid DP: 0.9136, Valid EOD: 0.9627
+2024-05-20 17:21:53 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [59/100], Loss: 0.0119, Valid Acc: 0.3741, Valid F1: 0.2502, Valid DP: 0.9023, Valid EOD: 0.9536
+2024-05-20 17:22:14 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [60/100], Loss: 0.0174, Valid Acc: 0.3931, Valid F1: 0.2635, Valid DP: 0.9023, Valid EOD: 0.9400
+2024-05-20 17:22:35 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [61/100], Loss: 0.0125, Valid Acc: 0.3755, Valid F1: 0.2501, Valid DP: 0.9141, Valid EOD: 0.9555
+2024-05-20 17:22:56 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [62/100], Loss: 0.0114, Valid Acc: 0.3910, Valid F1: 0.2633, Valid DP: 0.9096, Valid EOD: 0.9591
+2024-05-20 17:22:56 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_protected/best_loss_state.pth.
+2024-05-20 17:23:17 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [63/100], Loss: 0.0122, Valid Acc: 0.3892, Valid F1: 0.2601, Valid DP: 0.9097, Valid EOD: 0.9448
+2024-05-20 17:23:38 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [64/100], Loss: 0.0147, Valid Acc: 0.3882, Valid F1: 0.2599, Valid DP: 0.9030, Valid EOD: 0.9445
+2024-05-20 17:23:59 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [65/100], Loss: 0.0104, Valid Acc: 0.3674, Valid F1: 0.2443, Valid DP: 0.9186, Valid EOD: 0.9636
+2024-05-20 17:23:59 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_protected/best_loss_state.pth.
+2024-05-20 17:24:20 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [66/100], Loss: 0.0103, Valid Acc: 0.3822, Valid F1: 0.2562, Valid DP: 0.9082, Valid EOD: 0.9591
+2024-05-20 17:24:20 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_protected/best_loss_state.pth.
+2024-05-20 17:24:41 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [67/100], Loss: 0.0116, Valid Acc: 0.3618, Valid F1: 0.2397, Valid DP: 0.9215, Valid EOD: 0.9636
+2024-05-20 17:25:02 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [68/100], Loss: 0.0165, Valid Acc: 0.3857, Valid F1: 0.2588, Valid DP: 0.9053, Valid EOD: 0.9555
+2024-05-20 17:25:23 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [69/100], Loss: 0.0129, Valid Acc: 0.3861, Valid F1: 0.2596, Valid DP: 0.8928, Valid EOD: 0.9527
+2024-05-20 17:25:44 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [70/100], Loss: 0.0104, Valid Acc: 0.3868, Valid F1: 0.2596, Valid DP: 0.8986, Valid EOD: 0.9536
+2024-05-20 17:26:06 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [71/100], Loss: 0.0138, Valid Acc: 0.3840, Valid F1: 0.2577, Valid DP: 0.9030, Valid EOD: 0.9527
+2024-05-20 17:26:27 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [72/100], Loss: 0.0134, Valid Acc: 0.3871, Valid F1: 0.2611, Valid DP: 0.9069, Valid EOD: 0.9636
+2024-05-20 17:26:48 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [73/100], Loss: 0.0142, Valid Acc: 0.3892, Valid F1: 0.2634, Valid DP: 0.9129, Valid EOD: 0.9618
+2024-05-20 17:27:09 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [74/100], Loss: 0.0151, Valid Acc: 0.3931, Valid F1: 0.2634, Valid DP: 0.9045, Valid EOD: 0.9445
+2024-05-20 17:27:30 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [75/100], Loss: 0.0141, Valid Acc: 0.3812, Valid F1: 0.2572, Valid DP: 0.9163, Valid EOD: 0.9691
+2024-05-20 17:27:52 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [76/100], Loss: 0.0110, Valid Acc: 0.3892, Valid F1: 0.2625, Valid DP: 0.9056, Valid EOD: 0.9573
+2024-05-20 17:28:13 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [77/100], Loss: 0.0102, Valid Acc: 0.3903, Valid F1: 0.2623, Valid DP: 0.8949, Valid EOD: 0.9473
+2024-05-20 17:28:13 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_protected/best_loss_state.pth.
+2024-05-20 17:28:34 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [78/100], Loss: 0.0113, Valid Acc: 0.3594, Valid F1: 0.2392, Valid DP: 0.9097, Valid EOD: 0.9664
+2024-05-20 17:28:56 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [79/100], Loss: 0.0120, Valid Acc: 0.3857, Valid F1: 0.2595, Valid DP: 0.8982, Valid EOD: 0.9555
+2024-05-20 17:29:17 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [80/100], Loss: 0.0091, Valid Acc: 0.3773, Valid F1: 0.2544, Valid DP: 0.9116, Valid EOD: 0.9736
+2024-05-20 17:29:17 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_protected/best_loss_state.pth.
+2024-05-20 17:29:39 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [81/100], Loss: 0.0101, Valid Acc: 0.3759, Valid F1: 0.2515, Valid DP: 0.9030, Valid EOD: 0.9573
+2024-05-20 17:30:00 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [82/100], Loss: 0.0125, Valid Acc: 0.3717, Valid F1: 0.2492, Valid DP: 0.9008, Valid EOD: 0.9655
+2024-05-20 17:30:22 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [83/100], Loss: 0.0134, Valid Acc: 0.3864, Valid F1: 0.2584, Valid DP: 0.9067, Valid EOD: 0.9436
+2024-05-20 17:30:43 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [84/100], Loss: 0.0113, Valid Acc: 0.3882, Valid F1: 0.2612, Valid DP: 0.9056, Valid EOD: 0.9564
+2024-05-20 17:31:05 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [85/100], Loss: 0.0079, Valid Acc: 0.3790, Valid F1: 0.2524, Valid DP: 0.9193, Valid EOD: 0.9473
+2024-05-20 17:31:05 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_protected/best_loss_state.pth.
+2024-05-20 17:31:27 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [86/100], Loss: 0.0062, Valid Acc: 0.3808, Valid F1: 0.2549, Valid DP: 0.9001, Valid EOD: 0.9482
+2024-05-20 17:31:27 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_protected/best_loss_state.pth.
+2024-05-20 17:31:48 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [87/100], Loss: 0.0074, Valid Acc: 0.3808, Valid F1: 0.2556, Valid DP: 0.8971, Valid EOD: 0.9573
+2024-05-20 17:32:10 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [88/100], Loss: 0.0094, Valid Acc: 0.3766, Valid F1: 0.2517, Valid DP: 0.9097, Valid EOD: 0.9564
+2024-05-20 17:32:32 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [89/100], Loss: 0.0115, Valid Acc: 0.3805, Valid F1: 0.2557, Valid DP: 0.8975, Valid EOD: 0.9555
+2024-05-20 17:32:54 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [90/100], Loss: 0.0093, Valid Acc: 0.3773, Valid F1: 0.2527, Valid DP: 0.9008, Valid EOD: 0.9573
+2024-05-20 17:33:15 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [91/100], Loss: 0.0084, Valid Acc: 0.3794, Valid F1: 0.2551, Valid DP: 0.9009, Valid EOD: 0.9582
+2024-05-20 17:33:37 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [92/100], Loss: 0.0133, Valid Acc: 0.3819, Valid F1: 0.2573, Valid DP: 0.9123, Valid EOD: 0.9655
+2024-05-20 17:33:59 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [93/100], Loss: 0.0112, Valid Acc: 0.3815, Valid F1: 0.2545, Valid DP: 0.9097, Valid EOD: 0.9455
+2024-05-20 17:34:20 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [94/100], Loss: 0.0099, Valid Acc: 0.3822, Valid F1: 0.2592, Valid DP: 0.9176, Valid EOD: 0.9645
+2024-05-20 17:34:42 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [95/100], Loss: 0.0096, Valid Acc: 0.3727, Valid F1: 0.2477, Valid DP: 0.9178, Valid EOD: 0.9491
+2024-05-20 17:35:03 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [96/100], Loss: 0.0092, Valid Acc: 0.3762, Valid F1: 0.2516, Valid DP: 0.9030, Valid EOD: 0.9527
+2024-05-20 17:35:25 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [97/100], Loss: 0.0132, Valid Acc: 0.3787, Valid F1: 0.2530, Valid DP: 0.9067, Valid EOD: 0.9436
+2024-05-20 17:35:46 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [98/100], Loss: 0.0116, Valid Acc: 0.3801, Valid F1: 0.2562, Valid DP: 0.9082, Valid EOD: 0.9655
+2024-05-20 17:36:08 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [99/100], Loss: 0.0065, Valid Acc: 0.3769, Valid F1: 0.2527, Valid DP: 0.8993, Valid EOD: 0.9600
+2024-05-20 17:36:30 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [100/100], Loss: 0.0066, Valid Acc: 0.3720, Valid F1: 0.2495, Valid DP: 0.8995, Valid EOD: 0.9627
+2024-05-20 17:36:30 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model final to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_protected/final_state.pth.
+2024-05-20 17:36:30 - orthogonal_representations/utk_face/v002_age_25 - INFO - Model and metrics saved.
+2024-05-20 17:36:30 - orthogonal_representations/utk_face/v002_age_25 - INFO - Training finished.
+2024-05-20 17:36:30 - orthogonal_representations/utk_face/v002_age_25 - INFO - Train model target
+2024-05-20 17:36:30 - orthogonal_representations/utk_face/v002_age_25 - INFO - Building static subspace for sensitive representations on 16592 samples.
+2024-05-20 17:36:41 - orthogonal_representations/utk_face/v002_age_25 - INFO - Training started.
+2024-05-20 17:37:00 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 1 predictions.
+2024-05-20 17:37:02 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [1/100], Loss: 7.3888, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 17:37:02 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_f1_state.pth.
+2024-05-20 17:37:02 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_eod_state.pth.
+2024-05-20 17:37:02 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 17:37:20 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 1 predictions.
+2024-05-20 17:37:23 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [2/100], Loss: 0.9817, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 17:37:23 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 17:37:41 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 1 predictions.
+2024-05-20 17:37:44 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [3/100], Loss: 0.9260, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 17:37:44 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 17:38:02 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 1 predictions.
+2024-05-20 17:38:04 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [4/100], Loss: 0.8855, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 17:38:04 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 17:38:23 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 1 predictions.
+2024-05-20 17:38:25 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [5/100], Loss: 0.8789, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 17:38:25 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 17:38:44 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 1 predictions.
+2024-05-20 17:38:46 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [6/100], Loss: 0.8724, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 17:38:46 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 17:39:05 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 1 predictions.
+2024-05-20 17:39:07 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [7/100], Loss: 0.8693, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 17:39:07 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 17:39:25 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 1 predictions.
+2024-05-20 17:39:28 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [8/100], Loss: 0.8687, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 17:39:28 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 17:39:46 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 1 predictions.
+2024-05-20 17:39:49 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [9/100], Loss: 0.8650, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 17:39:49 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 17:40:08 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 1 predictions.
+2024-05-20 17:40:10 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [10/100], Loss: 0.8663, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 17:40:28 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 1 predictions.
+2024-05-20 17:40:31 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [11/100], Loss: 0.8644, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 17:40:31 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 17:40:49 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 1 predictions.
+2024-05-20 17:40:52 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [12/100], Loss: 0.8632, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 17:40:52 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 17:41:10 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 1 predictions.
+2024-05-20 17:41:13 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [13/100], Loss: 0.8624, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 17:41:13 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 17:41:32 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 1 predictions.
+2024-05-20 17:41:34 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [14/100], Loss: 0.8623, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 17:41:34 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 17:41:53 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 1 predictions.
+2024-05-20 17:41:55 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [15/100], Loss: 0.8617, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 17:41:55 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 17:42:14 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 1 predictions.
+2024-05-20 17:42:16 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [16/100], Loss: 0.8607, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 17:42:16 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 17:42:35 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 1 predictions.
+2024-05-20 17:42:38 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [17/100], Loss: 0.8606, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 17:42:38 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 17:42:56 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 1 predictions.
+2024-05-20 17:42:59 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [18/100], Loss: 0.8603, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 17:42:59 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 17:43:18 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 1 predictions.
+2024-05-20 17:43:20 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [19/100], Loss: 0.8599, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 17:43:20 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 17:43:39 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 1 predictions.
+2024-05-20 17:43:41 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [20/100], Loss: 0.8595, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 17:43:41 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 17:44:00 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 1 predictions.
+2024-05-20 17:44:03 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [21/100], Loss: 0.8591, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 17:44:03 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 17:44:21 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 1 predictions.
+2024-05-20 17:44:24 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [22/100], Loss: 0.8591, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 17:44:24 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 17:44:43 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 1 predictions.
+2024-05-20 17:44:45 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [23/100], Loss: 0.8589, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 17:44:45 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 17:45:04 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 1 predictions.
+2024-05-20 17:45:07 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [24/100], Loss: 0.8586, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 17:45:07 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 17:45:25 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 1 predictions.
+2024-05-20 17:45:28 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [25/100], Loss: 0.8586, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 17:45:28 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 17:45:47 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 1 predictions.
+2024-05-20 17:45:50 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [26/100], Loss: 0.8582, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 17:45:50 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 17:46:08 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 1 predictions.
+2024-05-20 17:46:11 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [27/100], Loss: 0.8582, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 17:46:11 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 17:46:30 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 1 predictions.
+2024-05-20 17:46:32 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [28/100], Loss: 0.8580, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 17:46:33 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 17:46:51 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 1 predictions.
+2024-05-20 17:46:54 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [29/100], Loss: 0.8576, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 17:46:54 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 17:47:13 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 1 predictions.
+2024-05-20 17:47:16 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [30/100], Loss: 0.8575, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 17:47:16 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 17:47:35 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 1 predictions.
+2024-05-20 17:47:37 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [31/100], Loss: 0.8571, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 17:47:37 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 17:47:56 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 1 predictions.
+2024-05-20 17:47:59 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [32/100], Loss: 0.8573, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 17:48:18 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 1 predictions.
+2024-05-20 17:48:20 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [33/100], Loss: 0.8569, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 17:48:21 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 17:48:39 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 1 predictions.
+2024-05-20 17:48:42 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [34/100], Loss: 0.8572, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 17:49:01 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 1 predictions.
+2024-05-20 17:49:04 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [35/100], Loss: 0.8567, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 17:49:04 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 17:49:22 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 1 predictions.
+2024-05-20 17:49:25 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [36/100], Loss: 0.8563, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 17:49:25 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 17:49:44 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 1 predictions.
+2024-05-20 17:49:47 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [37/100], Loss: 0.8565, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 17:50:06 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 1 predictions.
+2024-05-20 17:50:09 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [38/100], Loss: 0.8562, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 17:50:09 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 17:50:28 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 1 predictions.
+2024-05-20 17:50:30 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [39/100], Loss: 0.8559, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 17:50:31 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 17:50:49 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 1 predictions.
+2024-05-20 17:50:52 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [40/100], Loss: 0.8560, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 17:51:11 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 1 predictions.
+2024-05-20 17:51:14 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [41/100], Loss: 0.8555, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 17:51:14 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 17:51:33 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 1 predictions.
+2024-05-20 17:51:36 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [42/100], Loss: 0.8549, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 17:51:36 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 17:51:55 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 1 predictions.
+2024-05-20 17:51:58 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [43/100], Loss: 0.8551, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 17:52:17 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 1 predictions.
+2024-05-20 17:52:20 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [44/100], Loss: 0.8548, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 17:52:20 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 17:52:39 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 1 predictions.
+2024-05-20 17:52:42 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [45/100], Loss: 0.8546, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 17:52:42 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 17:53:01 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 1 predictions.
+2024-05-20 17:53:04 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [46/100], Loss: 0.8547, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 17:53:23 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 1 predictions.
+2024-05-20 17:53:26 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [47/100], Loss: 0.8544, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 17:53:26 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 17:53:45 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 1 predictions.
+2024-05-20 17:53:48 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [48/100], Loss: 0.8535, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 17:53:48 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 17:54:07 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 1 predictions.
+2024-05-20 17:54:10 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [49/100], Loss: 0.8532, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 17:54:10 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 17:54:29 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 1 predictions.
+2024-05-20 17:54:32 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [50/100], Loss: 0.8522, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 17:54:33 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 17:54:51 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 1 predictions.
+2024-05-20 17:54:55 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [51/100], Loss: 0.8530, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 17:55:14 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 1 predictions.
+2024-05-20 17:55:17 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [52/100], Loss: 0.8516, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 17:55:17 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 17:55:36 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 1 predictions.
+2024-05-20 17:55:39 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [53/100], Loss: 0.8512, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 17:55:39 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 17:55:58 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 1 predictions.
+2024-05-20 17:56:02 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [54/100], Loss: 0.8523, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 17:56:21 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 1 predictions.
+2024-05-20 17:56:24 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [55/100], Loss: 0.8513, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 17:56:43 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 1 predictions.
+2024-05-20 17:56:46 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [56/100], Loss: 0.8493, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 17:56:46 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 17:57:05 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 1 predictions.
+2024-05-20 17:57:08 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [57/100], Loss: 0.8469, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 17:57:09 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 17:57:28 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 1 predictions.
+2024-05-20 17:57:31 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [58/100], Loss: 0.8489, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 17:57:50 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 7 predictions.
+2024-05-20 17:57:53 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 8 predictions.
+2024-05-20 17:57:53 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [59/100], Loss: 0.8445, Valid Acc: 0.6111, Valid F1: 0.2583, Valid DP: 0.9993, Valid EOD: 1.0000
+2024-05-20 17:57:53 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_f1_state.pth.
+2024-05-20 17:57:53 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 17:58:12 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 13 predictions.
+2024-05-20 17:58:16 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [60/100], Loss: 0.8439, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 17:58:16 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 17:58:35 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 88 predictions.
+2024-05-20 17:58:38 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 7 predictions.
+2024-05-20 17:58:38 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [61/100], Loss: 0.8413, Valid Acc: 0.6101, Valid F1: 0.2567, Valid DP: 0.9993, Valid EOD: 1.0000
+2024-05-20 17:58:38 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 17:59:01 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [62/100], Loss: 0.8444, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 17:59:23 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 12 predictions.
+2024-05-20 17:59:23 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [63/100], Loss: 0.8428, Valid Acc: 0.6125, Valid F1: 0.2614, Valid DP: 0.9967, Valid EOD: 1.0000
+2024-05-20 17:59:23 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_f1_state.pth.
+2024-05-20 17:59:46 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 9 predictions.
+2024-05-20 17:59:46 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [64/100], Loss: 0.8437, Valid Acc: 0.6115, Valid F1: 0.2591, Valid DP: 0.9985, Valid EOD: 1.0000
+2024-05-20 18:00:09 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 77 predictions.
+2024-05-20 18:00:09 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [65/100], Loss: 0.8387, Valid Acc: 0.6340, Valid F1: 0.3063, Valid DP: 0.9741, Valid EOD: 1.0000
+2024-05-20 18:00:09 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_f1_state.pth.
+2024-05-20 18:00:09 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 18:00:31 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 21 predictions.
+2024-05-20 18:00:31 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [66/100], Loss: 0.8347, Valid Acc: 0.6150, Valid F1: 0.2673, Valid DP: 0.9941, Valid EOD: 1.0000
+2024-05-20 18:00:31 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 18:00:54 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [67/100], Loss: 0.8324, Valid Acc: 0.6431, Valid F1: 0.3264, Valid DP: 0.9652, Valid EOD: 0.9960
+2024-05-20 18:00:54 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_f1_state.pth.
+2024-05-20 18:00:54 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_eod_state.pth.
+2024-05-20 18:00:54 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 18:01:17 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 81 predictions.
+2024-05-20 18:01:17 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [68/100], Loss: 0.8345, Valid Acc: 0.6361, Valid F1: 0.3098, Valid DP: 0.9734, Valid EOD: 1.0000
+2024-05-20 18:01:40 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [69/100], Loss: 0.8275, Valid Acc: 0.6435, Valid F1: 0.3370, Valid DP: 0.9444, Valid EOD: 0.9838
+2024-05-20 18:01:40 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_f1_state.pth.
+2024-05-20 18:01:40 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_eod_state.pth.
+2024-05-20 18:01:40 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 18:02:03 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 3 predictions.
+2024-05-20 18:02:03 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [70/100], Loss: 0.8332, Valid Acc: 0.6094, Valid F1: 0.2545, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 18:02:26 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 4 predictions.
+2024-05-20 18:02:26 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [71/100], Loss: 0.8359, Valid Acc: 0.6097, Valid F1: 0.2553, Valid DP: 0.9987, Valid EOD: 1.0000
+2024-05-20 18:02:49 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 53 predictions.
+2024-05-20 18:02:49 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [72/100], Loss: 0.8197, Valid Acc: 0.6248, Valid F1: 0.2889, Valid DP: 0.9822, Valid EOD: 0.9987
+2024-05-20 18:02:49 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 18:03:11 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [73/100], Loss: 0.8287, Valid Acc: 0.6442, Valid F1: 0.3249, Valid DP: 0.9672, Valid EOD: 1.0000
+2024-05-20 18:03:34 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [74/100], Loss: 0.8121, Valid Acc: 0.6846, Valid F1: 0.4422, Valid DP: 0.7515, Valid EOD: 0.8923
+2024-05-20 18:03:34 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_f1_state.pth.
+2024-05-20 18:03:34 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_eod_state.pth.
+2024-05-20 18:03:34 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 18:03:57 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [75/100], Loss: 0.8225, Valid Acc: 0.6533, Valid F1: 0.3469, Valid DP: 0.9467, Valid EOD: 0.9929
+2024-05-20 18:04:20 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [76/100], Loss: 0.8158, Valid Acc: 0.6719, Valid F1: 0.3792, Valid DP: 0.9238, Valid EOD: 0.9933
+2024-05-20 18:04:43 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 37 predictions.
+2024-05-20 18:04:43 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [77/100], Loss: 0.8306, Valid Acc: 0.6213, Valid F1: 0.2800, Valid DP: 0.9889, Valid EOD: 1.0000
+2024-05-20 18:05:05 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 4 predictions.
+2024-05-20 18:05:05 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [78/100], Loss: 0.8219, Valid Acc: 0.6097, Valid F1: 0.2553, Valid DP: 0.9993, Valid EOD: 1.0000
+2024-05-20 18:05:28 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [79/100], Loss: 0.8205, Valid Acc: 0.6839, Valid F1: 0.3944, Valid DP: 0.9196, Valid EOD: 0.9939
+2024-05-20 18:05:52 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 65 predictions.
+2024-05-20 18:05:52 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [80/100], Loss: 0.8030, Valid Acc: 0.6276, Valid F1: 0.2957, Valid DP: 0.9779, Valid EOD: 0.9980
+2024-05-20 18:05:52 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 18:06:15 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [81/100], Loss: 0.8078, Valid Acc: 0.6712, Valid F1: 0.3728, Valid DP: 0.9390, Valid EOD: 0.9973
+2024-05-20 18:06:38 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [82/100], Loss: 0.8010, Valid Acc: 0.7219, Valid F1: 0.4594, Valid DP: 0.8573, Valid EOD: 0.9635
+2024-05-20 18:06:38 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_f1_state.pth.
+2024-05-20 18:06:38 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 18:07:01 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [83/100], Loss: 0.8168, Valid Acc: 0.6737, Valid F1: 0.3764, Valid DP: 0.9350, Valid EOD: 0.9987
+2024-05-20 18:07:24 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [84/100], Loss: 0.7956, Valid Acc: 0.6850, Valid F1: 0.3960, Valid DP: 0.9196, Valid EOD: 0.9959
+2024-05-20 18:07:24 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 18:07:47 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [85/100], Loss: 0.7993, Valid Acc: 0.6737, Valid F1: 0.3800, Valid DP: 0.9257, Valid EOD: 0.9929
+2024-05-20 18:08:10 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [86/100], Loss: 0.7943, Valid Acc: 0.7068, Valid F1: 0.4317, Valid DP: 0.8908, Valid EOD: 0.9828
+2024-05-20 18:08:11 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 18:08:34 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [87/100], Loss: 0.8038, Valid Acc: 0.6807, Valid F1: 0.3996, Valid DP: 0.8989, Valid EOD: 0.9767
+2024-05-20 18:08:57 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [88/100], Loss: 0.7930, Valid Acc: 0.6646, Valid F1: 0.3670, Valid DP: 0.9363, Valid EOD: 0.9973
+2024-05-20 18:08:57 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 18:09:20 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [89/100], Loss: 0.7894, Valid Acc: 0.7233, Valid F1: 0.4663, Valid DP: 0.8218, Valid EOD: 0.9354
+2024-05-20 18:09:20 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_f1_state.pth.
+2024-05-20 18:09:20 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 18:09:44 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [90/100], Loss: 0.7935, Valid Acc: 0.7124, Valid F1: 0.4683, Valid DP: 0.7542, Valid EOD: 0.8896
+2024-05-20 18:09:44 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_f1_state.pth.
+2024-05-20 18:09:44 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_eod_state.pth.
+2024-05-20 18:10:07 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [91/100], Loss: 0.7786, Valid Acc: 0.6424, Valid F1: 0.3227, Valid DP: 0.9638, Valid EOD: 0.9990
+2024-05-20 18:10:07 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 18:10:30 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [92/100], Loss: 0.7783, Valid Acc: 0.6906, Valid F1: 0.4506, Valid DP: 0.7498, Valid EOD: 0.8977
+2024-05-20 18:10:30 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 18:10:53 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [93/100], Loss: 0.7665, Valid Acc: 0.7162, Valid F1: 0.4742, Valid DP: 0.7388, Valid EOD: 0.8896
+2024-05-20 18:10:53 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_f1_state.pth.
+2024-05-20 18:10:54 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 18:11:17 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [94/100], Loss: 0.7848, Valid Acc: 0.7082, Valid F1: 0.4373, Valid DP: 0.8694, Valid EOD: 0.9838
+2024-05-20 18:11:40 - orthogonal_representations/utk_face/v002_age_25 - INFO - Warning: Class 0 has only 32 predictions.
+2024-05-20 18:11:40 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [95/100], Loss: 0.7708, Valid Acc: 0.6188, Valid F1: 0.2755, Valid DP: 0.9889, Valid EOD: 1.0000
+2024-05-20 18:12:04 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [96/100], Loss: 0.7694, Valid Acc: 0.7092, Valid F1: 0.4456, Valid DP: 0.8446, Valid EOD: 0.9637
+2024-05-20 18:12:27 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [97/100], Loss: 0.7551, Valid Acc: 0.7222, Valid F1: 0.4762, Valid DP: 0.7498, Valid EOD: 0.9260
+2024-05-20 18:12:27 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_f1_state.pth.
+2024-05-20 18:12:27 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_loss_state.pth.
+2024-05-20 18:12:51 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [98/100], Loss: 0.8119, Valid Acc: 0.7001, Valid F1: 0.4188, Valid DP: 0.8982, Valid EOD: 0.9946
+2024-05-20 18:13:14 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [99/100], Loss: 0.7746, Valid Acc: 0.7145, Valid F1: 0.4537, Valid DP: 0.8305, Valid EOD: 0.9556
+2024-05-20 18:13:38 - orthogonal_representations/utk_face/v002_age_25 - INFO - Epoch [100/100], Loss: 0.7665, Valid Acc: 0.7117, Valid F1: 0.4746, Valid DP: 0.7227, Valid EOD: 0.8440
+2024-05-20 18:13:38 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/best_eod_state.pth.
+2024-05-20 18:13:38 - orthogonal_representations/utk_face/v002_age_25 - INFO - Saved model final to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/orthogonal_representations/utk_face/v002_age_25_target/final_state.pth.
+2024-05-20 18:13:38 - orthogonal_representations/utk_face/v002_age_25 - INFO - Model and metrics saved.
+2024-05-20 18:13:38 - orthogonal_representations/utk_face/v002_age_25 - INFO - Training finished.

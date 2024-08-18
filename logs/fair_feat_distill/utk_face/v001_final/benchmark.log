@@ -1,0 +1,190 @@
+2024-05-14 13:47:06 - fair_feat_distill/utk_face/v001_final - INFO - Start fair feature distillation benchmark.
+2024-05-14 13:47:06 - fair_feat_distill/utk_face/v001_final - INFO - Training started.
+2024-05-14 13:47:32 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [1/100], Loss: 57.6667, Valid Acc: 0.1790, Valid F1: 0.0969, Valid DP: 0.8540, Valid EOD: 0.9675
+2024-05-14 13:47:33 - fair_feat_distill/utk_face/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/utk_face/v001_final/best_f1_state.pth.
+2024-05-14 13:47:33 - fair_feat_distill/utk_face/v001_final - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/utk_face/v001_final/best_eod_state.pth.
+2024-05-14 13:47:33 - fair_feat_distill/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 13:47:58 - fair_feat_distill/utk_face/v001_final - INFO - Warning: Class 2 has only 78 predictions.
+2024-05-14 13:47:58 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [2/100], Loss: 45.0812, Valid Acc: 0.3358, Valid F1: 0.2976, Valid DP: 0.5174, Valid EOD: 0.8938
+2024-05-14 13:47:58 - fair_feat_distill/utk_face/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/utk_face/v001_final/best_f1_state.pth.
+2024-05-14 13:47:58 - fair_feat_distill/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 13:48:23 - fair_feat_distill/utk_face/v001_final - INFO - Warning: Class 4 has only 16 predictions.
+2024-05-14 13:48:23 - fair_feat_distill/utk_face/v001_final - INFO - Warning: Class 3 has only 3 predictions.
+2024-05-14 13:48:23 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [3/100], Loss: 40.1933, Valid Acc: 0.3393, Valid F1: 0.3171, Valid DP: 0.2692, Valid EOD: 0.7386
+2024-05-14 13:48:23 - fair_feat_distill/utk_face/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/utk_face/v001_final/best_f1_state.pth.
+2024-05-14 13:48:23 - fair_feat_distill/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 13:48:48 - fair_feat_distill/utk_face/v001_final - INFO - Warning: Class 3 has only 55 predictions.
+2024-05-14 13:48:48 - fair_feat_distill/utk_face/v001_final - INFO - Warning: Class 4 has only 22 predictions.
+2024-05-14 13:48:48 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [4/100], Loss: 35.7070, Valid Acc: 0.3572, Valid F1: 0.3389, Valid DP: 0.2931, Valid EOD: 0.6952
+2024-05-14 13:48:48 - fair_feat_distill/utk_face/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/utk_face/v001_final/best_f1_state.pth.
+2024-05-14 13:48:48 - fair_feat_distill/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 13:49:13 - fair_feat_distill/utk_face/v001_final - INFO - Warning: Class 2 has only 69 predictions.
+2024-05-14 13:49:13 - fair_feat_distill/utk_face/v001_final - INFO - Warning: Class 3 has only 5 predictions.
+2024-05-14 13:49:13 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [5/100], Loss: 31.4191, Valid Acc: 0.3066, Valid F1: 0.2607, Valid DP: 0.3242, Valid EOD: 0.9010
+2024-05-14 13:49:13 - fair_feat_distill/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 13:49:38 - fair_feat_distill/utk_face/v001_final - INFO - Warning: Class 5 has only 66 predictions.
+2024-05-14 13:49:38 - fair_feat_distill/utk_face/v001_final - INFO - Warning: Class 1 has only 61 predictions.
+2024-05-14 13:49:38 - fair_feat_distill/utk_face/v001_final - INFO - Warning: Class 7 has only 28 predictions.
+2024-05-14 13:49:38 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [6/100], Loss: 25.9895, Valid Acc: 0.3541, Valid F1: 0.3224, Valid DP: 0.2272, Valid EOD: 0.8761
+2024-05-14 13:49:38 - fair_feat_distill/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 13:50:03 - fair_feat_distill/utk_face/v001_final - INFO - Warning: Class 6 has only 31 predictions.
+2024-05-14 13:50:03 - fair_feat_distill/utk_face/v001_final - INFO - Warning: Class 2 has only 29 predictions.
+2024-05-14 13:50:03 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [7/100], Loss: 20.5475, Valid Acc: 0.3267, Valid F1: 0.3118, Valid DP: 0.2894, Valid EOD: 0.9435
+2024-05-14 13:50:03 - fair_feat_distill/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 13:50:28 - fair_feat_distill/utk_face/v001_final - INFO - Warning: Class 8 has only 71 predictions.
+2024-05-14 13:50:28 - fair_feat_distill/utk_face/v001_final - INFO - Warning: Class 3 has only 27 predictions.
+2024-05-14 13:50:28 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [8/100], Loss: 14.5243, Valid Acc: 0.3741, Valid F1: 0.3530, Valid DP: 0.2599, Valid EOD: 0.9261
+2024-05-14 13:50:28 - fair_feat_distill/utk_face/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/utk_face/v001_final/best_f1_state.pth.
+2024-05-14 13:50:28 - fair_feat_distill/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 13:50:53 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [9/100], Loss: 10.1476, Valid Acc: 0.3938, Valid F1: 0.3868, Valid DP: 0.2791, Valid EOD: 0.8732
+2024-05-14 13:50:53 - fair_feat_distill/utk_face/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/utk_face/v001_final/best_f1_state.pth.
+2024-05-14 13:50:53 - fair_feat_distill/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 13:51:18 - fair_feat_distill/utk_face/v001_final - INFO - Warning: Class 5 has only 70 predictions.
+2024-05-14 13:51:18 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [10/100], Loss: 7.1334, Valid Acc: 0.4149, Valid F1: 0.3793, Valid DP: 0.2324, Valid EOD: 0.9017
+2024-05-14 13:51:18 - fair_feat_distill/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 13:51:43 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [11/100], Loss: 4.8089, Valid Acc: 0.4058, Valid F1: 0.4022, Valid DP: 0.1828, Valid EOD: 0.8125
+2024-05-14 13:51:43 - fair_feat_distill/utk_face/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/utk_face/v001_final/best_f1_state.pth.
+2024-05-14 13:51:43 - fair_feat_distill/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 13:52:08 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [12/100], Loss: 3.2935, Valid Acc: 0.4037, Valid F1: 0.4051, Valid DP: 0.1308, Valid EOD: 0.7940
+2024-05-14 13:52:08 - fair_feat_distill/utk_face/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/utk_face/v001_final/best_f1_state.pth.
+2024-05-14 13:52:08 - fair_feat_distill/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 13:52:33 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [13/100], Loss: 2.4196, Valid Acc: 0.4068, Valid F1: 0.4112, Valid DP: 0.1695, Valid EOD: 0.8209
+2024-05-14 13:52:33 - fair_feat_distill/utk_face/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/utk_face/v001_final/best_f1_state.pth.
+2024-05-14 13:52:33 - fair_feat_distill/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 13:52:58 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [14/100], Loss: 1.9259, Valid Acc: 0.4177, Valid F1: 0.4153, Valid DP: 0.1547, Valid EOD: 0.8420
+2024-05-14 13:52:58 - fair_feat_distill/utk_face/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/utk_face/v001_final/best_f1_state.pth.
+2024-05-14 13:52:58 - fair_feat_distill/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 13:53:23 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [15/100], Loss: 1.6108, Valid Acc: 0.4184, Valid F1: 0.4168, Valid DP: 0.1073, Valid EOD: 0.8360
+2024-05-14 13:53:23 - fair_feat_distill/utk_face/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/utk_face/v001_final/best_f1_state.pth.
+2024-05-14 13:53:23 - fair_feat_distill/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 13:53:49 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [16/100], Loss: 1.3845, Valid Acc: 0.4184, Valid F1: 0.4141, Valid DP: 0.1636, Valid EOD: 0.8443
+2024-05-14 13:53:49 - fair_feat_distill/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 13:54:14 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [17/100], Loss: 1.2305, Valid Acc: 0.4212, Valid F1: 0.4205, Valid DP: 0.1754, Valid EOD: 0.8470
+2024-05-14 13:54:14 - fair_feat_distill/utk_face/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/utk_face/v001_final/best_f1_state.pth.
+2024-05-14 13:54:14 - fair_feat_distill/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 13:54:39 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [18/100], Loss: 1.0940, Valid Acc: 0.4191, Valid F1: 0.4166, Valid DP: 0.1562, Valid EOD: 0.8404
+2024-05-14 13:54:39 - fair_feat_distill/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 13:55:04 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [19/100], Loss: 0.9909, Valid Acc: 0.4124, Valid F1: 0.4132, Valid DP: 0.1429, Valid EOD: 0.8209
+2024-05-14 13:55:04 - fair_feat_distill/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 13:55:29 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [20/100], Loss: 0.9347, Valid Acc: 0.4237, Valid F1: 0.4231, Valid DP: 0.1451, Valid EOD: 0.8581
+2024-05-14 13:55:29 - fair_feat_distill/utk_face/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/utk_face/v001_final/best_f1_state.pth.
+2024-05-14 13:55:29 - fair_feat_distill/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 13:55:54 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [21/100], Loss: 0.8716, Valid Acc: 0.4188, Valid F1: 0.4205, Valid DP: 0.1436, Valid EOD: 0.8209
+2024-05-14 13:55:54 - fair_feat_distill/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 13:56:19 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [22/100], Loss: 0.8245, Valid Acc: 0.4191, Valid F1: 0.4158, Valid DP: 0.1517, Valid EOD: 0.8581
+2024-05-14 13:56:19 - fair_feat_distill/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 13:56:44 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [23/100], Loss: 0.7800, Valid Acc: 0.4139, Valid F1: 0.4131, Valid DP: 0.1216, Valid EOD: 0.8470
+2024-05-14 13:56:44 - fair_feat_distill/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 13:57:10 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [24/100], Loss: 0.7614, Valid Acc: 0.4142, Valid F1: 0.4150, Valid DP: 0.1614, Valid EOD: 0.8229
+2024-05-14 13:57:10 - fair_feat_distill/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 13:57:35 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [25/100], Loss: 0.7374, Valid Acc: 0.4153, Valid F1: 0.4177, Valid DP: 0.1495, Valid EOD: 0.8347
+2024-05-14 13:57:35 - fair_feat_distill/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 13:58:03 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [26/100], Loss: 0.7301, Valid Acc: 0.4163, Valid F1: 0.4151, Valid DP: 0.1806, Valid EOD: 0.8291
+2024-05-14 13:58:03 - fair_feat_distill/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 13:58:29 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [27/100], Loss: 0.7053, Valid Acc: 0.4174, Valid F1: 0.4119, Valid DP: 0.1695, Valid EOD: 0.8351
+2024-05-14 13:58:29 - fair_feat_distill/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 13:58:54 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [28/100], Loss: 0.6814, Valid Acc: 0.4177, Valid F1: 0.4160, Valid DP: 0.1310, Valid EOD: 0.8374
+2024-05-14 13:58:54 - fair_feat_distill/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 13:59:19 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [29/100], Loss: 0.7038, Valid Acc: 0.4188, Valid F1: 0.4159, Valid DP: 0.1429, Valid EOD: 0.8222
+2024-05-14 13:59:45 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [30/100], Loss: 0.7163, Valid Acc: 0.4174, Valid F1: 0.4204, Valid DP: 0.1263, Valid EOD: 0.8216
+2024-05-14 14:00:12 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [31/100], Loss: 0.7220, Valid Acc: 0.4160, Valid F1: 0.4159, Valid DP: 0.1258, Valid EOD: 0.8388
+2024-05-14 14:00:37 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [32/100], Loss: 0.7028, Valid Acc: 0.4142, Valid F1: 0.4099, Valid DP: 0.1362, Valid EOD: 0.8012
+2024-05-14 14:01:03 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [33/100], Loss: 0.7252, Valid Acc: 0.4149, Valid F1: 0.4183, Valid DP: 0.1429, Valid EOD: 0.8084
+2024-05-14 14:01:29 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [34/100], Loss: 0.6830, Valid Acc: 0.4241, Valid F1: 0.4181, Valid DP: 0.1236, Valid EOD: 0.8140
+2024-05-14 14:01:54 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [35/100], Loss: 0.7233, Valid Acc: 0.4135, Valid F1: 0.4142, Valid DP: 0.1791, Valid EOD: 0.8176
+2024-05-14 14:02:21 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [36/100], Loss: 0.7474, Valid Acc: 0.4219, Valid F1: 0.4207, Valid DP: 0.1436, Valid EOD: 0.8195
+2024-05-14 14:02:48 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [37/100], Loss: 0.6917, Valid Acc: 0.4209, Valid F1: 0.4168, Valid DP: 0.1219, Valid EOD: 0.8057
+2024-05-14 14:03:14 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [38/100], Loss: 0.6641, Valid Acc: 0.4188, Valid F1: 0.4162, Valid DP: 0.1421, Valid EOD: 0.8746
+2024-05-14 14:03:14 - fair_feat_distill/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 14:03:40 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [39/100], Loss: 0.6260, Valid Acc: 0.4174, Valid F1: 0.4200, Valid DP: 0.1532, Valid EOD: 0.8291
+2024-05-14 14:03:40 - fair_feat_distill/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 14:04:06 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [40/100], Loss: 0.6022, Valid Acc: 0.4153, Valid F1: 0.4149, Valid DP: 0.1199, Valid EOD: 0.8030
+2024-05-14 14:04:06 - fair_feat_distill/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 14:04:34 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [41/100], Loss: 0.5687, Valid Acc: 0.4216, Valid F1: 0.4204, Valid DP: 0.1680, Valid EOD: 0.8153
+2024-05-14 14:04:34 - fair_feat_distill/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 14:05:00 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [42/100], Loss: 0.5461, Valid Acc: 0.4142, Valid F1: 0.4140, Valid DP: 0.1421, Valid EOD: 0.8663
+2024-05-14 14:05:00 - fair_feat_distill/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 14:05:28 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [43/100], Loss: 0.5356, Valid Acc: 0.4124, Valid F1: 0.4100, Valid DP: 0.1717, Valid EOD: 0.8677
+2024-05-14 14:05:28 - fair_feat_distill/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 14:05:54 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [44/100], Loss: 0.4935, Valid Acc: 0.4241, Valid F1: 0.4229, Valid DP: 0.1399, Valid EOD: 0.8319
+2024-05-14 14:05:54 - fair_feat_distill/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 14:06:20 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [45/100], Loss: 0.4793, Valid Acc: 0.4142, Valid F1: 0.4121, Valid DP: 0.1355, Valid EOD: 0.8278
+2024-05-14 14:06:20 - fair_feat_distill/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 14:06:46 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [46/100], Loss: 0.4869, Valid Acc: 0.4181, Valid F1: 0.4191, Valid DP: 0.1295, Valid EOD: 0.8388
+2024-05-14 14:07:13 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [47/100], Loss: 0.4726, Valid Acc: 0.4188, Valid F1: 0.4137, Valid DP: 0.1680, Valid EOD: 0.8829
+2024-05-14 14:07:13 - fair_feat_distill/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 14:07:39 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [48/100], Loss: 0.4875, Valid Acc: 0.4184, Valid F1: 0.4147, Valid DP: 0.1244, Valid EOD: 0.8366
+2024-05-14 14:08:05 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [49/100], Loss: 0.5559, Valid Acc: 0.4209, Valid F1: 0.4194, Valid DP: 0.1673, Valid EOD: 0.8911
+2024-05-14 14:08:34 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [50/100], Loss: 0.5628, Valid Acc: 0.4223, Valid F1: 0.4208, Valid DP: 0.1406, Valid EOD: 0.8691
+2024-05-14 14:09:00 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [51/100], Loss: 0.5403, Valid Acc: 0.4212, Valid F1: 0.4214, Valid DP: 0.1288, Valid EOD: 0.8278
+2024-05-14 14:09:26 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [52/100], Loss: 0.5021, Valid Acc: 0.4184, Valid F1: 0.4079, Valid DP: 0.1791, Valid EOD: 0.8372
+2024-05-14 14:09:52 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [53/100], Loss: 0.5079, Valid Acc: 0.4191, Valid F1: 0.4159, Valid DP: 0.1295, Valid EOD: 0.8140
+2024-05-14 14:10:18 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [54/100], Loss: 0.4949, Valid Acc: 0.4195, Valid F1: 0.4154, Valid DP: 0.1010, Valid EOD: 0.8091
+2024-05-14 14:10:44 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [55/100], Loss: 0.4835, Valid Acc: 0.4205, Valid F1: 0.4184, Valid DP: 0.1614, Valid EOD: 0.8512
+2024-05-14 14:11:11 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [56/100], Loss: 0.4760, Valid Acc: 0.4044, Valid F1: 0.4026, Valid DP: 0.1236, Valid EOD: 0.8298
+2024-05-14 14:11:37 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [57/100], Loss: 0.4492, Valid Acc: 0.4293, Valid F1: 0.4286, Valid DP: 0.1125, Valid EOD: 0.8126
+2024-05-14 14:11:38 - fair_feat_distill/utk_face/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/utk_face/v001_final/best_f1_state.pth.
+2024-05-14 14:11:38 - fair_feat_distill/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 14:12:04 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [58/100], Loss: 0.4243, Valid Acc: 0.4142, Valid F1: 0.4122, Valid DP: 0.1488, Valid EOD: 0.8374
+2024-05-14 14:12:04 - fair_feat_distill/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 14:12:30 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [59/100], Loss: 0.4218, Valid Acc: 0.4139, Valid F1: 0.4134, Valid DP: 0.1466, Valid EOD: 0.8278
+2024-05-14 14:12:30 - fair_feat_distill/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 14:12:58 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [60/100], Loss: 0.4090, Valid Acc: 0.4181, Valid F1: 0.4179, Valid DP: 0.1209, Valid EOD: 0.8167
+2024-05-14 14:12:59 - fair_feat_distill/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 14:13:25 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [61/100], Loss: 0.4007, Valid Acc: 0.4237, Valid F1: 0.4185, Valid DP: 0.1606, Valid EOD: 0.8374
+2024-05-14 14:13:25 - fair_feat_distill/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 14:13:51 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [62/100], Loss: 0.3956, Valid Acc: 0.4149, Valid F1: 0.4136, Valid DP: 0.1399, Valid EOD: 0.8994
+2024-05-14 14:13:52 - fair_feat_distill/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 14:14:18 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [63/100], Loss: 0.4330, Valid Acc: 0.4202, Valid F1: 0.4183, Valid DP: 0.1754, Valid EOD: 0.8526
+2024-05-14 14:14:45 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [64/100], Loss: 0.4249, Valid Acc: 0.4202, Valid F1: 0.4178, Valid DP: 0.1710, Valid EOD: 0.8443
+2024-05-14 14:15:12 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [65/100], Loss: 0.4229, Valid Acc: 0.4202, Valid F1: 0.4179, Valid DP: 0.1495, Valid EOD: 0.8126
+2024-05-14 14:15:39 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [66/100], Loss: 0.4100, Valid Acc: 0.4202, Valid F1: 0.4134, Valid DP: 0.1162, Valid EOD: 0.8153
+2024-05-14 14:16:05 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [67/100], Loss: 0.4094, Valid Acc: 0.4230, Valid F1: 0.4216, Valid DP: 0.1532, Valid EOD: 0.8416
+2024-05-14 14:16:33 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [68/100], Loss: 0.3991, Valid Acc: 0.4146, Valid F1: 0.4114, Valid DP: 0.1569, Valid EOD: 0.8225
+2024-05-14 14:17:00 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [69/100], Loss: 0.4022, Valid Acc: 0.4128, Valid F1: 0.4107, Valid DP: 0.1229, Valid EOD: 0.8526
+2024-05-14 14:17:26 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [70/100], Loss: 0.3945, Valid Acc: 0.4209, Valid F1: 0.4211, Valid DP: 0.1155, Valid EOD: 0.8085
+2024-05-14 14:17:26 - fair_feat_distill/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 14:17:53 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [71/100], Loss: 0.4025, Valid Acc: 0.4110, Valid F1: 0.4046, Valid DP: 0.1028, Valid EOD: 0.8305
+2024-05-14 14:18:20 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [72/100], Loss: 0.3969, Valid Acc: 0.4174, Valid F1: 0.4164, Valid DP: 0.1325, Valid EOD: 0.8401
+2024-05-14 14:18:49 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [73/100], Loss: 0.4098, Valid Acc: 0.4167, Valid F1: 0.4166, Valid DP: 0.1673, Valid EOD: 0.8236
+2024-05-14 14:19:15 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [74/100], Loss: 0.4002, Valid Acc: 0.4160, Valid F1: 0.4138, Valid DP: 0.1187, Valid EOD: 0.8209
+2024-05-14 14:19:42 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [75/100], Loss: 0.4000, Valid Acc: 0.4160, Valid F1: 0.4187, Valid DP: 0.1414, Valid EOD: 0.8443
+2024-05-14 14:20:09 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [76/100], Loss: 0.4103, Valid Acc: 0.4269, Valid F1: 0.4199, Valid DP: 0.1880, Valid EOD: 0.8691
+2024-05-14 14:20:36 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [77/100], Loss: 0.4269, Valid Acc: 0.4177, Valid F1: 0.4203, Valid DP: 0.1547, Valid EOD: 0.8071
+2024-05-14 14:21:03 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [78/100], Loss: 0.4526, Valid Acc: 0.4209, Valid F1: 0.4169, Valid DP: 0.1429, Valid EOD: 0.7932
+2024-05-14 14:21:29 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [79/100], Loss: 0.5137, Valid Acc: 0.4184, Valid F1: 0.4137, Valid DP: 0.1725, Valid EOD: 0.8691
+2024-05-14 14:21:56 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [80/100], Loss: 0.5206, Valid Acc: 0.4216, Valid F1: 0.4089, Valid DP: 0.1673, Valid EOD: 0.8360
+2024-05-14 14:22:23 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [81/100], Loss: 0.6530, Valid Acc: 0.4047, Valid F1: 0.4086, Valid DP: 0.1131, Valid EOD: 0.8085
+2024-05-14 14:22:51 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [82/100], Loss: 0.7247, Valid Acc: 0.4005, Valid F1: 0.3914, Valid DP: 0.1466, Valid EOD: 0.8484
+2024-05-14 14:23:20 - fair_feat_distill/utk_face/v001_final - INFO - Warning: Class 5 has only 65 predictions.
+2024-05-14 14:23:20 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [83/100], Loss: 1.1590, Valid Acc: 0.4093, Valid F1: 0.3895, Valid DP: 0.3538, Valid EOD: 0.8824
+2024-05-14 14:23:49 - fair_feat_distill/utk_face/v001_final - INFO - Warning: Class 2 has only 13 predictions.
+2024-05-14 14:23:49 - fair_feat_distill/utk_face/v001_final - INFO - Warning: Class 6 has only 96 predictions.
+2024-05-14 14:23:49 - fair_feat_distill/utk_face/v001_final - INFO - Warning: Class 4 has only 7 predictions.
+2024-05-14 14:23:49 - fair_feat_distill/utk_face/v001_final - INFO - Warning: Class 7 has only 6 predictions.
+2024-05-14 14:23:49 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [84/100], Loss: 28.1699, Valid Acc: 0.2873, Valid F1: 0.2385, Valid DP: 0.4841, Valid EOD: 0.8063
+2024-05-14 14:24:19 - fair_feat_distill/utk_face/v001_final - INFO - Warning: Class 6 has only 72 predictions.
+2024-05-14 14:24:19 - fair_feat_distill/utk_face/v001_final - INFO - Warning: Class 3 has only 55 predictions.
+2024-05-14 14:24:19 - fair_feat_distill/utk_face/v001_final - INFO - Warning: Class 2 has only 26 predictions.
+2024-05-14 14:24:19 - fair_feat_distill/utk_face/v001_final - INFO - Warning: Class 7 has only 9 predictions.
+2024-05-14 14:24:19 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [85/100], Loss: 30.7181, Valid Acc: 0.2866, Valid F1: 0.2532, Valid DP: 0.3190, Valid EOD: 0.8483
+2024-05-14 14:24:48 - fair_feat_distill/utk_face/v001_final - INFO - Warning: Class 3 has only 63 predictions.
+2024-05-14 14:24:48 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [86/100], Loss: 18.1408, Valid Acc: 0.3836, Valid F1: 0.3658, Valid DP: 0.2398, Valid EOD: 0.8686
+2024-05-14 14:25:16 - fair_feat_distill/utk_face/v001_final - INFO - Warning: Class 4 has only 89 predictions.
+2024-05-14 14:25:16 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [87/100], Loss: 10.4988, Valid Acc: 0.4033, Valid F1: 0.3925, Valid DP: 0.1586, Valid EOD: 0.8304
+2024-05-14 14:25:43 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [88/100], Loss: 5.8915, Valid Acc: 0.4058, Valid F1: 0.3993, Valid DP: 0.0945, Valid EOD: 0.7940
+2024-05-14 14:26:09 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [89/100], Loss: 3.1774, Valid Acc: 0.3632, Valid F1: 0.3545, Valid DP: 0.1878, Valid EOD: 0.7304
+2024-05-14 14:26:37 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [90/100], Loss: 1.9304, Valid Acc: 0.4058, Valid F1: 0.4046, Valid DP: 0.1599, Valid EOD: 0.8153
+2024-05-14 14:27:04 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [91/100], Loss: 1.3713, Valid Acc: 0.4100, Valid F1: 0.4126, Valid DP: 0.1332, Valid EOD: 0.7871
+2024-05-14 14:27:33 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [92/100], Loss: 1.0932, Valid Acc: 0.4065, Valid F1: 0.4067, Valid DP: 0.1643, Valid EOD: 0.8512
+2024-05-14 14:28:01 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [93/100], Loss: 0.8903, Valid Acc: 0.4093, Valid F1: 0.4089, Valid DP: 0.1414, Valid EOD: 0.7863
+2024-05-14 14:28:31 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [94/100], Loss: 0.7705, Valid Acc: 0.4082, Valid F1: 0.4076, Valid DP: 0.1569, Valid EOD: 0.8030
+2024-05-14 14:28:58 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [95/100], Loss: 0.6865, Valid Acc: 0.3994, Valid F1: 0.4009, Valid DP: 0.1436, Valid EOD: 0.8006
+2024-05-14 14:29:25 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [96/100], Loss: 0.6213, Valid Acc: 0.4044, Valid F1: 0.4062, Valid DP: 0.1503, Valid EOD: 0.8009
+2024-05-14 14:29:52 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [97/100], Loss: 0.5767, Valid Acc: 0.4005, Valid F1: 0.4016, Valid DP: 0.1503, Valid EOD: 0.7937
+2024-05-14 14:30:20 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [98/100], Loss: 0.5410, Valid Acc: 0.4054, Valid F1: 0.4066, Valid DP: 0.1340, Valid EOD: 0.7795
+2024-05-14 14:30:49 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [99/100], Loss: 0.5091, Valid Acc: 0.4044, Valid F1: 0.4043, Valid DP: 0.1554, Valid EOD: 0.8006
+2024-05-14 14:31:16 - fair_feat_distill/utk_face/v001_final - INFO - Epoch [100/100], Loss: 0.4805, Valid Acc: 0.4037, Valid F1: 0.4043, Valid DP: 0.1517, Valid EOD: 0.7937
+2024-05-14 14:31:17 - fair_feat_distill/utk_face/v001_final - INFO - Saved model final to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/utk_face/v001_final/final_state.pth.
+2024-05-14 14:31:17 - fair_feat_distill/utk_face/v001_final - INFO - Model and metrics saved.
+2024-05-14 14:31:17 - fair_feat_distill/utk_face/v001_final - INFO - Training finished.

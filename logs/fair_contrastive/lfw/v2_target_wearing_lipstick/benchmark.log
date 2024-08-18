@@ -1,0 +1,252 @@
+2024-07-18 22:47:20 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Start fair contrastive learning benchmark.
+2024-07-18 22:47:20 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Contrastive Training started.
+2024-07-18 22:48:16 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [1/100], Loss: 12.8996
+2024-07-18 22:49:07 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [2/100], Loss: 12.8965
+2024-07-18 22:49:59 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [3/100], Loss: 12.8866
+2024-07-18 22:50:50 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [4/100], Loss: 12.8816
+2024-07-18 22:51:41 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [5/100], Loss: 12.8729
+2024-07-18 22:52:33 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [6/100], Loss: 12.8537
+2024-07-18 22:53:24 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [7/100], Loss: 12.8820
+2024-07-18 22:54:16 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [8/100], Loss: 12.8877
+2024-07-18 22:55:07 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [9/100], Loss: 12.8309
+2024-07-18 22:55:58 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [10/100], Loss: 12.8370
+2024-07-18 22:56:50 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [11/100], Loss: 12.8566
+2024-07-18 22:57:41 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [12/100], Loss: 12.8545
+2024-07-18 22:58:32 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [13/100], Loss: 12.8073
+2024-07-18 22:59:23 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [14/100], Loss: 12.7628
+2024-07-18 23:00:15 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [15/100], Loss: 12.8543
+2024-07-18 23:01:06 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [16/100], Loss: 12.7926
+2024-07-18 23:01:57 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [17/100], Loss: 12.7833
+2024-07-18 23:02:49 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [18/100], Loss: 12.7926
+2024-07-18 23:03:40 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [19/100], Loss: 12.7477
+2024-07-18 23:04:32 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [20/100], Loss: 12.7063
+2024-07-18 23:05:23 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [21/100], Loss: 12.7206
+2024-07-18 23:06:14 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [22/100], Loss: 12.7284
+2024-07-18 23:07:06 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [23/100], Loss: 12.6682
+2024-07-18 23:07:57 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [24/100], Loss: 12.7148
+2024-07-18 23:08:48 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [25/100], Loss: 12.6817
+2024-07-18 23:09:39 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [26/100], Loss: 12.6255
+2024-07-18 23:10:30 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [27/100], Loss: 12.7540
+2024-07-18 23:11:22 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [28/100], Loss: 12.6917
+2024-07-18 23:12:13 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [29/100], Loss: 12.5517
+2024-07-18 23:13:04 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [30/100], Loss: 12.5011
+2024-07-18 23:13:55 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [31/100], Loss: 12.6070
+2024-07-18 23:14:47 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [32/100], Loss: 12.5635
+2024-07-18 23:15:38 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [33/100], Loss: 12.5063
+2024-07-18 23:16:29 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [34/100], Loss: 12.4739
+2024-07-18 23:17:20 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [35/100], Loss: 12.4547
+2024-07-18 23:18:12 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [36/100], Loss: 12.5569
+2024-07-18 23:19:03 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [37/100], Loss: 12.4248
+2024-07-18 23:19:54 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [38/100], Loss: 12.4989
+2024-07-18 23:20:46 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [39/100], Loss: 12.4596
+2024-07-18 23:21:37 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [40/100], Loss: 12.3602
+2024-07-18 23:22:28 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [41/100], Loss: 12.2932
+2024-07-18 23:23:19 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [42/100], Loss: 12.2526
+2024-07-18 23:24:11 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [43/100], Loss: 12.2379
+2024-07-18 23:25:02 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [44/100], Loss: 12.3671
+2024-07-18 23:25:53 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [45/100], Loss: 12.3261
+2024-07-18 23:26:44 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [46/100], Loss: 12.2846
+2024-07-18 23:27:36 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [47/100], Loss: 12.2403
+2024-07-18 23:28:27 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [48/100], Loss: 12.2978
+2024-07-18 23:29:18 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [49/100], Loss: 12.2136
+2024-07-18 23:30:09 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [50/100], Loss: 12.0732
+2024-07-18 23:31:01 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [51/100], Loss: 11.9998
+2024-07-18 23:31:52 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [52/100], Loss: 12.1478
+2024-07-18 23:32:43 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [53/100], Loss: 11.8744
+2024-07-18 23:33:34 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [54/100], Loss: 12.1217
+2024-07-18 23:34:26 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [55/100], Loss: 11.9184
+2024-07-18 23:35:17 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [56/100], Loss: 12.1288
+2024-07-18 23:36:08 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [57/100], Loss: 11.7805
+2024-07-18 23:37:00 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [58/100], Loss: 12.1138
+2024-07-18 23:37:51 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [59/100], Loss: 11.9317
+2024-07-18 23:38:42 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [60/100], Loss: 11.9839
+2024-07-18 23:39:33 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [61/100], Loss: 11.7319
+2024-07-18 23:40:24 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [62/100], Loss: 11.8902
+2024-07-18 23:41:16 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [63/100], Loss: 11.8268
+2024-07-18 23:42:07 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [64/100], Loss: 11.7563
+2024-07-18 23:42:58 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [65/100], Loss: 11.8149
+2024-07-18 23:43:49 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [66/100], Loss: 11.5028
+2024-07-18 23:44:40 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [67/100], Loss: 11.6168
+2024-07-18 23:45:32 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [68/100], Loss: 11.6442
+2024-07-18 23:46:23 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [69/100], Loss: 11.5154
+2024-07-18 23:47:14 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [70/100], Loss: 11.6882
+2024-07-18 23:48:05 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [71/100], Loss: 11.5203
+2024-07-18 23:48:56 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [72/100], Loss: 11.6032
+2024-07-18 23:49:47 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [73/100], Loss: 11.3798
+2024-07-18 23:50:38 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [74/100], Loss: 11.4596
+2024-07-18 23:51:30 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [75/100], Loss: 11.3838
+2024-07-18 23:52:21 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [76/100], Loss: 11.4990
+2024-07-18 23:53:12 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [77/100], Loss: 11.4168
+2024-07-18 23:54:03 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [78/100], Loss: 11.3320
+2024-07-18 23:54:54 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [79/100], Loss: 11.4359
+2024-07-18 23:55:46 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [80/100], Loss: 11.3752
+2024-07-18 23:56:37 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [81/100], Loss: 11.2197
+2024-07-18 23:57:28 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [82/100], Loss: 11.4049
+2024-07-18 23:58:19 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [83/100], Loss: 11.2316
+2024-07-18 23:59:10 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [84/100], Loss: 11.1915
+2024-07-19 00:00:02 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [85/100], Loss: 10.9683
+2024-07-19 00:00:53 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [86/100], Loss: 11.3636
+2024-07-19 00:01:44 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [87/100], Loss: 10.8229
+2024-07-19 00:02:35 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [88/100], Loss: 11.1861
+2024-07-19 00:03:27 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [89/100], Loss: 11.1161
+2024-07-19 00:04:18 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [90/100], Loss: 10.8592
+2024-07-19 00:05:09 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [91/100], Loss: 10.8221
+2024-07-19 00:06:00 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [92/100], Loss: 11.0072
+2024-07-19 00:06:51 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [93/100], Loss: 10.8777
+2024-07-19 00:07:42 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [94/100], Loss: 10.8830
+2024-07-19 00:08:34 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [95/100], Loss: 10.8084
+2024-07-19 00:09:25 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [96/100], Loss: 10.7000
+2024-07-19 00:10:16 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [97/100], Loss: 10.8663
+2024-07-19 00:11:07 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [98/100], Loss: 10.7962
+2024-07-19 00:11:58 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [99/100], Loss: 10.6457
+2024-07-19 00:12:49 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [100/100], Loss: 10.7778
+2024-07-19 00:12:50 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Saved model final_contrastive_model to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/v2_target_wearing_lipstick_contrastive/final_contrastive_model_state.pth.
+2024-07-19 00:12:50 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Contrastive Model and loss saved.
+2024-07-19 00:12:50 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Contrastive Training finished.
+2024-07-19 00:12:50 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Training started.
+2024-07-19 00:12:59 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [1/100], Loss: 0.3089, Valid Acc: 0.8897, Valid F1: 0.5991, Valid DP: 0.3445, Valid EOD: 0.3188
+2024-07-19 00:12:59 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/v2_target_wearing_lipstick_classifier/best_f1_state.pth.
+2024-07-19 00:12:59 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/v2_target_wearing_lipstick_classifier/best_eod_state.pth.
+2024-07-19 00:12:59 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/v2_target_wearing_lipstick_classifier/best_loss_state.pth.
+2024-07-19 00:13:09 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [2/100], Loss: 0.2657, Valid Acc: 0.8871, Valid F1: 0.6114, Valid DP: 0.3668, Valid EOD: 0.3184
+2024-07-19 00:13:09 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/v2_target_wearing_lipstick_classifier/best_f1_state.pth.
+2024-07-19 00:13:09 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/v2_target_wearing_lipstick_classifier/best_eod_state.pth.
+2024-07-19 00:13:09 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/v2_target_wearing_lipstick_classifier/best_loss_state.pth.
+2024-07-19 00:13:20 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [3/100], Loss: 0.2570, Valid Acc: 0.8878, Valid F1: 0.5755, Valid DP: 0.3166, Valid EOD: 0.3192
+2024-07-19 00:13:20 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/v2_target_wearing_lipstick_classifier/best_loss_state.pth.
+2024-07-19 00:13:30 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [4/100], Loss: 0.2550, Valid Acc: 0.8878, Valid F1: 0.5519, Valid DP: 0.3003, Valid EOD: 0.3612
+2024-07-19 00:13:30 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/v2_target_wearing_lipstick_classifier/best_loss_state.pth.
+2024-07-19 00:13:41 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [5/100], Loss: 0.2526, Valid Acc: 0.8897, Valid F1: 0.6116, Valid DP: 0.3635, Valid EOD: 0.3509
+2024-07-19 00:13:41 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/v2_target_wearing_lipstick_classifier/best_f1_state.pth.
+2024-07-19 00:13:41 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/v2_target_wearing_lipstick_classifier/best_loss_state.pth.
+2024-07-19 00:13:51 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [6/100], Loss: 0.2525, Valid Acc: 0.8897, Valid F1: 0.5714, Valid DP: 0.3141, Valid EOD: 0.3471
+2024-07-19 00:13:51 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/v2_target_wearing_lipstick_classifier/best_loss_state.pth.
+2024-07-19 00:14:02 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [7/100], Loss: 0.2519, Valid Acc: 0.8903, Valid F1: 0.6214, Valid DP: 0.3751, Valid EOD: 0.3739
+2024-07-19 00:14:02 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/v2_target_wearing_lipstick_classifier/best_f1_state.pth.
+2024-07-19 00:14:02 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/v2_target_wearing_lipstick_classifier/best_loss_state.pth.
+2024-07-19 00:14:14 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [8/100], Loss: 0.2522, Valid Acc: 0.8878, Valid F1: 0.5796, Valid DP: 0.3285, Valid EOD: 0.3284
+2024-07-19 00:14:25 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [9/100], Loss: 0.2491, Valid Acc: 0.8890, Valid F1: 0.5803, Valid DP: 0.3280, Valid EOD: 0.3700
+2024-07-19 00:14:25 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/v2_target_wearing_lipstick_classifier/best_loss_state.pth.
+2024-07-19 00:14:37 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [10/100], Loss: 0.2495, Valid Acc: 0.8922, Valid F1: 0.6119, Valid DP: 0.3640, Valid EOD: 0.3834
+2024-07-19 00:14:48 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [11/100], Loss: 0.2543, Valid Acc: 0.8903, Valid F1: 0.5506, Valid DP: 0.2932, Valid EOD: 0.3475
+2024-07-19 00:15:00 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [12/100], Loss: 0.2475, Valid Acc: 0.8909, Valid F1: 0.6055, Valid DP: 0.3580, Valid EOD: 0.3742
+2024-07-19 00:15:00 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/v2_target_wearing_lipstick_classifier/best_loss_state.pth.
+2024-07-19 00:15:12 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [13/100], Loss: 0.2475, Valid Acc: 0.8909, Valid F1: 0.6073, Valid DP: 0.3564, Valid EOD: 0.3326
+2024-07-19 00:15:24 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [14/100], Loss: 0.2472, Valid Acc: 0.8871, Valid F1: 0.5316, Valid DP: 0.2783, Valid EOD: 0.3245
+2024-07-19 00:15:24 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/v2_target_wearing_lipstick_classifier/best_loss_state.pth.
+2024-07-19 00:15:37 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [15/100], Loss: 0.2495, Valid Acc: 0.8909, Valid F1: 0.5943, Valid DP: 0.3450, Valid EOD: 0.3930
+2024-07-19 00:15:49 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [16/100], Loss: 0.2464, Valid Acc: 0.8909, Valid F1: 0.5784, Valid DP: 0.3239, Valid EOD: 0.3563
+2024-07-19 00:15:49 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/v2_target_wearing_lipstick_classifier/best_loss_state.pth.
+2024-07-19 00:16:02 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [17/100], Loss: 0.2458, Valid Acc: 0.8916, Valid F1: 0.5757, Valid DP: 0.3165, Valid EOD: 0.3471
+2024-07-19 00:16:02 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/v2_target_wearing_lipstick_classifier/best_loss_state.pth.
+2024-07-19 00:16:15 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [18/100], Loss: 0.2452, Valid Acc: 0.8916, Valid F1: 0.5957, Valid DP: 0.3420, Valid EOD: 0.3930
+2024-07-19 00:16:15 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/v2_target_wearing_lipstick_classifier/best_loss_state.pth.
+2024-07-19 00:16:28 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [19/100], Loss: 0.2441, Valid Acc: 0.8935, Valid F1: 0.6111, Valid DP: 0.3612, Valid EOD: 0.4205
+2024-07-19 00:16:28 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/v2_target_wearing_lipstick_classifier/best_loss_state.pth.
+2024-07-19 00:16:42 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [20/100], Loss: 0.2447, Valid Acc: 0.8903, Valid F1: 0.5891, Valid DP: 0.3361, Valid EOD: 0.3838
+2024-07-19 00:16:55 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [21/100], Loss: 0.2461, Valid Acc: 0.8928, Valid F1: 0.5848, Valid DP: 0.3247, Valid EOD: 0.3609
+2024-07-19 00:17:09 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [22/100], Loss: 0.2489, Valid Acc: 0.8922, Valid F1: 0.6352, Valid DP: 0.4057, Valid EOD: 0.4014
+2024-07-19 00:17:09 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/v2_target_wearing_lipstick_classifier/best_f1_state.pth.
+2024-07-19 00:17:23 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [23/100], Loss: 0.2472, Valid Acc: 0.8935, Valid F1: 0.6093, Valid DP: 0.3591, Valid EOD: 0.4159
+2024-07-19 00:17:37 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [24/100], Loss: 0.2432, Valid Acc: 0.8935, Valid F1: 0.5962, Valid DP: 0.3401, Valid EOD: 0.3838
+2024-07-19 00:17:37 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/v2_target_wearing_lipstick_classifier/best_loss_state.pth.
+2024-07-19 00:17:51 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [25/100], Loss: 0.2446, Valid Acc: 0.8941, Valid F1: 0.6313, Valid DP: 0.3935, Valid EOD: 0.3784
+2024-07-19 00:18:05 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [26/100], Loss: 0.2446, Valid Acc: 0.8941, Valid F1: 0.6393, Valid DP: 0.4081, Valid EOD: 0.4014
+2024-07-19 00:18:05 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/v2_target_wearing_lipstick_classifier/best_f1_state.pth.
+2024-07-19 00:18:20 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [27/100], Loss: 0.2456, Valid Acc: 0.8935, Valid F1: 0.5942, Valid DP: 0.3379, Valid EOD: 0.3792
+2024-07-19 00:18:35 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [28/100], Loss: 0.2420, Valid Acc: 0.8941, Valid F1: 0.5956, Valid DP: 0.3387, Valid EOD: 0.3792
+2024-07-19 00:18:35 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/v2_target_wearing_lipstick_classifier/best_loss_state.pth.
+2024-07-19 00:18:50 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [29/100], Loss: 0.2419, Valid Acc: 0.8941, Valid F1: 0.6125, Valid DP: 0.3621, Valid EOD: 0.4205
+2024-07-19 00:18:50 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/v2_target_wearing_lipstick_classifier/best_loss_state.pth.
+2024-07-19 00:19:05 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [30/100], Loss: 0.2426, Valid Acc: 0.8947, Valid F1: 0.6121, Valid DP: 0.3569, Valid EOD: 0.4159
+2024-07-19 00:19:20 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [31/100], Loss: 0.2436, Valid Acc: 0.8954, Valid F1: 0.6062, Valid DP: 0.3490, Valid EOD: 0.3976
+2024-07-19 00:19:35 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [32/100], Loss: 0.2423, Valid Acc: 0.8935, Valid F1: 0.6164, Valid DP: 0.3753, Valid EOD: 0.4343
+2024-07-19 00:19:51 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [33/100], Loss: 0.2442, Valid Acc: 0.8954, Valid F1: 0.5736, Valid DP: 0.3067, Valid EOD: 0.3242
+2024-07-19 00:20:06 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [34/100], Loss: 0.2410, Valid Acc: 0.8935, Valid F1: 0.6441, Valid DP: 0.4273, Valid EOD: 0.4197
+2024-07-19 00:20:06 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/v2_target_wearing_lipstick_classifier/best_f1_state.pth.
+2024-07-19 00:20:06 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/v2_target_wearing_lipstick_classifier/best_loss_state.pth.
+2024-07-19 00:20:22 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [35/100], Loss: 0.2415, Valid Acc: 0.8954, Valid F1: 0.6081, Valid DP: 0.3512, Valid EOD: 0.4021
+2024-07-19 00:20:39 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [36/100], Loss: 0.2409, Valid Acc: 0.8960, Valid F1: 0.6496, Valid DP: 0.4306, Valid EOD: 0.4197
+2024-07-19 00:20:39 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/v2_target_wearing_lipstick_classifier/best_f1_state.pth.
+2024-07-19 00:20:39 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/v2_target_wearing_lipstick_classifier/best_loss_state.pth.
+2024-07-19 00:20:55 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [37/100], Loss: 0.2433, Valid Acc: 0.8897, Valid F1: 0.4971, Valid DP: 0.2452, Valid EOD: 0.3482
+2024-07-19 00:21:12 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [38/100], Loss: 0.2485, Valid Acc: 0.8941, Valid F1: 0.6247, Valid DP: 0.3886, Valid EOD: 0.4063
+2024-07-19 00:21:28 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [39/100], Loss: 0.2413, Valid Acc: 0.8966, Valid F1: 0.6147, Valid DP: 0.3609, Valid EOD: 0.4113
+2024-07-19 00:21:45 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [40/100], Loss: 0.2394, Valid Acc: 0.8960, Valid F1: 0.6186, Valid DP: 0.3666, Valid EOD: 0.4251
+2024-07-19 00:21:45 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/v2_target_wearing_lipstick_classifier/best_loss_state.pth.
+2024-07-19 00:22:02 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [41/100], Loss: 0.2403, Valid Acc: 0.8941, Valid F1: 0.6161, Valid DP: 0.3664, Valid EOD: 0.3834
+2024-07-19 00:22:19 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [42/100], Loss: 0.2399, Valid Acc: 0.8973, Valid F1: 0.6049, Valid DP: 0.3449, Valid EOD: 0.3838
+2024-07-19 00:22:37 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [43/100], Loss: 0.2413, Valid Acc: 0.8985, Valid F1: 0.6522, Valid DP: 0.4219, Valid EOD: 0.4106
+2024-07-19 00:22:37 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/v2_target_wearing_lipstick_classifier/best_f1_state.pth.
+2024-07-19 00:22:54 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [44/100], Loss: 0.2414, Valid Acc: 0.8960, Valid F1: 0.6039, Valid DP: 0.3455, Valid EOD: 0.3884
+2024-07-19 00:23:12 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [45/100], Loss: 0.2407, Valid Acc: 0.8960, Valid F1: 0.6132, Valid DP: 0.3563, Valid EOD: 0.4113
+2024-07-19 00:23:30 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [46/100], Loss: 0.2404, Valid Acc: 0.8966, Valid F1: 0.6270, Valid DP: 0.3799, Valid EOD: 0.3972
+2024-07-19 00:23:48 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [47/100], Loss: 0.2389, Valid Acc: 0.8960, Valid F1: 0.6114, Valid DP: 0.3542, Valid EOD: 0.4067
+2024-07-19 00:23:48 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/v2_target_wearing_lipstick_classifier/best_loss_state.pth.
+2024-07-19 00:24:06 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [48/100], Loss: 0.2392, Valid Acc: 0.8973, Valid F1: 0.6161, Valid DP: 0.3580, Valid EOD: 0.4113
+2024-07-19 00:24:25 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [49/100], Loss: 0.2390, Valid Acc: 0.8954, Valid F1: 0.6309, Valid DP: 0.3983, Valid EOD: 0.4155
+2024-07-19 00:24:43 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [50/100], Loss: 0.2368, Valid Acc: 0.8966, Valid F1: 0.6200, Valid DP: 0.3674, Valid EOD: 0.4251
+2024-07-19 00:24:43 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/v2_target_wearing_lipstick_classifier/best_loss_state.pth.
+2024-07-19 00:25:02 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [51/100], Loss: 0.2381, Valid Acc: 0.8960, Valid F1: 0.5920, Valid DP: 0.3325, Valid EOD: 0.3609
+2024-07-19 00:25:21 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [52/100], Loss: 0.2387, Valid Acc: 0.8966, Valid F1: 0.6200, Valid DP: 0.3674, Valid EOD: 0.4251
+2024-07-19 00:25:40 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [53/100], Loss: 0.2379, Valid Acc: 0.8973, Valid F1: 0.6582, Valid DP: 0.4409, Valid EOD: 0.4381
+2024-07-19 00:25:40 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/v2_target_wearing_lipstick_classifier/best_f1_state.pth.
+2024-07-19 00:26:00 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [54/100], Loss: 0.2386, Valid Acc: 0.8960, Valid F1: 0.6000, Valid DP: 0.3412, Valid EOD: 0.3792
+2024-07-19 00:26:19 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [55/100], Loss: 0.2378, Valid Acc: 0.8979, Valid F1: 0.6552, Valid DP: 0.4352, Valid EOD: 0.4243
+2024-07-19 00:26:39 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [56/100], Loss: 0.2425, Valid Acc: 0.8992, Valid F1: 0.6475, Valid DP: 0.4178, Valid EOD: 0.4385
+2024-07-19 00:26:58 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [57/100], Loss: 0.2374, Valid Acc: 0.8973, Valid F1: 0.6143, Valid DP: 0.3558, Valid EOD: 0.4067
+2024-07-19 00:27:18 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [58/100], Loss: 0.2386, Valid Acc: 0.8992, Valid F1: 0.6551, Valid DP: 0.4286, Valid EOD: 0.4151
+2024-07-19 00:27:39 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [59/100], Loss: 0.2397, Valid Acc: 0.8979, Valid F1: 0.6333, Valid DP: 0.3934, Valid EOD: 0.4063
+2024-07-19 00:27:59 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [60/100], Loss: 0.2372, Valid Acc: 0.8979, Valid F1: 0.6120, Valid DP: 0.3523, Valid EOD: 0.3976
+2024-07-19 00:28:19 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [61/100], Loss: 0.2400, Valid Acc: 0.8966, Valid F1: 0.6525, Valid DP: 0.4335, Valid EOD: 0.4243
+2024-07-19 00:28:40 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [62/100], Loss: 0.2371, Valid Acc: 0.8998, Valid F1: 0.6376, Valid DP: 0.3845, Valid EOD: 0.4063
+2024-07-19 00:29:01 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [63/100], Loss: 0.2368, Valid Acc: 0.8979, Valid F1: 0.6414, Valid DP: 0.4156, Valid EOD: 0.4293
+2024-07-19 00:29:01 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/v2_target_wearing_lipstick_classifier/best_loss_state.pth.
+2024-07-19 00:29:22 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [64/100], Loss: 0.2375, Valid Acc: 0.8979, Valid F1: 0.6462, Valid DP: 0.4221, Valid EOD: 0.4430
+2024-07-19 00:29:43 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [65/100], Loss: 0.2364, Valid Acc: 0.9004, Valid F1: 0.6594, Valid DP: 0.4324, Valid EOD: 0.4197
+2024-07-19 00:29:43 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/v2_target_wearing_lipstick_classifier/best_f1_state.pth.
+2024-07-19 00:29:43 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/v2_target_wearing_lipstick_classifier/best_loss_state.pth.
+2024-07-19 00:30:04 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [66/100], Loss: 0.2373, Valid Acc: 0.8979, Valid F1: 0.6139, Valid DP: 0.3544, Valid EOD: 0.4021
+2024-07-19 00:30:26 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [67/100], Loss: 0.2375, Valid Acc: 0.8985, Valid F1: 0.6476, Valid DP: 0.4229, Valid EOD: 0.4430
+2024-07-19 00:30:47 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [68/100], Loss: 0.2346, Valid Acc: 0.8998, Valid F1: 0.6457, Valid DP: 0.4105, Valid EOD: 0.4293
+2024-07-19 00:30:47 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/v2_target_wearing_lipstick_classifier/best_loss_state.pth.
+2024-07-19 00:31:09 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [69/100], Loss: 0.2355, Valid Acc: 0.8992, Valid F1: 0.6566, Valid DP: 0.4308, Valid EOD: 0.4197
+2024-07-19 00:31:31 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [70/100], Loss: 0.2372, Valid Acc: 0.8998, Valid F1: 0.6030, Valid DP: 0.3357, Valid EOD: 0.3654
+2024-07-19 00:31:53 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [71/100], Loss: 0.2350, Valid Acc: 0.8985, Valid F1: 0.6537, Valid DP: 0.4316, Valid EOD: 0.4151
+2024-07-19 00:32:16 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [72/100], Loss: 0.2349, Valid Acc: 0.8973, Valid F1: 0.6124, Valid DP: 0.3574, Valid EOD: 0.4021
+2024-07-19 00:32:38 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [73/100], Loss: 0.2389, Valid Acc: 0.8985, Valid F1: 0.6279, Valid DP: 0.3704, Valid EOD: 0.3880
+2024-07-19 00:33:01 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [74/100], Loss: 0.2354, Valid Acc: 0.9004, Valid F1: 0.6323, Valid DP: 0.3728, Valid EOD: 0.3880
+2024-07-19 00:33:24 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [75/100], Loss: 0.2357, Valid Acc: 0.8979, Valid F1: 0.6596, Valid DP: 0.4417, Valid EOD: 0.4381
+2024-07-19 00:33:24 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/v2_target_wearing_lipstick_classifier/best_f1_state.pth.
+2024-07-19 00:33:47 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [76/100], Loss: 0.2359, Valid Acc: 0.8973, Valid F1: 0.6068, Valid DP: 0.3471, Valid EOD: 0.3884
+2024-07-19 00:34:10 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [77/100], Loss: 0.2350, Valid Acc: 0.9023, Valid F1: 0.6484, Valid DP: 0.3905, Valid EOD: 0.4201
+2024-07-19 00:34:33 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [78/100], Loss: 0.2340, Valid Acc: 0.9004, Valid F1: 0.6253, Valid DP: 0.3679, Valid EOD: 0.4159
+2024-07-19 00:34:33 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/v2_target_wearing_lipstick_classifier/best_loss_state.pth.
+2024-07-19 00:34:57 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [79/100], Loss: 0.2342, Valid Acc: 0.8985, Valid F1: 0.6552, Valid DP: 0.4338, Valid EOD: 0.4197
+2024-07-19 00:35:20 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [80/100], Loss: 0.2362, Valid Acc: 0.9017, Valid F1: 0.6210, Valid DP: 0.3571, Valid EOD: 0.3976
+2024-07-19 00:35:44 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [81/100], Loss: 0.2348, Valid Acc: 0.9011, Valid F1: 0.6579, Valid DP: 0.4327, Valid EOD: 0.4568
+2024-07-19 00:36:08 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [82/100], Loss: 0.2350, Valid Acc: 0.8979, Valid F1: 0.6176, Valid DP: 0.3588, Valid EOD: 0.3651
+2024-07-19 00:36:32 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [83/100], Loss: 0.2371, Valid Acc: 0.8992, Valid F1: 0.6551, Valid DP: 0.4286, Valid EOD: 0.4151
+2024-07-19 00:36:57 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [84/100], Loss: 0.2367, Valid Acc: 0.8998, Valid F1: 0.6108, Valid DP: 0.3444, Valid EOD: 0.3838
+2024-07-19 00:37:21 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [85/100], Loss: 0.2347, Valid Acc: 0.8985, Valid F1: 0.6537, Valid DP: 0.4354, Valid EOD: 0.4614
+2024-07-19 00:37:46 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [86/100], Loss: 0.2392, Valid Acc: 0.8985, Valid F1: 0.6117, Valid DP: 0.3547, Valid EOD: 0.3930
+2024-07-19 00:38:11 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [87/100], Loss: 0.2334, Valid Acc: 0.9004, Valid F1: 0.6323, Valid DP: 0.3728, Valid EOD: 0.3880
+2024-07-19 00:38:11 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/v2_target_wearing_lipstick_classifier/best_loss_state.pth.
+2024-07-19 00:38:36 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [88/100], Loss: 0.2341, Valid Acc: 0.8998, Valid F1: 0.6376, Valid DP: 0.3958, Valid EOD: 0.4063
+2024-07-19 00:39:01 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [89/100], Loss: 0.2322, Valid Acc: 0.8998, Valid F1: 0.6504, Valid DP: 0.4246, Valid EOD: 0.4430
+2024-07-19 00:39:01 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/v2_target_wearing_lipstick_classifier/best_loss_state.pth.
+2024-07-19 00:39:27 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [90/100], Loss: 0.2338, Valid Acc: 0.9023, Valid F1: 0.6435, Valid DP: 0.3877, Valid EOD: 0.4063
+2024-07-19 00:39:52 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [91/100], Loss: 0.2337, Valid Acc: 0.8998, Valid F1: 0.6291, Valid DP: 0.3699, Valid EOD: 0.3834
+2024-07-19 00:40:18 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [92/100], Loss: 0.2317, Valid Acc: 0.8992, Valid F1: 0.6475, Valid DP: 0.4216, Valid EOD: 0.4385
+2024-07-19 00:40:18 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/v2_target_wearing_lipstick_classifier/best_loss_state.pth.
+2024-07-19 00:40:44 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [93/100], Loss: 0.2358, Valid Acc: 0.9011, Valid F1: 0.6502, Valid DP: 0.4105, Valid EOD: 0.4339
+2024-07-19 00:41:10 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [94/100], Loss: 0.2331, Valid Acc: 0.8998, Valid F1: 0.6595, Valid DP: 0.4376, Valid EOD: 0.4243
+2024-07-19 00:41:36 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [95/100], Loss: 0.2369, Valid Acc: 0.9004, Valid F1: 0.6580, Valid DP: 0.4340, Valid EOD: 0.4614
+2024-07-19 00:42:02 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [96/100], Loss: 0.2340, Valid Acc: 0.9017, Valid F1: 0.6353, Valid DP: 0.3782, Valid EOD: 0.3880
+2024-07-19 00:42:29 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [97/100], Loss: 0.2318, Valid Acc: 0.8998, Valid F1: 0.6535, Valid DP: 0.4289, Valid EOD: 0.4522
+2024-07-19 00:42:56 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [98/100], Loss: 0.2328, Valid Acc: 0.9011, Valid F1: 0.6355, Valid DP: 0.3758, Valid EOD: 0.3926
+2024-07-19 00:43:23 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [99/100], Loss: 0.2350, Valid Acc: 0.8992, Valid F1: 0.6505, Valid DP: 0.4259, Valid EOD: 0.4476
+2024-07-19 00:43:50 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Epoch [100/100], Loss: 0.2335, Valid Acc: 0.8935, Valid F1: 0.6557, Valid DP: 0.4485, Valid EOD: 0.4564
+2024-07-19 00:43:50 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Saved model final to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/v2_target_wearing_lipstick_classifier/final_state.pth.
+2024-07-19 00:43:50 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Model and metrics saved.
+2024-07-19 00:43:50 - fair_contrastive/lfw/v2_target_wearing_lipstick - INFO - Training finished.

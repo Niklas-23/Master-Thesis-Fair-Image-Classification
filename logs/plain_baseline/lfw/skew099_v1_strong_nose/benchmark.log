@@ -1,0 +1,166 @@
+2024-06-10 17:20:34 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Training started.
+2024-06-10 17:20:40 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [1/100], Loss: 1.1339, Valid Acc: 0.7246, Valid F1: 0.0000, Valid DP: 0.0000, Valid EOD: 0.0000
+2024-06-10 17:20:40 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_loss_state.pth.
+2024-06-10 17:20:45 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [2/100], Loss: 0.4089, Valid Acc: 0.7578, Valid F1: 0.6000, Valid DP: 0.4547, Valid EOD: 0.6596
+2024-06-10 17:20:45 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_f1_state.pth.
+2024-06-10 17:20:45 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_eod_state.pth.
+2024-06-10 17:20:45 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_loss_state.pth.
+2024-06-10 17:20:50 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [3/100], Loss: 0.2026, Valid Acc: 0.8496, Valid F1: 0.7050, Valid DP: 0.5770, Valid EOD: 0.6525
+2024-06-10 17:20:50 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_f1_state.pth.
+2024-06-10 17:20:50 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_eod_state.pth.
+2024-06-10 17:20:50 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_loss_state.pth.
+2024-06-10 17:20:55 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [4/100], Loss: 0.1222, Valid Acc: 0.9043, Valid F1: 0.8339, Valid DP: 0.7888, Valid EOD: 0.8723
+2024-06-10 17:20:56 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_f1_state.pth.
+2024-06-10 17:20:56 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_loss_state.pth.
+2024-06-10 17:21:01 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [5/100], Loss: 0.0695, Valid Acc: 0.9277, Valid F1: 0.8571, Valid DP: 0.7684, Valid EOD: 0.7872
+2024-06-10 17:21:01 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_f1_state.pth.
+2024-06-10 17:21:01 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_loss_state.pth.
+2024-06-10 17:21:06 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [6/100], Loss: 0.0347, Valid Acc: 0.9414, Valid F1: 0.8951, Valid DP: 0.8620, Valid EOD: 0.9078
+2024-06-10 17:21:07 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_f1_state.pth.
+2024-06-10 17:21:07 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_loss_state.pth.
+2024-06-10 17:21:12 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [7/100], Loss: 0.0173, Valid Acc: 0.9453, Valid F1: 0.9060, Valid DP: 0.8981, Valid EOD: 0.9574
+2024-06-10 17:21:12 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_f1_state.pth.
+2024-06-10 17:21:12 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_loss_state.pth.
+2024-06-10 17:21:18 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [8/100], Loss: 0.0072, Valid Acc: 0.9590, Valid F1: 0.9273, Valid DP: 0.9126, Valid EOD: 0.9504
+2024-06-10 17:21:18 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_f1_state.pth.
+2024-06-10 17:21:18 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_loss_state.pth.
+2024-06-10 17:21:23 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [9/100], Loss: 0.0035, Valid Acc: 0.9570, Valid F1: 0.9203, Valid DP: 0.8791, Valid EOD: 0.9007
+2024-06-10 17:21:24 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_loss_state.pth.
+2024-06-10 17:21:29 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [10/100], Loss: 0.0017, Valid Acc: 0.9531, Valid F1: 0.9200, Valid DP: 0.9221, Valid EOD: 0.9787
+2024-06-10 17:21:29 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_loss_state.pth.
+2024-06-10 17:21:35 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [11/100], Loss: 0.0012, Valid Acc: 0.9531, Valid F1: 0.9111, Valid DP: 0.8562, Valid EOD: 0.8723
+2024-06-10 17:21:35 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_loss_state.pth.
+2024-06-10 17:21:41 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [12/100], Loss: 0.0006, Valid Acc: 0.9648, Valid F1: 0.9357, Valid DP: 0.9075, Valid EOD: 0.9291
+2024-06-10 17:21:41 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_f1_state.pth.
+2024-06-10 17:21:41 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_loss_state.pth.
+2024-06-10 17:21:47 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [13/100], Loss: 0.0003, Valid Acc: 0.9688, Valid F1: 0.9437, Valid DP: 0.9261, Valid EOD: 0.9504
+2024-06-10 17:21:47 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_f1_state.pth.
+2024-06-10 17:21:47 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_loss_state.pth.
+2024-06-10 17:21:53 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [14/100], Loss: 0.0002, Valid Acc: 0.9688, Valid F1: 0.9437, Valid DP: 0.9261, Valid EOD: 0.9504
+2024-06-10 17:21:53 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_loss_state.pth.
+2024-06-10 17:21:59 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [15/100], Loss: 0.0001, Valid Acc: 0.9688, Valid F1: 0.9433, Valid DP: 0.9217, Valid EOD: 0.9433
+2024-06-10 17:21:59 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_loss_state.pth.
+2024-06-10 17:22:06 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [16/100], Loss: 0.0001, Valid Acc: 0.9688, Valid F1: 0.9433, Valid DP: 0.9217, Valid EOD: 0.9433
+2024-06-10 17:22:06 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_loss_state.pth.
+2024-06-10 17:22:12 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [17/100], Loss: 0.0001, Valid Acc: 0.9707, Valid F1: 0.9470, Valid DP: 0.9288, Valid EOD: 0.9504
+2024-06-10 17:22:12 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_f1_state.pth.
+2024-06-10 17:22:12 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_loss_state.pth.
+2024-06-10 17:22:19 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [18/100], Loss: 0.0001, Valid Acc: 0.9707, Valid F1: 0.9470, Valid DP: 0.9288, Valid EOD: 0.9504
+2024-06-10 17:22:19 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_loss_state.pth.
+2024-06-10 17:22:25 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [19/100], Loss: 0.0001, Valid Acc: 0.9707, Valid F1: 0.9470, Valid DP: 0.9288, Valid EOD: 0.9504
+2024-06-10 17:22:25 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_loss_state.pth.
+2024-06-10 17:22:32 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [20/100], Loss: 0.0001, Valid Acc: 0.9707, Valid F1: 0.9470, Valid DP: 0.9288, Valid EOD: 0.9504
+2024-06-10 17:22:39 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [21/100], Loss: 0.0001, Valid Acc: 0.9707, Valid F1: 0.9470, Valid DP: 0.9288, Valid EOD: 0.9504
+2024-06-10 17:22:39 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_loss_state.pth.
+2024-06-10 17:22:45 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [22/100], Loss: 0.0000, Valid Acc: 0.9707, Valid F1: 0.9470, Valid DP: 0.9288, Valid EOD: 0.9504
+2024-06-10 17:22:46 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_loss_state.pth.
+2024-06-10 17:22:52 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [23/100], Loss: 0.0001, Valid Acc: 0.9707, Valid F1: 0.9470, Valid DP: 0.9288, Valid EOD: 0.9504
+2024-06-10 17:22:59 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [24/100], Loss: 0.0000, Valid Acc: 0.9688, Valid F1: 0.9433, Valid DP: 0.9217, Valid EOD: 0.9433
+2024-06-10 17:23:00 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_loss_state.pth.
+2024-06-10 17:23:07 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [25/100], Loss: 0.0000, Valid Acc: 0.9688, Valid F1: 0.9433, Valid DP: 0.9217, Valid EOD: 0.9433
+2024-06-10 17:23:07 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_loss_state.pth.
+2024-06-10 17:23:14 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [26/100], Loss: 0.0000, Valid Acc: 0.9707, Valid F1: 0.9470, Valid DP: 0.9288, Valid EOD: 0.9504
+2024-06-10 17:23:21 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [27/100], Loss: 0.0000, Valid Acc: 0.9688, Valid F1: 0.9433, Valid DP: 0.9217, Valid EOD: 0.9433
+2024-06-10 17:23:28 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [28/100], Loss: 0.0000, Valid Acc: 0.9688, Valid F1: 0.9433, Valid DP: 0.9217, Valid EOD: 0.9433
+2024-06-10 17:23:36 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [29/100], Loss: 0.0000, Valid Acc: 0.9688, Valid F1: 0.9433, Valid DP: 0.9217, Valid EOD: 0.9433
+2024-06-10 17:23:36 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_loss_state.pth.
+2024-06-10 17:23:43 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [30/100], Loss: 0.0000, Valid Acc: 0.9668, Valid F1: 0.9395, Valid DP: 0.9146, Valid EOD: 0.9362
+2024-06-10 17:23:43 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_loss_state.pth.
+2024-06-10 17:23:51 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [31/100], Loss: 0.0000, Valid Acc: 0.9688, Valid F1: 0.9433, Valid DP: 0.9217, Valid EOD: 0.9433
+2024-06-10 17:23:51 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_loss_state.pth.
+2024-06-10 17:23:59 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [32/100], Loss: 0.0000, Valid Acc: 0.9668, Valid F1: 0.9395, Valid DP: 0.9146, Valid EOD: 0.9362
+2024-06-10 17:24:06 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [33/100], Loss: 0.0000, Valid Acc: 0.9668, Valid F1: 0.9395, Valid DP: 0.9146, Valid EOD: 0.9362
+2024-06-10 17:24:06 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_loss_state.pth.
+2024-06-10 17:24:14 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [34/100], Loss: 0.0000, Valid Acc: 0.9688, Valid F1: 0.9433, Valid DP: 0.9217, Valid EOD: 0.9433
+2024-06-10 17:24:22 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [35/100], Loss: 0.0000, Valid Acc: 0.9688, Valid F1: 0.9433, Valid DP: 0.9217, Valid EOD: 0.9433
+2024-06-10 17:24:22 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_loss_state.pth.
+2024-06-10 17:24:30 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [36/100], Loss: 0.0000, Valid Acc: 0.9668, Valid F1: 0.9395, Valid DP: 0.9146, Valid EOD: 0.9362
+2024-06-10 17:24:38 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [37/100], Loss: 0.0000, Valid Acc: 0.9668, Valid F1: 0.9395, Valid DP: 0.9146, Valid EOD: 0.9362
+2024-06-10 17:24:46 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [38/100], Loss: 0.0000, Valid Acc: 0.9668, Valid F1: 0.9395, Valid DP: 0.9146, Valid EOD: 0.9362
+2024-06-10 17:24:54 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [39/100], Loss: 0.0000, Valid Acc: 0.9668, Valid F1: 0.9395, Valid DP: 0.9146, Valid EOD: 0.9362
+2024-06-10 17:25:02 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [40/100], Loss: 0.0000, Valid Acc: 0.9668, Valid F1: 0.9395, Valid DP: 0.9146, Valid EOD: 0.9362
+2024-06-10 17:25:11 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [41/100], Loss: 0.0000, Valid Acc: 0.9668, Valid F1: 0.9395, Valid DP: 0.9146, Valid EOD: 0.9362
+2024-06-10 17:25:11 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_loss_state.pth.
+2024-06-10 17:25:19 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [42/100], Loss: 0.0000, Valid Acc: 0.9668, Valid F1: 0.9395, Valid DP: 0.9146, Valid EOD: 0.9362
+2024-06-10 17:25:19 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_loss_state.pth.
+2024-06-10 17:25:28 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [43/100], Loss: 0.0000, Valid Acc: 0.9668, Valid F1: 0.9395, Valid DP: 0.9146, Valid EOD: 0.9362
+2024-06-10 17:25:28 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_loss_state.pth.
+2024-06-10 17:25:37 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [44/100], Loss: 0.0000, Valid Acc: 0.9668, Valid F1: 0.9395, Valid DP: 0.9146, Valid EOD: 0.9362
+2024-06-10 17:25:37 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_loss_state.pth.
+2024-06-10 17:25:45 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [45/100], Loss: 0.0000, Valid Acc: 0.9668, Valid F1: 0.9395, Valid DP: 0.9146, Valid EOD: 0.9362
+2024-06-10 17:25:54 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [46/100], Loss: 0.0000, Valid Acc: 0.9668, Valid F1: 0.9395, Valid DP: 0.9146, Valid EOD: 0.9362
+2024-06-10 17:26:03 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [47/100], Loss: 0.0000, Valid Acc: 0.9668, Valid F1: 0.9395, Valid DP: 0.9146, Valid EOD: 0.9362
+2024-06-10 17:26:12 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [48/100], Loss: 0.0000, Valid Acc: 0.9668, Valid F1: 0.9395, Valid DP: 0.9146, Valid EOD: 0.9362
+2024-06-10 17:26:12 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_loss_state.pth.
+2024-06-10 17:26:21 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [49/100], Loss: 0.0000, Valid Acc: 0.9668, Valid F1: 0.9395, Valid DP: 0.9146, Valid EOD: 0.9362
+2024-06-10 17:26:30 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [50/100], Loss: 0.0000, Valid Acc: 0.9668, Valid F1: 0.9395, Valid DP: 0.9146, Valid EOD: 0.9362
+2024-06-10 17:26:39 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [51/100], Loss: 0.0000, Valid Acc: 0.9668, Valid F1: 0.9395, Valid DP: 0.9146, Valid EOD: 0.9362
+2024-06-10 17:26:49 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [52/100], Loss: 0.0000, Valid Acc: 0.9688, Valid F1: 0.9429, Valid DP: 0.9173, Valid EOD: 0.9362
+2024-06-10 17:26:58 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [53/100], Loss: 0.0000, Valid Acc: 0.9648, Valid F1: 0.9362, Valid DP: 0.9119, Valid EOD: 0.9362
+2024-06-10 17:27:07 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [54/100], Loss: 0.0000, Valid Acc: 0.9688, Valid F1: 0.9429, Valid DP: 0.9173, Valid EOD: 0.9362
+2024-06-10 17:27:17 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [55/100], Loss: 0.0000, Valid Acc: 0.9688, Valid F1: 0.9429, Valid DP: 0.9173, Valid EOD: 0.9362
+2024-06-10 17:27:17 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_loss_state.pth.
+2024-06-10 17:27:26 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [56/100], Loss: 0.0000, Valid Acc: 0.9688, Valid F1: 0.9429, Valid DP: 0.9173, Valid EOD: 0.9362
+2024-06-10 17:27:26 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_loss_state.pth.
+2024-06-10 17:27:36 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [57/100], Loss: 0.0000, Valid Acc: 0.9688, Valid F1: 0.9429, Valid DP: 0.9173, Valid EOD: 0.9362
+2024-06-10 17:27:36 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_loss_state.pth.
+2024-06-10 17:27:46 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [58/100], Loss: 0.0000, Valid Acc: 0.9648, Valid F1: 0.9362, Valid DP: 0.9119, Valid EOD: 0.9362
+2024-06-10 17:27:55 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [59/100], Loss: 0.0000, Valid Acc: 0.9668, Valid F1: 0.9395, Valid DP: 0.9146, Valid EOD: 0.9362
+2024-06-10 17:28:05 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [60/100], Loss: 0.0000, Valid Acc: 0.9668, Valid F1: 0.9395, Valid DP: 0.9146, Valid EOD: 0.9362
+2024-06-10 17:28:15 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [61/100], Loss: 0.0000, Valid Acc: 0.9688, Valid F1: 0.9429, Valid DP: 0.9173, Valid EOD: 0.9362
+2024-06-10 17:28:16 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_loss_state.pth.
+2024-06-10 17:28:26 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [62/100], Loss: 0.0000, Valid Acc: 0.9688, Valid F1: 0.9429, Valid DP: 0.9173, Valid EOD: 0.9362
+2024-06-10 17:28:36 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [63/100], Loss: 0.0000, Valid Acc: 0.9688, Valid F1: 0.9429, Valid DP: 0.9173, Valid EOD: 0.9362
+2024-06-10 17:28:36 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_loss_state.pth.
+2024-06-10 17:28:46 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [64/100], Loss: 0.0000, Valid Acc: 0.9688, Valid F1: 0.9429, Valid DP: 0.9173, Valid EOD: 0.9362
+2024-06-10 17:28:57 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [65/100], Loss: 0.0000, Valid Acc: 0.9688, Valid F1: 0.9429, Valid DP: 0.9173, Valid EOD: 0.9362
+2024-06-10 17:28:57 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_loss_state.pth.
+2024-06-10 17:29:07 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [66/100], Loss: 0.0000, Valid Acc: 0.9688, Valid F1: 0.9429, Valid DP: 0.9173, Valid EOD: 0.9362
+2024-06-10 17:29:07 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_loss_state.pth.
+2024-06-10 17:29:18 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [67/100], Loss: 0.0000, Valid Acc: 0.9688, Valid F1: 0.9429, Valid DP: 0.9173, Valid EOD: 0.9362
+2024-06-10 17:29:28 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [68/100], Loss: 0.0000, Valid Acc: 0.9668, Valid F1: 0.9395, Valid DP: 0.9146, Valid EOD: 0.9362
+2024-06-10 17:29:28 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_loss_state.pth.
+2024-06-10 17:29:39 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [69/100], Loss: 0.0000, Valid Acc: 0.9668, Valid F1: 0.9395, Valid DP: 0.9146, Valid EOD: 0.9362
+2024-06-10 17:29:49 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [70/100], Loss: 0.0000, Valid Acc: 0.9688, Valid F1: 0.9429, Valid DP: 0.9173, Valid EOD: 0.9362
+2024-06-10 17:30:00 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [71/100], Loss: 0.0000, Valid Acc: 0.9668, Valid F1: 0.9395, Valid DP: 0.9146, Valid EOD: 0.9362
+2024-06-10 17:30:11 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [72/100], Loss: 0.0000, Valid Acc: 0.9668, Valid F1: 0.9395, Valid DP: 0.9146, Valid EOD: 0.9362
+2024-06-10 17:30:22 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [73/100], Loss: 0.0000, Valid Acc: 0.9668, Valid F1: 0.9395, Valid DP: 0.9146, Valid EOD: 0.9362
+2024-06-10 17:30:22 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_loss_state.pth.
+2024-06-10 17:30:33 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [74/100], Loss: 0.0000, Valid Acc: 0.9668, Valid F1: 0.9395, Valid DP: 0.9146, Valid EOD: 0.9362
+2024-06-10 17:30:44 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [75/100], Loss: 0.0000, Valid Acc: 0.9668, Valid F1: 0.9395, Valid DP: 0.9146, Valid EOD: 0.9362
+2024-06-10 17:30:55 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [76/100], Loss: 0.0000, Valid Acc: 0.9668, Valid F1: 0.9395, Valid DP: 0.9146, Valid EOD: 0.9362
+2024-06-10 17:30:55 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_loss_state.pth.
+2024-06-10 17:31:07 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [77/100], Loss: 0.0000, Valid Acc: 0.9688, Valid F1: 0.9429, Valid DP: 0.9173, Valid EOD: 0.9362
+2024-06-10 17:31:18 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [78/100], Loss: 0.0000, Valid Acc: 0.9668, Valid F1: 0.9395, Valid DP: 0.9146, Valid EOD: 0.9362
+2024-06-10 17:31:29 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [79/100], Loss: 0.0000, Valid Acc: 0.9668, Valid F1: 0.9395, Valid DP: 0.9146, Valid EOD: 0.9362
+2024-06-10 17:31:41 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [80/100], Loss: 0.0000, Valid Acc: 0.9668, Valid F1: 0.9395, Valid DP: 0.9146, Valid EOD: 0.9362
+2024-06-10 17:31:52 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [81/100], Loss: 0.0000, Valid Acc: 0.9668, Valid F1: 0.9395, Valid DP: 0.9146, Valid EOD: 0.9362
+2024-06-10 17:32:04 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [82/100], Loss: 0.0000, Valid Acc: 0.9668, Valid F1: 0.9395, Valid DP: 0.9146, Valid EOD: 0.9362
+2024-06-10 17:32:16 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [83/100], Loss: 0.0000, Valid Acc: 0.9668, Valid F1: 0.9395, Valid DP: 0.9146, Valid EOD: 0.9362
+2024-06-10 17:32:16 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_loss_state.pth.
+2024-06-10 17:32:28 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [84/100], Loss: 0.0000, Valid Acc: 0.9688, Valid F1: 0.9429, Valid DP: 0.9173, Valid EOD: 0.9362
+2024-06-10 17:32:40 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [85/100], Loss: 0.0000, Valid Acc: 0.9668, Valid F1: 0.9395, Valid DP: 0.9146, Valid EOD: 0.9362
+2024-06-10 17:32:52 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [86/100], Loss: 0.0000, Valid Acc: 0.9668, Valid F1: 0.9395, Valid DP: 0.9146, Valid EOD: 0.9362
+2024-06-10 17:33:04 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [87/100], Loss: 0.0000, Valid Acc: 0.9668, Valid F1: 0.9395, Valid DP: 0.9146, Valid EOD: 0.9362
+2024-06-10 17:33:04 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_loss_state.pth.
+2024-06-10 17:33:16 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [88/100], Loss: 0.0000, Valid Acc: 0.9668, Valid F1: 0.9395, Valid DP: 0.9146, Valid EOD: 0.9362
+2024-06-10 17:33:28 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [89/100], Loss: 0.0000, Valid Acc: 0.9688, Valid F1: 0.9429, Valid DP: 0.9173, Valid EOD: 0.9362
+2024-06-10 17:33:41 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [90/100], Loss: 0.0000, Valid Acc: 0.9668, Valid F1: 0.9395, Valid DP: 0.9146, Valid EOD: 0.9362
+2024-06-10 17:33:41 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_loss_state.pth.
+2024-06-10 17:33:53 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [91/100], Loss: 0.0000, Valid Acc: 0.9668, Valid F1: 0.9395, Valid DP: 0.9146, Valid EOD: 0.9362
+2024-06-10 17:33:53 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_loss_state.pth.
+2024-06-10 17:34:05 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [92/100], Loss: 0.0000, Valid Acc: 0.9668, Valid F1: 0.9395, Valid DP: 0.9146, Valid EOD: 0.9362
+2024-06-10 17:34:18 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [93/100], Loss: 0.0000, Valid Acc: 0.9668, Valid F1: 0.9395, Valid DP: 0.9146, Valid EOD: 0.9362
+2024-06-10 17:34:31 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [94/100], Loss: 0.0000, Valid Acc: 0.9668, Valid F1: 0.9395, Valid DP: 0.9146, Valid EOD: 0.9362
+2024-06-10 17:34:43 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [95/100], Loss: 0.0000, Valid Acc: 0.9668, Valid F1: 0.9395, Valid DP: 0.9146, Valid EOD: 0.9362
+2024-06-10 17:34:43 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_loss_state.pth.
+2024-06-10 17:34:56 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [96/100], Loss: 0.0000, Valid Acc: 0.9668, Valid F1: 0.9395, Valid DP: 0.9146, Valid EOD: 0.9362
+2024-06-10 17:35:09 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [97/100], Loss: 0.0000, Valid Acc: 0.9668, Valid F1: 0.9395, Valid DP: 0.9146, Valid EOD: 0.9362
+2024-06-10 17:35:22 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [98/100], Loss: 0.0000, Valid Acc: 0.9688, Valid F1: 0.9429, Valid DP: 0.9173, Valid EOD: 0.9362
+2024-06-10 17:35:35 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [99/100], Loss: 0.0000, Valid Acc: 0.9707, Valid F1: 0.9462, Valid DP: 0.9200, Valid EOD: 0.9362
+2024-06-10 17:35:35 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_loss_state.pth.
+2024-06-10 17:35:48 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Epoch [100/100], Loss: 0.0000, Valid Acc: 0.9707, Valid F1: 0.9462, Valid DP: 0.9200, Valid EOD: 0.9362
+2024-06-10 17:35:48 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/best_loss_state.pth.
+2024-06-10 17:35:48 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Saved model final to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/skew099_v1_strong_nose/final_state.pth.
+2024-06-10 17:35:48 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Model and metrics saved.
+2024-06-10 17:35:48 - plain_baseline/lfw/skew099_v1_strong_nose - INFO - Training finished.

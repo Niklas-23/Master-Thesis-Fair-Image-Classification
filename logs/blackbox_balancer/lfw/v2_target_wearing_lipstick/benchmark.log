@@ -1,0 +1,4 @@
+2024-07-18 19:20:30 - blackbox_balancer/lfw/v2_target_wearing_lipstick - INFO - Start blackbox multiclass balancer benchmark.
+2024-07-18 19:20:30 - blackbox_balancer/lfw/v2_target_wearing_lipstick - INFO - Model has been loaded from C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/blackbox_balancer/lfw/v2_target_wearing_lipstick.
+2024-07-18 19:20:31 - blackbox_balancer/lfw/v2_target_wearing_lipstick - INFO - Applied post processing
+2024-07-18 19:20:31 - blackbox_balancer/lfw/v2_target_wearing_lipstick - INFO - Validation metrics: {'valid_acc': 0.833861762840837, 'valid_f1': 0.32124352331606215, 'valid_precision': 0.4305555555555556, 'valid_auc': 0.5973875630668277, 'valid_eod': 0.011601186579947909, 'valid_dp': 0.11844806415716973, 'valid_TPR': 0.256198347107438, 'valid_TNR': 0.9385767790262173, 'valid_FPR': 0.06142322097378277, 'valid_FNR': 0.743801652892562, 'valid_MCC': 0.24371231153915604}

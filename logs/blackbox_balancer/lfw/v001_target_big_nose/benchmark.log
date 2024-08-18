@@ -1,0 +1,4 @@
+2024-05-22 19:30:00 - blackbox_balancer/lfw/v001_target_big_nose - INFO - Start blackbox multiclass balancer benchmark.
+2024-05-22 19:30:00 - blackbox_balancer/lfw/v001_target_big_nose - INFO - Model has been loaded from C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/blackbox_balancer/lfw/v001_target_big_nose.
+2024-05-22 19:30:02 - blackbox_balancer/lfw/v001_target_big_nose - INFO - Applied post processing
+2024-05-22 19:30:02 - blackbox_balancer/lfw/v001_target_big_nose - INFO - Validation metrics: {'valid_acc': 0.7603043753963221, 'valid_f1': 0.82483781278962, 'valid_eod': 0.03285714285714286, 'valid_dp': 0.1568339664632976}

@@ -1,0 +1,100 @@
+2024-05-17 18:22:22 - fair_feat_distill/celeba/v001_final - INFO - Start fair feature distillation benchmark.
+2024-05-17 18:22:22 - fair_feat_distill/celeba/v001_final - INFO - Training started.
+2024-05-17 18:29:01 - fair_feat_distill/celeba/v001_final - INFO - Epoch [1/50], Loss: 7.5796, Valid Acc: 0.9038, Valid F1: 0.8923, Valid DP: 0.1428, Valid EOD: 0.0803
+2024-05-17 18:29:01 - fair_feat_distill/celeba/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/celeba/v001_final/best_f1_state.pth.
+2024-05-17 18:29:01 - fair_feat_distill/celeba/v001_final - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/celeba/v001_final/best_eod_state.pth.
+2024-05-17 18:29:01 - fair_feat_distill/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/celeba/v001_final/best_loss_state.pth.
+2024-05-17 18:35:44 - fair_feat_distill/celeba/v001_final - INFO - Epoch [2/50], Loss: 5.2730, Valid Acc: 0.9244, Valid F1: 0.9196, Valid DP: 0.1432, Valid EOD: 0.0585
+2024-05-17 18:35:44 - fair_feat_distill/celeba/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/celeba/v001_final/best_f1_state.pth.
+2024-05-17 18:35:44 - fair_feat_distill/celeba/v001_final - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/celeba/v001_final/best_eod_state.pth.
+2024-05-17 18:35:44 - fair_feat_distill/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/celeba/v001_final/best_loss_state.pth.
+2024-05-17 18:42:37 - fair_feat_distill/celeba/v001_final - INFO - Epoch [3/50], Loss: 4.8955, Valid Acc: 0.9250, Valid F1: 0.9193, Valid DP: 0.1347, Valid EOD: 0.0470
+2024-05-17 18:42:37 - fair_feat_distill/celeba/v001_final - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/celeba/v001_final/best_eod_state.pth.
+2024-05-17 18:42:37 - fair_feat_distill/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/celeba/v001_final/best_loss_state.pth.
+2024-05-17 18:49:37 - fair_feat_distill/celeba/v001_final - INFO - Epoch [4/50], Loss: 4.6362, Valid Acc: 0.9261, Valid F1: 0.9236, Valid DP: 0.1558, Valid EOD: 0.0535
+2024-05-17 18:49:37 - fair_feat_distill/celeba/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/celeba/v001_final/best_f1_state.pth.
+2024-05-17 18:49:37 - fair_feat_distill/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/celeba/v001_final/best_loss_state.pth.
+2024-05-17 18:56:43 - fair_feat_distill/celeba/v001_final - INFO - Epoch [5/50], Loss: 4.3231, Valid Acc: 0.9255, Valid F1: 0.9201, Valid DP: 0.1462, Valid EOD: 0.0646
+2024-05-17 18:56:44 - fair_feat_distill/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/celeba/v001_final/best_loss_state.pth.
+2024-05-17 19:03:52 - fair_feat_distill/celeba/v001_final - INFO - Epoch [6/50], Loss: 4.0304, Valid Acc: 0.9206, Valid F1: 0.9148, Valid DP: 0.1328, Valid EOD: 0.0482
+2024-05-17 19:03:52 - fair_feat_distill/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/celeba/v001_final/best_loss_state.pth.
+2024-05-17 19:11:14 - fair_feat_distill/celeba/v001_final - INFO - Epoch [7/50], Loss: 3.7163, Valid Acc: 0.9269, Valid F1: 0.9226, Valid DP: 0.1387, Valid EOD: 0.0510
+2024-05-17 19:11:14 - fair_feat_distill/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/celeba/v001_final/best_loss_state.pth.
+2024-05-17 19:18:34 - fair_feat_distill/celeba/v001_final - INFO - Epoch [8/50], Loss: 3.2892, Valid Acc: 0.9214, Valid F1: 0.9169, Valid DP: 0.1406, Valid EOD: 0.0624
+2024-05-17 19:18:35 - fair_feat_distill/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/celeba/v001_final/best_loss_state.pth.
+2024-05-17 19:25:56 - fair_feat_distill/celeba/v001_final - INFO - Epoch [9/50], Loss: 2.8883, Valid Acc: 0.9237, Valid F1: 0.9213, Valid DP: 0.1271, Valid EOD: 0.0313
+2024-05-17 19:25:56 - fair_feat_distill/celeba/v001_final - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/celeba/v001_final/best_eod_state.pth.
+2024-05-17 19:25:56 - fair_feat_distill/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/celeba/v001_final/best_loss_state.pth.
+2024-05-17 19:33:23 - fair_feat_distill/celeba/v001_final - INFO - Epoch [10/50], Loss: 2.3594, Valid Acc: 0.9153, Valid F1: 0.9103, Valid DP: 0.1070, Valid EOD: 0.0186
+2024-05-17 19:33:23 - fair_feat_distill/celeba/v001_final - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/celeba/v001_final/best_eod_state.pth.
+2024-05-17 19:33:23 - fair_feat_distill/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/celeba/v001_final/best_loss_state.pth.
+2024-05-17 19:40:53 - fair_feat_distill/celeba/v001_final - INFO - Epoch [11/50], Loss: 1.8649, Valid Acc: 0.9217, Valid F1: 0.9190, Valid DP: 0.1291, Valid EOD: 0.0341
+2024-05-17 19:40:53 - fair_feat_distill/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/celeba/v001_final/best_loss_state.pth.
+2024-05-17 19:48:26 - fair_feat_distill/celeba/v001_final - INFO - Epoch [12/50], Loss: 1.4788, Valid Acc: 0.9148, Valid F1: 0.9088, Valid DP: 0.1355, Valid EOD: 0.0519
+2024-05-17 19:48:27 - fair_feat_distill/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/celeba/v001_final/best_loss_state.pth.
+2024-05-17 19:56:05 - fair_feat_distill/celeba/v001_final - INFO - Epoch [13/50], Loss: 1.1993, Valid Acc: 0.9165, Valid F1: 0.9108, Valid DP: 0.1310, Valid EOD: 0.0455
+2024-05-17 19:56:05 - fair_feat_distill/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/celeba/v001_final/best_loss_state.pth.
+2024-05-17 20:03:47 - fair_feat_distill/celeba/v001_final - INFO - Epoch [14/50], Loss: 1.0205, Valid Acc: 0.9184, Valid F1: 0.9148, Valid DP: 0.1465, Valid EOD: 0.0541
+2024-05-17 20:03:47 - fair_feat_distill/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/celeba/v001_final/best_loss_state.pth.
+2024-05-17 20:11:36 - fair_feat_distill/celeba/v001_final - INFO - Epoch [15/50], Loss: 0.8836, Valid Acc: 0.9170, Valid F1: 0.9135, Valid DP: 0.1360, Valid EOD: 0.0469
+2024-05-17 20:11:36 - fair_feat_distill/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/celeba/v001_final/best_loss_state.pth.
+2024-05-17 20:19:24 - fair_feat_distill/celeba/v001_final - INFO - Epoch [16/50], Loss: 0.8474, Valid Acc: 0.9205, Valid F1: 0.9164, Valid DP: 0.1406, Valid EOD: 0.0521
+2024-05-17 20:19:25 - fair_feat_distill/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/celeba/v001_final/best_loss_state.pth.
+2024-05-17 20:27:17 - fair_feat_distill/celeba/v001_final - INFO - Epoch [17/50], Loss: 0.7484, Valid Acc: 0.9163, Valid F1: 0.9135, Valid DP: 0.1524, Valid EOD: 0.0578
+2024-05-17 20:27:17 - fair_feat_distill/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/celeba/v001_final/best_loss_state.pth.
+2024-05-17 20:35:11 - fair_feat_distill/celeba/v001_final - INFO - Epoch [18/50], Loss: 0.6775, Valid Acc: 0.9177, Valid F1: 0.9146, Valid DP: 0.1324, Valid EOD: 0.0385
+2024-05-17 20:35:11 - fair_feat_distill/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/celeba/v001_final/best_loss_state.pth.
+2024-05-17 20:43:08 - fair_feat_distill/celeba/v001_final - INFO - Epoch [19/50], Loss: 0.6952, Valid Acc: 0.9177, Valid F1: 0.9145, Valid DP: 0.1473, Valid EOD: 0.0599
+2024-05-17 20:51:10 - fair_feat_distill/celeba/v001_final - INFO - Epoch [20/50], Loss: 0.7211, Valid Acc: 0.9199, Valid F1: 0.9171, Valid DP: 0.1333, Valid EOD: 0.0401
+2024-05-17 20:59:16 - fair_feat_distill/celeba/v001_final - INFO - Epoch [21/50], Loss: 0.6773, Valid Acc: 0.9193, Valid F1: 0.9159, Valid DP: 0.1198, Valid EOD: 0.0239
+2024-05-17 20:59:16 - fair_feat_distill/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/celeba/v001_final/best_loss_state.pth.
+2024-05-17 21:07:29 - fair_feat_distill/celeba/v001_final - INFO - Epoch [22/50], Loss: 0.6125, Valid Acc: 0.9213, Valid F1: 0.9176, Valid DP: 0.1372, Valid EOD: 0.0462
+2024-05-17 21:07:29 - fair_feat_distill/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/celeba/v001_final/best_loss_state.pth.
+2024-05-17 21:15:31 - fair_feat_distill/celeba/v001_final - INFO - Epoch [23/50], Loss: 0.5870, Valid Acc: 0.9208, Valid F1: 0.9179, Valid DP: 0.1258, Valid EOD: 0.0354
+2024-05-17 21:15:32 - fair_feat_distill/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/celeba/v001_final/best_loss_state.pth.
+2024-05-17 21:23:37 - fair_feat_distill/celeba/v001_final - INFO - Epoch [24/50], Loss: 0.5921, Valid Acc: 0.9175, Valid F1: 0.9131, Valid DP: 0.1492, Valid EOD: 0.0642
+2024-05-17 21:31:47 - fair_feat_distill/celeba/v001_final - INFO - Epoch [25/50], Loss: 0.5837, Valid Acc: 0.9179, Valid F1: 0.9138, Valid DP: 0.1296, Valid EOD: 0.0389
+2024-05-17 21:31:47 - fair_feat_distill/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/celeba/v001_final/best_loss_state.pth.
+2024-05-17 21:40:00 - fair_feat_distill/celeba/v001_final - INFO - Epoch [26/50], Loss: 0.5402, Valid Acc: 0.9198, Valid F1: 0.9174, Valid DP: 0.1421, Valid EOD: 0.0508
+2024-05-17 21:40:00 - fair_feat_distill/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/celeba/v001_final/best_loss_state.pth.
+2024-05-17 21:48:15 - fair_feat_distill/celeba/v001_final - INFO - Epoch [27/50], Loss: 0.4875, Valid Acc: 0.9187, Valid F1: 0.9147, Valid DP: 0.1247, Valid EOD: 0.0332
+2024-05-17 21:48:15 - fair_feat_distill/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/celeba/v001_final/best_loss_state.pth.
+2024-05-17 21:56:34 - fair_feat_distill/celeba/v001_final - INFO - Epoch [28/50], Loss: 0.4994, Valid Acc: 0.9160, Valid F1: 0.9134, Valid DP: 0.1456, Valid EOD: 0.0510
+2024-05-17 22:04:55 - fair_feat_distill/celeba/v001_final - INFO - Epoch [29/50], Loss: 0.5130, Valid Acc: 0.9167, Valid F1: 0.9130, Valid DP: 0.1285, Valid EOD: 0.0370
+2024-05-17 22:13:19 - fair_feat_distill/celeba/v001_final - INFO - Epoch [30/50], Loss: 0.4707, Valid Acc: 0.9195, Valid F1: 0.9153, Valid DP: 0.1427, Valid EOD: 0.0542
+2024-05-17 22:13:20 - fair_feat_distill/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/celeba/v001_final/best_loss_state.pth.
+2024-05-17 22:21:50 - fair_feat_distill/celeba/v001_final - INFO - Epoch [31/50], Loss: 0.4710, Valid Acc: 0.9198, Valid F1: 0.9177, Valid DP: 0.1304, Valid EOD: 0.0313
+2024-05-17 22:30:23 - fair_feat_distill/celeba/v001_final - INFO - Epoch [32/50], Loss: 0.4476, Valid Acc: 0.9176, Valid F1: 0.9130, Valid DP: 0.1334, Valid EOD: 0.0446
+2024-05-17 22:30:23 - fair_feat_distill/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/celeba/v001_final/best_loss_state.pth.
+2024-05-17 22:44:11 - fair_feat_distill/celeba/v001_final - INFO - Epoch [33/50], Loss: 0.4280, Valid Acc: 0.9196, Valid F1: 0.9151, Valid DP: 0.1264, Valid EOD: 0.0346
+2024-05-17 22:44:11 - fair_feat_distill/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/celeba/v001_final/best_loss_state.pth.
+2024-05-17 22:55:02 - fair_feat_distill/celeba/v001_final - INFO - Epoch [34/50], Loss: 0.4282, Valid Acc: 0.9203, Valid F1: 0.9166, Valid DP: 0.1286, Valid EOD: 0.0356
+2024-05-17 23:03:46 - fair_feat_distill/celeba/v001_final - INFO - Epoch [35/50], Loss: 0.4145, Valid Acc: 0.9195, Valid F1: 0.9158, Valid DP: 0.1264, Valid EOD: 0.0356
+2024-05-17 23:03:46 - fair_feat_distill/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/celeba/v001_final/best_loss_state.pth.
+2024-05-17 23:12:34 - fair_feat_distill/celeba/v001_final - INFO - Epoch [36/50], Loss: 0.3969, Valid Acc: 0.9201, Valid F1: 0.9165, Valid DP: 0.1215, Valid EOD: 0.0333
+2024-05-17 23:12:34 - fair_feat_distill/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/celeba/v001_final/best_loss_state.pth.
+2024-05-17 23:21:27 - fair_feat_distill/celeba/v001_final - INFO - Epoch [37/50], Loss: 0.3787, Valid Acc: 0.9212, Valid F1: 0.9184, Valid DP: 0.1348, Valid EOD: 0.0367
+2024-05-17 23:21:27 - fair_feat_distill/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/celeba/v001_final/best_loss_state.pth.
+2024-05-17 23:30:23 - fair_feat_distill/celeba/v001_final - INFO - Epoch [38/50], Loss: 0.3829, Valid Acc: 0.9198, Valid F1: 0.9164, Valid DP: 0.1394, Valid EOD: 0.0473
+2024-05-17 23:39:22 - fair_feat_distill/celeba/v001_final - INFO - Epoch [39/50], Loss: 0.3976, Valid Acc: 0.9177, Valid F1: 0.9142, Valid DP: 0.1376, Valid EOD: 0.0510
+2024-05-17 23:48:26 - fair_feat_distill/celeba/v001_final - INFO - Epoch [40/50], Loss: 0.3276, Valid Acc: 0.9196, Valid F1: 0.9164, Valid DP: 0.1382, Valid EOD: 0.0479
+2024-05-17 23:48:26 - fair_feat_distill/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/celeba/v001_final/best_loss_state.pth.
+2024-05-17 23:57:32 - fair_feat_distill/celeba/v001_final - INFO - Epoch [41/50], Loss: 0.3406, Valid Acc: 0.9138, Valid F1: 0.9087, Valid DP: 0.1236, Valid EOD: 0.0364
+2024-05-18 00:06:37 - fair_feat_distill/celeba/v001_final - INFO - Epoch [42/50], Loss: 0.3263, Valid Acc: 0.9225, Valid F1: 0.9187, Valid DP: 0.1342, Valid EOD: 0.0444
+2024-05-18 00:06:38 - fair_feat_distill/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/celeba/v001_final/best_loss_state.pth.
+2024-05-18 00:15:51 - fair_feat_distill/celeba/v001_final - INFO - Epoch [43/50], Loss: 0.3031, Valid Acc: 0.9196, Valid F1: 0.9163, Valid DP: 0.1219, Valid EOD: 0.0290
+2024-05-18 00:15:51 - fair_feat_distill/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/celeba/v001_final/best_loss_state.pth.
+2024-05-18 00:25:10 - fair_feat_distill/celeba/v001_final - INFO - Epoch [44/50], Loss: 0.3104, Valid Acc: 0.9187, Valid F1: 0.9140, Valid DP: 0.1460, Valid EOD: 0.0590
+2024-05-18 00:34:35 - fair_feat_distill/celeba/v001_final - INFO - Epoch [45/50], Loss: 0.3055, Valid Acc: 0.9208, Valid F1: 0.9176, Valid DP: 0.1384, Valid EOD: 0.0456
+2024-05-18 00:43:54 - fair_feat_distill/celeba/v001_final - INFO - Epoch [46/50], Loss: 0.2975, Valid Acc: 0.9175, Valid F1: 0.9125, Valid DP: 0.1169, Valid EOD: 0.0271
+2024-05-18 00:43:54 - fair_feat_distill/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/celeba/v001_final/best_loss_state.pth.
+2024-05-18 00:53:18 - fair_feat_distill/celeba/v001_final - INFO - Epoch [47/50], Loss: 0.2969, Valid Acc: 0.9200, Valid F1: 0.9162, Valid DP: 0.1294, Valid EOD: 0.0398
+2024-05-18 00:53:18 - fair_feat_distill/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/celeba/v001_final/best_loss_state.pth.
+2024-05-18 01:02:45 - fair_feat_distill/celeba/v001_final - INFO - Epoch [48/50], Loss: 0.2715, Valid Acc: 0.9199, Valid F1: 0.9162, Valid DP: 0.1332, Valid EOD: 0.0437
+2024-05-18 01:02:45 - fair_feat_distill/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/celeba/v001_final/best_loss_state.pth.
+2024-05-18 01:12:16 - fair_feat_distill/celeba/v001_final - INFO - Epoch [49/50], Loss: 0.2291, Valid Acc: 0.9196, Valid F1: 0.9172, Valid DP: 0.1400, Valid EOD: 0.0447
+2024-05-18 01:12:16 - fair_feat_distill/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/celeba/v001_final/best_loss_state.pth.
+2024-05-18 01:21:49 - fair_feat_distill/celeba/v001_final - INFO - Epoch [50/50], Loss: 0.2518, Valid Acc: 0.9183, Valid F1: 0.9147, Valid DP: 0.1415, Valid EOD: 0.0503
+2024-05-18 01:21:50 - fair_feat_distill/celeba/v001_final - INFO - Saved model final to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/celeba/v001_final/final_state.pth.
+2024-05-18 01:21:50 - fair_feat_distill/celeba/v001_final - INFO - Model and metrics saved.
+2024-05-18 01:21:50 - fair_feat_distill/celeba/v001_final - INFO - Training finished.

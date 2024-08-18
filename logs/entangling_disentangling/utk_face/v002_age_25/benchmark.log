@@ -1,0 +1,175 @@
+2024-05-20 15:49:20 - entangling_disentangling/utk_face/v002_age_25 - INFO - Start entangling disentangling benchmark.
+2024-05-20 15:49:20 - entangling_disentangling/utk_face/v002_age_25 - INFO - Training started.
+2024-05-20 15:49:40 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [1/100], Loss: 0.7788, Valid Acc: 0.6705, Valid F1: 0.4412, Valid DP: 0.7562, Valid EOD: 0.8541
+2024-05-20 15:49:40 - entangling_disentangling/utk_face/v002_age_25 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/utk_face/v002_age_25/best_f1_state.pth.
+2024-05-20 15:49:40 - entangling_disentangling/utk_face/v002_age_25 - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/utk_face/v002_age_25/best_eod_state.pth.
+2024-05-20 15:49:40 - entangling_disentangling/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 15:49:59 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [2/100], Loss: 0.6201, Valid Acc: 0.7106, Valid F1: 0.4811, Valid DP: 0.7200, Valid EOD: 0.8561
+2024-05-20 15:50:00 - entangling_disentangling/utk_face/v002_age_25 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/utk_face/v002_age_25/best_f1_state.pth.
+2024-05-20 15:50:00 - entangling_disentangling/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 15:50:19 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [3/100], Loss: 0.5527, Valid Acc: 0.6368, Valid F1: 0.5506, Valid DP: 0.5625, Valid EOD: 0.5246
+2024-05-20 15:50:19 - entangling_disentangling/utk_face/v002_age_25 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/utk_face/v002_age_25/best_f1_state.pth.
+2024-05-20 15:50:19 - entangling_disentangling/utk_face/v002_age_25 - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/utk_face/v002_age_25/best_eod_state.pth.
+2024-05-20 15:50:19 - entangling_disentangling/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 15:50:39 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [4/100], Loss: 0.4939, Valid Acc: 0.6653, Valid F1: 0.5416, Valid DP: 0.7276, Valid EOD: 0.6795
+2024-05-20 15:50:39 - entangling_disentangling/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 15:50:59 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [5/100], Loss: 0.4473, Valid Acc: 0.7025, Valid F1: 0.6398, Valid DP: 0.4199, Valid EOD: 0.1897
+2024-05-20 15:50:59 - entangling_disentangling/utk_face/v002_age_25 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/utk_face/v002_age_25/best_f1_state.pth.
+2024-05-20 15:50:59 - entangling_disentangling/utk_face/v002_age_25 - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/utk_face/v002_age_25/best_eod_state.pth.
+2024-05-20 15:50:59 - entangling_disentangling/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 15:51:19 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [6/100], Loss: 0.4090, Valid Acc: 0.7676, Valid F1: 0.6951, Valid DP: 0.6966, Valid EOD: 0.4839
+2024-05-20 15:51:19 - entangling_disentangling/utk_face/v002_age_25 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/utk_face/v002_age_25/best_f1_state.pth.
+2024-05-20 15:51:19 - entangling_disentangling/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 15:51:38 - entangling_disentangling/utk_face/v002_age_25 - INFO - Warning: Class 2 has only 51 predictions.
+2024-05-20 15:51:38 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [7/100], Loss: 0.3724, Valid Acc: 0.6698, Valid F1: 0.5651, Valid DP: 0.6314, Valid EOD: 0.6820
+2024-05-20 15:51:38 - entangling_disentangling/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 15:51:58 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [8/100], Loss: 0.3324, Valid Acc: 0.7725, Valid F1: 0.6789, Valid DP: 0.7263, Valid EOD: 0.4856
+2024-05-20 15:51:58 - entangling_disentangling/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 15:52:18 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [9/100], Loss: 0.2987, Valid Acc: 0.5447, Valid F1: 0.5092, Valid DP: 0.1369, Valid EOD: 0.5596
+2024-05-20 15:52:18 - entangling_disentangling/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 15:52:38 - entangling_disentangling/utk_face/v002_age_25 - INFO - Warning: Class 2 has only 74 predictions.
+2024-05-20 15:52:38 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [10/100], Loss: 0.2596, Valid Acc: 0.7718, Valid F1: 0.6772, Valid DP: 0.7074, Valid EOD: 0.6239
+2024-05-20 15:52:38 - entangling_disentangling/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 15:52:58 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [11/100], Loss: 0.2432, Valid Acc: 0.7201, Valid F1: 0.6479, Valid DP: 0.4990, Valid EOD: 0.3437
+2024-05-20 15:52:58 - entangling_disentangling/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 15:53:18 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [12/100], Loss: 0.1908, Valid Acc: 0.7233, Valid F1: 0.6365, Valid DP: 0.6168, Valid EOD: 0.4645
+2024-05-20 15:53:18 - entangling_disentangling/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 15:53:37 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [13/100], Loss: 0.1678, Valid Acc: 0.7254, Valid F1: 0.6318, Valid DP: 0.6587, Valid EOD: 0.4109
+2024-05-20 15:53:37 - entangling_disentangling/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 15:53:57 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [14/100], Loss: 0.1488, Valid Acc: 0.7697, Valid F1: 0.6943, Valid DP: 0.6776, Valid EOD: 0.3972
+2024-05-20 15:53:57 - entangling_disentangling/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 15:54:17 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [15/100], Loss: 0.1401, Valid Acc: 0.6828, Valid F1: 0.5703, Valid DP: 0.6718, Valid EOD: 0.6271
+2024-05-20 15:54:17 - entangling_disentangling/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 15:54:37 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [16/100], Loss: 0.1115, Valid Acc: 0.7707, Valid F1: 0.7100, Valid DP: 0.6233, Valid EOD: 0.3052
+2024-05-20 15:54:37 - entangling_disentangling/utk_face/v002_age_25 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/utk_face/v002_age_25/best_f1_state.pth.
+2024-05-20 15:54:37 - entangling_disentangling/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 15:54:57 - entangling_disentangling/utk_face/v002_age_25 - INFO - Warning: Class 2 has only 84 predictions.
+2024-05-20 15:54:57 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [17/100], Loss: 0.0930, Valid Acc: 0.7859, Valid F1: 0.6792, Valid DP: 0.7506, Valid EOD: 0.6190
+2024-05-20 15:54:57 - entangling_disentangling/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 15:55:17 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [18/100], Loss: 0.0893, Valid Acc: 0.7736, Valid F1: 0.7002, Valid DP: 0.6843, Valid EOD: 0.4279
+2024-05-20 15:55:17 - entangling_disentangling/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 15:55:37 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [19/100], Loss: 0.0881, Valid Acc: 0.7050, Valid F1: 0.6218, Valid DP: 0.5292, Valid EOD: 0.4122
+2024-05-20 15:55:37 - entangling_disentangling/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 15:55:57 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [20/100], Loss: 0.0778, Valid Acc: 0.7732, Valid F1: 0.6877, Valid DP: 0.6876, Valid EOD: 0.4984
+2024-05-20 15:55:57 - entangling_disentangling/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 15:56:17 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [21/100], Loss: 0.0696, Valid Acc: 0.7729, Valid F1: 0.7001, Valid DP: 0.6700, Valid EOD: 0.4749
+2024-05-20 15:56:17 - entangling_disentangling/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 15:56:37 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [22/100], Loss: 0.0570, Valid Acc: 0.7155, Valid F1: 0.6315, Valid DP: 0.5472, Valid EOD: 0.4279
+2024-05-20 15:56:37 - entangling_disentangling/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 15:56:57 - entangling_disentangling/utk_face/v002_age_25 - INFO - Warning: Class 2 has only 90 predictions.
+2024-05-20 15:56:58 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [23/100], Loss: 0.0648, Valid Acc: 0.7008, Valid F1: 0.6301, Valid DP: 0.5648, Valid EOD: 0.5397
+2024-05-20 15:57:18 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [24/100], Loss: 0.0506, Valid Acc: 0.6867, Valid F1: 0.5916, Valid DP: 0.5492, Valid EOD: 0.4203
+2024-05-20 15:57:18 - entangling_disentangling/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 15:57:38 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [25/100], Loss: 0.0480, Valid Acc: 0.7620, Valid F1: 0.6960, Valid DP: 0.5715, Valid EOD: 0.2908
+2024-05-20 15:57:38 - entangling_disentangling/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 15:57:58 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [26/100], Loss: 0.0483, Valid Acc: 0.7732, Valid F1: 0.7027, Valid DP: 0.6696, Valid EOD: 0.4825
+2024-05-20 15:58:18 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [27/100], Loss: 0.0540, Valid Acc: 0.7584, Valid F1: 0.6894, Valid DP: 0.6066, Valid EOD: 0.3395
+2024-05-20 15:58:38 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [28/100], Loss: 0.0471, Valid Acc: 0.7764, Valid F1: 0.7056, Valid DP: 0.6945, Valid EOD: 0.4196
+2024-05-20 15:58:38 - entangling_disentangling/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 15:58:58 - entangling_disentangling/utk_face/v002_age_25 - INFO - Warning: Class 2 has only 72 predictions.
+2024-05-20 15:58:58 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [29/100], Loss: 0.0442, Valid Acc: 0.7479, Valid F1: 0.6484, Valid DP: 0.6584, Valid EOD: 0.5532
+2024-05-20 15:58:58 - entangling_disentangling/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 15:59:19 - entangling_disentangling/utk_face/v002_age_25 - INFO - Warning: Class 2 has only 91 predictions.
+2024-05-20 15:59:19 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [30/100], Loss: 0.0459, Valid Acc: 0.7697, Valid F1: 0.6904, Valid DP: 0.6710, Valid EOD: 0.5414
+2024-05-20 15:59:39 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [31/100], Loss: 0.0420, Valid Acc: 0.7465, Valid F1: 0.6811, Valid DP: 0.5242, Valid EOD: 0.2636
+2024-05-20 15:59:39 - entangling_disentangling/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 15:59:59 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [32/100], Loss: 0.0420, Valid Acc: 0.7683, Valid F1: 0.6927, Valid DP: 0.6815, Valid EOD: 0.4977
+2024-05-20 15:59:59 - entangling_disentangling/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 16:00:19 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [33/100], Loss: 0.0360, Valid Acc: 0.7760, Valid F1: 0.6926, Valid DP: 0.6880, Valid EOD: 0.5290
+2024-05-20 16:00:20 - entangling_disentangling/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 16:00:40 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [34/100], Loss: 0.0430, Valid Acc: 0.7862, Valid F1: 0.7259, Valid DP: 0.6717, Valid EOD: 0.3672
+2024-05-20 16:00:40 - entangling_disentangling/utk_face/v002_age_25 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/utk_face/v002_age_25/best_f1_state.pth.
+2024-05-20 16:01:00 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [35/100], Loss: 0.0352, Valid Acc: 0.7876, Valid F1: 0.7214, Valid DP: 0.6801, Valid EOD: 0.3471
+2024-05-20 16:01:00 - entangling_disentangling/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 16:01:21 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [36/100], Loss: 0.0378, Valid Acc: 0.7736, Valid F1: 0.7054, Valid DP: 0.6467, Valid EOD: 0.3545
+2024-05-20 16:01:41 - entangling_disentangling/utk_face/v002_age_25 - INFO - Warning: Class 2 has only 98 predictions.
+2024-05-20 16:01:41 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [37/100], Loss: 0.0369, Valid Acc: 0.7683, Valid F1: 0.6894, Valid DP: 0.6379, Valid EOD: 0.4963
+2024-05-20 16:02:02 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [38/100], Loss: 0.0303, Valid Acc: 0.7932, Valid F1: 0.7218, Valid DP: 0.7044, Valid EOD: 0.4889
+2024-05-20 16:02:02 - entangling_disentangling/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 16:02:22 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [39/100], Loss: 0.0285, Valid Acc: 0.7767, Valid F1: 0.7074, Valid DP: 0.6613, Valid EOD: 0.3799
+2024-05-20 16:02:22 - entangling_disentangling/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 16:02:43 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [40/100], Loss: 0.0321, Valid Acc: 0.7771, Valid F1: 0.7082, Valid DP: 0.6564, Valid EOD: 0.5108
+2024-05-20 16:03:03 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [41/100], Loss: 0.0338, Valid Acc: 0.7802, Valid F1: 0.7110, Valid DP: 0.6765, Valid EOD: 0.4969
+2024-05-20 16:03:24 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [42/100], Loss: 0.0321, Valid Acc: 0.7764, Valid F1: 0.7020, Valid DP: 0.6685, Valid EOD: 0.3859
+2024-05-20 16:03:44 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [43/100], Loss: 0.0315, Valid Acc: 0.7911, Valid F1: 0.7258, Valid DP: 0.6657, Valid EOD: 0.3778
+2024-05-20 16:04:05 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [44/100], Loss: 0.0240, Valid Acc: 0.6312, Valid F1: 0.5331, Valid DP: 0.5492, Valid EOD: 0.5625
+2024-05-20 16:04:05 - entangling_disentangling/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 16:04:26 - entangling_disentangling/utk_face/v002_age_25 - INFO - Warning: Class 2 has only 70 predictions.
+2024-05-20 16:04:26 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [45/100], Loss: 0.0258, Valid Acc: 0.7574, Valid F1: 0.6604, Valid DP: 0.6601, Valid EOD: 0.5821
+2024-05-20 16:04:46 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [46/100], Loss: 0.0303, Valid Acc: 0.7838, Valid F1: 0.7117, Valid DP: 0.6959, Valid EOD: 0.4525
+2024-05-20 16:05:07 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [47/100], Loss: 0.0244, Valid Acc: 0.7792, Valid F1: 0.7113, Valid DP: 0.6494, Valid EOD: 0.3317
+2024-05-20 16:05:28 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [48/100], Loss: 0.0263, Valid Acc: 0.7880, Valid F1: 0.7265, Valid DP: 0.6783, Valid EOD: 0.3923
+2024-05-20 16:05:28 - entangling_disentangling/utk_face/v002_age_25 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/utk_face/v002_age_25/best_f1_state.pth.
+2024-05-20 16:05:49 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [49/100], Loss: 0.0232, Valid Acc: 0.7813, Valid F1: 0.7214, Valid DP: 0.6397, Valid EOD: 0.3331
+2024-05-20 16:05:49 - entangling_disentangling/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 16:06:10 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [50/100], Loss: 0.0215, Valid Acc: 0.7771, Valid F1: 0.7151, Valid DP: 0.6465, Valid EOD: 0.3624
+2024-05-20 16:06:10 - entangling_disentangling/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 16:06:30 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [51/100], Loss: 0.0179, Valid Acc: 0.7795, Valid F1: 0.7109, Valid DP: 0.6773, Valid EOD: 0.3582
+2024-05-20 16:06:31 - entangling_disentangling/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 16:06:51 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [52/100], Loss: 0.0199, Valid Acc: 0.7852, Valid F1: 0.7064, Valid DP: 0.6939, Valid EOD: 0.5013
+2024-05-20 16:07:12 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [53/100], Loss: 0.0204, Valid Acc: 0.7690, Valid F1: 0.6952, Valid DP: 0.6555, Valid EOD: 0.4959
+2024-05-20 16:07:33 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [54/100], Loss: 0.0207, Valid Acc: 0.7901, Valid F1: 0.7205, Valid DP: 0.6848, Valid EOD: 0.4646
+2024-05-20 16:07:55 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [55/100], Loss: 0.0246, Valid Acc: 0.7932, Valid F1: 0.7200, Valid DP: 0.6982, Valid EOD: 0.4924
+2024-05-20 16:08:16 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [56/100], Loss: 0.0226, Valid Acc: 0.7637, Valid F1: 0.6959, Valid DP: 0.6328, Valid EOD: 0.4167
+2024-05-20 16:08:37 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [57/100], Loss: 0.0324, Valid Acc: 0.6835, Valid F1: 0.6180, Valid DP: 0.4360, Valid EOD: 0.3469
+2024-05-20 16:08:58 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [58/100], Loss: 0.0225, Valid Acc: 0.7883, Valid F1: 0.7241, Valid DP: 0.6877, Valid EOD: 0.4244
+2024-05-20 16:09:19 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [59/100], Loss: 0.0189, Valid Acc: 0.7419, Valid F1: 0.6633, Valid DP: 0.6262, Valid EOD: 0.4077
+2024-05-20 16:09:40 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [60/100], Loss: 0.0199, Valid Acc: 0.7795, Valid F1: 0.7135, Valid DP: 0.6794, Valid EOD: 0.3698
+2024-05-20 16:10:02 - entangling_disentangling/utk_face/v002_age_25 - INFO - Warning: Class 2 has only 73 predictions.
+2024-05-20 16:10:02 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [61/100], Loss: 0.0179, Valid Acc: 0.7591, Valid F1: 0.6663, Valid DP: 0.6716, Valid EOD: 0.5510
+2024-05-20 16:10:02 - entangling_disentangling/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 16:10:23 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [62/100], Loss: 0.0271, Valid Acc: 0.7658, Valid F1: 0.6930, Valid DP: 0.6532, Valid EOD: 0.3667
+2024-05-20 16:10:44 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [63/100], Loss: 0.0162, Valid Acc: 0.7416, Valid F1: 0.6662, Valid DP: 0.6099, Valid EOD: 0.3840
+2024-05-20 16:10:44 - entangling_disentangling/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 16:11:05 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [64/100], Loss: 0.0187, Valid Acc: 0.7792, Valid F1: 0.7140, Valid DP: 0.6538, Valid EOD: 0.3490
+2024-05-20 16:11:27 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [65/100], Loss: 0.0154, Valid Acc: 0.7637, Valid F1: 0.6877, Valid DP: 0.6028, Valid EOD: 0.3194
+2024-05-20 16:11:27 - entangling_disentangling/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 16:11:48 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [66/100], Loss: 0.0141, Valid Acc: 0.7753, Valid F1: 0.7063, Valid DP: 0.6993, Valid EOD: 0.4795
+2024-05-20 16:11:48 - entangling_disentangling/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 16:12:10 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [67/100], Loss: 0.0147, Valid Acc: 0.7855, Valid F1: 0.7025, Valid DP: 0.6915, Valid EOD: 0.5204
+2024-05-20 16:12:31 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [68/100], Loss: 0.0191, Valid Acc: 0.7823, Valid F1: 0.7083, Valid DP: 0.6738, Valid EOD: 0.4724
+2024-05-20 16:12:53 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [69/100], Loss: 0.0204, Valid Acc: 0.7957, Valid F1: 0.7275, Valid DP: 0.7078, Valid EOD: 0.4606
+2024-05-20 16:12:53 - entangling_disentangling/utk_face/v002_age_25 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/utk_face/v002_age_25/best_f1_state.pth.
+2024-05-20 16:13:14 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [70/100], Loss: 0.0129, Valid Acc: 0.7855, Valid F1: 0.7211, Valid DP: 0.6622, Valid EOD: 0.3459
+2024-05-20 16:13:14 - entangling_disentangling/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 16:13:36 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [71/100], Loss: 0.0225, Valid Acc: 0.7873, Valid F1: 0.7269, Valid DP: 0.6490, Valid EOD: 0.3480
+2024-05-20 16:13:57 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [72/100], Loss: 0.0127, Valid Acc: 0.7887, Valid F1: 0.7254, Valid DP: 0.6523, Valid EOD: 0.3449
+2024-05-20 16:13:57 - entangling_disentangling/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 16:14:19 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [73/100], Loss: 0.0103, Valid Acc: 0.7799, Valid F1: 0.7079, Valid DP: 0.6646, Valid EOD: 0.4511
+2024-05-20 16:14:19 - entangling_disentangling/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 16:14:41 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [74/100], Loss: 0.0211, Valid Acc: 0.6382, Valid F1: 0.5377, Valid DP: 0.5562, Valid EOD: 0.5245
+2024-05-20 16:15:03 - entangling_disentangling/utk_face/v002_age_25 - INFO - Warning: Class 2 has only 96 predictions.
+2024-05-20 16:15:03 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [75/100], Loss: 0.0236, Valid Acc: 0.7820, Valid F1: 0.6996, Valid DP: 0.7054, Valid EOD: 0.5078
+2024-05-20 16:15:24 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [76/100], Loss: 0.0137, Valid Acc: 0.7816, Valid F1: 0.7123, Valid DP: 0.6803, Valid EOD: 0.4555
+2024-05-20 16:15:46 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [77/100], Loss: 0.0136, Valid Acc: 0.7897, Valid F1: 0.7153, Valid DP: 0.6705, Valid EOD: 0.4009
+2024-05-20 16:16:08 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [78/100], Loss: 0.0146, Valid Acc: 0.7838, Valid F1: 0.7144, Valid DP: 0.6710, Valid EOD: 0.3963
+2024-05-20 16:16:29 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [79/100], Loss: 0.0166, Valid Acc: 0.7838, Valid F1: 0.7174, Valid DP: 0.6403, Valid EOD: 0.3203
+2024-05-20 16:16:51 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [80/100], Loss: 0.0122, Valid Acc: 0.7947, Valid F1: 0.7299, Valid DP: 0.6802, Valid EOD: 0.4254
+2024-05-20 16:16:51 - entangling_disentangling/utk_face/v002_age_25 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/utk_face/v002_age_25/best_f1_state.pth.
+2024-05-20 16:17:13 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [81/100], Loss: 0.0146, Valid Acc: 0.7753, Valid F1: 0.7001, Valid DP: 0.6583, Valid EOD: 0.3710
+2024-05-20 16:17:34 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [82/100], Loss: 0.0164, Valid Acc: 0.7890, Valid F1: 0.7191, Valid DP: 0.6857, Valid EOD: 0.4274
+2024-05-20 16:17:56 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [83/100], Loss: 0.0133, Valid Acc: 0.7757, Valid F1: 0.7148, Valid DP: 0.6576, Valid EOD: 0.4165
+2024-05-20 16:18:18 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [84/100], Loss: 0.0117, Valid Acc: 0.7714, Valid F1: 0.7089, Valid DP: 0.6538, Valid EOD: 0.3558
+2024-05-20 16:18:40 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [85/100], Loss: 0.0125, Valid Acc: 0.7570, Valid F1: 0.6864, Valid DP: 0.6371, Valid EOD: 0.3730
+2024-05-20 16:19:02 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [86/100], Loss: 0.0179, Valid Acc: 0.7876, Valid F1: 0.7145, Valid DP: 0.6899, Valid EOD: 0.4618
+2024-05-20 16:19:24 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [87/100], Loss: 0.0175, Valid Acc: 0.7658, Valid F1: 0.6994, Valid DP: 0.5887, Valid EOD: 0.2925
+2024-05-20 16:19:45 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [88/100], Loss: 0.0151, Valid Acc: 0.7795, Valid F1: 0.7098, Valid DP: 0.6723, Valid EOD: 0.4082
+2024-05-20 16:20:07 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [89/100], Loss: 0.0119, Valid Acc: 0.7866, Valid F1: 0.7220, Valid DP: 0.6890, Valid EOD: 0.3951
+2024-05-20 16:20:29 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [90/100], Loss: 0.0090, Valid Acc: 0.7690, Valid F1: 0.6857, Valid DP: 0.7041, Valid EOD: 0.5283
+2024-05-20 16:20:29 - entangling_disentangling/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 16:20:52 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [91/100], Loss: 0.0106, Valid Acc: 0.7848, Valid F1: 0.7113, Valid DP: 0.6922, Valid EOD: 0.4833
+2024-05-20 16:21:14 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [92/100], Loss: 0.0132, Valid Acc: 0.7764, Valid F1: 0.7135, Valid DP: 0.6583, Valid EOD: 0.3392
+2024-05-20 16:21:36 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [93/100], Loss: 0.0111, Valid Acc: 0.7669, Valid F1: 0.6945, Valid DP: 0.6945, Valid EOD: 0.4163
+2024-05-20 16:21:58 - entangling_disentangling/utk_face/v002_age_25 - INFO - Warning: Class 2 has only 85 predictions.
+2024-05-20 16:21:58 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [94/100], Loss: 0.0141, Valid Acc: 0.7785, Valid F1: 0.6802, Valid DP: 0.7267, Valid EOD: 0.6274
+2024-05-20 16:22:20 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [95/100], Loss: 0.0253, Valid Acc: 0.7532, Valid F1: 0.6642, Valid DP: 0.6519, Valid EOD: 0.4046
+2024-05-20 16:22:42 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [96/100], Loss: 0.0238, Valid Acc: 0.7869, Valid F1: 0.7226, Valid DP: 0.6785, Valid EOD: 0.3877
+2024-05-20 16:23:04 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [97/100], Loss: 0.0108, Valid Acc: 0.7876, Valid F1: 0.7118, Valid DP: 0.6934, Valid EOD: 0.4924
+2024-05-20 16:23:26 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [98/100], Loss: 0.0076, Valid Acc: 0.7925, Valid F1: 0.7292, Valid DP: 0.6728, Valid EOD: 0.3437
+2024-05-20 16:23:27 - entangling_disentangling/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 16:23:49 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [99/100], Loss: 0.0064, Valid Acc: 0.7904, Valid F1: 0.7230, Valid DP: 0.6813, Valid EOD: 0.4077
+2024-05-20 16:23:49 - entangling_disentangling/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/utk_face/v002_age_25/best_loss_state.pth.
+2024-05-20 16:24:11 - entangling_disentangling/utk_face/v002_age_25 - INFO - Epoch [100/100], Loss: 0.0092, Valid Acc: 0.7883, Valid F1: 0.7237, Valid DP: 0.6649, Valid EOD: 0.3551
+2024-05-20 16:24:11 - entangling_disentangling/utk_face/v002_age_25 - INFO - Saved model final to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/utk_face/v002_age_25/final_state.pth.
+2024-05-20 16:24:11 - entangling_disentangling/utk_face/v002_age_25 - INFO - Model and metrics saved.
+2024-05-20 16:24:11 - entangling_disentangling/utk_face/v002_age_25 - INFO - Training finished.

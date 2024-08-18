@@ -1,0 +1,153 @@
+2024-07-24 12:38:20 - plain_baseline/utk_face/v2_target_age_19 - INFO - Training started.
+2024-07-24 12:39:28 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [1/100], Loss: 1.0676, Valid Acc: 0.6207, Valid F1: 0.5625, Valid DP: 0.1366, Valid EOD: 0.2295
+2024-07-24 12:39:28 - plain_baseline/utk_face/v2_target_age_19 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v2_target_age_19/best_f1_state.pth.
+2024-07-24 12:39:28 - plain_baseline/utk_face/v2_target_age_19 - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v2_target_age_19/best_eod_state.pth.
+2024-07-24 12:39:28 - plain_baseline/utk_face/v2_target_age_19 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v2_target_age_19/best_loss_state.pth.
+2024-07-24 12:39:47 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [2/100], Loss: 0.5915, Valid Acc: 0.7430, Valid F1: 0.7115, Valid DP: 0.1422, Valid EOD: 0.2370
+2024-07-24 12:39:47 - plain_baseline/utk_face/v2_target_age_19 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v2_target_age_19/best_f1_state.pth.
+2024-07-24 12:39:47 - plain_baseline/utk_face/v2_target_age_19 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v2_target_age_19/best_loss_state.pth.
+2024-07-24 12:40:08 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [3/100], Loss: 0.4833, Valid Acc: 0.7805, Valid F1: 0.7622, Valid DP: 0.1443, Valid EOD: 0.0995
+2024-07-24 12:40:08 - plain_baseline/utk_face/v2_target_age_19 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v2_target_age_19/best_f1_state.pth.
+2024-07-24 12:40:08 - plain_baseline/utk_face/v2_target_age_19 - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v2_target_age_19/best_eod_state.pth.
+2024-07-24 12:40:08 - plain_baseline/utk_face/v2_target_age_19 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v2_target_age_19/best_loss_state.pth.
+2024-07-24 12:40:27 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [4/100], Loss: 0.4185, Valid Acc: 0.7652, Valid F1: 0.7606, Valid DP: 0.2346, Valid EOD: 0.1832
+2024-07-24 12:40:27 - plain_baseline/utk_face/v2_target_age_19 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v2_target_age_19/best_loss_state.pth.
+2024-07-24 12:40:45 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [5/100], Loss: 0.3553, Valid Acc: 0.8066, Valid F1: 0.7911, Valid DP: 0.1499, Valid EOD: 0.1631
+2024-07-24 12:40:45 - plain_baseline/utk_face/v2_target_age_19 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v2_target_age_19/best_f1_state.pth.
+2024-07-24 12:40:45 - plain_baseline/utk_face/v2_target_age_19 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v2_target_age_19/best_loss_state.pth.
+2024-07-24 12:41:03 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [6/100], Loss: 0.3099, Valid Acc: 0.7969, Valid F1: 0.7840, Valid DP: 0.1690, Valid EOD: 0.2084
+2024-07-24 12:41:03 - plain_baseline/utk_face/v2_target_age_19 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v2_target_age_19/best_loss_state.pth.
+2024-07-24 12:41:21 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [7/100], Loss: 0.2463, Valid Acc: 0.7715, Valid F1: 0.7596, Valid DP: 0.1348, Valid EOD: 0.1160
+2024-07-24 12:41:21 - plain_baseline/utk_face/v2_target_age_19 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v2_target_age_19/best_loss_state.pth.
+2024-07-24 12:41:39 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [8/100], Loss: 0.2180, Valid Acc: 0.7918, Valid F1: 0.7832, Valid DP: 0.1768, Valid EOD: 0.1858
+2024-07-24 12:41:39 - plain_baseline/utk_face/v2_target_age_19 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v2_target_age_19/best_loss_state.pth.
+2024-07-24 12:41:57 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [9/100], Loss: 0.1569, Valid Acc: 0.7902, Valid F1: 0.7781, Valid DP: 0.1762, Valid EOD: 0.2652
+2024-07-24 12:41:57 - plain_baseline/utk_face/v2_target_age_19 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v2_target_age_19/best_loss_state.pth.
+2024-07-24 12:42:15 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [10/100], Loss: 0.1387, Valid Acc: 0.7902, Valid F1: 0.7796, Valid DP: 0.1456, Valid EOD: 0.1286
+2024-07-24 12:42:15 - plain_baseline/utk_face/v2_target_age_19 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v2_target_age_19/best_loss_state.pth.
+2024-07-24 12:42:33 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [11/100], Loss: 0.1018, Valid Acc: 0.7781, Valid F1: 0.7739, Valid DP: 0.1509, Valid EOD: 0.1334
+2024-07-24 12:42:34 - plain_baseline/utk_face/v2_target_age_19 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v2_target_age_19/best_loss_state.pth.
+2024-07-24 12:42:52 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [12/100], Loss: 0.0990, Valid Acc: 0.7914, Valid F1: 0.7737, Valid DP: 0.1508, Valid EOD: 0.2266
+2024-07-24 12:42:52 - plain_baseline/utk_face/v2_target_age_19 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v2_target_age_19/best_loss_state.pth.
+2024-07-24 12:43:10 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [13/100], Loss: 0.0768, Valid Acc: 0.8000, Valid F1: 0.7890, Valid DP: 0.1483, Valid EOD: 0.1862
+2024-07-24 12:43:10 - plain_baseline/utk_face/v2_target_age_19 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v2_target_age_19/best_loss_state.pth.
+2024-07-24 12:43:28 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [14/100], Loss: 0.0733, Valid Acc: 0.7477, Valid F1: 0.7373, Valid DP: 0.1040, Valid EOD: 0.0478
+2024-07-24 12:43:28 - plain_baseline/utk_face/v2_target_age_19 - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v2_target_age_19/best_eod_state.pth.
+2024-07-24 12:43:28 - plain_baseline/utk_face/v2_target_age_19 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v2_target_age_19/best_loss_state.pth.
+2024-07-24 12:44:05 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [15/100], Loss: 0.0563, Valid Acc: 0.7828, Valid F1: 0.7785, Valid DP: 0.1514, Valid EOD: 0.1156
+2024-07-24 12:44:05 - plain_baseline/utk_face/v2_target_age_19 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v2_target_age_19/best_loss_state.pth.
+2024-07-24 12:45:14 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [16/100], Loss: 0.0469, Valid Acc: 0.8078, Valid F1: 0.7926, Valid DP: 0.1609, Valid EOD: 0.2279
+2024-07-24 12:45:14 - plain_baseline/utk_face/v2_target_age_19 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v2_target_age_19/best_f1_state.pth.
+2024-07-24 12:45:14 - plain_baseline/utk_face/v2_target_age_19 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v2_target_age_19/best_loss_state.pth.
+2024-07-24 12:45:33 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [17/100], Loss: 0.0485, Valid Acc: 0.7898, Valid F1: 0.7717, Valid DP: 0.1336, Valid EOD: 0.1605
+2024-07-24 12:45:51 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [18/100], Loss: 0.0399, Valid Acc: 0.7926, Valid F1: 0.7867, Valid DP: 0.1505, Valid EOD: 0.1239
+2024-07-24 12:45:52 - plain_baseline/utk_face/v2_target_age_19 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v2_target_age_19/best_loss_state.pth.
+2024-07-24 12:46:10 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [19/100], Loss: 0.0347, Valid Acc: 0.7867, Valid F1: 0.7830, Valid DP: 0.1794, Valid EOD: 0.1642
+2024-07-24 12:46:10 - plain_baseline/utk_face/v2_target_age_19 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v2_target_age_19/best_loss_state.pth.
+2024-07-24 12:46:29 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [20/100], Loss: 0.0348, Valid Acc: 0.7984, Valid F1: 0.7855, Valid DP: 0.1526, Valid EOD: 0.1735
+2024-07-24 12:46:48 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [21/100], Loss: 0.0377, Valid Acc: 0.8020, Valid F1: 0.7910, Valid DP: 0.1428, Valid EOD: 0.1362
+2024-07-24 12:47:07 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [22/100], Loss: 0.0401, Valid Acc: 0.8070, Valid F1: 0.7981, Valid DP: 0.1567, Valid EOD: 0.1364
+2024-07-24 12:47:07 - plain_baseline/utk_face/v2_target_age_19 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v2_target_age_19/best_f1_state.pth.
+2024-07-24 12:47:27 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [23/100], Loss: 0.0361, Valid Acc: 0.8059, Valid F1: 0.7968, Valid DP: 0.1827, Valid EOD: 0.1913
+2024-07-24 12:47:46 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [24/100], Loss: 0.0335, Valid Acc: 0.8051, Valid F1: 0.7970, Valid DP: 0.1398, Valid EOD: 0.1275
+2024-07-24 12:47:46 - plain_baseline/utk_face/v2_target_age_19 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v2_target_age_19/best_loss_state.pth.
+2024-07-24 12:48:06 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [25/100], Loss: 0.0279, Valid Acc: 0.7965, Valid F1: 0.7896, Valid DP: 0.1700, Valid EOD: 0.1589
+2024-07-24 12:48:06 - plain_baseline/utk_face/v2_target_age_19 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v2_target_age_19/best_loss_state.pth.
+2024-07-24 12:48:25 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [26/100], Loss: 0.0231, Valid Acc: 0.7914, Valid F1: 0.7815, Valid DP: 0.1335, Valid EOD: 0.0838
+2024-07-24 12:48:25 - plain_baseline/utk_face/v2_target_age_19 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v2_target_age_19/best_loss_state.pth.
+2024-07-24 12:48:45 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [27/100], Loss: 0.0257, Valid Acc: 0.8039, Valid F1: 0.7923, Valid DP: 0.1394, Valid EOD: 0.1065
+2024-07-24 12:49:06 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [28/100], Loss: 0.0244, Valid Acc: 0.8055, Valid F1: 0.7959, Valid DP: 0.1482, Valid EOD: 0.1114
+2024-07-24 12:49:28 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [29/100], Loss: 0.0237, Valid Acc: 0.7895, Valid F1: 0.7834, Valid DP: 0.1692, Valid EOD: 0.1434
+2024-07-24 12:49:49 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [30/100], Loss: 0.0250, Valid Acc: 0.8078, Valid F1: 0.7981, Valid DP: 0.1740, Valid EOD: 0.1917
+2024-07-24 12:49:49 - plain_baseline/utk_face/v2_target_age_19 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v2_target_age_19/best_f1_state.pth.
+2024-07-24 12:50:09 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [31/100], Loss: 0.0333, Valid Acc: 0.7887, Valid F1: 0.7829, Valid DP: 0.1382, Valid EOD: 0.0860
+2024-07-24 12:50:28 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [32/100], Loss: 0.0311, Valid Acc: 0.7926, Valid F1: 0.7838, Valid DP: 0.1623, Valid EOD: 0.1438
+2024-07-24 12:50:48 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [33/100], Loss: 0.0316, Valid Acc: 0.8031, Valid F1: 0.7843, Valid DP: 0.1266, Valid EOD: 0.1855
+2024-07-24 12:51:08 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [34/100], Loss: 0.0255, Valid Acc: 0.8074, Valid F1: 0.7936, Valid DP: 0.1425, Valid EOD: 0.1476
+2024-07-24 12:51:28 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [35/100], Loss: 0.0191, Valid Acc: 0.8043, Valid F1: 0.7940, Valid DP: 0.1728, Valid EOD: 0.2154
+2024-07-24 12:51:28 - plain_baseline/utk_face/v2_target_age_19 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v2_target_age_19/best_loss_state.pth.
+2024-07-24 12:51:48 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [36/100], Loss: 0.0224, Valid Acc: 0.7953, Valid F1: 0.7863, Valid DP: 0.1507, Valid EOD: 0.1707
+2024-07-24 12:52:08 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [37/100], Loss: 0.0260, Valid Acc: 0.7820, Valid F1: 0.7730, Valid DP: 0.1682, Valid EOD: 0.1661
+2024-07-24 12:52:28 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [38/100], Loss: 0.0246, Valid Acc: 0.7910, Valid F1: 0.7789, Valid DP: 0.1254, Valid EOD: 0.1036
+2024-07-24 12:52:48 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [39/100], Loss: 0.0238, Valid Acc: 0.7910, Valid F1: 0.7806, Valid DP: 0.1317, Valid EOD: 0.0743
+2024-07-24 12:53:07 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [40/100], Loss: 0.0272, Valid Acc: 0.8000, Valid F1: 0.7890, Valid DP: 0.1523, Valid EOD: 0.1968
+2024-07-24 12:53:27 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [41/100], Loss: 0.0264, Valid Acc: 0.8008, Valid F1: 0.7875, Valid DP: 0.1632, Valid EOD: 0.2006
+2024-07-24 12:53:46 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [42/100], Loss: 0.0221, Valid Acc: 0.7977, Valid F1: 0.7892, Valid DP: 0.1427, Valid EOD: 0.1133
+2024-07-24 12:54:06 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [43/100], Loss: 0.0129, Valid Acc: 0.8059, Valid F1: 0.7962, Valid DP: 0.1730, Valid EOD: 0.1758
+2024-07-24 12:54:06 - plain_baseline/utk_face/v2_target_age_19 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v2_target_age_19/best_loss_state.pth.
+2024-07-24 12:54:25 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [44/100], Loss: 0.0155, Valid Acc: 0.8086, Valid F1: 0.7987, Valid DP: 0.1344, Valid EOD: 0.1082
+2024-07-24 12:54:25 - plain_baseline/utk_face/v2_target_age_19 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v2_target_age_19/best_f1_state.pth.
+2024-07-24 12:54:45 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [45/100], Loss: 0.0183, Valid Acc: 0.7875, Valid F1: 0.7809, Valid DP: 0.1404, Valid EOD: 0.1103
+2024-07-24 12:55:05 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [46/100], Loss: 0.0218, Valid Acc: 0.7941, Valid F1: 0.7823, Valid DP: 0.1736, Valid EOD: 0.2059
+2024-07-24 12:55:25 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [47/100], Loss: 0.0318, Valid Acc: 0.7844, Valid F1: 0.7761, Valid DP: 0.1482, Valid EOD: 0.1135
+2024-07-24 12:55:45 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [48/100], Loss: 0.0398, Valid Acc: 0.8055, Valid F1: 0.7916, Valid DP: 0.1340, Valid EOD: 0.1078
+2024-07-24 12:56:04 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [49/100], Loss: 0.0245, Valid Acc: 0.7969, Valid F1: 0.7867, Valid DP: 0.1460, Valid EOD: 0.1396
+2024-07-24 12:56:24 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [50/100], Loss: 0.0181, Valid Acc: 0.7980, Valid F1: 0.7832, Valid DP: 0.1278, Valid EOD: 0.0963
+2024-07-24 12:56:44 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [51/100], Loss: 0.0227, Valid Acc: 0.8078, Valid F1: 0.7986, Valid DP: 0.1521, Valid EOD: 0.1237
+2024-07-24 12:57:04 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [52/100], Loss: 0.0168, Valid Acc: 0.7984, Valid F1: 0.7931, Valid DP: 0.1760, Valid EOD: 0.1644
+2024-07-24 12:57:23 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [53/100], Loss: 0.0144, Valid Acc: 0.8039, Valid F1: 0.7933, Valid DP: 0.1349, Valid EOD: 0.1099
+2024-07-24 12:57:43 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [54/100], Loss: 0.0132, Valid Acc: 0.8020, Valid F1: 0.7896, Valid DP: 0.1421, Valid EOD: 0.1377
+2024-07-24 12:58:03 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [55/100], Loss: 0.0098, Valid Acc: 0.8035, Valid F1: 0.7924, Valid DP: 0.1648, Valid EOD: 0.1839
+2024-07-24 12:58:03 - plain_baseline/utk_face/v2_target_age_19 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v2_target_age_19/best_loss_state.pth.
+2024-07-24 12:58:23 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [56/100], Loss: 0.0087, Valid Acc: 0.8027, Valid F1: 0.7951, Valid DP: 0.1771, Valid EOD: 0.1830
+2024-07-24 12:58:23 - plain_baseline/utk_face/v2_target_age_19 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v2_target_age_19/best_loss_state.pth.
+2024-07-24 12:58:43 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [57/100], Loss: 0.0098, Valid Acc: 0.8063, Valid F1: 0.7998, Valid DP: 0.1743, Valid EOD: 0.1330
+2024-07-24 12:58:43 - plain_baseline/utk_face/v2_target_age_19 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v2_target_age_19/best_f1_state.pth.
+2024-07-24 12:59:03 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [58/100], Loss: 0.0058, Valid Acc: 0.8133, Valid F1: 0.8041, Valid DP: 0.1588, Valid EOD: 0.1569
+2024-07-24 12:59:03 - plain_baseline/utk_face/v2_target_age_19 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v2_target_age_19/best_f1_state.pth.
+2024-07-24 12:59:04 - plain_baseline/utk_face/v2_target_age_19 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v2_target_age_19/best_loss_state.pth.
+2024-07-24 12:59:24 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [59/100], Loss: 0.0045, Valid Acc: 0.8117, Valid F1: 0.8033, Valid DP: 0.1456, Valid EOD: 0.1264
+2024-07-24 12:59:24 - plain_baseline/utk_face/v2_target_age_19 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v2_target_age_19/best_loss_state.pth.
+2024-07-24 12:59:44 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [60/100], Loss: 0.0069, Valid Acc: 0.8117, Valid F1: 0.8011, Valid DP: 0.1384, Valid EOD: 0.1375
+2024-07-24 13:00:05 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [61/100], Loss: 0.0050, Valid Acc: 0.8051, Valid F1: 0.7971, Valid DP: 0.1535, Valid EOD: 0.1141
+2024-07-24 13:00:25 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [62/100], Loss: 0.0036, Valid Acc: 0.8148, Valid F1: 0.8038, Valid DP: 0.1434, Valid EOD: 0.1413
+2024-07-24 13:00:25 - plain_baseline/utk_face/v2_target_age_19 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v2_target_age_19/best_loss_state.pth.
+2024-07-24 13:00:45 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [63/100], Loss: 0.0047, Valid Acc: 0.8113, Valid F1: 0.8015, Valid DP: 0.1661, Valid EOD: 0.1849
+2024-07-24 13:01:09 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [64/100], Loss: 0.0049, Valid Acc: 0.8109, Valid F1: 0.8033, Valid DP: 0.1505, Valid EOD: 0.1345
+2024-07-24 13:02:12 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [65/100], Loss: 0.0060, Valid Acc: 0.8152, Valid F1: 0.8047, Valid DP: 0.1458, Valid EOD: 0.1525
+2024-07-24 13:02:12 - plain_baseline/utk_face/v2_target_age_19 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v2_target_age_19/best_f1_state.pth.
+2024-07-24 13:02:33 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [66/100], Loss: 0.0088, Valid Acc: 0.8031, Valid F1: 0.7929, Valid DP: 0.1493, Valid EOD: 0.1404
+2024-07-24 13:02:54 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [67/100], Loss: 0.0216, Valid Acc: 0.7945, Valid F1: 0.7823, Valid DP: 0.1549, Valid EOD: 0.1809
+2024-07-24 13:03:14 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [68/100], Loss: 0.0408, Valid Acc: 0.7914, Valid F1: 0.7747, Valid DP: 0.1297, Valid EOD: 0.1256
+2024-07-24 13:03:34 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [69/100], Loss: 0.0473, Valid Acc: 0.7840, Valid F1: 0.7788, Valid DP: 0.1610, Valid EOD: 0.1156
+2024-07-24 13:03:55 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [70/100], Loss: 0.0368, Valid Acc: 0.7977, Valid F1: 0.7906, Valid DP: 0.1617, Valid EOD: 0.1313
+2024-07-24 13:04:15 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [71/100], Loss: 0.0369, Valid Acc: 0.7937, Valid F1: 0.7857, Valid DP: 0.1710, Valid EOD: 0.1722
+2024-07-24 13:04:36 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [72/100], Loss: 0.0254, Valid Acc: 0.8016, Valid F1: 0.7900, Valid DP: 0.1501, Valid EOD: 0.1423
+2024-07-24 13:04:56 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [73/100], Loss: 0.0143, Valid Acc: 0.8047, Valid F1: 0.7976, Valid DP: 0.1675, Valid EOD: 0.1387
+2024-07-24 13:05:17 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [74/100], Loss: 0.0166, Valid Acc: 0.8063, Valid F1: 0.7980, Valid DP: 0.1522, Valid EOD: 0.1606
+2024-07-24 13:05:38 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [75/100], Loss: 0.0177, Valid Acc: 0.7969, Valid F1: 0.7889, Valid DP: 0.1802, Valid EOD: 0.1735
+2024-07-24 13:05:59 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [76/100], Loss: 0.0105, Valid Acc: 0.8059, Valid F1: 0.7935, Valid DP: 0.1467, Valid EOD: 0.1561
+2024-07-24 13:06:20 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [77/100], Loss: 0.0114, Valid Acc: 0.8098, Valid F1: 0.7976, Valid DP: 0.1430, Valid EOD: 0.1226
+2024-07-24 13:06:41 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [78/100], Loss: 0.0062, Valid Acc: 0.8063, Valid F1: 0.7964, Valid DP: 0.1636, Valid EOD: 0.1603
+2024-07-24 13:07:01 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [79/100], Loss: 0.0050, Valid Acc: 0.8102, Valid F1: 0.7996, Valid DP: 0.1654, Valid EOD: 0.1688
+2024-07-24 13:07:22 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [80/100], Loss: 0.0055, Valid Acc: 0.8078, Valid F1: 0.7962, Valid DP: 0.1614, Valid EOD: 0.1576
+2024-07-24 13:07:43 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [81/100], Loss: 0.0056, Valid Acc: 0.8078, Valid F1: 0.7965, Valid DP: 0.1595, Valid EOD: 0.1610
+2024-07-24 13:08:04 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [82/100], Loss: 0.0036, Valid Acc: 0.8102, Valid F1: 0.8006, Valid DP: 0.1715, Valid EOD: 0.1813
+2024-07-24 13:08:05 - plain_baseline/utk_face/v2_target_age_19 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v2_target_age_19/best_loss_state.pth.
+2024-07-24 13:08:26 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [83/100], Loss: 0.0029, Valid Acc: 0.8129, Valid F1: 0.8017, Valid DP: 0.1645, Valid EOD: 0.1650
+2024-07-24 13:08:26 - plain_baseline/utk_face/v2_target_age_19 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v2_target_age_19/best_loss_state.pth.
+2024-07-24 13:08:47 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [84/100], Loss: 0.0026, Valid Acc: 0.8098, Valid F1: 0.7993, Valid DP: 0.1657, Valid EOD: 0.1612
+2024-07-24 13:08:47 - plain_baseline/utk_face/v2_target_age_19 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v2_target_age_19/best_loss_state.pth.
+2024-07-24 13:09:08 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [85/100], Loss: 0.0026, Valid Acc: 0.8086, Valid F1: 0.7976, Valid DP: 0.1657, Valid EOD: 0.1720
+2024-07-24 13:09:30 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [86/100], Loss: 0.0025, Valid Acc: 0.8117, Valid F1: 0.8011, Valid DP: 0.1649, Valid EOD: 0.1635
+2024-07-24 13:09:30 - plain_baseline/utk_face/v2_target_age_19 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v2_target_age_19/best_loss_state.pth.
+2024-07-24 13:09:51 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [87/100], Loss: 0.0027, Valid Acc: 0.8059, Valid F1: 0.7954, Valid DP: 0.1672, Valid EOD: 0.1608
+2024-07-24 13:10:13 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [88/100], Loss: 0.0030, Valid Acc: 0.8059, Valid F1: 0.7962, Valid DP: 0.1681, Valid EOD: 0.1620
+2024-07-24 13:10:34 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [89/100], Loss: 0.0023, Valid Acc: 0.8137, Valid F1: 0.8031, Valid DP: 0.1675, Valid EOD: 0.1767
+2024-07-24 13:10:34 - plain_baseline/utk_face/v2_target_age_19 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v2_target_age_19/best_loss_state.pth.
+2024-07-24 13:10:56 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [90/100], Loss: 0.0024, Valid Acc: 0.8102, Valid F1: 0.7995, Valid DP: 0.1689, Valid EOD: 0.1678
+2024-07-24 13:11:17 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [91/100], Loss: 0.0024, Valid Acc: 0.8102, Valid F1: 0.7995, Valid DP: 0.1671, Valid EOD: 0.1658
+2024-07-24 13:11:39 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [92/100], Loss: 0.0021, Valid Acc: 0.8078, Valid F1: 0.7971, Valid DP: 0.1675, Valid EOD: 0.1716
+2024-07-24 13:11:39 - plain_baseline/utk_face/v2_target_age_19 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v2_target_age_19/best_loss_state.pth.
+2024-07-24 13:12:00 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [93/100], Loss: 0.0023, Valid Acc: 0.8102, Valid F1: 0.7990, Valid DP: 0.1656, Valid EOD: 0.1792
+2024-07-24 13:12:22 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [94/100], Loss: 0.0023, Valid Acc: 0.8113, Valid F1: 0.8004, Valid DP: 0.1736, Valid EOD: 0.1828
+2024-07-24 13:12:44 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [95/100], Loss: 0.0024, Valid Acc: 0.8094, Valid F1: 0.7981, Valid DP: 0.1724, Valid EOD: 0.1843
+2024-07-24 13:13:05 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [96/100], Loss: 0.0023, Valid Acc: 0.8102, Valid F1: 0.7997, Valid DP: 0.1710, Valid EOD: 0.1701
+2024-07-24 13:13:27 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [97/100], Loss: 0.0021, Valid Acc: 0.8082, Valid F1: 0.7968, Valid DP: 0.1703, Valid EOD: 0.1858
+2024-07-24 13:13:27 - plain_baseline/utk_face/v2_target_age_19 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v2_target_age_19/best_loss_state.pth.
+2024-07-24 13:13:49 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [98/100], Loss: 0.0022, Valid Acc: 0.8102, Valid F1: 0.7992, Valid DP: 0.1629, Valid EOD: 0.1603
+2024-07-24 13:14:10 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [99/100], Loss: 0.0022, Valid Acc: 0.8105, Valid F1: 0.7998, Valid DP: 0.1649, Valid EOD: 0.1612
+2024-07-24 13:14:32 - plain_baseline/utk_face/v2_target_age_19 - INFO - Epoch [100/100], Loss: 0.0023, Valid Acc: 0.8117, Valid F1: 0.8002, Valid DP: 0.1718, Valid EOD: 0.1885
+2024-07-24 13:14:32 - plain_baseline/utk_face/v2_target_age_19 - INFO - Saved model final to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v2_target_age_19/final_state.pth.
+2024-07-24 13:14:32 - plain_baseline/utk_face/v2_target_age_19 - INFO - Model and metrics saved.
+2024-07-24 13:14:32 - plain_baseline/utk_face/v2_target_age_19 - INFO - Training finished.

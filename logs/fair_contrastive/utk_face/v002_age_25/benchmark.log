@@ -1,0 +1,265 @@
+2024-05-20 18:48:11 - fair_contrastive/utk_face/v002_age_25 - INFO - Start fair contrastive learning benchmark.
+2024-05-20 18:48:11 - fair_contrastive/utk_face/v002_age_25 - INFO - Contrastive Training started.
+2024-05-20 18:49:20 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [1/100], Loss: 24.3515
+2024-05-20 18:50:24 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [2/100], Loss: 23.3090
+2024-05-20 18:51:28 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [3/100], Loss: 22.3476
+2024-05-20 18:52:32 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [4/100], Loss: 21.6625
+2024-05-20 18:53:36 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [5/100], Loss: 21.1043
+2024-05-20 18:54:40 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [6/100], Loss: 20.3513
+2024-05-20 18:55:44 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [7/100], Loss: 19.8121
+2024-05-20 18:56:48 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [8/100], Loss: 19.3019
+2024-05-20 18:57:52 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [9/100], Loss: 18.7035
+2024-05-20 18:58:56 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [10/100], Loss: 18.8538
+2024-05-20 19:00:00 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [11/100], Loss: 18.5629
+2024-05-20 19:01:04 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [12/100], Loss: 19.0109
+2024-05-20 19:02:07 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [13/100], Loss: 17.3057
+2024-05-20 19:03:11 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [14/100], Loss: 17.5601
+2024-05-20 19:04:15 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [15/100], Loss: 17.8851
+2024-05-20 19:05:19 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [16/100], Loss: 15.9484
+2024-05-20 19:06:23 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [17/100], Loss: 18.0193
+2024-05-20 19:07:28 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [18/100], Loss: 15.7932
+2024-05-20 19:08:31 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [19/100], Loss: 15.1544
+2024-05-20 19:09:36 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [20/100], Loss: 14.5586
+2024-05-20 19:10:39 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [21/100], Loss: 15.9527
+2024-05-20 19:11:43 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [22/100], Loss: 13.0503
+2024-05-20 19:12:47 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [23/100], Loss: 16.1103
+2024-05-20 19:13:52 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [24/100], Loss: 12.1347
+2024-05-20 19:14:55 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [25/100], Loss: 18.6968
+2024-05-20 19:16:00 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [26/100], Loss: 9.5931
+2024-05-20 19:17:04 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [27/100], Loss: 20.7649
+2024-05-20 19:18:08 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [28/100], Loss: 18.9168
+2024-05-20 19:19:12 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [29/100], Loss: 16.1802
+2024-05-20 19:20:16 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [30/100], Loss: 10.7636
+2024-05-20 19:21:20 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [31/100], Loss: 12.4486
+2024-05-20 19:22:24 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [32/100], Loss: 13.7885
+2024-05-20 19:23:29 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [33/100], Loss: 24.3155
+2024-05-20 19:24:33 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [34/100], Loss: 24.3140
+2024-05-20 19:25:37 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [35/100], Loss: 24.0894
+2024-05-20 19:26:41 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [36/100], Loss: 23.7597
+2024-05-20 19:27:45 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [37/100], Loss: 23.2393
+2024-05-20 19:28:49 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [38/100], Loss: 21.6937
+2024-05-20 19:29:54 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [39/100], Loss: 19.6440
+2024-05-20 19:30:58 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [40/100], Loss: 20.1538
+2024-05-20 19:32:02 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [41/100], Loss: 19.3482
+2024-05-20 19:33:06 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [42/100], Loss: 18.3885
+2024-05-20 19:34:10 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [43/100], Loss: 21.0470
+2024-05-20 19:35:14 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [44/100], Loss: 15.4586
+2024-05-20 19:36:18 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [45/100], Loss: 27.4165
+2024-05-20 19:37:22 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [46/100], Loss: 24.5603
+2024-05-20 19:38:26 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [47/100], Loss: 24.5566
+2024-05-20 19:39:30 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [48/100], Loss: 24.5567
+2024-05-20 19:40:34 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [49/100], Loss: 24.5551
+2024-05-20 19:41:38 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [50/100], Loss: 24.5548
+2024-05-20 19:42:42 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [51/100], Loss: 24.5556
+2024-05-20 19:43:46 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [52/100], Loss: 24.5538
+2024-05-20 19:44:50 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [53/100], Loss: 24.5559
+2024-05-20 19:45:54 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [54/100], Loss: 24.5571
+2024-05-20 19:46:57 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [55/100], Loss: 24.5576
+2024-05-20 19:48:02 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [56/100], Loss: 24.5611
+2024-05-20 19:49:06 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [57/100], Loss: 24.5540
+2024-05-20 19:50:10 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [58/100], Loss: 24.5558
+2024-05-20 19:51:14 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [59/100], Loss: 24.5538
+2024-05-20 19:52:18 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [60/100], Loss: 24.5570
+2024-05-20 19:53:22 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [61/100], Loss: 24.5563
+2024-05-20 19:54:26 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [62/100], Loss: 24.5572
+2024-05-20 19:55:30 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [63/100], Loss: 24.5542
+2024-05-20 19:56:34 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [64/100], Loss: 24.5544
+2024-05-20 19:57:38 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [65/100], Loss: 24.5569
+2024-05-20 19:58:42 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [66/100], Loss: 24.5556
+2024-05-20 19:59:46 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [67/100], Loss: 24.5589
+2024-05-20 20:00:50 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [68/100], Loss: 24.5573
+2024-05-20 20:01:54 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [69/100], Loss: 24.5566
+2024-05-20 20:02:59 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [70/100], Loss: 24.5576
+2024-05-20 20:04:03 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [71/100], Loss: 24.5575
+2024-05-20 20:05:07 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [72/100], Loss: 24.5576
+2024-05-20 20:06:11 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [73/100], Loss: 24.5559
+2024-05-20 20:07:14 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [74/100], Loss: 24.5580
+2024-05-20 20:08:18 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [75/100], Loss: 24.5559
+2024-05-20 20:09:22 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [76/100], Loss: 24.5584
+2024-05-20 20:10:26 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [77/100], Loss: 24.5546
+2024-05-20 20:11:30 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [78/100], Loss: 24.5542
+2024-05-20 20:12:34 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [79/100], Loss: 24.5546
+2024-05-20 20:13:38 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [80/100], Loss: 24.5544
+2024-05-20 20:14:42 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [81/100], Loss: 24.5585
+2024-05-20 20:15:46 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [82/100], Loss: 24.5573
+2024-05-20 20:16:50 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [83/100], Loss: 24.5554
+2024-05-20 20:17:54 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [84/100], Loss: 24.5578
+2024-05-20 20:18:58 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [85/100], Loss: 24.5559
+2024-05-20 20:20:02 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [86/100], Loss: 24.5528
+2024-05-20 20:21:06 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [87/100], Loss: 24.5577
+2024-05-20 20:22:10 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [88/100], Loss: 24.5572
+2024-05-20 20:23:14 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [89/100], Loss: 24.5548
+2024-05-20 20:24:18 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [90/100], Loss: 24.5541
+2024-05-20 20:25:22 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [91/100], Loss: 24.5558
+2024-05-20 20:26:26 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [92/100], Loss: 24.5549
+2024-05-20 20:27:30 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [93/100], Loss: 24.5597
+2024-05-20 20:28:34 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [94/100], Loss: 24.5579
+2024-05-20 20:29:38 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [95/100], Loss: 24.5535
+2024-05-20 20:30:42 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [96/100], Loss: 24.5532
+2024-05-20 20:31:46 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [97/100], Loss: 24.5577
+2024-05-20 20:32:50 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [98/100], Loss: 24.5567
+2024-05-20 20:33:54 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [99/100], Loss: 24.5578
+2024-05-20 20:34:58 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [100/100], Loss: 24.5521
+2024-05-20 20:34:58 - fair_contrastive/utk_face/v002_age_25 - INFO - Saved model final_contrastive_model to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/utk_face/v002_age_25_contrastive/final_contrastive_model_state.pth.
+2024-05-20 20:34:58 - fair_contrastive/utk_face/v002_age_25 - INFO - Contrastive Model and loss saved.
+2024-05-20 20:34:58 - fair_contrastive/utk_face/v002_age_25 - INFO - Contrastive Training finished.
+2024-05-20 20:34:59 - fair_contrastive/utk_face/v002_age_25 - INFO - Training started.
+2024-05-20 20:35:18 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [1/100], Loss: 1.0365, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:35:18 - fair_contrastive/utk_face/v002_age_25 - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/utk_face/v002_age_25_classifier/best_f1_state.pth.
+2024-05-20 20:35:18 - fair_contrastive/utk_face/v002_age_25 - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/utk_face/v002_age_25_classifier/best_eod_state.pth.
+2024-05-20 20:35:18 - fair_contrastive/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/utk_face/v002_age_25_classifier/best_loss_state.pth.
+2024-05-20 20:35:37 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [2/100], Loss: 0.9267, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:35:37 - fair_contrastive/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/utk_face/v002_age_25_classifier/best_loss_state.pth.
+2024-05-20 20:35:56 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [3/100], Loss: 0.8823, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:35:56 - fair_contrastive/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/utk_face/v002_age_25_classifier/best_loss_state.pth.
+2024-05-20 20:36:15 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [4/100], Loss: 0.8654, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:36:15 - fair_contrastive/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/utk_face/v002_age_25_classifier/best_loss_state.pth.
+2024-05-20 20:36:35 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [5/100], Loss: 0.8592, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:36:35 - fair_contrastive/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/utk_face/v002_age_25_classifier/best_loss_state.pth.
+2024-05-20 20:36:54 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [6/100], Loss: 0.8566, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:36:54 - fair_contrastive/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/utk_face/v002_age_25_classifier/best_loss_state.pth.
+2024-05-20 20:37:13 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [7/100], Loss: 0.8556, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:37:13 - fair_contrastive/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/utk_face/v002_age_25_classifier/best_loss_state.pth.
+2024-05-20 20:37:33 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [8/100], Loss: 0.8553, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:37:33 - fair_contrastive/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/utk_face/v002_age_25_classifier/best_loss_state.pth.
+2024-05-20 20:37:52 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [9/100], Loss: 0.8551, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:37:52 - fair_contrastive/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/utk_face/v002_age_25_classifier/best_loss_state.pth.
+2024-05-20 20:38:11 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [10/100], Loss: 0.8551, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:38:31 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [11/100], Loss: 0.8551, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:38:31 - fair_contrastive/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/utk_face/v002_age_25_classifier/best_loss_state.pth.
+2024-05-20 20:38:50 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [12/100], Loss: 0.8551, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:39:10 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [13/100], Loss: 0.8550, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:39:10 - fair_contrastive/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/utk_face/v002_age_25_classifier/best_loss_state.pth.
+2024-05-20 20:39:29 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [14/100], Loss: 0.8550, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:39:29 - fair_contrastive/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/utk_face/v002_age_25_classifier/best_loss_state.pth.
+2024-05-20 20:39:49 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [15/100], Loss: 0.8550, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:39:49 - fair_contrastive/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/utk_face/v002_age_25_classifier/best_loss_state.pth.
+2024-05-20 20:40:08 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [16/100], Loss: 0.8550, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:40:28 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [17/100], Loss: 0.8550, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:40:47 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [18/100], Loss: 0.8551, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:41:07 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [19/100], Loss: 0.8549, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:41:07 - fair_contrastive/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/utk_face/v002_age_25_classifier/best_loss_state.pth.
+2024-05-20 20:41:27 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [20/100], Loss: 0.8549, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:41:27 - fair_contrastive/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/utk_face/v002_age_25_classifier/best_loss_state.pth.
+2024-05-20 20:41:47 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [21/100], Loss: 0.8549, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:41:47 - fair_contrastive/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/utk_face/v002_age_25_classifier/best_loss_state.pth.
+2024-05-20 20:42:06 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [22/100], Loss: 0.8549, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:42:06 - fair_contrastive/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/utk_face/v002_age_25_classifier/best_loss_state.pth.
+2024-05-20 20:42:26 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [23/100], Loss: 0.8549, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:42:46 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [24/100], Loss: 0.8548, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:42:46 - fair_contrastive/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/utk_face/v002_age_25_classifier/best_loss_state.pth.
+2024-05-20 20:43:06 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [25/100], Loss: 0.8548, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:43:06 - fair_contrastive/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/utk_face/v002_age_25_classifier/best_loss_state.pth.
+2024-05-20 20:43:25 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [26/100], Loss: 0.8548, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:43:45 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [27/100], Loss: 0.8549, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:44:05 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [28/100], Loss: 0.8550, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:44:25 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [29/100], Loss: 0.8548, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:44:25 - fair_contrastive/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/utk_face/v002_age_25_classifier/best_loss_state.pth.
+2024-05-20 20:44:45 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [30/100], Loss: 0.8547, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:44:45 - fair_contrastive/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/utk_face/v002_age_25_classifier/best_loss_state.pth.
+2024-05-20 20:45:05 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [31/100], Loss: 0.8546, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:45:05 - fair_contrastive/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/utk_face/v002_age_25_classifier/best_loss_state.pth.
+2024-05-20 20:45:25 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [32/100], Loss: 0.8547, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:45:45 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [33/100], Loss: 0.8546, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:45:45 - fair_contrastive/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/utk_face/v002_age_25_classifier/best_loss_state.pth.
+2024-05-20 20:46:05 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [34/100], Loss: 0.8547, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:46:25 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [35/100], Loss: 0.8546, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:46:25 - fair_contrastive/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/utk_face/v002_age_25_classifier/best_loss_state.pth.
+2024-05-20 20:46:45 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [36/100], Loss: 0.8545, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:46:45 - fair_contrastive/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/utk_face/v002_age_25_classifier/best_loss_state.pth.
+2024-05-20 20:47:05 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [37/100], Loss: 0.8545, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:47:25 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [38/100], Loss: 0.8546, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:47:45 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [39/100], Loss: 0.8545, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:47:45 - fair_contrastive/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/utk_face/v002_age_25_classifier/best_loss_state.pth.
+2024-05-20 20:48:06 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [40/100], Loss: 0.8545, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:48:06 - fair_contrastive/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/utk_face/v002_age_25_classifier/best_loss_state.pth.
+2024-05-20 20:48:26 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [41/100], Loss: 0.8545, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:48:46 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [42/100], Loss: 0.8544, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:48:46 - fair_contrastive/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/utk_face/v002_age_25_classifier/best_loss_state.pth.
+2024-05-20 20:49:06 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [43/100], Loss: 0.8546, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:49:26 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [44/100], Loss: 0.8544, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:49:47 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [45/100], Loss: 0.8546, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:50:07 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [46/100], Loss: 0.8543, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:50:07 - fair_contrastive/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/utk_face/v002_age_25_classifier/best_loss_state.pth.
+2024-05-20 20:50:27 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [47/100], Loss: 0.8544, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:50:48 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [48/100], Loss: 0.8544, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:51:08 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [49/100], Loss: 0.8543, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:51:08 - fair_contrastive/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/utk_face/v002_age_25_classifier/best_loss_state.pth.
+2024-05-20 20:51:29 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [50/100], Loss: 0.8543, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:51:29 - fair_contrastive/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/utk_face/v002_age_25_classifier/best_loss_state.pth.
+2024-05-20 20:51:49 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [51/100], Loss: 0.8544, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:52:10 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [52/100], Loss: 0.8543, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:52:10 - fair_contrastive/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/utk_face/v002_age_25_classifier/best_loss_state.pth.
+2024-05-20 20:52:30 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [53/100], Loss: 0.8542, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:52:30 - fair_contrastive/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/utk_face/v002_age_25_classifier/best_loss_state.pth.
+2024-05-20 20:52:51 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [54/100], Loss: 0.8543, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:53:12 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [55/100], Loss: 0.8542, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:53:12 - fair_contrastive/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/utk_face/v002_age_25_classifier/best_loss_state.pth.
+2024-05-20 20:53:32 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [56/100], Loss: 0.8541, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:53:32 - fair_contrastive/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/utk_face/v002_age_25_classifier/best_loss_state.pth.
+2024-05-20 20:53:53 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [57/100], Loss: 0.8541, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:54:14 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [58/100], Loss: 0.8540, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:54:14 - fair_contrastive/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/utk_face/v002_age_25_classifier/best_loss_state.pth.
+2024-05-20 20:54:35 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [59/100], Loss: 0.8541, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:54:56 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [60/100], Loss: 0.8540, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:54:56 - fair_contrastive/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/utk_face/v002_age_25_classifier/best_loss_state.pth.
+2024-05-20 20:55:17 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [61/100], Loss: 0.8541, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:55:38 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [62/100], Loss: 0.8541, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:55:59 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [63/100], Loss: 0.8540, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:56:20 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [64/100], Loss: 0.8539, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:56:20 - fair_contrastive/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/utk_face/v002_age_25_classifier/best_loss_state.pth.
+2024-05-20 20:56:41 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [65/100], Loss: 0.8542, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:57:02 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [66/100], Loss: 0.8539, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:57:02 - fair_contrastive/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/utk_face/v002_age_25_classifier/best_loss_state.pth.
+2024-05-20 20:57:23 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [67/100], Loss: 0.8539, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:57:44 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [68/100], Loss: 0.8539, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:58:05 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [69/100], Loss: 0.8539, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:58:05 - fair_contrastive/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/utk_face/v002_age_25_classifier/best_loss_state.pth.
+2024-05-20 20:58:27 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [70/100], Loss: 0.8538, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:58:27 - fair_contrastive/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/utk_face/v002_age_25_classifier/best_loss_state.pth.
+2024-05-20 20:58:48 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [71/100], Loss: 0.8538, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:58:48 - fair_contrastive/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/utk_face/v002_age_25_classifier/best_loss_state.pth.
+2024-05-20 20:59:09 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [72/100], Loss: 0.8538, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:59:09 - fair_contrastive/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/utk_face/v002_age_25_classifier/best_loss_state.pth.
+2024-05-20 20:59:30 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [73/100], Loss: 0.8538, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:59:51 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [74/100], Loss: 0.8537, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 20:59:51 - fair_contrastive/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/utk_face/v002_age_25_classifier/best_loss_state.pth.
+2024-05-20 21:00:13 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [75/100], Loss: 0.8538, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 21:00:34 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [76/100], Loss: 0.8538, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 21:00:55 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [77/100], Loss: 0.8537, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 21:00:55 - fair_contrastive/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/utk_face/v002_age_25_classifier/best_loss_state.pth.
+2024-05-20 21:01:17 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [78/100], Loss: 0.8536, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 21:01:17 - fair_contrastive/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/utk_face/v002_age_25_classifier/best_loss_state.pth.
+2024-05-20 21:01:38 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [79/100], Loss: 0.8535, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 21:01:38 - fair_contrastive/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/utk_face/v002_age_25_classifier/best_loss_state.pth.
+2024-05-20 21:01:59 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [80/100], Loss: 0.8536, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 21:02:21 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [81/100], Loss: 0.8537, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 21:02:42 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [82/100], Loss: 0.8535, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 21:03:03 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [83/100], Loss: 0.8536, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 21:03:25 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [84/100], Loss: 0.8536, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 21:03:46 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [85/100], Loss: 0.8534, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 21:03:46 - fair_contrastive/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/utk_face/v002_age_25_classifier/best_loss_state.pth.
+2024-05-20 21:04:07 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [86/100], Loss: 0.8534, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 21:04:29 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [87/100], Loss: 0.8534, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 21:04:29 - fair_contrastive/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/utk_face/v002_age_25_classifier/best_loss_state.pth.
+2024-05-20 21:04:51 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [88/100], Loss: 0.8534, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 21:05:12 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [89/100], Loss: 0.8533, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 21:05:12 - fair_contrastive/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/utk_face/v002_age_25_classifier/best_loss_state.pth.
+2024-05-20 21:05:34 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [90/100], Loss: 0.8533, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 21:05:34 - fair_contrastive/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/utk_face/v002_age_25_classifier/best_loss_state.pth.
+2024-05-20 21:05:55 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [91/100], Loss: 0.8533, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 21:06:17 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [92/100], Loss: 0.8533, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 21:06:38 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [93/100], Loss: 0.8533, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 21:07:00 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [94/100], Loss: 0.8532, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 21:07:00 - fair_contrastive/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/utk_face/v002_age_25_classifier/best_loss_state.pth.
+2024-05-20 21:07:21 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [95/100], Loss: 0.8533, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 21:07:42 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [96/100], Loss: 0.8532, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 21:07:42 - fair_contrastive/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/utk_face/v002_age_25_classifier/best_loss_state.pth.
+2024-05-20 21:08:04 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [97/100], Loss: 0.8531, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 21:08:04 - fair_contrastive/utk_face/v002_age_25 - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/utk_face/v002_age_25_classifier/best_loss_state.pth.
+2024-05-20 21:08:25 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [98/100], Loss: 0.8531, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 21:08:47 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [99/100], Loss: 0.8532, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 21:09:09 - fair_contrastive/utk_face/v002_age_25 - INFO - Epoch [100/100], Loss: 0.8533, Valid Acc: 0.6083, Valid F1: 0.2521, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-20 21:09:09 - fair_contrastive/utk_face/v002_age_25 - INFO - Saved model final to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/utk_face/v002_age_25_classifier/final_state.pth.
+2024-05-20 21:09:09 - fair_contrastive/utk_face/v002_age_25 - INFO - Model and metrics saved.
+2024-05-20 21:09:09 - fair_contrastive/utk_face/v002_age_25 - INFO - Training finished.

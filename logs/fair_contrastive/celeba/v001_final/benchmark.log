@@ -1,0 +1,156 @@
+2024-07-10 08:31:37 - fair_contrastive/celeba/v001_final - INFO - Start fair contrastive learning benchmark.
+2024-07-10 08:31:37 - fair_contrastive/celeba/v001_final - INFO - Contrastive Training started.
+2024-07-10 09:06:37 - fair_contrastive/celeba/v001_final - INFO - Epoch [1/50], Loss: 14.3740
+2024-07-10 09:37:01 - fair_contrastive/celeba/v001_final - INFO - Epoch [2/50], Loss: 11.8446
+2024-07-10 10:05:00 - fair_contrastive/celeba/v001_final - INFO - Epoch [3/50], Loss: 11.1957
+2024-07-10 10:33:03 - fair_contrastive/celeba/v001_final - INFO - Epoch [4/50], Loss: 10.7756
+2024-07-10 11:00:57 - fair_contrastive/celeba/v001_final - INFO - Epoch [5/50], Loss: 10.5023
+2024-07-10 11:30:49 - fair_contrastive/celeba/v001_final - INFO - Epoch [6/50], Loss: 10.2905
+2024-07-10 11:59:47 - fair_contrastive/celeba/v001_final - INFO - Epoch [7/50], Loss: 10.0649
+2024-07-10 12:39:35 - fair_contrastive/celeba/v001_final - INFO - Epoch [8/50], Loss: 9.9229
+2024-07-10 13:12:08 - fair_contrastive/celeba/v001_final - INFO - Epoch [9/50], Loss: 9.7990
+2024-07-10 13:43:03 - fair_contrastive/celeba/v001_final - INFO - Epoch [10/50], Loss: 9.6549
+2024-07-10 14:13:54 - fair_contrastive/celeba/v001_final - INFO - Epoch [11/50], Loss: 9.5331
+2024-07-10 14:45:05 - fair_contrastive/celeba/v001_final - INFO - Epoch [12/50], Loss: 9.3574
+2024-07-10 15:16:16 - fair_contrastive/celeba/v001_final - INFO - Epoch [13/50], Loss: 9.2399
+2024-07-10 15:53:25 - fair_contrastive/celeba/v001_final - INFO - Epoch [14/50], Loss: 9.1079
+2024-07-10 16:24:22 - fair_contrastive/celeba/v001_final - INFO - Epoch [15/50], Loss: 8.9640
+2024-07-10 16:55:17 - fair_contrastive/celeba/v001_final - INFO - Epoch [16/50], Loss: 8.8618
+2024-07-10 17:26:11 - fair_contrastive/celeba/v001_final - INFO - Epoch [17/50], Loss: 8.8367
+2024-07-10 17:57:03 - fair_contrastive/celeba/v001_final - INFO - Epoch [18/50], Loss: 8.6293
+2024-07-10 18:27:56 - fair_contrastive/celeba/v001_final - INFO - Epoch [19/50], Loss: 8.5031
+2024-07-10 18:58:49 - fair_contrastive/celeba/v001_final - INFO - Epoch [20/50], Loss: 8.5365
+2024-07-10 19:29:48 - fair_contrastive/celeba/v001_final - INFO - Epoch [21/50], Loss: 8.5538
+2024-07-10 20:00:43 - fair_contrastive/celeba/v001_final - INFO - Epoch [22/50], Loss: 8.3373
+2024-07-10 20:31:37 - fair_contrastive/celeba/v001_final - INFO - Epoch [23/50], Loss: 8.2490
+2024-07-10 21:02:29 - fair_contrastive/celeba/v001_final - INFO - Epoch [24/50], Loss: 8.2572
+2024-07-10 21:33:21 - fair_contrastive/celeba/v001_final - INFO - Epoch [25/50], Loss: 8.2159
+2024-07-10 22:04:21 - fair_contrastive/celeba/v001_final - INFO - Epoch [26/50], Loss: 8.0496
+2024-07-10 22:35:16 - fair_contrastive/celeba/v001_final - INFO - Epoch [27/50], Loss: 8.0305
+2024-07-10 23:06:34 - fair_contrastive/celeba/v001_final - INFO - Epoch [28/50], Loss: 7.9802
+2024-07-10 23:37:55 - fair_contrastive/celeba/v001_final - INFO - Epoch [29/50], Loss: 7.8639
+2024-07-11 00:08:59 - fair_contrastive/celeba/v001_final - INFO - Epoch [30/50], Loss: 7.7836
+2024-07-11 00:39:54 - fair_contrastive/celeba/v001_final - INFO - Epoch [31/50], Loss: 7.7326
+2024-07-11 01:10:51 - fair_contrastive/celeba/v001_final - INFO - Epoch [32/50], Loss: 7.6253
+2024-07-11 01:41:45 - fair_contrastive/celeba/v001_final - INFO - Epoch [33/50], Loss: 7.9000
+2024-07-11 02:12:37 - fair_contrastive/celeba/v001_final - INFO - Epoch [34/50], Loss: 7.8276
+2024-07-11 02:43:33 - fair_contrastive/celeba/v001_final - INFO - Epoch [35/50], Loss: 7.6938
+2024-07-11 03:14:23 - fair_contrastive/celeba/v001_final - INFO - Epoch [36/50], Loss: 7.4832
+2024-07-11 03:45:17 - fair_contrastive/celeba/v001_final - INFO - Epoch [37/50], Loss: 7.5723
+2024-07-11 04:16:24 - fair_contrastive/celeba/v001_final - INFO - Epoch [38/50], Loss: 7.3900
+2024-07-11 04:47:20 - fair_contrastive/celeba/v001_final - INFO - Epoch [39/50], Loss: 7.5186
+2024-07-11 05:18:11 - fair_contrastive/celeba/v001_final - INFO - Epoch [40/50], Loss: 7.4159
+2024-07-11 05:49:04 - fair_contrastive/celeba/v001_final - INFO - Epoch [41/50], Loss: 7.3617
+2024-07-11 06:19:58 - fair_contrastive/celeba/v001_final - INFO - Epoch [42/50], Loss: 7.4697
+2024-07-11 06:50:52 - fair_contrastive/celeba/v001_final - INFO - Epoch [43/50], Loss: 7.2776
+2024-07-11 07:21:42 - fair_contrastive/celeba/v001_final - INFO - Epoch [44/50], Loss: 7.3061
+2024-07-11 07:52:37 - fair_contrastive/celeba/v001_final - INFO - Epoch [45/50], Loss: 7.2879
+2024-07-11 08:23:26 - fair_contrastive/celeba/v001_final - INFO - Epoch [46/50], Loss: 7.3068
+2024-07-11 08:54:17 - fair_contrastive/celeba/v001_final - INFO - Epoch [47/50], Loss: 7.2756
+2024-07-11 09:25:41 - fair_contrastive/celeba/v001_final - INFO - Epoch [48/50], Loss: 7.2434
+2024-07-11 10:02:39 - fair_contrastive/celeba/v001_final - INFO - Epoch [49/50], Loss: 7.2360
+2024-07-11 10:33:36 - fair_contrastive/celeba/v001_final - INFO - Epoch [50/50], Loss: 7.2384
+2024-07-11 10:33:36 - fair_contrastive/celeba/v001_final - INFO - Saved model final_contrastive_model to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/celeba/v001_final_contrastive/final_contrastive_model_state.pth.
+2024-07-11 10:33:36 - fair_contrastive/celeba/v001_final - INFO - Contrastive Model and loss saved.
+2024-07-11 10:33:36 - fair_contrastive/celeba/v001_final - INFO - Contrastive Training finished.
+2024-07-11 10:33:36 - fair_contrastive/celeba/v001_final - INFO - Training started.
+2024-07-11 10:40:49 - fair_contrastive/celeba/v001_final - INFO - Epoch [1/50], Loss: 0.2059, Valid Acc: 0.9227, Valid F1: 0.9177, Valid DP: 0.1207, Valid EOD: 0.0286
+2024-07-11 10:40:49 - fair_contrastive/celeba/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/celeba/v001_final_classifier/best_f1_state.pth.
+2024-07-11 10:40:49 - fair_contrastive/celeba/v001_final - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/celeba/v001_final_classifier/best_eod_state.pth.
+2024-07-11 10:40:49 - fair_contrastive/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/celeba/v001_final_classifier/best_loss_state.pth.
+2024-07-11 10:47:09 - fair_contrastive/celeba/v001_final - INFO - Epoch [2/50], Loss: 0.1788, Valid Acc: 0.9242, Valid F1: 0.9199, Valid DP: 0.1207, Valid EOD: 0.0281
+2024-07-11 10:47:09 - fair_contrastive/celeba/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/celeba/v001_final_classifier/best_f1_state.pth.
+2024-07-11 10:47:09 - fair_contrastive/celeba/v001_final - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/celeba/v001_final_classifier/best_eod_state.pth.
+2024-07-11 10:47:09 - fair_contrastive/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/celeba/v001_final_classifier/best_loss_state.pth.
+2024-07-11 10:53:33 - fair_contrastive/celeba/v001_final - INFO - Epoch [3/50], Loss: 0.1769, Valid Acc: 0.9251, Valid F1: 0.9210, Valid DP: 0.1214, Valid EOD: 0.0294
+2024-07-11 10:53:33 - fair_contrastive/celeba/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/celeba/v001_final_classifier/best_f1_state.pth.
+2024-07-11 10:53:33 - fair_contrastive/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/celeba/v001_final_classifier/best_loss_state.pth.
+2024-07-11 10:59:59 - fair_contrastive/celeba/v001_final - INFO - Epoch [4/50], Loss: 0.1756, Valid Acc: 0.9236, Valid F1: 0.9189, Valid DP: 0.1229, Valid EOD: 0.0320
+2024-07-11 10:59:59 - fair_contrastive/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/celeba/v001_final_classifier/best_loss_state.pth.
+2024-07-11 11:07:25 - fair_contrastive/celeba/v001_final - INFO - Epoch [5/50], Loss: 0.1750, Valid Acc: 0.9252, Valid F1: 0.9210, Valid DP: 0.1249, Valid EOD: 0.0336
+2024-07-11 11:07:25 - fair_contrastive/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/celeba/v001_final_classifier/best_loss_state.pth.
+2024-07-11 11:20:41 - fair_contrastive/celeba/v001_final - INFO - Epoch [6/50], Loss: 0.1744, Valid Acc: 0.9253, Valid F1: 0.9218, Valid DP: 0.1239, Valid EOD: 0.0303
+2024-07-11 11:20:41 - fair_contrastive/celeba/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/celeba/v001_final_classifier/best_f1_state.pth.
+2024-07-11 11:20:41 - fair_contrastive/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/celeba/v001_final_classifier/best_loss_state.pth.
+2024-07-11 11:27:22 - fair_contrastive/celeba/v001_final - INFO - Epoch [7/50], Loss: 0.1740, Valid Acc: 0.9253, Valid F1: 0.9212, Valid DP: 0.1252, Valid EOD: 0.0332
+2024-07-11 11:27:22 - fair_contrastive/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/celeba/v001_final_classifier/best_loss_state.pth.
+2024-07-11 11:34:06 - fair_contrastive/celeba/v001_final - INFO - Epoch [8/50], Loss: 0.1737, Valid Acc: 0.9251, Valid F1: 0.9211, Valid DP: 0.1255, Valid EOD: 0.0337
+2024-07-11 11:34:06 - fair_contrastive/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/celeba/v001_final_classifier/best_loss_state.pth.
+2024-07-11 11:40:49 - fair_contrastive/celeba/v001_final - INFO - Epoch [9/50], Loss: 0.1736, Valid Acc: 0.9256, Valid F1: 0.9221, Valid DP: 0.1254, Valid EOD: 0.0311
+2024-07-11 11:40:49 - fair_contrastive/celeba/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/celeba/v001_final_classifier/best_f1_state.pth.
+2024-07-11 11:40:49 - fair_contrastive/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/celeba/v001_final_classifier/best_loss_state.pth.
+2024-07-11 11:47:34 - fair_contrastive/celeba/v001_final - INFO - Epoch [10/50], Loss: 0.1734, Valid Acc: 0.9250, Valid F1: 0.9205, Valid DP: 0.1254, Valid EOD: 0.0318
+2024-07-11 11:47:34 - fair_contrastive/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/celeba/v001_final_classifier/best_loss_state.pth.
+2024-07-11 11:54:22 - fair_contrastive/celeba/v001_final - INFO - Epoch [11/50], Loss: 0.1729, Valid Acc: 0.9253, Valid F1: 0.9218, Valid DP: 0.1240, Valid EOD: 0.0296
+2024-07-11 11:54:22 - fair_contrastive/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/celeba/v001_final_classifier/best_loss_state.pth.
+2024-07-11 12:01:16 - fair_contrastive/celeba/v001_final - INFO - Epoch [12/50], Loss: 0.1729, Valid Acc: 0.9262, Valid F1: 0.9222, Valid DP: 0.1252, Valid EOD: 0.0310
+2024-07-11 12:01:16 - fair_contrastive/celeba/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/celeba/v001_final_classifier/best_f1_state.pth.
+2024-07-11 12:01:16 - fair_contrastive/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/celeba/v001_final_classifier/best_loss_state.pth.
+2024-07-11 12:08:13 - fair_contrastive/celeba/v001_final - INFO - Epoch [13/50], Loss: 0.1726, Valid Acc: 0.9254, Valid F1: 0.9211, Valid DP: 0.1256, Valid EOD: 0.0313
+2024-07-11 12:08:13 - fair_contrastive/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/celeba/v001_final_classifier/best_loss_state.pth.
+2024-07-11 12:15:12 - fair_contrastive/celeba/v001_final - INFO - Epoch [14/50], Loss: 0.1726, Valid Acc: 0.9253, Valid F1: 0.9223, Valid DP: 0.1236, Valid EOD: 0.0270
+2024-07-11 12:15:12 - fair_contrastive/celeba/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/celeba/v001_final_classifier/best_f1_state.pth.
+2024-07-11 12:15:12 - fair_contrastive/celeba/v001_final - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/celeba/v001_final_classifier/best_eod_state.pth.
+2024-07-11 12:15:12 - fair_contrastive/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/celeba/v001_final_classifier/best_loss_state.pth.
+2024-07-11 12:22:15 - fair_contrastive/celeba/v001_final - INFO - Epoch [15/50], Loss: 0.1724, Valid Acc: 0.9252, Valid F1: 0.9203, Valid DP: 0.1271, Valid EOD: 0.0368
+2024-07-11 12:22:15 - fair_contrastive/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/celeba/v001_final_classifier/best_loss_state.pth.
+2024-07-11 12:29:21 - fair_contrastive/celeba/v001_final - INFO - Epoch [16/50], Loss: 0.1724, Valid Acc: 0.9257, Valid F1: 0.9224, Valid DP: 0.1247, Valid EOD: 0.0283
+2024-07-11 12:29:21 - fair_contrastive/celeba/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/celeba/v001_final_classifier/best_f1_state.pth.
+2024-07-11 12:36:31 - fair_contrastive/celeba/v001_final - INFO - Epoch [17/50], Loss: 0.1721, Valid Acc: 0.9252, Valid F1: 0.9205, Valid DP: 0.1264, Valid EOD: 0.0347
+2024-07-11 12:36:31 - fair_contrastive/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/celeba/v001_final_classifier/best_loss_state.pth.
+2024-07-11 12:43:44 - fair_contrastive/celeba/v001_final - INFO - Epoch [18/50], Loss: 0.1724, Valid Acc: 0.9255, Valid F1: 0.9210, Valid DP: 0.1254, Valid EOD: 0.0317
+2024-07-11 12:51:02 - fair_contrastive/celeba/v001_final - INFO - Epoch [19/50], Loss: 0.1722, Valid Acc: 0.9254, Valid F1: 0.9220, Valid DP: 0.1246, Valid EOD: 0.0293
+2024-07-11 12:58:22 - fair_contrastive/celeba/v001_final - INFO - Epoch [20/50], Loss: 0.1719, Valid Acc: 0.9264, Valid F1: 0.9224, Valid DP: 0.1253, Valid EOD: 0.0303
+2024-07-11 12:58:22 - fair_contrastive/celeba/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/celeba/v001_final_classifier/best_f1_state.pth.
+2024-07-11 12:58:22 - fair_contrastive/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/celeba/v001_final_classifier/best_loss_state.pth.
+2024-07-11 13:05:43 - fair_contrastive/celeba/v001_final - INFO - Epoch [21/50], Loss: 0.1723, Valid Acc: 0.9265, Valid F1: 0.9227, Valid DP: 0.1254, Valid EOD: 0.0310
+2024-07-11 13:05:43 - fair_contrastive/celeba/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/celeba/v001_final_classifier/best_f1_state.pth.
+2024-07-11 13:13:06 - fair_contrastive/celeba/v001_final - INFO - Epoch [22/50], Loss: 0.1717, Valid Acc: 0.9261, Valid F1: 0.9220, Valid DP: 0.1256, Valid EOD: 0.0312
+2024-07-11 13:13:06 - fair_contrastive/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/celeba/v001_final_classifier/best_loss_state.pth.
+2024-07-11 13:20:34 - fair_contrastive/celeba/v001_final - INFO - Epoch [23/50], Loss: 0.1720, Valid Acc: 0.9256, Valid F1: 0.9224, Valid DP: 0.1242, Valid EOD: 0.0271
+2024-07-11 13:28:05 - fair_contrastive/celeba/v001_final - INFO - Epoch [24/50], Loss: 0.1716, Valid Acc: 0.9252, Valid F1: 0.9202, Valid DP: 0.1278, Valid EOD: 0.0353
+2024-07-11 13:28:05 - fair_contrastive/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/celeba/v001_final_classifier/best_loss_state.pth.
+2024-07-11 13:35:39 - fair_contrastive/celeba/v001_final - INFO - Epoch [25/50], Loss: 0.1715, Valid Acc: 0.9261, Valid F1: 0.9219, Valid DP: 0.1257, Valid EOD: 0.0305
+2024-07-11 13:35:39 - fair_contrastive/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/celeba/v001_final_classifier/best_loss_state.pth.
+2024-07-11 13:43:15 - fair_contrastive/celeba/v001_final - INFO - Epoch [26/50], Loss: 0.1715, Valid Acc: 0.9260, Valid F1: 0.9218, Valid DP: 0.1254, Valid EOD: 0.0304
+2024-07-11 13:50:56 - fair_contrastive/celeba/v001_final - INFO - Epoch [27/50], Loss: 0.1715, Valid Acc: 0.9260, Valid F1: 0.9224, Valid DP: 0.1264, Valid EOD: 0.0320
+2024-07-11 13:50:56 - fair_contrastive/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/celeba/v001_final_classifier/best_loss_state.pth.
+2024-07-11 13:58:39 - fair_contrastive/celeba/v001_final - INFO - Epoch [28/50], Loss: 0.1714, Valid Acc: 0.9250, Valid F1: 0.9220, Valid DP: 0.1240, Valid EOD: 0.0280
+2024-07-11 13:58:39 - fair_contrastive/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/celeba/v001_final_classifier/best_loss_state.pth.
+2024-07-11 14:06:27 - fair_contrastive/celeba/v001_final - INFO - Epoch [29/50], Loss: 0.1715, Valid Acc: 0.9252, Valid F1: 0.9205, Valid DP: 0.1278, Valid EOD: 0.0351
+2024-07-11 14:14:19 - fair_contrastive/celeba/v001_final - INFO - Epoch [30/50], Loss: 0.1714, Valid Acc: 0.9256, Valid F1: 0.9221, Valid DP: 0.1242, Valid EOD: 0.0290
+2024-07-11 14:14:19 - fair_contrastive/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/celeba/v001_final_classifier/best_loss_state.pth.
+2024-07-11 14:22:18 - fair_contrastive/celeba/v001_final - INFO - Epoch [31/50], Loss: 0.1715, Valid Acc: 0.9257, Valid F1: 0.9220, Valid DP: 0.1249, Valid EOD: 0.0311
+2024-07-11 14:30:19 - fair_contrastive/celeba/v001_final - INFO - Epoch [32/50], Loss: 0.1715, Valid Acc: 0.9260, Valid F1: 0.9222, Valid DP: 0.1258, Valid EOD: 0.0327
+2024-07-11 14:38:25 - fair_contrastive/celeba/v001_final - INFO - Epoch [33/50], Loss: 0.1712, Valid Acc: 0.9260, Valid F1: 0.9220, Valid DP: 0.1259, Valid EOD: 0.0320
+2024-07-11 14:38:25 - fair_contrastive/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/celeba/v001_final_classifier/best_loss_state.pth.
+2024-07-11 14:46:33 - fair_contrastive/celeba/v001_final - INFO - Epoch [34/50], Loss: 0.1711, Valid Acc: 0.9262, Valid F1: 0.9223, Valid DP: 0.1266, Valid EOD: 0.0322
+2024-07-11 14:46:33 - fair_contrastive/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/celeba/v001_final_classifier/best_loss_state.pth.
+2024-07-11 14:54:46 - fair_contrastive/celeba/v001_final - INFO - Epoch [35/50], Loss: 0.1711, Valid Acc: 0.9264, Valid F1: 0.9227, Valid DP: 0.1251, Valid EOD: 0.0308
+2024-07-11 14:54:46 - fair_contrastive/celeba/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/celeba/v001_final_classifier/best_f1_state.pth.
+2024-07-11 14:54:46 - fair_contrastive/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/celeba/v001_final_classifier/best_loss_state.pth.
+2024-07-11 15:03:02 - fair_contrastive/celeba/v001_final - INFO - Epoch [36/50], Loss: 0.1715, Valid Acc: 0.9259, Valid F1: 0.9219, Valid DP: 0.1249, Valid EOD: 0.0309
+2024-07-11 15:15:03 - fair_contrastive/celeba/v001_final - INFO - Epoch [37/50], Loss: 0.1712, Valid Acc: 0.9257, Valid F1: 0.9220, Valid DP: 0.1262, Valid EOD: 0.0319
+2024-07-11 15:27:10 - fair_contrastive/celeba/v001_final - INFO - Epoch [38/50], Loss: 0.1712, Valid Acc: 0.9262, Valid F1: 0.9225, Valid DP: 0.1254, Valid EOD: 0.0316
+2024-07-11 15:35:35 - fair_contrastive/celeba/v001_final - INFO - Epoch [39/50], Loss: 0.1709, Valid Acc: 0.9258, Valid F1: 0.9222, Valid DP: 0.1247, Valid EOD: 0.0297
+2024-07-11 15:35:35 - fair_contrastive/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/celeba/v001_final_classifier/best_loss_state.pth.
+2024-07-11 15:44:02 - fair_contrastive/celeba/v001_final - INFO - Epoch [40/50], Loss: 0.1710, Valid Acc: 0.9258, Valid F1: 0.9222, Valid DP: 0.1263, Valid EOD: 0.0311
+2024-07-11 15:52:33 - fair_contrastive/celeba/v001_final - INFO - Epoch [41/50], Loss: 0.1711, Valid Acc: 0.9254, Valid F1: 0.9224, Valid DP: 0.1232, Valid EOD: 0.0272
+2024-07-11 16:01:07 - fair_contrastive/celeba/v001_final - INFO - Epoch [42/50], Loss: 0.1710, Valid Acc: 0.9263, Valid F1: 0.9220, Valid DP: 0.1270, Valid EOD: 0.0329
+2024-07-11 16:09:45 - fair_contrastive/celeba/v001_final - INFO - Epoch [43/50], Loss: 0.1712, Valid Acc: 0.9263, Valid F1: 0.9224, Valid DP: 0.1259, Valid EOD: 0.0320
+2024-07-11 16:18:26 - fair_contrastive/celeba/v001_final - INFO - Epoch [44/50], Loss: 0.1709, Valid Acc: 0.9260, Valid F1: 0.9223, Valid DP: 0.1258, Valid EOD: 0.0325
+2024-07-11 16:27:10 - fair_contrastive/celeba/v001_final - INFO - Epoch [45/50], Loss: 0.1710, Valid Acc: 0.9253, Valid F1: 0.9220, Valid DP: 0.1242, Valid EOD: 0.0281
+2024-07-11 16:35:58 - fair_contrastive/celeba/v001_final - INFO - Epoch [46/50], Loss: 0.1709, Valid Acc: 0.9256, Valid F1: 0.9221, Valid DP: 0.1251, Valid EOD: 0.0303
+2024-07-11 16:35:58 - fair_contrastive/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/celeba/v001_final_classifier/best_loss_state.pth.
+2024-07-11 16:44:49 - fair_contrastive/celeba/v001_final - INFO - Epoch [47/50], Loss: 0.1709, Valid Acc: 0.9257, Valid F1: 0.9223, Valid DP: 0.1251, Valid EOD: 0.0303
+2024-07-11 16:44:49 - fair_contrastive/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/celeba/v001_final_classifier/best_loss_state.pth.
+2024-07-11 16:53:43 - fair_contrastive/celeba/v001_final - INFO - Epoch [48/50], Loss: 0.1709, Valid Acc: 0.9268, Valid F1: 0.9228, Valid DP: 0.1260, Valid EOD: 0.0322
+2024-07-11 16:53:43 - fair_contrastive/celeba/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/celeba/v001_final_classifier/best_f1_state.pth.
+2024-07-11 16:53:43 - fair_contrastive/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/celeba/v001_final_classifier/best_loss_state.pth.
+2024-07-11 17:02:40 - fair_contrastive/celeba/v001_final - INFO - Epoch [49/50], Loss: 0.1709, Valid Acc: 0.9251, Valid F1: 0.9222, Valid DP: 0.1245, Valid EOD: 0.0277
+2024-07-11 17:02:40 - fair_contrastive/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/celeba/v001_final_classifier/best_loss_state.pth.
+2024-07-11 17:11:41 - fair_contrastive/celeba/v001_final - INFO - Epoch [50/50], Loss: 0.1709, Valid Acc: 0.9264, Valid F1: 0.9219, Valid DP: 0.1261, Valid EOD: 0.0321
+2024-07-11 17:11:41 - fair_contrastive/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/celeba/v001_final_classifier/best_loss_state.pth.
+2024-07-11 17:11:41 - fair_contrastive/celeba/v001_final - INFO - Saved model final to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/celeba/v001_final_classifier/final_state.pth.
+2024-07-11 17:11:41 - fair_contrastive/celeba/v001_final - INFO - Model and metrics saved.
+2024-07-11 17:11:41 - fair_contrastive/celeba/v001_final - INFO - Training finished.

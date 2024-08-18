@@ -1,0 +1,4 @@
+2024-07-08 23:00:35 - blackbox_balancer/celeba/v001_final - INFO - Start blackbox multiclass balancer benchmark.
+2024-07-08 23:00:35 - blackbox_balancer/celeba/v001_final - INFO - Model has been loaded from C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/blackbox_balancer/celeba/v001_final.
+2024-07-08 23:01:14 - blackbox_balancer/celeba/v001_final - INFO - Applied post processing
+2024-07-08 23:01:14 - blackbox_balancer/celeba/v001_final - INFO - Validation metrics: {'valid_acc': 0.7947349876679921, 'valid_f1': 0.735022742040286, 'valid_precision': 0.9771941948859709, 'valid_auc': 0.788092359391355, 'valid_eod': 0.00020924271684177181, 'valid_dp': 0.07620321318347054, 'valid_TPR': 0.5890439491772548, 'valid_TNR': 0.9871407696054554, 'valid_FPR': 0.012859230394544568, 'valid_FNR': 0.4109560508227453, 'valid_MCC': 0.6336827689501308}

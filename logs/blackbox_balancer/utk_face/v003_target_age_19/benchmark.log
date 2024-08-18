@@ -1,0 +1,4 @@
+2024-05-26 11:38:48 - blackbox_balancer/utk_face/v003_target_age_19 - INFO - Start blackbox multiclass balancer benchmark.
+2024-05-26 11:38:48 - blackbox_balancer/utk_face/v003_target_age_19 - INFO - Model has been loaded from C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/blackbox_balancer/utk_face/v003_target_age_19.
+2024-05-26 11:38:50 - blackbox_balancer/utk_face/v003_target_age_19 - INFO - Applied post processing
+2024-05-26 11:38:50 - blackbox_balancer/utk_face/v003_target_age_19 - INFO - Validation metrics: {'valid_acc': 0.5745428973277075, 'valid_f1': 0.5236749201063732, 'valid_eod_max': 0.28175582369320623, 'valid_eod_mean': 0.14136290437771176, 'valid_eod_strict': 0.28175582369320623, 'valid_dp_max': 0.13661929864658312, 'valid_dp_mean': 0.09107953243105542}

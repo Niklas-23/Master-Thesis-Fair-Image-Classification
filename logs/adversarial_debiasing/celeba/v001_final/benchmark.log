@@ -1,0 +1,88 @@
+2024-05-15 07:17:50 - adversarial_debiasing/celeba/v001_final - INFO - Start adversairal debiasing benchmark.
+2024-05-15 07:17:50 - adversarial_debiasing/celeba/v001_final - INFO - Training started.
+2024-05-15 07:33:04 - adversarial_debiasing/celeba/v001_final - INFO - Epoch [1/50], Loss: 5.4540, Valid Acc: 0.8835, Valid F1: 0.8663, Valid DP: 0.1676, Valid EOD: 0.1395
+2024-05-15 07:33:04 - adversarial_debiasing/celeba/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/celeba/v001_final/best_f1_state.pth.
+2024-05-15 07:33:04 - adversarial_debiasing/celeba/v001_final - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/celeba/v001_final/best_eod_state.pth.
+2024-05-15 07:33:04 - adversarial_debiasing/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/celeba/v001_final/best_loss_state.pth.
+2024-05-15 07:39:59 - adversarial_debiasing/celeba/v001_final - INFO - Epoch [2/50], Loss: 0.2215, Valid Acc: 0.9145, Valid F1: 0.9100, Valid DP: 0.1200, Valid EOD: 0.0343
+2024-05-15 07:39:59 - adversarial_debiasing/celeba/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/celeba/v001_final/best_f1_state.pth.
+2024-05-15 07:39:59 - adversarial_debiasing/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/celeba/v001_final/best_loss_state.pth.
+2024-05-15 07:46:58 - adversarial_debiasing/celeba/v001_final - INFO - Epoch [3/50], Loss: 0.1923, Valid Acc: 0.9188, Valid F1: 0.9141, Valid DP: 0.1314, Valid EOD: 0.0434
+2024-05-15 07:46:58 - adversarial_debiasing/celeba/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/celeba/v001_final/best_f1_state.pth.
+2024-05-15 07:46:58 - adversarial_debiasing/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/celeba/v001_final/best_loss_state.pth.
+2024-05-15 07:53:59 - adversarial_debiasing/celeba/v001_final - INFO - Epoch [4/50], Loss: 0.1977, Valid Acc: 0.9215, Valid F1: 0.9194, Valid DP: 0.1340, Valid EOD: 0.0377
+2024-05-15 07:53:59 - adversarial_debiasing/celeba/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/celeba/v001_final/best_f1_state.pth.
+2024-05-15 08:01:04 - adversarial_debiasing/celeba/v001_final - INFO - Epoch [5/50], Loss: 0.2101, Valid Acc: 0.9079, Valid F1: 0.8980, Valid DP: 0.1290, Valid EOD: 0.0550
+2024-05-15 08:08:13 - adversarial_debiasing/celeba/v001_final - INFO - Epoch [6/50], Loss: 0.1942, Valid Acc: 0.9210, Valid F1: 0.9151, Valid DP: 0.1231, Valid EOD: 0.0372
+2024-05-15 08:15:25 - adversarial_debiasing/celeba/v001_final - INFO - Epoch [7/50], Loss: 0.1836, Valid Acc: 0.9177, Valid F1: 0.9104, Valid DP: 0.1221, Valid EOD: 0.0356
+2024-05-15 08:15:25 - adversarial_debiasing/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/celeba/v001_final/best_loss_state.pth.
+2024-05-15 08:22:41 - adversarial_debiasing/celeba/v001_final - INFO - Epoch [8/50], Loss: 0.1686, Valid Acc: 0.9208, Valid F1: 0.9200, Valid DP: 0.1467, Valid EOD: 0.0374
+2024-05-15 08:22:42 - adversarial_debiasing/celeba/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/celeba/v001_final/best_f1_state.pth.
+2024-05-15 08:22:42 - adversarial_debiasing/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/celeba/v001_final/best_loss_state.pth.
+2024-05-15 08:30:02 - adversarial_debiasing/celeba/v001_final - INFO - Epoch [9/50], Loss: 0.1555, Valid Acc: 0.9235, Valid F1: 0.9220, Valid DP: 0.1383, Valid EOD: 0.0346
+2024-05-15 08:30:02 - adversarial_debiasing/celeba/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/celeba/v001_final/best_f1_state.pth.
+2024-05-15 08:30:02 - adversarial_debiasing/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/celeba/v001_final/best_loss_state.pth.
+2024-05-15 08:37:10 - adversarial_debiasing/celeba/v001_final - INFO - Epoch [10/50], Loss: 0.1478, Valid Acc: 0.9233, Valid F1: 0.9203, Valid DP: 0.1399, Valid EOD: 0.0469
+2024-05-15 08:37:10 - adversarial_debiasing/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/celeba/v001_final/best_loss_state.pth.
+2024-05-15 08:44:20 - adversarial_debiasing/celeba/v001_final - INFO - Epoch [11/50], Loss: 0.1343, Valid Acc: 0.9176, Valid F1: 0.9116, Valid DP: 0.1331, Valid EOD: 0.0504
+2024-05-15 08:44:20 - adversarial_debiasing/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/celeba/v001_final/best_loss_state.pth.
+2024-05-15 08:51:34 - adversarial_debiasing/celeba/v001_final - INFO - Epoch [12/50], Loss: 0.1574, Valid Acc: 0.9149, Valid F1: 0.9077, Valid DP: 0.1303, Valid EOD: 0.0516
+2024-05-15 08:58:50 - adversarial_debiasing/celeba/v001_final - INFO - Epoch [13/50], Loss: 0.2236, Valid Acc: 0.9157, Valid F1: 0.9091, Valid DP: 0.1368, Valid EOD: 0.0542
+2024-05-15 09:06:10 - adversarial_debiasing/celeba/v001_final - INFO - Epoch [14/50], Loss: 0.1806, Valid Acc: 0.9287, Valid F1: 0.9251, Valid DP: 0.1277, Valid EOD: 0.0322
+2024-05-15 09:06:10 - adversarial_debiasing/celeba/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/celeba/v001_final/best_f1_state.pth.
+2024-05-15 09:13:33 - adversarial_debiasing/celeba/v001_final - INFO - Epoch [15/50], Loss: 0.1643, Valid Acc: 0.9215, Valid F1: 0.9150, Valid DP: 0.1344, Valid EOD: 0.0487
+2024-05-15 09:21:07 - adversarial_debiasing/celeba/v001_final - INFO - Epoch [16/50], Loss: 0.1643, Valid Acc: 0.9208, Valid F1: 0.9143, Valid DP: 0.1370, Valid EOD: 0.0553
+2024-05-15 09:32:17 - adversarial_debiasing/celeba/v001_final - INFO - Epoch [17/50], Loss: 0.1465, Valid Acc: 0.9174, Valid F1: 0.9100, Valid DP: 0.1337, Valid EOD: 0.0567
+2024-05-15 09:45:01 - adversarial_debiasing/celeba/v001_final - INFO - Epoch [18/50], Loss: 0.1385, Valid Acc: 0.6296, Valid F1: 0.7214, Valid DP: 0.1128, Valid EOD: 0.1321
+2024-05-15 09:52:51 - adversarial_debiasing/celeba/v001_final - INFO - Epoch [19/50], Loss: 0.1824, Valid Acc: 0.9240, Valid F1: 0.9197, Valid DP: 0.1253, Valid EOD: 0.0319
+2024-05-15 10:00:46 - adversarial_debiasing/celeba/v001_final - INFO - Epoch [20/50], Loss: 0.1427, Valid Acc: 0.9172, Valid F1: 0.9144, Valid DP: 0.1571, Valid EOD: 0.0632
+2024-05-15 10:08:45 - adversarial_debiasing/celeba/v001_final - INFO - Epoch [21/50], Loss: 0.1229, Valid Acc: 0.9181, Valid F1: 0.9145, Valid DP: 0.1435, Valid EOD: 0.0576
+2024-05-15 10:08:45 - adversarial_debiasing/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/celeba/v001_final/best_loss_state.pth.
+2024-05-15 10:16:49 - adversarial_debiasing/celeba/v001_final - INFO - Epoch [22/50], Loss: 0.1078, Valid Acc: 0.9159, Valid F1: 0.9140, Valid DP: 0.1410, Valid EOD: 0.0416
+2024-05-15 10:16:49 - adversarial_debiasing/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/celeba/v001_final/best_loss_state.pth.
+2024-05-15 10:24:53 - adversarial_debiasing/celeba/v001_final - INFO - Epoch [23/50], Loss: 0.1086, Valid Acc: 0.9149, Valid F1: 0.9088, Valid DP: 0.1554, Valid EOD: 0.0812
+2024-05-15 10:33:00 - adversarial_debiasing/celeba/v001_final - INFO - Epoch [24/50], Loss: 0.0847, Valid Acc: 0.9164, Valid F1: 0.9114, Valid DP: 0.1322, Valid EOD: 0.0406
+2024-05-15 10:33:00 - adversarial_debiasing/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/celeba/v001_final/best_loss_state.pth.
+2024-05-15 10:41:17 - adversarial_debiasing/celeba/v001_final - INFO - Epoch [25/50], Loss: 0.0736, Valid Acc: 0.9109, Valid F1: 0.9081, Valid DP: 0.1479, Valid EOD: 0.0544
+2024-05-15 10:41:17 - adversarial_debiasing/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/celeba/v001_final/best_loss_state.pth.
+2024-05-15 10:49:39 - adversarial_debiasing/celeba/v001_final - INFO - Epoch [26/50], Loss: 0.0616, Valid Acc: 0.8769, Valid F1: 0.8590, Valid DP: 0.1207, Valid EOD: 0.0482
+2024-05-15 10:49:39 - adversarial_debiasing/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/celeba/v001_final/best_loss_state.pth.
+2024-05-15 10:57:58 - adversarial_debiasing/celeba/v001_final - INFO - Epoch [27/50], Loss: 0.0532, Valid Acc: 0.9134, Valid F1: 0.9082, Valid DP: 0.1382, Valid EOD: 0.0546
+2024-05-15 10:57:58 - adversarial_debiasing/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/celeba/v001_final/best_loss_state.pth.
+2024-05-15 11:06:31 - adversarial_debiasing/celeba/v001_final - INFO - Epoch [28/50], Loss: 0.0475, Valid Acc: 0.9129, Valid F1: 0.9080, Valid DP: 0.1251, Valid EOD: 0.0369
+2024-05-15 11:06:31 - adversarial_debiasing/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/celeba/v001_final/best_loss_state.pth.
+2024-05-15 11:15:08 - adversarial_debiasing/celeba/v001_final - INFO - Epoch [29/50], Loss: 0.0420, Valid Acc: 0.9089, Valid F1: 0.9076, Valid DP: 0.1447, Valid EOD: 0.0440
+2024-05-15 11:15:08 - adversarial_debiasing/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/celeba/v001_final/best_loss_state.pth.
+2024-05-15 11:23:52 - adversarial_debiasing/celeba/v001_final - INFO - Epoch [30/50], Loss: 0.0338, Valid Acc: 0.9097, Valid F1: 0.9066, Valid DP: 0.1409, Valid EOD: 0.0497
+2024-05-15 11:23:52 - adversarial_debiasing/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/celeba/v001_final/best_loss_state.pth.
+2024-05-15 11:32:35 - adversarial_debiasing/celeba/v001_final - INFO - Epoch [31/50], Loss: 0.0315, Valid Acc: 0.9042, Valid F1: 0.9003, Valid DP: 0.1498, Valid EOD: 0.0642
+2024-05-15 11:32:35 - adversarial_debiasing/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/celeba/v001_final/best_loss_state.pth.
+2024-05-15 11:41:24 - adversarial_debiasing/celeba/v001_final - INFO - Epoch [32/50], Loss: 0.0312, Valid Acc: 0.9078, Valid F1: 0.9035, Valid DP: 0.1318, Valid EOD: 0.0473
+2024-05-15 11:41:24 - adversarial_debiasing/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/celeba/v001_final/best_loss_state.pth.
+2024-05-15 11:50:15 - adversarial_debiasing/celeba/v001_final - INFO - Epoch [33/50], Loss: 0.0312, Valid Acc: 0.9119, Valid F1: 0.9068, Valid DP: 0.1377, Valid EOD: 0.0492
+2024-05-15 11:59:11 - adversarial_debiasing/celeba/v001_final - INFO - Epoch [34/50], Loss: 0.0230, Valid Acc: 0.9106, Valid F1: 0.9071, Valid DP: 0.1540, Valid EOD: 0.0653
+2024-05-15 11:59:11 - adversarial_debiasing/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/celeba/v001_final/best_loss_state.pth.
+2024-05-15 12:08:08 - adversarial_debiasing/celeba/v001_final - INFO - Epoch [35/50], Loss: 0.0244, Valid Acc: 0.9130, Valid F1: 0.9091, Valid DP: 0.1326, Valid EOD: 0.0397
+2024-05-15 12:17:12 - adversarial_debiasing/celeba/v001_final - INFO - Epoch [36/50], Loss: 0.0208, Valid Acc: 0.9065, Valid F1: 0.9045, Valid DP: 0.1377, Valid EOD: 0.0464
+2024-05-15 12:17:12 - adversarial_debiasing/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/celeba/v001_final/best_loss_state.pth.
+2024-05-15 12:26:14 - adversarial_debiasing/celeba/v001_final - INFO - Epoch [37/50], Loss: 0.0173, Valid Acc: 0.9122, Valid F1: 0.9099, Valid DP: 0.1489, Valid EOD: 0.0563
+2024-05-15 12:26:14 - adversarial_debiasing/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/celeba/v001_final/best_loss_state.pth.
+2024-05-15 12:35:19 - adversarial_debiasing/celeba/v001_final - INFO - Epoch [38/50], Loss: 0.0187, Valid Acc: 0.9092, Valid F1: 0.9074, Valid DP: 0.1514, Valid EOD: 0.0560
+2024-05-15 12:44:27 - adversarial_debiasing/celeba/v001_final - INFO - Epoch [39/50], Loss: 0.0187, Valid Acc: 0.9098, Valid F1: 0.9063, Valid DP: 0.1268, Valid EOD: 0.0419
+2024-05-15 12:53:41 - adversarial_debiasing/celeba/v001_final - INFO - Epoch [40/50], Loss: 0.0183, Valid Acc: 0.9105, Valid F1: 0.9063, Valid DP: 0.1416, Valid EOD: 0.0502
+2024-05-15 13:02:57 - adversarial_debiasing/celeba/v001_final - INFO - Epoch [41/50], Loss: 0.0188, Valid Acc: 0.9071, Valid F1: 0.9046, Valid DP: 0.1480, Valid EOD: 0.0552
+2024-05-15 13:12:17 - adversarial_debiasing/celeba/v001_final - INFO - Epoch [42/50], Loss: 0.0149, Valid Acc: 0.9083, Valid F1: 0.9064, Valid DP: 0.1311, Valid EOD: 0.0329
+2024-05-15 13:12:17 - adversarial_debiasing/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/celeba/v001_final/best_loss_state.pth.
+2024-05-15 13:21:38 - adversarial_debiasing/celeba/v001_final - INFO - Epoch [43/50], Loss: 0.0146, Valid Acc: 0.9118, Valid F1: 0.9063, Valid DP: 0.1418, Valid EOD: 0.0524
+2024-05-15 13:21:38 - adversarial_debiasing/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/celeba/v001_final/best_loss_state.pth.
+2024-05-15 13:31:04 - adversarial_debiasing/celeba/v001_final - INFO - Epoch [44/50], Loss: 0.0132, Valid Acc: 0.9157, Valid F1: 0.9120, Valid DP: 0.1327, Valid EOD: 0.0403
+2024-05-15 13:31:04 - adversarial_debiasing/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/celeba/v001_final/best_loss_state.pth.
+2024-05-15 13:40:34 - adversarial_debiasing/celeba/v001_final - INFO - Epoch [45/50], Loss: 0.0142, Valid Acc: 0.9142, Valid F1: 0.9109, Valid DP: 0.1366, Valid EOD: 0.0461
+2024-05-15 13:50:06 - adversarial_debiasing/celeba/v001_final - INFO - Epoch [46/50], Loss: 0.0141, Valid Acc: 0.8637, Valid F1: 0.8459, Valid DP: 0.1318, Valid EOD: 0.0759
+2024-05-15 13:59:43 - adversarial_debiasing/celeba/v001_final - INFO - Epoch [47/50], Loss: 0.0251, Valid Acc: 0.9115, Valid F1: 0.9073, Valid DP: 0.1413, Valid EOD: 0.0515
+2024-05-15 14:09:17 - adversarial_debiasing/celeba/v001_final - INFO - Epoch [48/50], Loss: 0.0154, Valid Acc: 0.9127, Valid F1: 0.9088, Valid DP: 0.1293, Valid EOD: 0.0350
+2024-05-15 14:18:53 - adversarial_debiasing/celeba/v001_final - INFO - Epoch [49/50], Loss: 0.0139, Valid Acc: 0.9127, Valid F1: 0.9095, Valid DP: 0.1423, Valid EOD: 0.0527
+2024-05-15 14:28:39 - adversarial_debiasing/celeba/v001_final - INFO - Epoch [50/50], Loss: 0.0176, Valid Acc: 0.9164, Valid F1: 0.9134, Valid DP: 0.1324, Valid EOD: 0.0347
+2024-05-15 14:28:39 - adversarial_debiasing/celeba/v001_final - INFO - Saved model final to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/celeba/v001_final/final_state.pth.
+2024-05-15 14:28:39 - adversarial_debiasing/celeba/v001_final - INFO - Model and metrics saved.
+2024-05-15 14:28:39 - adversarial_debiasing/celeba/v001_final - INFO - Training finished.

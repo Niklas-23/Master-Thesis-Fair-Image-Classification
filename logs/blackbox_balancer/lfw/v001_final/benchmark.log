@@ -1,0 +1,4 @@
+2024-05-18 19:55:11 - blackbox_balancer/lfw/v001_final - INFO - Start blackbox multiclass balancer benchmark.
+2024-05-18 19:55:11 - blackbox_balancer/lfw/v001_final - INFO - Model has been loaded from C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/blackbox_balancer/lfw/v001_final.
+2024-05-18 19:55:13 - blackbox_balancer/lfw/v001_final - INFO - Applied post processing
+2024-05-18 19:55:13 - blackbox_balancer/lfw/v001_final - INFO - Validation metrics: {'valid_acc': 0.8877615726062144, 'valid_f1': 0.854080791426216, 'valid_eod': 0.0074435571329980466, 'valid_dp': 0.22759823107325122}

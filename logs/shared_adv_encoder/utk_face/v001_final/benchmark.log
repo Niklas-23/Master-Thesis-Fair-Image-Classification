@@ -1,0 +1,259 @@
+2024-05-14 17:36:22 - shared_adv_encoder/utk_face/v001_final - INFO - Start shared adversarial encoder benchmark.
+2024-05-14 17:36:22 - shared_adv_encoder/utk_face/v001_final - INFO - Training started.
+2024-05-14 17:36:42 - shared_adv_encoder/utk_face/v001_final - INFO - Warning: Class 3 has only 81 predictions.
+2024-05-14 17:36:42 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [1/100], Loss: 0.7299, Valid Acc: 0.4181, Valid F1: 0.3863, Valid DP: 0.4611, Valid EOD: 0.9448
+2024-05-14 17:36:43 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_f1_state.pth.
+2024-05-14 17:36:43 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_eod_state.pth.
+2024-05-14 17:36:43 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 17:37:02 - shared_adv_encoder/utk_face/v001_final - INFO - Warning: Class 2 has only 88 predictions.
+2024-05-14 17:37:02 - shared_adv_encoder/utk_face/v001_final - INFO - Warning: Class 7 has only 98 predictions.
+2024-05-14 17:37:02 - shared_adv_encoder/utk_face/v001_final - INFO - Warning: Class 4 has only 1 predictions.
+2024-05-14 17:37:02 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [2/100], Loss: -2.0396, Valid Acc: 0.3435, Valid F1: 0.3046, Valid DP: 0.7698, Valid EOD: 0.9875
+2024-05-14 17:37:02 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_eod_state.pth.
+2024-05-14 17:37:02 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 17:37:21 - shared_adv_encoder/utk_face/v001_final - INFO - Warning: Class 1 has only 71 predictions.
+2024-05-14 17:37:21 - shared_adv_encoder/utk_face/v001_final - INFO - Warning: Class 7 has only 43 predictions.
+2024-05-14 17:37:21 - shared_adv_encoder/utk_face/v001_final - INFO - Warning: Class 3 has only 4 predictions.
+2024-05-14 17:37:21 - shared_adv_encoder/utk_face/v001_final - INFO - Warning: Class 2 has only 55 predictions.
+2024-05-14 17:37:21 - shared_adv_encoder/utk_face/v001_final - INFO - Warning: Class 5 has only 2 predictions.
+2024-05-14 17:37:21 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [3/100], Loss: -7.9591, Valid Acc: 0.2862, Valid F1: 0.2138, Valid DP: 0.6158, Valid EOD: 0.9901
+2024-05-14 17:37:21 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_eod_state.pth.
+2024-05-14 17:37:22 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 17:37:41 - shared_adv_encoder/utk_face/v001_final - INFO - Warning: Class 1 has only 96 predictions.
+2024-05-14 17:37:41 - shared_adv_encoder/utk_face/v001_final - INFO - Warning: Class 6 has only 95 predictions.
+2024-05-14 17:37:41 - shared_adv_encoder/utk_face/v001_final - INFO - Warning: Class 2 has only 2 predictions.
+2024-05-14 17:37:41 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [4/100], Loss: -15.5909, Valid Acc: 0.3252, Valid F1: 0.2947, Valid DP: 0.5500, Valid EOD: 0.8897
+2024-05-14 17:37:41 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 17:38:00 - shared_adv_encoder/utk_face/v001_final - INFO - Warning: Class 1 has only 98 predictions.
+2024-05-14 17:38:00 - shared_adv_encoder/utk_face/v001_final - INFO - Warning: Class 8 has only 89 predictions.
+2024-05-14 17:38:00 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [5/100], Loss: -25.0583, Valid Acc: 0.3312, Valid F1: 0.3113, Valid DP: 0.6277, Valid EOD: 0.9517
+2024-05-14 17:38:00 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 17:38:20 - shared_adv_encoder/utk_face/v001_final - INFO - Warning: Class 4 has only 41 predictions.
+2024-05-14 17:38:20 - shared_adv_encoder/utk_face/v001_final - INFO - Warning: Class 5 has only 85 predictions.
+2024-05-14 17:38:20 - shared_adv_encoder/utk_face/v001_final - INFO - Warning: Class 7 has only 56 predictions.
+2024-05-14 17:38:20 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [6/100], Loss: -36.1120, Valid Acc: 0.3579, Valid F1: 0.3197, Valid DP: 0.6847, Valid EOD: 0.9586
+2024-05-14 17:38:20 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 17:38:39 - shared_adv_encoder/utk_face/v001_final - INFO - Warning: Class 7 has only 23 predictions.
+2024-05-14 17:38:39 - shared_adv_encoder/utk_face/v001_final - INFO - Warning: Class 5 has only 23 predictions.
+2024-05-14 17:38:39 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [7/100], Loss: -48.7350, Valid Acc: 0.2714, Valid F1: 0.2079, Valid DP: 0.6684, Valid EOD: 0.9586
+2024-05-14 17:38:39 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 17:38:59 - shared_adv_encoder/utk_face/v001_final - INFO - Warning: Class 9 has only 8 predictions.
+2024-05-14 17:38:59 - shared_adv_encoder/utk_face/v001_final - INFO - Warning: Class 7 has only 79 predictions.
+2024-05-14 17:38:59 - shared_adv_encoder/utk_face/v001_final - INFO - Warning: Class 3 has only 17 predictions.
+2024-05-14 17:38:59 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [8/100], Loss: -63.7004, Valid Acc: 0.2402, Valid F1: 0.1987, Valid DP: 0.9223, Valid EOD: 0.9812
+2024-05-14 17:38:59 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 17:39:18 - shared_adv_encoder/utk_face/v001_final - INFO - Warning: Class 1 has only 49 predictions.
+2024-05-14 17:39:18 - shared_adv_encoder/utk_face/v001_final - INFO - Warning: Class 0 has only 72 predictions.
+2024-05-14 17:39:18 - shared_adv_encoder/utk_face/v001_final - INFO - Warning: Class 9 has only 41 predictions.
+2024-05-14 17:39:18 - shared_adv_encoder/utk_face/v001_final - INFO - Warning: Class 8 has only 87 predictions.
+2024-05-14 17:39:18 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [9/100], Loss: -81.4156, Valid Acc: 0.1909, Valid F1: 0.1559, Valid DP: 0.8964, Valid EOD: 0.9814
+2024-05-14 17:39:18 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 17:39:38 - shared_adv_encoder/utk_face/v001_final - INFO - Warning: Class 4 has only 4 predictions.
+2024-05-14 17:39:38 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [10/100], Loss: -101.3724, Valid Acc: 0.2553, Valid F1: 0.2153, Valid DP: 0.7683, Valid EOD: 0.9109
+2024-05-14 17:39:38 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 17:39:57 - shared_adv_encoder/utk_face/v001_final - INFO - Warning: Class 3 has only 67 predictions.
+2024-05-14 17:39:57 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [11/100], Loss: -130.3141, Valid Acc: 0.2391, Valid F1: 0.1930, Valid DP: 0.9593, Valid EOD: 0.9811
+2024-05-14 17:39:57 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 17:40:17 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [12/100], Loss: -159.8746, Valid Acc: 0.2345, Valid F1: 0.1681, Valid DP: 0.8520, Valid EOD: 0.9862
+2024-05-14 17:40:17 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 17:40:37 - shared_adv_encoder/utk_face/v001_final - INFO - Warning: Class 7 has only 64 predictions.
+2024-05-14 17:40:37 - shared_adv_encoder/utk_face/v001_final - INFO - Warning: Class 5 has only 28 predictions.
+2024-05-14 17:40:37 - shared_adv_encoder/utk_face/v001_final - INFO - Warning: Class 6 has only 24 predictions.
+2024-05-14 17:40:37 - shared_adv_encoder/utk_face/v001_final - INFO - Warning: Class 1 has only 1 predictions.
+2024-05-14 17:40:37 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [13/100], Loss: -191.9821, Valid Acc: 0.1642, Valid F1: 0.1062, Valid DP: 0.9578, Valid EOD: 0.9906
+2024-05-14 17:40:37 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_eod_state.pth.
+2024-05-14 17:40:37 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 17:40:56 - shared_adv_encoder/utk_face/v001_final - INFO - Warning: Class 0 has only 92 predictions.
+2024-05-14 17:40:56 - shared_adv_encoder/utk_face/v001_final - INFO - Warning: Class 6 has only 85 predictions.
+2024-05-14 17:40:56 - shared_adv_encoder/utk_face/v001_final - INFO - Warning: Class 1 has only 34 predictions.
+2024-05-14 17:40:56 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [14/100], Loss: -225.6778, Valid Acc: 0.2015, Valid F1: 0.1627, Valid DP: 0.9415, Valid EOD: 0.9764
+2024-05-14 17:40:56 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 17:41:16 - shared_adv_encoder/utk_face/v001_final - INFO - Warning: Class 1 has only 55 predictions.
+2024-05-14 17:41:16 - shared_adv_encoder/utk_face/v001_final - INFO - Warning: Class 8 has only 43 predictions.
+2024-05-14 17:41:16 - shared_adv_encoder/utk_face/v001_final - INFO - Warning: Class 4 has only 7 predictions.
+2024-05-14 17:41:16 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [15/100], Loss: -262.7578, Valid Acc: 0.2363, Valid F1: 0.1934, Valid DP: 0.8201, Valid EOD: 0.9320
+2024-05-14 17:41:16 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 17:41:36 - shared_adv_encoder/utk_face/v001_final - INFO - Warning: Class 8 has only 28 predictions.
+2024-05-14 17:41:36 - shared_adv_encoder/utk_face/v001_final - INFO - Warning: Class 7 has only 2 predictions.
+2024-05-14 17:41:36 - shared_adv_encoder/utk_face/v001_final - INFO - Warning: Class 3 has only 1 predictions.
+2024-05-14 17:41:36 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [16/100], Loss: -302.7523, Valid Acc: 0.1874, Valid F1: 0.1219, Valid DP: 0.9371, Valid EOD: 0.9858
+2024-05-14 17:41:36 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 17:41:55 - shared_adv_encoder/utk_face/v001_final - INFO - Warning: Class 9 has only 1 predictions.
+2024-05-14 17:41:55 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [17/100], Loss: -343.7911, Valid Acc: 0.1980, Valid F1: 0.1332, Valid DP: 0.9748, Valid EOD: 0.9906
+2024-05-14 17:41:56 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 17:42:15 - shared_adv_encoder/utk_face/v001_final - INFO - Warning: Class 0 has only 43 predictions.
+2024-05-14 17:42:15 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [18/100], Loss: -386.2542, Valid Acc: 0.1603, Valid F1: 0.0867, Valid DP: 0.8986, Valid EOD: 0.9623
+2024-05-14 17:42:15 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 17:42:35 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [19/100], Loss: -433.6094, Valid Acc: 0.1255, Valid F1: 0.0413, Valid DP: 0.9356, Valid EOD: 0.9717
+2024-05-14 17:42:35 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 17:42:55 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [20/100], Loss: -483.8490, Valid Acc: 0.1259, Valid F1: 0.0417, Valid DP: 0.9498, Valid EOD: 0.9726
+2024-05-14 17:42:55 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 17:43:15 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [21/100], Loss: -537.1230, Valid Acc: 0.1129, Valid F1: 0.0364, Valid DP: 0.9608, Valid EOD: 0.9811
+2024-05-14 17:43:15 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 17:43:35 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [22/100], Loss: -589.2406, Valid Acc: 0.1438, Valid F1: 0.0476, Valid DP: 0.9692, Valid EOD: 0.9792
+2024-05-14 17:43:35 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 17:43:55 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [23/100], Loss: -645.2534, Valid Acc: 0.1340, Valid F1: 0.0443, Valid DP: 0.9518, Valid EOD: 0.9764
+2024-05-14 17:43:55 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 17:44:15 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [24/100], Loss: -704.8578, Valid Acc: 0.1139, Valid F1: 0.0373, Valid DP: 0.9430, Valid EOD: 0.9764
+2024-05-14 17:44:15 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 17:44:35 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [25/100], Loss: -764.3975, Valid Acc: 0.1086, Valid F1: 0.0348, Valid DP: 0.9600, Valid EOD: 0.9811
+2024-05-14 17:44:35 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 17:44:55 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [26/100], Loss: -821.8823, Valid Acc: 0.1115, Valid F1: 0.0361, Valid DP: 0.9519, Valid EOD: 0.9811
+2024-05-14 17:44:55 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 17:45:15 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [27/100], Loss: -890.4351, Valid Acc: 0.1188, Valid F1: 0.0389, Valid DP: 0.9437, Valid EOD: 0.9811
+2024-05-14 17:45:15 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 17:45:35 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [28/100], Loss: -960.2261, Valid Acc: 0.1491, Valid F1: 0.0482, Valid DP: 0.9467, Valid EOD: 0.9717
+2024-05-14 17:45:35 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 17:45:55 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [29/100], Loss: -1030.4500, Valid Acc: 0.1498, Valid F1: 0.0486, Valid DP: 0.9524, Valid EOD: 0.9906
+2024-05-14 17:45:55 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 17:46:15 - shared_adv_encoder/utk_face/v001_final - INFO - Warning: Class 0 has only 17 predictions.
+2024-05-14 17:46:15 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [30/100], Loss: -1102.7662, Valid Acc: 0.1530, Valid F1: 0.0555, Valid DP: 0.9491, Valid EOD: 0.9858
+2024-05-14 17:46:15 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 17:46:35 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [31/100], Loss: -1177.1170, Valid Acc: 0.1691, Valid F1: 0.0775, Valid DP: 0.9471, Valid EOD: 0.9906
+2024-05-14 17:46:35 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 17:46:57 - shared_adv_encoder/utk_face/v001_final - INFO - Warning: Class 0 has only 34 predictions.
+2024-05-14 17:46:57 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [32/100], Loss: -1255.9867, Valid Acc: 0.1551, Valid F1: 0.0566, Valid DP: 0.9471, Valid EOD: 0.9858
+2024-05-14 17:46:57 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 17:47:18 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [33/100], Loss: -1334.6176, Valid Acc: 0.1501, Valid F1: 0.0487, Valid DP: 0.9431, Valid EOD: 0.9858
+2024-05-14 17:47:18 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 17:47:39 - shared_adv_encoder/utk_face/v001_final - INFO - Warning: Class 6 has only 50 predictions.
+2024-05-14 17:47:39 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [34/100], Loss: -1414.9065, Valid Acc: 0.1414, Valid F1: 0.0493, Valid DP: 0.9326, Valid EOD: 0.9764
+2024-05-14 17:47:39 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 17:48:00 - shared_adv_encoder/utk_face/v001_final - INFO - Warning: Class 6 has only 44 predictions.
+2024-05-14 17:48:00 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [35/100], Loss: -1496.6804, Valid Acc: 0.1392, Valid F1: 0.0476, Valid DP: 0.9630, Valid EOD: 0.9811
+2024-05-14 17:48:00 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 17:48:21 - shared_adv_encoder/utk_face/v001_final - INFO - Warning: Class 6 has only 44 predictions.
+2024-05-14 17:48:21 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [36/100], Loss: -1575.2645, Valid Acc: 0.1431, Valid F1: 0.0501, Valid DP: 0.9786, Valid EOD: 0.9945
+2024-05-14 17:48:21 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_eod_state.pth.
+2024-05-14 17:48:21 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 17:48:42 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [37/100], Loss: -1654.3773, Valid Acc: 0.0946, Valid F1: 0.0173, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 17:48:42 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_eod_state.pth.
+2024-05-14 17:48:42 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 17:49:03 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [38/100], Loss: -1747.6521, Valid Acc: 0.1210, Valid F1: 0.0216, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 17:49:03 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 17:49:24 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [39/100], Loss: -1833.3690, Valid Acc: 0.1210, Valid F1: 0.0216, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 17:49:24 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 17:49:45 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [40/100], Loss: -1928.0983, Valid Acc: 0.1210, Valid F1: 0.0216, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 17:49:45 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 17:50:06 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [41/100], Loss: -2026.1555, Valid Acc: 0.1210, Valid F1: 0.0216, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 17:50:06 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 17:50:27 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [42/100], Loss: -2118.0540, Valid Acc: 0.1210, Valid F1: 0.0216, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 17:50:27 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 17:50:49 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [43/100], Loss: -2221.2631, Valid Acc: 0.1210, Valid F1: 0.0216, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 17:50:49 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 17:51:11 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [44/100], Loss: -2320.4923, Valid Acc: 0.1210, Valid F1: 0.0216, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 17:51:11 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 17:51:31 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [45/100], Loss: -2423.5614, Valid Acc: 0.1210, Valid F1: 0.0216, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 17:51:32 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 17:51:52 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [46/100], Loss: -2531.6922, Valid Acc: 0.1210, Valid F1: 0.0216, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 17:51:53 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 17:52:13 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [47/100], Loss: -2639.2850, Valid Acc: 0.1210, Valid F1: 0.0216, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 17:52:13 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 17:52:34 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [48/100], Loss: -2749.9810, Valid Acc: 0.1210, Valid F1: 0.0216, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 17:52:34 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 17:52:55 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [49/100], Loss: -2859.1201, Valid Acc: 0.1210, Valid F1: 0.0216, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 17:52:55 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 17:53:15 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [50/100], Loss: -2971.2908, Valid Acc: 0.1210, Valid F1: 0.0216, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 17:53:15 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 17:53:36 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [51/100], Loss: -3084.1761, Valid Acc: 0.1210, Valid F1: 0.0216, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 17:53:36 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 17:54:01 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [52/100], Loss: -3198.0154, Valid Acc: 0.1210, Valid F1: 0.0216, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 17:54:02 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 17:54:42 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [53/100], Loss: -3315.7513, Valid Acc: 0.1210, Valid F1: 0.0216, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 17:54:42 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 17:55:25 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [54/100], Loss: -3433.3856, Valid Acc: 0.1210, Valid F1: 0.0216, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 17:55:25 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 17:56:06 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [55/100], Loss: -3552.3568, Valid Acc: 0.1210, Valid F1: 0.0216, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 17:56:06 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 17:56:48 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [56/100], Loss: -3676.0872, Valid Acc: 0.1210, Valid F1: 0.0216, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 17:56:48 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 17:57:30 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [57/100], Loss: -3799.5608, Valid Acc: 0.1210, Valid F1: 0.0216, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 17:57:30 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 17:58:12 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [58/100], Loss: -3923.8867, Valid Acc: 0.1210, Valid F1: 0.0216, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 17:58:12 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 17:58:54 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [59/100], Loss: -4050.6369, Valid Acc: 0.1210, Valid F1: 0.0216, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 17:58:54 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 17:59:36 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [60/100], Loss: -4179.3426, Valid Acc: 0.1210, Valid F1: 0.0216, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 17:59:36 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 18:00:20 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [61/100], Loss: -4308.6180, Valid Acc: 0.1210, Valid F1: 0.0216, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 18:00:21 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 18:01:03 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [62/100], Loss: -4440.3935, Valid Acc: 0.1171, Valid F1: 0.0210, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 18:01:03 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 18:01:45 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [63/100], Loss: -4573.3233, Valid Acc: 0.1210, Valid F1: 0.0216, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 18:01:45 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 18:02:27 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [64/100], Loss: -4708.6589, Valid Acc: 0.1171, Valid F1: 0.0210, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 18:02:27 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 18:03:10 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [65/100], Loss: -4845.8358, Valid Acc: 0.1171, Valid F1: 0.0210, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 18:03:10 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 18:03:52 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [66/100], Loss: -4985.8729, Valid Acc: 0.1171, Valid F1: 0.0210, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 18:03:52 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 18:04:34 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [67/100], Loss: -5124.0652, Valid Acc: 0.1171, Valid F1: 0.0210, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 18:04:35 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 18:05:16 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [68/100], Loss: -5263.4424, Valid Acc: 0.1171, Valid F1: 0.0210, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 18:05:16 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 18:05:59 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [69/100], Loss: -5405.9669, Valid Acc: 0.1171, Valid F1: 0.0210, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 18:05:59 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 18:06:41 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [70/100], Loss: -5549.2028, Valid Acc: 0.1171, Valid F1: 0.0210, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 18:06:41 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 18:07:23 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [71/100], Loss: -5695.6217, Valid Acc: 0.1171, Valid F1: 0.0210, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 18:07:24 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 18:08:03 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [72/100], Loss: -5843.3474, Valid Acc: 0.1171, Valid F1: 0.0210, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 18:08:03 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 18:08:48 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [73/100], Loss: -5991.5460, Valid Acc: 0.1171, Valid F1: 0.0210, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 18:08:48 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 18:09:33 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [74/100], Loss: -6142.0941, Valid Acc: 0.1171, Valid F1: 0.0210, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 18:09:33 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 18:10:16 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [75/100], Loss: -6294.3217, Valid Acc: 0.1171, Valid F1: 0.0210, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 18:10:17 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 18:11:00 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [76/100], Loss: -6445.9070, Valid Acc: 0.1171, Valid F1: 0.0210, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 18:11:00 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 18:11:44 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [77/100], Loss: -6599.2470, Valid Acc: 0.1171, Valid F1: 0.0210, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 18:11:44 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 18:12:27 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [78/100], Loss: -6754.0984, Valid Acc: 0.1171, Valid F1: 0.0210, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 18:12:28 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 18:13:11 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [79/100], Loss: -6913.0824, Valid Acc: 0.1171, Valid F1: 0.0210, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 18:13:11 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 18:13:55 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [80/100], Loss: -7061.5448, Valid Acc: 0.1171, Valid F1: 0.0210, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 18:13:55 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 18:14:39 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [81/100], Loss: -7009.9553, Valid Acc: 0.1171, Valid F1: 0.0210, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 18:15:22 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [82/100], Loss: -7141.6697, Valid Acc: 0.1171, Valid F1: 0.0210, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 18:15:22 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 18:16:06 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [83/100], Loss: -7422.6203, Valid Acc: 0.1171, Valid F1: 0.0210, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 18:16:06 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 18:16:50 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [84/100], Loss: -7646.8726, Valid Acc: 0.1171, Valid F1: 0.0210, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 18:16:50 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 18:17:33 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [85/100], Loss: -7821.0635, Valid Acc: 0.1171, Valid F1: 0.0210, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 18:17:33 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 18:18:17 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [86/100], Loss: -7998.0686, Valid Acc: 0.1171, Valid F1: 0.0210, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 18:18:17 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 18:19:01 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [87/100], Loss: -8183.2687, Valid Acc: 0.1171, Valid F1: 0.0210, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 18:19:02 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 18:19:45 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [88/100], Loss: -8360.6722, Valid Acc: 0.1171, Valid F1: 0.0210, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 18:19:45 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 18:20:29 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [89/100], Loss: -8534.6590, Valid Acc: 0.1171, Valid F1: 0.0210, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 18:20:29 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 18:21:06 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [90/100], Loss: -8707.2498, Valid Acc: 0.1171, Valid F1: 0.0210, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 18:21:06 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 18:21:50 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [91/100], Loss: -8884.6493, Valid Acc: 0.1171, Valid F1: 0.0210, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 18:21:50 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 18:22:34 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [92/100], Loss: -9062.0302, Valid Acc: 0.1171, Valid F1: 0.0210, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 18:22:34 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 18:23:18 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [93/100], Loss: -9240.7104, Valid Acc: 0.1171, Valid F1: 0.0210, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 18:23:18 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 18:24:01 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [94/100], Loss: -9416.8171, Valid Acc: 0.1171, Valid F1: 0.0210, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 18:24:02 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 18:24:45 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [95/100], Loss: -9595.2943, Valid Acc: 0.1171, Valid F1: 0.0210, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 18:24:45 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 18:25:29 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [96/100], Loss: -9776.8524, Valid Acc: 0.1171, Valid F1: 0.0210, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 18:25:29 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 18:26:13 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [97/100], Loss: -9957.5526, Valid Acc: 0.1171, Valid F1: 0.0210, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 18:26:13 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 18:26:58 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [98/100], Loss: -10140.7281, Valid Acc: 0.1171, Valid F1: 0.0210, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 18:26:58 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 18:27:42 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [99/100], Loss: -10327.9515, Valid Acc: 0.1171, Valid F1: 0.0210, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 18:27:42 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 18:28:26 - shared_adv_encoder/utk_face/v001_final - INFO - Epoch [100/100], Loss: -10513.3845, Valid Acc: 0.1171, Valid F1: 0.0210, Valid DP: 1.0000, Valid EOD: 1.0000
+2024-05-14 18:28:26 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/best_loss_state.pth.
+2024-05-14 18:28:26 - shared_adv_encoder/utk_face/v001_final - INFO - Saved model final to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/utk_face/v001_final/final_state.pth.
+2024-05-14 18:28:26 - shared_adv_encoder/utk_face/v001_final - INFO - Model and metrics saved.
+2024-05-14 18:28:26 - shared_adv_encoder/utk_face/v001_final - INFO - Training finished.

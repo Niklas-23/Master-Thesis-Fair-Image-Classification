@@ -1,0 +1,208 @@
+2024-05-20 11:51:56 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Training started.
+2024-05-20 11:52:59 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Warning: Class 1 has only 51 predictions.
+2024-05-20 11:52:59 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Warning: Class 3 has only 1 predictions.
+2024-05-20 11:52:59 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [1/100], Loss: 1.7337, Valid Acc: 0.3484, Valid F1: 0.1414, Valid DP: 0.6405, Valid EOD: 0.8506
+2024-05-20 11:52:59 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v002_target_age_7_bins/best_f1_state.pth.
+2024-05-20 11:52:59 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v002_target_age_7_bins/best_eod_state.pth.
+2024-05-20 11:52:59 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v002_target_age_7_bins/best_loss_state.pth.
+2024-05-20 11:53:19 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Warning: Class 6 has only 69 predictions.
+2024-05-20 11:53:19 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Warning: Class 3 has only 97 predictions.
+2024-05-20 11:53:19 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Warning: Class 4 has only 5 predictions.
+2024-05-20 11:53:19 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Warning: Class 5 has only 2 predictions.
+2024-05-20 11:53:19 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [2/100], Loss: 1.2084, Valid Acc: 0.4629, Valid F1: 0.2944, Valid DP: 0.6960, Valid EOD: 0.8832
+2024-05-20 11:53:19 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v002_target_age_7_bins/best_f1_state.pth.
+2024-05-20 11:53:19 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v002_target_age_7_bins/best_loss_state.pth.
+2024-05-20 11:53:38 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Warning: Class 5 has only 86 predictions.
+2024-05-20 11:53:38 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Warning: Class 3 has only 20 predictions.
+2024-05-20 11:53:38 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [3/100], Loss: 1.0691, Valid Acc: 0.4215, Valid F1: 0.2938, Valid DP: 0.4824, Valid EOD: 0.9362
+2024-05-20 11:53:38 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v002_target_age_7_bins/best_loss_state.pth.
+2024-05-20 11:53:57 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Warning: Class 4 has only 99 predictions.
+2024-05-20 11:53:57 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Warning: Class 5 has only 79 predictions.
+2024-05-20 11:53:57 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [4/100], Loss: 0.9497, Valid Acc: 0.5125, Valid F1: 0.3952, Valid DP: 0.4670, Valid EOD: 0.7439
+2024-05-20 11:53:57 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v002_target_age_7_bins/best_f1_state.pth.
+2024-05-20 11:53:57 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v002_target_age_7_bins/best_eod_state.pth.
+2024-05-20 11:53:57 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v002_target_age_7_bins/best_loss_state.pth.
+2024-05-20 11:54:16 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Warning: Class 6 has only 73 predictions.
+2024-05-20 11:54:16 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Warning: Class 1 has only 13 predictions.
+2024-05-20 11:54:16 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [5/100], Loss: 0.8693, Valid Acc: 0.4625, Valid F1: 0.3923, Valid DP: 0.3968, Valid EOD: 0.8254
+2024-05-20 11:54:16 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v002_target_age_7_bins/best_loss_state.pth.
+2024-05-20 11:54:35 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [6/100], Loss: 0.7445, Valid Acc: 0.4020, Valid F1: 0.3411, Valid DP: 0.2310, Valid EOD: 0.8907
+2024-05-20 11:54:35 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v002_target_age_7_bins/best_loss_state.pth.
+2024-05-20 11:54:54 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Warning: Class 5 has only 32 predictions.
+2024-05-20 11:54:54 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Warning: Class 4 has only 31 predictions.
+2024-05-20 11:54:54 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [7/100], Loss: 0.6255, Valid Acc: 0.5020, Valid F1: 0.4135, Valid DP: 0.3178, Valid EOD: 0.8314
+2024-05-20 11:54:54 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v002_target_age_7_bins/best_f1_state.pth.
+2024-05-20 11:54:54 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v002_target_age_7_bins/best_loss_state.pth.
+2024-05-20 11:55:13 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Warning: Class 6 has only 90 predictions.
+2024-05-20 11:55:13 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Warning: Class 5 has only 32 predictions.
+2024-05-20 11:55:13 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [8/100], Loss: 0.5207, Valid Acc: 0.4828, Valid F1: 0.4109, Valid DP: 0.4316, Valid EOD: 0.6408
+2024-05-20 11:55:13 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v002_target_age_7_bins/best_eod_state.pth.
+2024-05-20 11:55:13 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v002_target_age_7_bins/best_loss_state.pth.
+2024-05-20 11:55:32 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [9/100], Loss: 0.4144, Valid Acc: 0.4980, Valid F1: 0.4300, Valid DP: 0.3079, Valid EOD: 0.7415
+2024-05-20 11:55:32 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v002_target_age_7_bins/best_f1_state.pth.
+2024-05-20 11:55:32 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v002_target_age_7_bins/best_loss_state.pth.
+2024-05-20 11:55:51 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Warning: Class 5 has only 78 predictions.
+2024-05-20 11:55:51 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [10/100], Loss: 0.3349, Valid Acc: 0.4727, Valid F1: 0.4010, Valid DP: 0.3292, Valid EOD: 0.8114
+2024-05-20 11:55:51 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v002_target_age_7_bins/best_loss_state.pth.
+2024-05-20 11:56:10 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [11/100], Loss: 0.2287, Valid Acc: 0.5391, Valid F1: 0.4833, Valid DP: 0.3284, Valid EOD: 0.6877
+2024-05-20 11:56:10 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v002_target_age_7_bins/best_f1_state.pth.
+2024-05-20 11:56:10 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v002_target_age_7_bins/best_loss_state.pth.
+2024-05-20 11:56:29 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Warning: Class 6 has only 45 predictions.
+2024-05-20 11:56:29 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [12/100], Loss: 0.1877, Valid Acc: 0.4945, Valid F1: 0.4264, Valid DP: 0.3181, Valid EOD: 0.6487
+2024-05-20 11:56:29 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v002_target_age_7_bins/best_loss_state.pth.
+2024-05-20 11:56:49 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [13/100], Loss: 0.1605, Valid Acc: 0.4309, Valid F1: 0.3621, Valid DP: 0.2786, Valid EOD: 0.8275
+2024-05-20 11:56:49 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v002_target_age_7_bins/best_loss_state.pth.
+2024-05-20 11:57:08 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [14/100], Loss: 0.1481, Valid Acc: 0.4766, Valid F1: 0.4311, Valid DP: 0.3317, Valid EOD: 0.6084
+2024-05-20 11:57:08 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v002_target_age_7_bins/best_eod_state.pth.
+2024-05-20 11:57:08 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v002_target_age_7_bins/best_loss_state.pth.
+2024-05-20 11:57:27 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Warning: Class 4 has only 29 predictions.
+2024-05-20 11:57:27 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [15/100], Loss: 0.1447, Valid Acc: 0.5445, Valid F1: 0.4639, Valid DP: 0.4840, Valid EOD: 0.7253
+2024-05-20 11:57:27 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v002_target_age_7_bins/best_loss_state.pth.
+2024-05-20 11:57:46 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Warning: Class 1 has only 92 predictions.
+2024-05-20 11:57:46 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [16/100], Loss: 0.1115, Valid Acc: 0.3910, Valid F1: 0.3356, Valid DP: 0.2397, Valid EOD: 0.8115
+2024-05-20 11:57:46 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v002_target_age_7_bins/best_loss_state.pth.
+2024-05-20 11:58:05 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Warning: Class 5 has only 78 predictions.
+2024-05-20 11:58:05 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Warning: Class 6 has only 98 predictions.
+2024-05-20 11:58:05 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [17/100], Loss: 0.0955, Valid Acc: 0.5203, Valid F1: 0.4626, Valid DP: 0.3145, Valid EOD: 0.6688
+2024-05-20 11:58:06 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v002_target_age_7_bins/best_loss_state.pth.
+2024-05-20 11:58:25 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Warning: Class 5 has only 79 predictions.
+2024-05-20 11:58:25 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [18/100], Loss: 0.0764, Valid Acc: 0.5535, Valid F1: 0.4668, Valid DP: 0.4075, Valid EOD: 0.6984
+2024-05-20 11:58:25 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v002_target_age_7_bins/best_loss_state.pth.
+2024-05-20 11:58:44 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [19/100], Loss: 0.0675, Valid Acc: 0.5395, Valid F1: 0.4816, Valid DP: 0.3710, Valid EOD: 0.8033
+2024-05-20 11:58:44 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v002_target_age_7_bins/best_loss_state.pth.
+2024-05-20 11:59:03 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Warning: Class 5 has only 95 predictions.
+2024-05-20 11:59:03 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [20/100], Loss: 0.0534, Valid Acc: 0.4797, Valid F1: 0.4031, Valid DP: 0.3112, Valid EOD: 0.7563
+2024-05-20 11:59:03 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v002_target_age_7_bins/best_loss_state.pth.
+2024-05-20 11:59:23 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [21/100], Loss: 0.0456, Valid Acc: 0.5387, Valid F1: 0.4734, Valid DP: 0.3585, Valid EOD: 0.6809
+2024-05-20 11:59:23 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v002_target_age_7_bins/best_loss_state.pth.
+2024-05-20 11:59:42 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [22/100], Loss: 0.0368, Valid Acc: 0.5176, Valid F1: 0.4488, Valid DP: 0.3386, Valid EOD: 0.6611
+2024-05-20 11:59:42 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v002_target_age_7_bins/best_loss_state.pth.
+2024-05-20 12:00:01 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [23/100], Loss: 0.0295, Valid Acc: 0.5352, Valid F1: 0.4708, Valid DP: 0.4345, Valid EOD: 0.5231
+2024-05-20 12:00:01 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v002_target_age_7_bins/best_eod_state.pth.
+2024-05-20 12:00:02 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v002_target_age_7_bins/best_loss_state.pth.
+2024-05-20 12:00:21 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [24/100], Loss: 0.0212, Valid Acc: 0.5508, Valid F1: 0.4723, Valid DP: 0.4242, Valid EOD: 0.6832
+2024-05-20 12:00:21 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v002_target_age_7_bins/best_loss_state.pth.
+2024-05-20 12:00:41 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [25/100], Loss: 0.0203, Valid Acc: 0.5535, Valid F1: 0.4809, Valid DP: 0.4709, Valid EOD: 0.6724
+2024-05-20 12:00:41 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v002_target_age_7_bins/best_loss_state.pth.
+2024-05-20 12:01:00 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Warning: Class 5 has only 96 predictions.
+2024-05-20 12:01:00 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [26/100], Loss: 0.0172, Valid Acc: 0.5500, Valid F1: 0.4780, Valid DP: 0.4447, Valid EOD: 0.6700
+2024-05-20 12:01:00 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v002_target_age_7_bins/best_loss_state.pth.
+2024-05-20 12:01:20 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Warning: Class 6 has only 84 predictions.
+2024-05-20 12:01:20 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [27/100], Loss: 0.0182, Valid Acc: 0.5207, Valid F1: 0.4507, Valid DP: 0.3584, Valid EOD: 0.7452
+2024-05-20 12:01:39 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [28/100], Loss: 0.0137, Valid Acc: 0.5379, Valid F1: 0.4492, Valid DP: 0.4907, Valid EOD: 0.6341
+2024-05-20 12:01:39 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v002_target_age_7_bins/best_loss_state.pth.
+2024-05-20 12:01:59 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [29/100], Loss: 0.0138, Valid Acc: 0.5188, Valid F1: 0.4451, Valid DP: 0.3893, Valid EOD: 0.6340
+2024-05-20 12:02:19 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [30/100], Loss: 0.0123, Valid Acc: 0.5398, Valid F1: 0.4725, Valid DP: 0.3784, Valid EOD: 0.6123
+2024-05-20 12:02:19 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v002_target_age_7_bins/best_loss_state.pth.
+2024-05-20 12:02:38 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [31/100], Loss: 0.0121, Valid Acc: 0.5496, Valid F1: 0.4814, Valid DP: 0.3980, Valid EOD: 0.7076
+2024-05-20 12:02:38 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v002_target_age_7_bins/best_loss_state.pth.
+2024-05-20 12:02:58 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [32/100], Loss: 0.0099, Valid Acc: 0.5531, Valid F1: 0.4936, Valid DP: 0.3464, Valid EOD: 0.7169
+2024-05-20 12:02:58 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v002_target_age_7_bins/best_f1_state.pth.
+2024-05-20 12:02:58 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v002_target_age_7_bins/best_loss_state.pth.
+2024-05-20 12:03:18 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [33/100], Loss: 0.0086, Valid Acc: 0.5395, Valid F1: 0.4641, Valid DP: 0.3898, Valid EOD: 0.7229
+2024-05-20 12:03:18 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v002_target_age_7_bins/best_loss_state.pth.
+2024-05-20 12:03:38 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [34/100], Loss: 0.0091, Valid Acc: 0.5461, Valid F1: 0.4725, Valid DP: 0.4062, Valid EOD: 0.7290
+2024-05-20 12:03:58 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [35/100], Loss: 0.0078, Valid Acc: 0.5469, Valid F1: 0.4693, Valid DP: 0.4079, Valid EOD: 0.7405
+2024-05-20 12:03:58 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v002_target_age_7_bins/best_loss_state.pth.
+2024-05-20 12:04:17 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [36/100], Loss: 0.0080, Valid Acc: 0.5395, Valid F1: 0.4732, Valid DP: 0.3915, Valid EOD: 0.6381
+2024-05-20 12:04:37 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [37/100], Loss: 0.0089, Valid Acc: 0.5441, Valid F1: 0.4976, Valid DP: 0.2950, Valid EOD: 0.6142
+2024-05-20 12:04:37 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v002_target_age_7_bins/best_f1_state.pth.
+2024-05-20 12:04:57 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [38/100], Loss: 0.0083, Valid Acc: 0.5234, Valid F1: 0.4586, Valid DP: 0.3993, Valid EOD: 0.6004
+2024-05-20 12:05:16 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [39/100], Loss: 0.0079, Valid Acc: 0.5527, Valid F1: 0.4580, Valid DP: 0.4888, Valid EOD: 0.7565
+2024-05-20 12:05:36 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Warning: Class 1 has only 95 predictions.
+2024-05-20 12:05:36 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [40/100], Loss: 0.0083, Valid Acc: 0.4770, Valid F1: 0.4038, Valid DP: 0.3870, Valid EOD: 0.6634
+2024-05-20 12:05:56 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [41/100], Loss: 0.0097, Valid Acc: 0.5535, Valid F1: 0.4837, Valid DP: 0.3800, Valid EOD: 0.6962
+2024-05-20 12:06:16 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Warning: Class 6 has only 73 predictions.
+2024-05-20 12:06:16 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Warning: Class 5 has only 70 predictions.
+2024-05-20 12:06:16 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [42/100], Loss: 0.0101, Valid Acc: 0.5152, Valid F1: 0.4230, Valid DP: 0.4124, Valid EOD: 0.7727
+2024-05-20 12:06:36 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [43/100], Loss: 0.0100, Valid Acc: 0.5348, Valid F1: 0.4662, Valid DP: 0.3894, Valid EOD: 0.6501
+2024-05-20 12:06:56 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [44/100], Loss: 0.0090, Valid Acc: 0.5539, Valid F1: 0.4882, Valid DP: 0.3907, Valid EOD: 0.6526
+2024-05-20 12:07:16 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [45/100], Loss: 0.0073, Valid Acc: 0.5598, Valid F1: 0.4812, Valid DP: 0.4219, Valid EOD: 0.6846
+2024-05-20 12:07:16 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v002_target_age_7_bins/best_loss_state.pth.
+2024-05-20 12:07:36 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Warning: Class 5 has only 99 predictions.
+2024-05-20 12:07:36 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Warning: Class 6 has only 95 predictions.
+2024-05-20 12:07:36 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [46/100], Loss: 0.0068, Valid Acc: 0.5426, Valid F1: 0.4479, Valid DP: 0.4805, Valid EOD: 0.7252
+2024-05-20 12:07:36 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v002_target_age_7_bins/best_loss_state.pth.
+2024-05-20 12:07:56 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [47/100], Loss: 0.0068, Valid Acc: 0.5262, Valid F1: 0.4599, Valid DP: 0.3415, Valid EOD: 0.6303
+2024-05-20 12:08:16 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Warning: Class 5 has only 91 predictions.
+2024-05-20 12:08:16 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Warning: Class 6 has only 80 predictions.
+2024-05-20 12:08:16 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [48/100], Loss: 0.0068, Valid Acc: 0.5199, Valid F1: 0.4193, Valid DP: 0.4434, Valid EOD: 0.7645
+2024-05-20 12:08:16 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v002_target_age_7_bins/best_loss_state.pth.
+2024-05-20 12:08:36 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [49/100], Loss: 0.0070, Valid Acc: 0.4684, Valid F1: 0.3968, Valid DP: 0.3504, Valid EOD: 0.6914
+2024-05-20 12:08:56 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [50/100], Loss: 0.0067, Valid Acc: 0.5574, Valid F1: 0.4770, Valid DP: 0.4251, Valid EOD: 0.6893
+2024-05-20 12:08:56 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v002_target_age_7_bins/best_loss_state.pth.
+2024-05-20 12:09:16 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [51/100], Loss: 0.0068, Valid Acc: 0.5457, Valid F1: 0.4841, Valid DP: 0.3735, Valid EOD: 0.5829
+2024-05-20 12:09:36 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Warning: Class 5 has only 98 predictions.
+2024-05-20 12:09:36 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Warning: Class 6 has only 80 predictions.
+2024-05-20 12:09:36 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [52/100], Loss: 0.0060, Valid Acc: 0.5355, Valid F1: 0.4289, Valid DP: 0.4785, Valid EOD: 0.7865
+2024-05-20 12:09:36 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v002_target_age_7_bins/best_loss_state.pth.
+2024-05-20 12:09:56 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [53/100], Loss: 0.0064, Valid Acc: 0.4422, Valid F1: 0.3862, Valid DP: 0.2717, Valid EOD: 0.7035
+2024-05-20 12:10:17 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Warning: Class 5 has only 86 predictions.
+2024-05-20 12:10:17 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Warning: Class 6 has only 84 predictions.
+2024-05-20 12:10:17 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [54/100], Loss: 0.0067, Valid Acc: 0.5359, Valid F1: 0.4477, Valid DP: 0.4070, Valid EOD: 0.6869
+2024-05-20 12:10:37 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [55/100], Loss: 0.0083, Valid Acc: 0.5141, Valid F1: 0.4394, Valid DP: 0.3464, Valid EOD: 0.6502
+2024-05-20 12:10:57 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [56/100], Loss: 0.0066, Valid Acc: 0.5434, Valid F1: 0.4793, Valid DP: 0.3636, Valid EOD: 0.6817
+2024-05-20 12:11:18 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Warning: Class 1 has only 84 predictions.
+2024-05-20 12:11:18 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [57/100], Loss: 0.0061, Valid Acc: 0.5531, Valid F1: 0.4583, Valid DP: 0.5596, Valid EOD: 0.7225
+2024-05-20 12:11:38 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [58/100], Loss: 0.0066, Valid Acc: 0.5383, Valid F1: 0.4769, Valid DP: 0.3514, Valid EOD: 0.6801
+2024-05-20 12:11:58 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [59/100], Loss: 0.0057, Valid Acc: 0.5594, Valid F1: 0.4946, Valid DP: 0.3898, Valid EOD: 0.6847
+2024-05-20 12:11:58 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v002_target_age_7_bins/best_loss_state.pth.
+2024-05-20 12:12:19 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [60/100], Loss: 0.0063, Valid Acc: 0.5578, Valid F1: 0.4841, Valid DP: 0.4595, Valid EOD: 0.6096
+2024-05-20 12:12:40 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Warning: Class 6 has only 91 predictions.
+2024-05-20 12:12:40 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [61/100], Loss: 0.0061, Valid Acc: 0.5473, Valid F1: 0.4489, Valid DP: 0.4727, Valid EOD: 0.7764
+2024-05-20 12:13:00 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [62/100], Loss: 0.0074, Valid Acc: 0.5305, Valid F1: 0.4467, Valid DP: 0.4802, Valid EOD: 0.6315
+2024-05-20 12:13:21 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [63/100], Loss: 0.0062, Valid Acc: 0.5477, Valid F1: 0.4601, Valid DP: 0.4619, Valid EOD: 0.7328
+2024-05-20 12:13:41 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [64/100], Loss: 0.0061, Valid Acc: 0.5551, Valid F1: 0.4826, Valid DP: 0.3915, Valid EOD: 0.7106
+2024-05-20 12:14:02 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [65/100], Loss: 0.0058, Valid Acc: 0.5516, Valid F1: 0.4895, Valid DP: 0.3833, Valid EOD: 0.5622
+2024-05-20 12:14:22 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Warning: Class 6 has only 95 predictions.
+2024-05-20 12:14:22 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [66/100], Loss: 0.0058, Valid Acc: 0.5406, Valid F1: 0.4606, Valid DP: 0.3764, Valid EOD: 0.7474
+2024-05-20 12:14:43 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [67/100], Loss: 0.0060, Valid Acc: 0.5191, Valid F1: 0.4802, Valid DP: 0.2809, Valid EOD: 0.5452
+2024-05-20 12:15:03 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [68/100], Loss: 0.0069, Valid Acc: 0.5527, Valid F1: 0.4826, Valid DP: 0.3694, Valid EOD: 0.6908
+2024-05-20 12:15:24 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [69/100], Loss: 0.0062, Valid Acc: 0.5457, Valid F1: 0.4932, Valid DP: 0.3456, Valid EOD: 0.5891
+2024-05-20 12:15:45 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [70/100], Loss: 0.0073, Valid Acc: 0.5090, Valid F1: 0.4442, Valid DP: 0.3493, Valid EOD: 0.7750
+2024-05-20 12:16:06 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Warning: Class 0 has only 80 predictions.
+2024-05-20 12:16:06 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Warning: Class 5 has only 35 predictions.
+2024-05-20 12:16:06 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Warning: Class 2 has only 16 predictions.
+2024-05-20 12:16:06 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Warning: Class 4 has only 6 predictions.
+2024-05-20 12:16:06 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [71/100], Loss: 0.2207, Valid Acc: 0.1324, Valid F1: 0.1083, Valid DP: 0.8505, Valid EOD: 0.9904
+2024-05-20 12:16:26 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Warning: Class 1 has only 85 predictions.
+2024-05-20 12:16:26 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Warning: Class 3 has only 97 predictions.
+2024-05-20 12:16:26 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Warning: Class 5 has only 15 predictions.
+2024-05-20 12:16:26 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [72/100], Loss: 0.7156, Valid Acc: 0.5375, Valid F1: 0.3902, Valid DP: 0.5299, Valid EOD: 0.8429
+2024-05-20 12:16:47 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Warning: Class 5 has only 86 predictions.
+2024-05-20 12:16:47 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [73/100], Loss: 0.3704, Valid Acc: 0.5031, Valid F1: 0.4575, Valid DP: 0.3229, Valid EOD: 0.6098
+2024-05-20 12:17:08 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Warning: Class 3 has only 82 predictions.
+2024-05-20 12:17:08 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [74/100], Loss: 0.2579, Valid Acc: 0.5227, Valid F1: 0.4476, Valid DP: 0.4030, Valid EOD: 0.6920
+2024-05-20 12:17:29 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Warning: Class 1 has only 58 predictions.
+2024-05-20 12:17:29 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [75/100], Loss: 0.1795, Valid Acc: 0.3422, Valid F1: 0.3076, Valid DP: 0.3570, Valid EOD: 0.6869
+2024-05-20 12:17:49 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [76/100], Loss: 0.1338, Valid Acc: 0.5328, Valid F1: 0.4656, Valid DP: 0.3462, Valid EOD: 0.7230
+2024-05-20 12:18:10 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Warning: Class 5 has only 79 predictions.
+2024-05-20 12:18:10 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [77/100], Loss: 0.0937, Valid Acc: 0.5039, Valid F1: 0.4239, Valid DP: 0.3710, Valid EOD: 0.7003
+2024-05-20 12:18:31 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [78/100], Loss: 0.0663, Valid Acc: 0.5246, Valid F1: 0.4428, Valid DP: 0.4252, Valid EOD: 0.6923
+2024-05-20 12:18:52 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [79/100], Loss: 0.0502, Valid Acc: 0.5480, Valid F1: 0.4616, Valid DP: 0.4554, Valid EOD: 0.7252
+2024-05-20 12:19:13 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [80/100], Loss: 0.0353, Valid Acc: 0.5453, Valid F1: 0.4902, Valid DP: 0.3161, Valid EOD: 0.7169
+2024-05-20 12:19:34 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [81/100], Loss: 0.0230, Valid Acc: 0.5262, Valid F1: 0.4523, Valid DP: 0.3686, Valid EOD: 0.6847
+2024-05-20 12:19:55 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [82/100], Loss: 0.0176, Valid Acc: 0.5164, Valid F1: 0.4440, Valid DP: 0.3140, Valid EOD: 0.7337
+2024-05-20 12:20:16 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [83/100], Loss: 0.0134, Valid Acc: 0.5418, Valid F1: 0.4718, Valid DP: 0.3792, Valid EOD: 0.6832
+2024-05-20 12:20:37 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [84/100], Loss: 0.0101, Valid Acc: 0.5379, Valid F1: 0.4706, Valid DP: 0.3677, Valid EOD: 0.7015
+2024-05-20 12:20:58 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [85/100], Loss: 0.0095, Valid Acc: 0.5484, Valid F1: 0.4722, Valid DP: 0.4021, Valid EOD: 0.6241
+2024-05-20 12:21:19 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [86/100], Loss: 0.0097, Valid Acc: 0.5445, Valid F1: 0.4740, Valid DP: 0.3817, Valid EOD: 0.7169
+2024-05-20 12:21:40 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [87/100], Loss: 0.0084, Valid Acc: 0.5523, Valid F1: 0.4744, Valid DP: 0.3980, Valid EOD: 0.7184
+2024-05-20 12:22:02 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [88/100], Loss: 0.0075, Valid Acc: 0.5563, Valid F1: 0.4810, Valid DP: 0.4029, Valid EOD: 0.7443
+2024-05-20 12:22:23 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [89/100], Loss: 0.0071, Valid Acc: 0.5586, Valid F1: 0.4799, Valid DP: 0.4054, Valid EOD: 0.6962
+2024-05-20 12:22:45 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [90/100], Loss: 0.0076, Valid Acc: 0.5574, Valid F1: 0.4828, Valid DP: 0.4079, Valid EOD: 0.6886
+2024-05-20 12:23:06 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [91/100], Loss: 0.0067, Valid Acc: 0.5508, Valid F1: 0.4777, Valid DP: 0.3907, Valid EOD: 0.7314
+2024-05-20 12:23:27 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [92/100], Loss: 0.0072, Valid Acc: 0.5492, Valid F1: 0.4754, Valid DP: 0.3645, Valid EOD: 0.6702
+2024-05-20 12:23:48 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [93/100], Loss: 0.0063, Valid Acc: 0.5367, Valid F1: 0.4627, Valid DP: 0.4088, Valid EOD: 0.6794
+2024-05-20 12:24:09 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [94/100], Loss: 0.0061, Valid Acc: 0.5391, Valid F1: 0.4611, Valid DP: 0.3841, Valid EOD: 0.6213
+2024-05-20 12:24:31 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [95/100], Loss: 0.0067, Valid Acc: 0.5539, Valid F1: 0.4795, Valid DP: 0.4005, Valid EOD: 0.6832
+2024-05-20 12:24:52 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [96/100], Loss: 0.0059, Valid Acc: 0.5500, Valid F1: 0.4810, Valid DP: 0.3604, Valid EOD: 0.7015
+2024-05-20 12:25:14 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [97/100], Loss: 0.0063, Valid Acc: 0.5457, Valid F1: 0.4754, Valid DP: 0.3833, Valid EOD: 0.6771
+2024-05-20 12:25:35 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [98/100], Loss: 0.0062, Valid Acc: 0.5535, Valid F1: 0.4757, Valid DP: 0.3931, Valid EOD: 0.7130
+2024-05-20 12:25:56 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [99/100], Loss: 0.0055, Valid Acc: 0.5496, Valid F1: 0.4780, Valid DP: 0.3743, Valid EOD: 0.7001
+2024-05-20 12:25:56 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v002_target_age_7_bins/best_loss_state.pth.
+2024-05-20 12:26:18 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Epoch [100/100], Loss: 0.0055, Valid Acc: 0.5551, Valid F1: 0.4771, Valid DP: 0.4234, Valid EOD: 0.7184
+2024-05-20 12:26:18 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v002_target_age_7_bins/best_loss_state.pth.
+2024-05-20 12:26:18 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Saved model final to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/utk_face/v002_target_age_7_bins/final_state.pth.
+2024-05-20 12:26:18 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Model and metrics saved.
+2024-05-20 12:26:18 - plain_baseline/utk_face/v002_target_age_7_bins - INFO - Training finished.

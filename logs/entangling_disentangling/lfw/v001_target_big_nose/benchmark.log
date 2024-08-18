@@ -1,0 +1,152 @@
+2024-05-21 18:51:19 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Start entangling disentangling benchmark.
+2024-05-21 18:51:19 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Training started.
+2024-05-21 18:51:31 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [1/100], Loss: 0.5710, Valid Acc: 0.4597, Valid F1: 0.3808, Valid DP: 0.1053, Valid EOD: 0.0979
+2024-05-21 18:51:31 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/lfw/v001_target_big_nose/best_f1_state.pth.
+2024-05-21 18:51:31 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/lfw/v001_target_big_nose/best_eod_state.pth.
+2024-05-21 18:51:31 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/lfw/v001_target_big_nose/best_loss_state.pth.
+2024-05-21 18:51:43 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [2/100], Loss: 0.4388, Valid Acc: 0.7349, Valid F1: 0.8221, Valid DP: 0.1754, Valid EOD: 0.1243
+2024-05-21 18:51:43 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/lfw/v001_target_big_nose/best_f1_state.pth.
+2024-05-21 18:51:43 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/lfw/v001_target_big_nose/best_loss_state.pth.
+2024-05-21 18:51:55 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [3/100], Loss: 0.3694, Valid Acc: 0.5523, Valid F1: 0.5223, Valid DP: 0.1989, Valid EOD: 0.1640
+2024-05-21 18:51:55 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/lfw/v001_target_big_nose/best_loss_state.pth.
+2024-05-21 18:52:07 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [4/100], Loss: 0.3329, Valid Acc: 0.5694, Valid F1: 0.5582, Valid DP: 0.2237, Valid EOD: 0.1769
+2024-05-21 18:52:07 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/lfw/v001_target_big_nose/best_loss_state.pth.
+2024-05-21 18:52:20 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [5/100], Loss: 0.2831, Valid Acc: 0.7907, Valid F1: 0.8650, Valid DP: 0.2927, Valid EOD: 0.3199
+2024-05-21 18:52:20 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/lfw/v001_target_big_nose/best_f1_state.pth.
+2024-05-21 18:52:20 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/lfw/v001_target_big_nose/best_loss_state.pth.
+2024-05-21 18:52:32 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [6/100], Loss: 0.2492, Valid Acc: 0.8212, Valid F1: 0.8743, Valid DP: 0.3888, Valid EOD: 0.3030
+2024-05-21 18:52:32 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/lfw/v001_target_big_nose/best_f1_state.pth.
+2024-05-21 18:52:33 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/lfw/v001_target_big_nose/best_loss_state.pth.
+2024-05-21 18:52:45 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [7/100], Loss: 0.2101, Valid Acc: 0.8136, Valid F1: 0.8640, Valid DP: 0.3643, Valid EOD: 0.2369
+2024-05-21 18:52:45 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/lfw/v001_target_big_nose/best_loss_state.pth.
+2024-05-21 18:52:58 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [8/100], Loss: 0.1746, Valid Acc: 0.6893, Valid F1: 0.7247, Valid DP: 0.3136, Valid EOD: 0.2423
+2024-05-21 18:52:58 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/lfw/v001_target_big_nose/best_loss_state.pth.
+2024-05-21 18:53:12 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [9/100], Loss: 0.1667, Valid Acc: 0.7774, Valid F1: 0.8582, Valid DP: 0.2005, Valid EOD: 0.1872
+2024-05-21 18:53:12 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/lfw/v001_target_big_nose/best_loss_state.pth.
+2024-05-21 18:53:25 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [10/100], Loss: 0.1180, Valid Acc: 0.7800, Valid F1: 0.8276, Valid DP: 0.3728, Valid EOD: 0.2119
+2024-05-21 18:53:25 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/lfw/v001_target_big_nose/best_loss_state.pth.
+2024-05-21 18:53:39 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [11/100], Loss: 0.1217, Valid Acc: 0.8136, Valid F1: 0.8616, Valid DP: 0.3753, Valid EOD: 0.1928
+2024-05-21 18:53:53 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [12/100], Loss: 0.1035, Valid Acc: 0.8117, Valid F1: 0.8590, Valid DP: 0.4183, Valid EOD: 0.2561
+2024-05-21 18:53:53 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/lfw/v001_target_big_nose/best_loss_state.pth.
+2024-05-21 18:54:07 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [13/100], Loss: 0.0970, Valid Acc: 0.7622, Valid F1: 0.8124, Valid DP: 0.3199, Valid EOD: 0.1593
+2024-05-21 18:54:07 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/lfw/v001_target_big_nose/best_loss_state.pth.
+2024-05-21 18:54:21 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [14/100], Loss: 0.0794, Valid Acc: 0.7901, Valid F1: 0.8607, Valid DP: 0.2501, Valid EOD: 0.2267
+2024-05-21 18:54:21 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/lfw/v001_target_big_nose/best_loss_state.pth.
+2024-05-21 18:54:35 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [15/100], Loss: 0.0811, Valid Acc: 0.8009, Valid F1: 0.8577, Valid DP: 0.3884, Valid EOD: 0.2508
+2024-05-21 18:54:50 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [16/100], Loss: 0.0835, Valid Acc: 0.8288, Valid F1: 0.8797, Valid DP: 0.3207, Valid EOD: 0.1902
+2024-05-21 18:54:50 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/lfw/v001_target_big_nose/best_f1_state.pth.
+2024-05-21 18:55:04 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [17/100], Loss: 0.0580, Valid Acc: 0.8129, Valid F1: 0.8708, Valid DP: 0.3748, Valid EOD: 0.3053
+2024-05-21 18:55:04 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/lfw/v001_target_big_nose/best_loss_state.pth.
+2024-05-21 18:55:19 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [18/100], Loss: 0.0638, Valid Acc: 0.7800, Valid F1: 0.8589, Valid DP: 0.2141, Valid EOD: 0.2129
+2024-05-21 18:55:34 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [19/100], Loss: 0.0623, Valid Acc: 0.7096, Valid F1: 0.7441, Valid DP: 0.2952, Valid EOD: 0.1744
+2024-05-21 18:55:49 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [20/100], Loss: 0.0441, Valid Acc: 0.8250, Valid F1: 0.8781, Valid DP: 0.2763, Valid EOD: 0.1661
+2024-05-21 18:55:49 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/lfw/v001_target_big_nose/best_loss_state.pth.
+2024-05-21 18:56:04 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [21/100], Loss: 0.0404, Valid Acc: 0.8110, Valid F1: 0.8586, Valid DP: 0.3851, Valid EOD: 0.2464
+2024-05-21 18:56:05 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/lfw/v001_target_big_nose/best_loss_state.pth.
+2024-05-21 18:56:20 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [22/100], Loss: 0.0425, Valid Acc: 0.8186, Valid F1: 0.8709, Valid DP: 0.3246, Valid EOD: 0.2124
+2024-05-21 18:56:36 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [23/100], Loss: 0.0418, Valid Acc: 0.8301, Valid F1: 0.8766, Valid DP: 0.3005, Valid EOD: 0.1765
+2024-05-21 18:56:52 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [24/100], Loss: 0.0397, Valid Acc: 0.8060, Valid F1: 0.8703, Valid DP: 0.2780, Valid EOD: 0.2242
+2024-05-21 18:56:52 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/lfw/v001_target_big_nose/best_loss_state.pth.
+2024-05-21 18:57:08 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [25/100], Loss: 0.0409, Valid Acc: 0.8155, Valid F1: 0.8721, Valid DP: 0.3457, Valid EOD: 0.2769
+2024-05-21 18:57:24 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [26/100], Loss: 0.0314, Valid Acc: 0.8066, Valid F1: 0.8541, Valid DP: 0.3298, Valid EOD: 0.1777
+2024-05-21 18:57:24 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/lfw/v001_target_big_nose/best_loss_state.pth.
+2024-05-21 18:57:41 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [27/100], Loss: 0.0229, Valid Acc: 0.8148, Valid F1: 0.8735, Valid DP: 0.3117, Valid EOD: 0.2323
+2024-05-21 18:57:41 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/lfw/v001_target_big_nose/best_loss_state.pth.
+2024-05-21 18:57:57 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [28/100], Loss: 0.0301, Valid Acc: 0.7933, Valid F1: 0.8421, Valid DP: 0.3080, Valid EOD: 0.1522
+2024-05-21 18:58:14 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [29/100], Loss: 0.0440, Valid Acc: 0.8142, Valid F1: 0.8749, Valid DP: 0.2794, Valid EOD: 0.2164
+2024-05-21 18:58:31 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [30/100], Loss: 0.0388, Valid Acc: 0.8180, Valid F1: 0.8603, Valid DP: 0.3650, Valid EOD: 0.1681
+2024-05-21 18:58:48 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [31/100], Loss: 0.0188, Valid Acc: 0.8167, Valid F1: 0.8669, Valid DP: 0.3602, Valid EOD: 0.2014
+2024-05-21 18:58:48 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/lfw/v001_target_big_nose/best_loss_state.pth.
+2024-05-21 18:59:05 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [32/100], Loss: 0.0197, Valid Acc: 0.7863, Valid F1: 0.8472, Valid DP: 0.3573, Valid EOD: 0.3044
+2024-05-21 18:59:23 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [33/100], Loss: 0.0189, Valid Acc: 0.7984, Valid F1: 0.8692, Valid DP: 0.2490, Valid EOD: 0.2208
+2024-05-21 18:59:40 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [34/100], Loss: 0.0208, Valid Acc: 0.8015, Valid F1: 0.8613, Valid DP: 0.3198, Valid EOD: 0.2667
+2024-05-21 18:59:58 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [35/100], Loss: 0.0271, Valid Acc: 0.8047, Valid F1: 0.8540, Valid DP: 0.3299, Valid EOD: 0.1567
+2024-05-21 19:00:16 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [36/100], Loss: 0.0302, Valid Acc: 0.8250, Valid F1: 0.8782, Valid DP: 0.3195, Valid EOD: 0.1947
+2024-05-21 19:00:34 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [37/100], Loss: 0.0210, Valid Acc: 0.8224, Valid F1: 0.8751, Valid DP: 0.3191, Valid EOD: 0.1951
+2024-05-21 19:00:53 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [38/100], Loss: 0.0168, Valid Acc: 0.8091, Valid F1: 0.8585, Valid DP: 0.3701, Valid EOD: 0.2240
+2024-05-21 19:00:53 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/lfw/v001_target_big_nose/best_loss_state.pth.
+2024-05-21 19:01:11 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [39/100], Loss: 0.0217, Valid Acc: 0.7869, Valid F1: 0.8625, Valid DP: 0.2776, Valid EOD: 0.3130
+2024-05-21 19:01:30 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [40/100], Loss: 0.0199, Valid Acc: 0.8003, Valid F1: 0.8491, Valid DP: 0.3455, Valid EOD: 0.1807
+2024-05-21 19:01:49 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [41/100], Loss: 0.0146, Valid Acc: 0.8123, Valid F1: 0.8652, Valid DP: 0.3501, Valid EOD: 0.2295
+2024-05-21 19:01:49 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/lfw/v001_target_big_nose/best_loss_state.pth.
+2024-05-21 19:02:08 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [42/100], Loss: 0.0197, Valid Acc: 0.7990, Valid F1: 0.8635, Valid DP: 0.2898, Valid EOD: 0.1893
+2024-05-21 19:02:28 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [43/100], Loss: 0.0232, Valid Acc: 0.8142, Valid F1: 0.8709, Valid DP: 0.3219, Valid EOD: 0.2533
+2024-05-21 19:02:47 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [44/100], Loss: 0.0171, Valid Acc: 0.8129, Valid F1: 0.8675, Valid DP: 0.3108, Valid EOD: 0.2035
+2024-05-21 19:03:07 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [45/100], Loss: 0.0143, Valid Acc: 0.8003, Valid F1: 0.8646, Valid DP: 0.3233, Valid EOD: 0.3023
+2024-05-21 19:03:07 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/lfw/v001_target_big_nose/best_loss_state.pth.
+2024-05-21 19:03:26 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [46/100], Loss: 0.0165, Valid Acc: 0.8244, Valid F1: 0.8755, Valid DP: 0.3016, Valid EOD: 0.1955
+2024-05-21 19:03:46 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [47/100], Loss: 0.0158, Valid Acc: 0.8136, Valid F1: 0.8659, Valid DP: 0.3431, Valid EOD: 0.2279
+2024-05-21 19:04:06 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [48/100], Loss: 0.0189, Valid Acc: 0.8269, Valid F1: 0.8797, Valid DP: 0.2765, Valid EOD: 0.1863
+2024-05-21 19:04:06 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/lfw/v001_target_big_nose/best_f1_state.pth.
+2024-05-21 19:04:27 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [49/100], Loss: 0.0274, Valid Acc: 0.8301, Valid F1: 0.8774, Valid DP: 0.3382, Valid EOD: 0.1830
+2024-05-21 19:04:47 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [50/100], Loss: 0.0184, Valid Acc: 0.8244, Valid F1: 0.8812, Valid DP: 0.3151, Valid EOD: 0.2794
+2024-05-21 19:04:47 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/lfw/v001_target_big_nose/best_f1_state.pth.
+2024-05-21 19:05:08 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [51/100], Loss: 0.0142, Valid Acc: 0.7819, Valid F1: 0.8271, Valid DP: 0.3921, Valid EOD: 0.2674
+2024-05-21 19:05:08 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/lfw/v001_target_big_nose/best_loss_state.pth.
+2024-05-21 19:05:29 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [52/100], Loss: 0.0122, Valid Acc: 0.8263, Valid F1: 0.8789, Valid DP: 0.2898, Valid EOD: 0.1847
+2024-05-21 19:05:29 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/lfw/v001_target_big_nose/best_loss_state.pth.
+2024-05-21 19:05:50 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [53/100], Loss: 0.0124, Valid Acc: 0.7996, Valid F1: 0.8681, Valid DP: 0.3221, Valid EOD: 0.3599
+2024-05-21 19:06:11 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [54/100], Loss: 0.0207, Valid Acc: 0.8142, Valid F1: 0.8743, Valid DP: 0.2811, Valid EOD: 0.2301
+2024-05-21 19:06:33 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [55/100], Loss: 0.0113, Valid Acc: 0.8205, Valid F1: 0.8727, Valid DP: 0.3681, Valid EOD: 0.2528
+2024-05-21 19:06:33 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/lfw/v001_target_big_nose/best_loss_state.pth.
+2024-05-21 19:06:54 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [56/100], Loss: 0.0113, Valid Acc: 0.8237, Valid F1: 0.8783, Valid DP: 0.2962, Valid EOD: 0.2449
+2024-05-21 19:06:54 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/lfw/v001_target_big_nose/best_loss_state.pth.
+2024-05-21 19:07:17 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [57/100], Loss: 0.0096, Valid Acc: 0.8275, Valid F1: 0.8761, Valid DP: 0.3539, Valid EOD: 0.2148
+2024-05-21 19:07:17 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/lfw/v001_target_big_nose/best_loss_state.pth.
+2024-05-21 19:07:41 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [58/100], Loss: 0.0118, Valid Acc: 0.7590, Valid F1: 0.8006, Valid DP: 0.3660, Valid EOD: 0.2529
+2024-05-21 19:08:04 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [59/100], Loss: 0.0104, Valid Acc: 0.8231, Valid F1: 0.8701, Valid DP: 0.3787, Valid EOD: 0.2376
+2024-05-21 19:08:28 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [60/100], Loss: 0.0091, Valid Acc: 0.8231, Valid F1: 0.8713, Valid DP: 0.3721, Valid EOD: 0.2287
+2024-05-21 19:08:28 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/lfw/v001_target_big_nose/best_loss_state.pth.
+2024-05-21 19:08:50 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [61/100], Loss: 0.0081, Valid Acc: 0.8180, Valid F1: 0.8772, Valid DP: 0.3578, Valid EOD: 0.3567
+2024-05-21 19:08:50 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/lfw/v001_target_big_nose/best_loss_state.pth.
+2024-05-21 19:09:13 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [62/100], Loss: 0.0084, Valid Acc: 0.8117, Valid F1: 0.8615, Valid DP: 0.3355, Valid EOD: 0.2220
+2024-05-21 19:09:36 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [63/100], Loss: 0.0181, Valid Acc: 0.8015, Valid F1: 0.8544, Valid DP: 0.3538, Valid EOD: 0.1879
+2024-05-21 19:09:59 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [64/100], Loss: 0.0200, Valid Acc: 0.7971, Valid F1: 0.8448, Valid DP: 0.3972, Valid EOD: 0.2281
+2024-05-21 19:10:22 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [65/100], Loss: 0.0127, Valid Acc: 0.8218, Valid F1: 0.8739, Valid DP: 0.3805, Valid EOD: 0.2763
+2024-05-21 19:10:45 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [66/100], Loss: 0.0082, Valid Acc: 0.8034, Valid F1: 0.8704, Valid DP: 0.2735, Valid EOD: 0.2336
+2024-05-21 19:11:08 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [67/100], Loss: 0.0115, Valid Acc: 0.8117, Valid F1: 0.8558, Valid DP: 0.3872, Valid EOD: 0.2388
+2024-05-21 19:11:32 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [68/100], Loss: 0.0152, Valid Acc: 0.8098, Valid F1: 0.8618, Valid DP: 0.3291, Valid EOD: 0.1928
+2024-05-21 19:11:56 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [69/100], Loss: 0.0183, Valid Acc: 0.8066, Valid F1: 0.8635, Valid DP: 0.3210, Valid EOD: 0.2251
+2024-05-21 19:12:19 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [70/100], Loss: 0.0149, Valid Acc: 0.7926, Valid F1: 0.8653, Valid DP: 0.3093, Valid EOD: 0.3287
+2024-05-21 19:12:43 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [71/100], Loss: 0.0142, Valid Acc: 0.8186, Valid F1: 0.8709, Valid DP: 0.4078, Valid EOD: 0.3136
+2024-05-21 19:13:08 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [72/100], Loss: 0.0129, Valid Acc: 0.8186, Valid F1: 0.8729, Valid DP: 0.3558, Valid EOD: 0.2775
+2024-05-21 19:13:32 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [73/100], Loss: 0.0147, Valid Acc: 0.8167, Valid F1: 0.8749, Valid DP: 0.3179, Valid EOD: 0.2492
+2024-05-21 19:13:56 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [74/100], Loss: 0.0120, Valid Acc: 0.8269, Valid F1: 0.8807, Valid DP: 0.3494, Valid EOD: 0.2618
+2024-05-21 19:14:21 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [75/100], Loss: 0.0169, Valid Acc: 0.8142, Valid F1: 0.8638, Valid DP: 0.3970, Valid EOD: 0.2676
+2024-05-21 19:14:46 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [76/100], Loss: 0.0115, Valid Acc: 0.8199, Valid F1: 0.8783, Valid DP: 0.2911, Valid EOD: 0.2201
+2024-05-21 19:15:11 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [77/100], Loss: 0.0120, Valid Acc: 0.8003, Valid F1: 0.8466, Valid DP: 0.4164, Valid EOD: 0.2342
+2024-05-21 19:15:36 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [78/100], Loss: 0.0140, Valid Acc: 0.7806, Valid F1: 0.8576, Valid DP: 0.2436, Valid EOD: 0.2304
+2024-05-21 19:16:02 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [79/100], Loss: 0.0185, Valid Acc: 0.8155, Valid F1: 0.8662, Valid DP: 0.3748, Valid EOD: 0.2452
+2024-05-21 19:16:27 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [80/100], Loss: 0.0182, Valid Acc: 0.8320, Valid F1: 0.8812, Valid DP: 0.3442, Valid EOD: 0.2530
+2024-05-21 19:16:27 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/lfw/v001_target_big_nose/best_f1_state.pth.
+2024-05-21 19:16:53 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [81/100], Loss: 0.0108, Valid Acc: 0.8269, Valid F1: 0.8762, Valid DP: 0.3952, Valid EOD: 0.2820
+2024-05-21 19:17:19 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [82/100], Loss: 0.0133, Valid Acc: 0.8142, Valid F1: 0.8761, Valid DP: 0.3463, Valid EOD: 0.3543
+2024-05-21 19:17:45 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [83/100], Loss: 0.0097, Valid Acc: 0.8351, Valid F1: 0.8851, Valid DP: 0.3654, Valid EOD: 0.2879
+2024-05-21 19:17:45 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/lfw/v001_target_big_nose/best_f1_state.pth.
+2024-05-21 19:18:11 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [84/100], Loss: 0.0076, Valid Acc: 0.8275, Valid F1: 0.8719, Valid DP: 0.3715, Valid EOD: 0.2129
+2024-05-21 19:18:11 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/lfw/v001_target_big_nose/best_loss_state.pth.
+2024-05-21 19:18:38 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [85/100], Loss: 0.0062, Valid Acc: 0.8288, Valid F1: 0.8837, Valid DP: 0.3419, Valid EOD: 0.2865
+2024-05-21 19:18:38 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/lfw/v001_target_big_nose/best_loss_state.pth.
+2024-05-21 19:19:04 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [86/100], Loss: 0.0104, Valid Acc: 0.7977, Valid F1: 0.8454, Valid DP: 0.3602, Valid EOD: 0.1800
+2024-05-21 19:19:31 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [87/100], Loss: 0.0136, Valid Acc: 0.8142, Valid F1: 0.8703, Valid DP: 0.3857, Valid EOD: 0.3379
+2024-05-21 19:19:58 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [88/100], Loss: 0.0122, Valid Acc: 0.7907, Valid F1: 0.8611, Valid DP: 0.2455, Valid EOD: 0.1981
+2024-05-21 19:20:25 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [89/100], Loss: 0.0172, Valid Acc: 0.8148, Valid F1: 0.8748, Valid DP: 0.3689, Valid EOD: 0.3482
+2024-05-21 19:20:52 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [90/100], Loss: 0.0162, Valid Acc: 0.7882, Valid F1: 0.8347, Valid DP: 0.3671, Valid EOD: 0.1984
+2024-05-21 19:21:20 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [91/100], Loss: 0.0104, Valid Acc: 0.8320, Valid F1: 0.8809, Valid DP: 0.3810, Valid EOD: 0.2430
+2024-05-21 19:21:48 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [92/100], Loss: 0.0064, Valid Acc: 0.8224, Valid F1: 0.8797, Valid DP: 0.3279, Valid EOD: 0.2794
+2024-05-21 19:22:15 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [93/100], Loss: 0.0057, Valid Acc: 0.8142, Valid F1: 0.8672, Valid DP: 0.3892, Valid EOD: 0.3018
+2024-05-21 19:22:15 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/lfw/v001_target_big_nose/best_loss_state.pth.
+2024-05-21 19:22:43 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [94/100], Loss: 0.0076, Valid Acc: 0.8408, Valid F1: 0.8863, Valid DP: 0.3930, Valid EOD: 0.2487
+2024-05-21 19:22:43 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/lfw/v001_target_big_nose/best_f1_state.pth.
+2024-05-21 19:23:12 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [95/100], Loss: 0.0045, Valid Acc: 0.8320, Valid F1: 0.8773, Valid DP: 0.3808, Valid EOD: 0.2427
+2024-05-21 19:23:12 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/lfw/v001_target_big_nose/best_loss_state.pth.
+2024-05-21 19:23:40 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [96/100], Loss: 0.0038, Valid Acc: 0.8288, Valid F1: 0.8749, Valid DP: 0.3724, Valid EOD: 0.2493
+2024-05-21 19:23:40 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/lfw/v001_target_big_nose/best_loss_state.pth.
+2024-05-21 19:24:08 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [97/100], Loss: 0.0036, Valid Acc: 0.8275, Valid F1: 0.8717, Valid DP: 0.3683, Valid EOD: 0.1978
+2024-05-21 19:24:09 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/lfw/v001_target_big_nose/best_loss_state.pth.
+2024-05-21 19:24:37 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [98/100], Loss: 0.0042, Valid Acc: 0.8282, Valid F1: 0.8746, Valid DP: 0.3786, Valid EOD: 0.2560
+2024-05-21 19:25:06 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [99/100], Loss: 0.0114, Valid Acc: 0.7654, Valid F1: 0.8144, Valid DP: 0.3840, Valid EOD: 0.2393
+2024-05-21 19:25:35 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Epoch [100/100], Loss: 0.0098, Valid Acc: 0.8072, Valid F1: 0.8577, Valid DP: 0.3660, Valid EOD: 0.2103
+2024-05-21 19:25:35 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Saved model final to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/entangling_disentangling/lfw/v001_target_big_nose/final_state.pth.
+2024-05-21 19:25:35 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Model and metrics saved.
+2024-05-21 19:25:35 - entangling_disentangling/lfw/v001_target_big_nose - INFO - Training finished.

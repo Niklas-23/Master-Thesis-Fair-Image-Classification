@@ -1,0 +1,145 @@
+2024-07-18 16:20:05 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Training started.
+2024-07-18 16:20:47 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [1/100], Loss: 1.1358, Valid Acc: 0.8464, Valid F1: 0.0000, Valid DP: 0.0000, Valid EOD: 0.0000
+2024-07-18 16:20:47 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v2_target_wearing_lipstick/best_loss_state.pth.
+2024-07-18 16:21:00 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [2/100], Loss: 0.3319, Valid Acc: 0.8561, Valid F1: 0.1333, Valid DP: 0.0500, Valid EOD: 0.0338
+2024-07-18 16:21:00 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v2_target_wearing_lipstick/best_f1_state.pth.
+2024-07-18 16:21:00 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v2_target_wearing_lipstick/best_eod_state.pth.
+2024-07-18 16:21:00 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v2_target_wearing_lipstick/best_loss_state.pth.
+2024-07-18 16:21:12 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [3/100], Loss: 0.2656, Valid Acc: 0.8926, Valid F1: 0.5736, Valid DP: 0.3623, Valid EOD: 0.4308
+2024-07-18 16:21:12 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v2_target_wearing_lipstick/best_f1_state.pth.
+2024-07-18 16:21:12 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v2_target_wearing_lipstick/best_loss_state.pth.
+2024-07-18 16:21:24 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [4/100], Loss: 0.2253, Valid Acc: 0.9108, Valid F1: 0.6949, Valid DP: 0.5004, Valid EOD: 0.6431
+2024-07-18 16:21:24 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v2_target_wearing_lipstick/best_f1_state.pth.
+2024-07-18 16:21:24 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v2_target_wearing_lipstick/best_loss_state.pth.
+2024-07-18 16:21:36 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [5/100], Loss: 0.1775, Valid Acc: 0.9173, Valid F1: 0.7338, Valid DP: 0.5778, Valid EOD: 0.5936
+2024-07-18 16:21:36 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v2_target_wearing_lipstick/best_f1_state.pth.
+2024-07-18 16:21:36 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v2_target_wearing_lipstick/best_loss_state.pth.
+2024-07-18 16:21:48 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [6/100], Loss: 0.1343, Valid Acc: 0.9206, Valid F1: 0.6806, Valid DP: 0.4051, Valid EOD: 0.4741
+2024-07-18 16:21:48 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v2_target_wearing_lipstick/best_loss_state.pth.
+2024-07-18 16:22:01 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [7/100], Loss: 0.1058, Valid Acc: 0.9206, Valid F1: 0.6738, Valid DP: 0.4078, Valid EOD: 0.4552
+2024-07-18 16:22:01 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v2_target_wearing_lipstick/best_loss_state.pth.
+2024-07-18 16:22:13 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [8/100], Loss: 0.0663, Valid Acc: 0.9251, Valid F1: 0.6966, Valid DP: 0.4192, Valid EOD: 0.5299
+2024-07-18 16:22:13 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v2_target_wearing_lipstick/best_loss_state.pth.
+2024-07-18 16:22:26 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [9/100], Loss: 0.0469, Valid Acc: 0.9102, Valid F1: 0.7406, Valid DP: 0.6599, Valid EOD: 0.5582
+2024-07-18 16:22:26 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v2_target_wearing_lipstick/best_f1_state.pth.
+2024-07-18 16:22:26 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v2_target_wearing_lipstick/best_loss_state.pth.
+2024-07-18 16:22:39 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [10/100], Loss: 0.0416, Valid Acc: 0.9342, Valid F1: 0.7828, Valid DP: 0.6032, Valid EOD: 0.6266
+2024-07-18 16:22:39 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v2_target_wearing_lipstick/best_f1_state.pth.
+2024-07-18 16:22:39 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v2_target_wearing_lipstick/best_loss_state.pth.
+2024-07-18 16:22:53 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [11/100], Loss: 0.0339, Valid Acc: 0.9069, Valid F1: 0.7202, Valid DP: 0.5806, Valid EOD: 0.4041
+2024-07-18 16:22:53 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v2_target_wearing_lipstick/best_loss_state.pth.
+2024-07-18 16:23:06 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [12/100], Loss: 0.0348, Valid Acc: 0.9258, Valid F1: 0.7397, Valid DP: 0.5444, Valid EOD: 0.5322
+2024-07-18 16:23:20 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [13/100], Loss: 0.0315, Valid Acc: 0.9316, Valid F1: 0.7597, Valid DP: 0.5452, Valid EOD: 0.5047
+2024-07-18 16:23:20 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v2_target_wearing_lipstick/best_loss_state.pth.
+2024-07-18 16:23:33 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [14/100], Loss: 0.0248, Valid Acc: 0.9310, Valid F1: 0.7745, Valid DP: 0.5913, Valid EOD: 0.4874
+2024-07-18 16:23:33 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v2_target_wearing_lipstick/best_loss_state.pth.
+2024-07-18 16:23:47 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [15/100], Loss: 0.0112, Valid Acc: 0.9284, Valid F1: 0.7782, Valid DP: 0.6742, Valid EOD: 0.6785
+2024-07-18 16:23:48 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v2_target_wearing_lipstick/best_loss_state.pth.
+2024-07-18 16:24:03 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [16/100], Loss: 0.0085, Valid Acc: 0.9349, Valid F1: 0.7826, Valid DP: 0.6151, Valid EOD: 0.6635
+2024-07-18 16:24:03 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v2_target_wearing_lipstick/best_loss_state.pth.
+2024-07-18 16:24:19 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [17/100], Loss: 0.0074, Valid Acc: 0.9355, Valid F1: 0.7681, Valid DP: 0.5419, Valid EOD: 0.5417
+2024-07-18 16:24:19 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v2_target_wearing_lipstick/best_loss_state.pth.
+2024-07-18 16:24:33 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [18/100], Loss: 0.0042, Valid Acc: 0.9382, Valid F1: 0.7765, Valid DP: 0.5203, Valid EOD: 0.5000
+2024-07-18 16:24:33 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v2_target_wearing_lipstick/best_loss_state.pth.
+2024-07-18 16:24:47 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [19/100], Loss: 0.0079, Valid Acc: 0.9368, Valid F1: 0.7966, Valid DP: 0.6242, Valid EOD: 0.6643
+2024-07-18 16:24:47 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v2_target_wearing_lipstick/best_f1_state.pth.
+2024-07-18 16:25:02 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [20/100], Loss: 0.0091, Valid Acc: 0.9336, Valid F1: 0.7424, Valid DP: 0.4554, Valid EOD: 0.4615
+2024-07-18 16:25:17 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [21/100], Loss: 0.0090, Valid Acc: 0.9440, Valid F1: 0.8147, Valid DP: 0.6427, Valid EOD: 0.7060
+2024-07-18 16:25:17 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v2_target_wearing_lipstick/best_f1_state.pth.
+2024-07-18 16:25:31 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [22/100], Loss: 0.0109, Valid Acc: 0.9395, Valid F1: 0.7832, Valid DP: 0.5441, Valid EOD: 0.6069
+2024-07-18 16:25:46 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [23/100], Loss: 0.0125, Valid Acc: 0.9303, Valid F1: 0.7709, Valid DP: 0.5822, Valid EOD: 0.6171
+2024-07-18 16:26:01 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [24/100], Loss: 0.0153, Valid Acc: 0.9323, Valid F1: 0.7463, Valid DP: 0.4941, Valid EOD: 0.5362
+2024-07-18 16:26:17 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [25/100], Loss: 0.0171, Valid Acc: 0.9310, Valid F1: 0.7665, Valid DP: 0.5620, Valid EOD: 0.5888
+2024-07-18 16:26:32 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [26/100], Loss: 0.0123, Valid Acc: 0.9388, Valid F1: 0.7965, Valid DP: 0.6173, Valid EOD: 0.6360
+2024-07-18 16:26:48 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [27/100], Loss: 0.0088, Valid Acc: 0.9395, Valid F1: 0.7947, Valid DP: 0.5861, Valid EOD: 0.4780
+2024-07-18 16:27:04 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [28/100], Loss: 0.0050, Valid Acc: 0.9388, Valid F1: 0.7864, Valid DP: 0.5698, Valid EOD: 0.5377
+2024-07-18 16:27:31 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [29/100], Loss: 0.0057, Valid Acc: 0.9421, Valid F1: 0.7991, Valid DP: 0.5789, Valid EOD: 0.6494
+2024-07-18 16:28:03 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [30/100], Loss: 0.0033, Valid Acc: 0.9368, Valid F1: 0.7569, Valid DP: 0.4761, Valid EOD: 0.5731
+2024-07-18 16:28:03 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v2_target_wearing_lipstick/best_loss_state.pth.
+2024-07-18 16:28:30 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [31/100], Loss: 0.0030, Valid Acc: 0.9408, Valid F1: 0.7889, Valid DP: 0.5540, Valid EOD: 0.5700
+2024-07-18 16:28:31 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v2_target_wearing_lipstick/best_loss_state.pth.
+2024-07-18 16:29:04 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [32/100], Loss: 0.0033, Valid Acc: 0.9401, Valid F1: 0.7799, Valid DP: 0.5339, Valid EOD: 0.6297
+2024-07-18 16:29:21 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [33/100], Loss: 0.0039, Valid Acc: 0.9355, Valid F1: 0.7614, Valid DP: 0.5209, Valid EOD: 0.6061
+2024-07-18 16:29:38 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [34/100], Loss: 0.0047, Valid Acc: 0.9375, Valid F1: 0.7966, Valid DP: 0.6129, Valid EOD: 0.6549
+2024-07-18 16:29:56 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [35/100], Loss: 0.0076, Valid Acc: 0.9245, Valid F1: 0.7422, Valid DP: 0.5576, Valid EOD: 0.5558
+2024-07-18 16:30:13 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [36/100], Loss: 0.0153, Valid Acc: 0.9271, Valid F1: 0.7787, Valid DP: 0.6543, Valid EOD: 0.5582
+2024-07-18 16:30:30 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [37/100], Loss: 0.0176, Valid Acc: 0.9342, Valid F1: 0.7761, Valid DP: 0.5684, Valid EOD: 0.5472
+2024-07-18 16:30:48 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [38/100], Loss: 0.0093, Valid Acc: 0.9349, Valid F1: 0.7925, Valid DP: 0.6317, Valid EOD: 0.5763
+2024-07-18 16:31:06 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [39/100], Loss: 0.0075, Valid Acc: 0.9349, Valid F1: 0.7835, Valid DP: 0.6057, Valid EOD: 0.5755
+2024-07-18 16:31:24 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [40/100], Loss: 0.0052, Valid Acc: 0.9310, Valid F1: 0.7854, Valid DP: 0.6372, Valid EOD: 0.5440
+2024-07-18 16:31:42 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [41/100], Loss: 0.0050, Valid Acc: 0.9238, Valid F1: 0.7754, Valid DP: 0.6845, Valid EOD: 0.4890
+2024-07-18 16:32:00 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [42/100], Loss: 0.0074, Valid Acc: 0.9395, Valid F1: 0.8025, Valid DP: 0.6176, Valid EOD: 0.5204
+2024-07-18 16:32:20 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [43/100], Loss: 0.0052, Valid Acc: 0.9388, Valid F1: 0.7854, Valid DP: 0.5676, Valid EOD: 0.6258
+2024-07-18 16:32:41 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [44/100], Loss: 0.0032, Valid Acc: 0.9349, Valid F1: 0.7630, Valid DP: 0.5305, Valid EOD: 0.6203
+2024-07-18 16:33:04 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [45/100], Loss: 0.0037, Valid Acc: 0.9421, Valid F1: 0.7925, Valid DP: 0.5557, Valid EOD: 0.6164
+2024-07-18 16:33:24 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [46/100], Loss: 0.0036, Valid Acc: 0.9355, Valid F1: 0.7907, Valid DP: 0.6198, Valid EOD: 0.5110
+2024-07-18 16:33:43 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [47/100], Loss: 0.0012, Valid Acc: 0.9382, Valid F1: 0.7875, Valid DP: 0.5794, Valid EOD: 0.6447
+2024-07-18 16:33:43 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v2_target_wearing_lipstick/best_loss_state.pth.
+2024-07-18 16:34:03 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [48/100], Loss: 0.0022, Valid Acc: 0.9329, Valid F1: 0.7859, Valid DP: 0.6364, Valid EOD: 0.6132
+2024-07-18 16:34:22 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [49/100], Loss: 0.0029, Valid Acc: 0.9440, Valid F1: 0.8054, Valid DP: 0.5720, Valid EOD: 0.6077
+2024-07-18 16:34:42 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [50/100], Loss: 0.0051, Valid Acc: 0.9349, Valid F1: 0.7908, Valid DP: 0.6040, Valid EOD: 0.4741
+2024-07-18 16:35:02 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [51/100], Loss: 0.0058, Valid Acc: 0.9434, Valid F1: 0.8105, Valid DP: 0.6043, Valid EOD: 0.6454
+2024-07-18 16:35:22 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [52/100], Loss: 0.0077, Valid Acc: 0.9303, Valid F1: 0.7747, Valid DP: 0.5988, Valid EOD: 0.6360
+2024-07-18 16:35:42 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [53/100], Loss: 0.0074, Valid Acc: 0.9310, Valid F1: 0.7754, Valid DP: 0.5781, Valid EOD: 0.5849
+2024-07-18 16:36:02 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [54/100], Loss: 0.0070, Valid Acc: 0.9290, Valid F1: 0.7753, Valid DP: 0.6060, Valid EOD: 0.6085
+2024-07-18 16:36:23 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [55/100], Loss: 0.0086, Valid Acc: 0.9382, Valid F1: 0.7930, Valid DP: 0.5927, Valid EOD: 0.5802
+2024-07-18 16:36:43 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [56/100], Loss: 0.0041, Valid Acc: 0.9382, Valid F1: 0.7826, Valid DP: 0.5645, Valid EOD: 0.6675
+2024-07-18 16:37:04 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [57/100], Loss: 0.0041, Valid Acc: 0.9414, Valid F1: 0.8043, Valid DP: 0.6151, Valid EOD: 0.6407
+2024-07-18 16:37:25 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [58/100], Loss: 0.0046, Valid Acc: 0.9342, Valid F1: 0.7761, Valid DP: 0.5955, Valid EOD: 0.6399
+2024-07-18 16:37:46 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [59/100], Loss: 0.0038, Valid Acc: 0.9297, Valid F1: 0.7692, Valid DP: 0.5659, Valid EOD: 0.5708
+2024-07-18 16:38:08 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [60/100], Loss: 0.0045, Valid Acc: 0.9362, Valid F1: 0.7822, Valid DP: 0.5924, Valid EOD: 0.6910
+2024-07-18 16:38:29 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [61/100], Loss: 0.0040, Valid Acc: 0.9427, Valid F1: 0.7963, Valid DP: 0.5493, Valid EOD: 0.6722
+2024-07-18 16:38:51 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [62/100], Loss: 0.0043, Valid Acc: 0.9401, Valid F1: 0.7880, Valid DP: 0.5477, Valid EOD: 0.6675
+2024-07-18 16:39:13 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [63/100], Loss: 0.0040, Valid Acc: 0.9421, Valid F1: 0.7935, Valid DP: 0.5386, Valid EOD: 0.5283
+2024-07-18 16:39:35 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [64/100], Loss: 0.0028, Valid Acc: 0.9329, Valid F1: 0.7832, Valid DP: 0.6181, Valid EOD: 0.6918
+2024-07-18 16:39:57 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [65/100], Loss: 0.0028, Valid Acc: 0.9453, Valid F1: 0.8166, Valid DP: 0.6168, Valid EOD: 0.6502
+2024-07-18 16:39:57 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v2_target_wearing_lipstick/best_f1_state.pth.
+2024-07-18 16:40:19 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [66/100], Loss: 0.0011, Valid Acc: 0.9395, Valid F1: 0.8017, Valid DP: 0.6386, Valid EOD: 0.6549
+2024-07-18 16:40:19 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v2_target_wearing_lipstick/best_loss_state.pth.
+2024-07-18 16:40:42 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [67/100], Loss: 0.0019, Valid Acc: 0.9421, Valid F1: 0.8018, Valid DP: 0.5894, Valid EOD: 0.5708
+2024-07-18 16:41:05 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [68/100], Loss: 0.0016, Valid Acc: 0.9349, Valid F1: 0.7608, Valid DP: 0.5145, Valid EOD: 0.5645
+2024-07-18 16:41:28 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [69/100], Loss: 0.0029, Valid Acc: 0.9408, Valid F1: 0.8009, Valid DP: 0.5982, Valid EOD: 0.6313
+2024-07-18 16:41:51 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [70/100], Loss: 0.0038, Valid Acc: 0.9382, Valid F1: 0.7816, Valid DP: 0.5546, Valid EOD: 0.6627
+2024-07-18 16:42:14 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [71/100], Loss: 0.0029, Valid Acc: 0.9349, Valid F1: 0.7727, Valid DP: 0.5659, Valid EOD: 0.6164
+2024-07-18 16:42:37 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [72/100], Loss: 0.0022, Valid Acc: 0.9388, Valid F1: 0.7864, Valid DP: 0.5698, Valid EOD: 0.6305
+2024-07-18 16:43:01 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [73/100], Loss: 0.0026, Valid Acc: 0.9329, Valid F1: 0.7785, Valid DP: 0.6187, Valid EOD: 0.6682
+2024-07-18 16:43:25 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [74/100], Loss: 0.0016, Valid Acc: 0.9408, Valid F1: 0.8051, Valid DP: 0.6480, Valid EOD: 0.7013
+2024-07-18 16:43:48 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [75/100], Loss: 0.0022, Valid Acc: 0.9434, Valid F1: 0.8018, Valid DP: 0.5745, Valid EOD: 0.6447
+2024-07-18 16:44:13 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [76/100], Loss: 0.0012, Valid Acc: 0.9427, Valid F1: 0.8036, Valid DP: 0.5980, Valid EOD: 0.6635
+2024-07-18 16:44:37 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [77/100], Loss: 0.0019, Valid Acc: 0.9355, Valid F1: 0.7984, Valid DP: 0.6629, Valid EOD: 0.5998
+2024-07-18 16:45:01 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [78/100], Loss: 0.0051, Valid Acc: 0.9395, Valid F1: 0.8067, Valid DP: 0.6518, Valid EOD: 0.6368
+2024-07-18 16:45:26 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [79/100], Loss: 0.0078, Valid Acc: 0.9349, Valid F1: 0.7854, Valid DP: 0.6063, Valid EOD: 0.5849
+2024-07-18 16:45:51 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [80/100], Loss: 0.0072, Valid Acc: 0.9349, Valid F1: 0.7778, Valid DP: 0.5692, Valid EOD: 0.5936
+2024-07-18 16:46:15 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [81/100], Loss: 0.0064, Valid Acc: 0.9368, Valid F1: 0.7707, Valid DP: 0.5413, Valid EOD: 0.5833
+2024-07-18 16:46:41 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [82/100], Loss: 0.0072, Valid Acc: 0.9382, Valid F1: 0.7786, Valid DP: 0.5557, Valid EOD: 0.6486
+2024-07-18 16:47:06 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [83/100], Loss: 0.0033, Valid Acc: 0.9336, Valid F1: 0.7763, Valid DP: 0.6029, Valid EOD: 0.6494
+2024-07-18 16:47:31 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [84/100], Loss: 0.0044, Valid Acc: 0.9395, Valid F1: 0.7974, Valid DP: 0.6082, Valid EOD: 0.5849
+2024-07-18 16:47:57 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [85/100], Loss: 0.0053, Valid Acc: 0.9368, Valid F1: 0.7941, Valid DP: 0.6292, Valid EOD: 0.6038
+2024-07-18 16:48:23 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [86/100], Loss: 0.0067, Valid Acc: 0.9375, Valid F1: 0.7975, Valid DP: 0.6538, Valid EOD: 0.6132
+2024-07-18 16:48:49 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [87/100], Loss: 0.0043, Valid Acc: 0.9316, Valid F1: 0.7904, Valid DP: 0.6740, Valid EOD: 0.6093
+2024-07-18 16:49:15 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [88/100], Loss: 0.0040, Valid Acc: 0.9427, Valid F1: 0.8103, Valid DP: 0.6273, Valid EOD: 0.6085
+2024-07-18 16:49:41 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [89/100], Loss: 0.0018, Valid Acc: 0.9368, Valid F1: 0.7840, Valid DP: 0.5894, Valid EOD: 0.6447
+2024-07-18 16:50:07 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [90/100], Loss: 0.0009, Valid Acc: 0.9408, Valid F1: 0.7964, Valid DP: 0.5872, Valid EOD: 0.6541
+2024-07-18 16:50:07 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v2_target_wearing_lipstick/best_loss_state.pth.
+2024-07-18 16:50:34 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [91/100], Loss: 0.0005, Valid Acc: 0.9447, Valid F1: 0.8132, Valid DP: 0.6076, Valid EOD: 0.5943
+2024-07-18 16:50:34 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v2_target_wearing_lipstick/best_loss_state.pth.
+2024-07-18 16:51:01 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [92/100], Loss: 0.0004, Valid Acc: 0.9447, Valid F1: 0.8046, Valid DP: 0.5623, Valid EOD: 0.5936
+2024-07-18 16:51:01 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v2_target_wearing_lipstick/best_loss_state.pth.
+2024-07-18 16:51:28 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [93/100], Loss: 0.0001, Valid Acc: 0.9447, Valid F1: 0.8081, Valid DP: 0.5905, Valid EOD: 0.6588
+2024-07-18 16:51:28 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v2_target_wearing_lipstick/best_loss_state.pth.
+2024-07-18 16:51:55 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [94/100], Loss: 0.0000, Valid Acc: 0.9447, Valid F1: 0.8107, Valid DP: 0.6010, Valid EOD: 0.6730
+2024-07-18 16:51:55 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v2_target_wearing_lipstick/best_loss_state.pth.
+2024-07-18 16:52:23 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [95/100], Loss: 0.0000, Valid Acc: 0.9447, Valid F1: 0.8107, Valid DP: 0.6010, Valid EOD: 0.6730
+2024-07-18 16:52:23 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v2_target_wearing_lipstick/best_loss_state.pth.
+2024-07-18 16:52:50 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [96/100], Loss: 0.0000, Valid Acc: 0.9453, Valid F1: 0.8125, Valid DP: 0.5980, Valid EOD: 0.6730
+2024-07-18 16:52:50 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v2_target_wearing_lipstick/best_loss_state.pth.
+2024-07-18 16:53:18 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [97/100], Loss: 0.0000, Valid Acc: 0.9453, Valid F1: 0.8125, Valid DP: 0.5980, Valid EOD: 0.6730
+2024-07-18 16:53:18 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v2_target_wearing_lipstick/best_loss_state.pth.
+2024-07-18 16:53:46 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [98/100], Loss: 0.0000, Valid Acc: 0.9453, Valid F1: 0.8125, Valid DP: 0.5980, Valid EOD: 0.6730
+2024-07-18 16:53:46 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v2_target_wearing_lipstick/best_loss_state.pth.
+2024-07-18 16:54:14 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [99/100], Loss: 0.0000, Valid Acc: 0.9453, Valid F1: 0.8125, Valid DP: 0.5980, Valid EOD: 0.6730
+2024-07-18 16:54:42 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Epoch [100/100], Loss: 0.0000, Valid Acc: 0.9460, Valid F1: 0.8143, Valid DP: 0.5988, Valid EOD: 0.6730
+2024-07-18 16:54:42 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v2_target_wearing_lipstick/best_loss_state.pth.
+2024-07-18 16:54:43 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Saved model final to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/lfw/v2_target_wearing_lipstick/final_state.pth.
+2024-07-18 16:54:43 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Model and metrics saved.
+2024-07-18 16:54:43 - plain_baseline/lfw/v2_target_wearing_lipstick - INFO - Training finished.

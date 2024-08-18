@@ -1,0 +1,165 @@
+2024-06-10 14:32:17 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Start adversairal debiasing benchmark.
+2024-06-10 14:32:17 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Training started.
+2024-06-10 14:32:30 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [1/100], Loss: 3.9564, Valid Acc: 0.5636, Valid F1: 0.6552, Valid DP: 0.4341, Valid EOD: 0.4976
+2024-06-10 14:32:30 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/lfw/skew02_v1_strong_nose/best_f1_state.pth.
+2024-06-10 14:32:30 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/lfw/skew02_v1_strong_nose/best_eod_state.pth.
+2024-06-10 14:32:30 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/lfw/skew02_v1_strong_nose/best_loss_state.pth.
+2024-06-10 14:32:43 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [2/100], Loss: 4.0998, Valid Acc: 0.4500, Valid F1: 0.1293, Valid DP: 0.0513, Valid EOD: 0.0898
+2024-06-10 14:32:43 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/lfw/skew02_v1_strong_nose/best_eod_state.pth.
+2024-06-10 14:32:56 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [3/100], Loss: 3.4051, Valid Acc: 0.4806, Valid F1: 0.2158, Valid DP: 0.0880, Valid EOD: 0.1572
+2024-06-10 14:32:56 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/lfw/skew02_v1_strong_nose/best_loss_state.pth.
+2024-06-10 14:33:09 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [4/100], Loss: 4.6426, Valid Acc: 0.7263, Valid F1: 0.7345, Valid DP: 0.2964, Valid EOD: 0.5431
+2024-06-10 14:33:09 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/lfw/skew02_v1_strong_nose/best_f1_state.pth.
+2024-06-10 14:33:23 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [5/100], Loss: 4.4838, Valid Acc: 0.7189, Valid F1: 0.7234, Valid DP: 0.3090, Valid EOD: 0.5455
+2024-06-10 14:33:36 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [6/100], Loss: 5.3515, Valid Acc: 0.7529, Valid F1: 0.7638, Valid DP: 0.1222, Valid EOD: 0.3463
+2024-06-10 14:33:36 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/lfw/skew02_v1_strong_nose/best_f1_state.pth.
+2024-06-10 14:33:50 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [7/100], Loss: 7.0059, Valid Acc: 0.8101, Valid F1: 0.8229, Valid DP: 0.0447, Valid EOD: 0.1747
+2024-06-10 14:33:50 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/lfw/skew02_v1_strong_nose/best_f1_state.pth.
+2024-06-10 14:34:04 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [8/100], Loss: 6.2439, Valid Acc: 0.8407, Valid F1: 0.8604, Valid DP: 0.2889, Valid EOD: 0.1170
+2024-06-10 14:34:04 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/lfw/skew02_v1_strong_nose/best_f1_state.pth.
+2024-06-10 14:34:18 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [9/100], Loss: 5.6093, Valid Acc: 0.7897, Valid F1: 0.8318, Valid DP: 0.3605, Valid EOD: 0.5163
+2024-06-10 14:34:33 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [10/100], Loss: 3.2794, Valid Acc: 0.5888, Valid F1: 0.7412, Valid DP: 0.0000, Valid EOD: 0.0000
+2024-06-10 14:34:33 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/lfw/skew02_v1_strong_nose/best_loss_state.pth.
+2024-06-10 14:34:47 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [11/100], Loss: 1.6832, Valid Acc: 0.5888, Valid F1: 0.7412, Valid DP: 0.0000, Valid EOD: 0.0000
+2024-06-10 14:34:47 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/lfw/skew02_v1_strong_nose/best_loss_state.pth.
+2024-06-10 14:35:02 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [12/100], Loss: 1.1280, Valid Acc: 0.8285, Valid F1: 0.8403, Valid DP: 0.3886, Valid EOD: 0.2227
+2024-06-10 14:35:02 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/lfw/skew02_v1_strong_nose/best_loss_state.pth.
+2024-06-10 14:35:17 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [13/100], Loss: 1.1916, Valid Acc: 0.8203, Valid F1: 0.8551, Valid DP: 0.1303, Valid EOD: 0.0783
+2024-06-10 14:35:17 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/lfw/skew02_v1_strong_nose/best_eod_state.pth.
+2024-06-10 14:35:32 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [14/100], Loss: 0.6013, Valid Acc: 0.8482, Valid F1: 0.8680, Valid DP: 0.2486, Valid EOD: 0.0773
+2024-06-10 14:35:32 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/lfw/skew02_v1_strong_nose/best_f1_state.pth.
+2024-06-10 14:35:32 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/lfw/skew02_v1_strong_nose/best_eod_state.pth.
+2024-06-10 14:35:32 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/lfw/skew02_v1_strong_nose/best_loss_state.pth.
+2024-06-10 14:35:47 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [15/100], Loss: 0.4247, Valid Acc: 0.8496, Valid F1: 0.8613, Valid DP: 0.2724, Valid EOD: 0.1036
+2024-06-10 14:35:47 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/lfw/skew02_v1_strong_nose/best_loss_state.pth.
+2024-06-10 14:36:02 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [16/100], Loss: 0.2769, Valid Acc: 0.7978, Valid F1: 0.7984, Valid DP: 0.0586, Valid EOD: 0.1440
+2024-06-10 14:36:02 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/lfw/skew02_v1_strong_nose/best_loss_state.pth.
+2024-06-10 14:36:18 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [17/100], Loss: 0.2359, Valid Acc: 0.8121, Valid F1: 0.8170, Valid DP: 0.1389, Valid EOD: 0.0479
+2024-06-10 14:36:18 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/lfw/skew02_v1_strong_nose/best_eod_state.pth.
+2024-06-10 14:36:18 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/lfw/skew02_v1_strong_nose/best_loss_state.pth.
+2024-06-10 14:36:34 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [18/100], Loss: 0.2646, Valid Acc: 0.7114, Valid F1: 0.7979, Valid DP: 0.0687, Valid EOD: 0.1321
+2024-06-10 14:36:50 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [19/100], Loss: 0.2627, Valid Acc: 0.8332, Valid F1: 0.8426, Valid DP: 0.3067, Valid EOD: 0.1485
+2024-06-10 14:37:06 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [20/100], Loss: 0.2774, Valid Acc: 0.8414, Valid F1: 0.8552, Valid DP: 0.2198, Valid EOD: 0.0349
+2024-06-10 14:37:06 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/lfw/skew02_v1_strong_nose/best_eod_state.pth.
+2024-06-10 14:37:22 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [21/100], Loss: 0.2101, Valid Acc: 0.8523, Valid F1: 0.8802, Valid DP: 0.2135, Valid EOD: 0.0426
+2024-06-10 14:37:22 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/lfw/skew02_v1_strong_nose/best_f1_state.pth.
+2024-06-10 14:37:22 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/lfw/skew02_v1_strong_nose/best_loss_state.pth.
+2024-06-10 14:37:38 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [22/100], Loss: 0.1750, Valid Acc: 0.8618, Valid F1: 0.8825, Valid DP: 0.2374, Valid EOD: 0.0556
+2024-06-10 14:37:38 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/lfw/skew02_v1_strong_nose/best_f1_state.pth.
+2024-06-10 14:37:38 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/lfw/skew02_v1_strong_nose/best_loss_state.pth.
+2024-06-10 14:37:55 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [23/100], Loss: 0.1702, Valid Acc: 0.8468, Valid F1: 0.8747, Valid DP: 0.1919, Valid EOD: 0.0212
+2024-06-10 14:37:55 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/lfw/skew02_v1_strong_nose/best_eod_state.pth.
+2024-06-10 14:37:55 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/lfw/skew02_v1_strong_nose/best_loss_state.pth.
+2024-06-10 14:38:12 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [24/100], Loss: 0.1843, Valid Acc: 0.8530, Valid F1: 0.8714, Valid DP: 0.2955, Valid EOD: 0.1137
+2024-06-10 14:38:28 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [25/100], Loss: 0.1553, Valid Acc: 0.8618, Valid F1: 0.8808, Valid DP: 0.2224, Valid EOD: 0.0473
+2024-06-10 14:38:28 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/lfw/skew02_v1_strong_nose/best_loss_state.pth.
+2024-06-10 14:38:45 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [26/100], Loss: 0.1292, Valid Acc: 0.8598, Valid F1: 0.8854, Valid DP: 0.2241, Valid EOD: 0.0507
+2024-06-10 14:38:45 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/lfw/skew02_v1_strong_nose/best_f1_state.pth.
+2024-06-10 14:38:45 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/lfw/skew02_v1_strong_nose/best_loss_state.pth.
+2024-06-10 14:39:02 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [27/100], Loss: 0.1229, Valid Acc: 0.8679, Valid F1: 0.8820, Valid DP: 0.3199, Valid EOD: 0.1438
+2024-06-10 14:39:02 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/lfw/skew02_v1_strong_nose/best_loss_state.pth.
+2024-06-10 14:39:20 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [28/100], Loss: 0.1192, Valid Acc: 0.8564, Valid F1: 0.8780, Valid DP: 0.2556, Valid EOD: 0.0864
+2024-06-10 14:39:20 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/lfw/skew02_v1_strong_nose/best_loss_state.pth.
+2024-06-10 14:39:37 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [29/100], Loss: 0.0837, Valid Acc: 0.8509, Valid F1: 0.8649, Valid DP: 0.2694, Valid EOD: 0.0943
+2024-06-10 14:39:37 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/lfw/skew02_v1_strong_nose/best_loss_state.pth.
+2024-06-10 14:39:55 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [30/100], Loss: 0.0569, Valid Acc: 0.8673, Valid F1: 0.8840, Valid DP: 0.2601, Valid EOD: 0.0840
+2024-06-10 14:39:55 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/lfw/skew02_v1_strong_nose/best_loss_state.pth.
+2024-06-10 14:40:13 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [31/100], Loss: 0.0433, Valid Acc: 0.8489, Valid F1: 0.8756, Valid DP: 0.2355, Valid EOD: 0.0600
+2024-06-10 14:40:13 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/lfw/skew02_v1_strong_nose/best_loss_state.pth.
+2024-06-10 14:40:31 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [32/100], Loss: 0.0320, Valid Acc: 0.8434, Valid F1: 0.8675, Valid DP: 0.2351, Valid EOD: 0.0559
+2024-06-10 14:40:31 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/lfw/skew02_v1_strong_nose/best_loss_state.pth.
+2024-06-10 14:40:49 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [33/100], Loss: 0.0265, Valid Acc: 0.8285, Valid F1: 0.8629, Valid DP: 0.2360, Valid EOD: 0.0862
+2024-06-10 14:40:49 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/lfw/skew02_v1_strong_nose/best_loss_state.pth.
+2024-06-10 14:41:07 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [34/100], Loss: 0.0107, Valid Acc: 0.8570, Valid F1: 0.8804, Valid DP: 0.2484, Valid EOD: 0.0720
+2024-06-10 14:41:07 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/lfw/skew02_v1_strong_nose/best_loss_state.pth.
+2024-06-10 14:41:26 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [35/100], Loss: 0.0164, Valid Acc: 0.8278, Valid F1: 0.8638, Valid DP: 0.2156, Valid EOD: 0.0614
+2024-06-10 14:41:44 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [36/100], Loss: 0.0186, Valid Acc: 0.7822, Valid F1: 0.8381, Valid DP: 0.1631, Valid EOD: 0.0357
+2024-06-10 14:42:03 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [37/100], Loss: 0.0110, Valid Acc: 0.8325, Valid F1: 0.8676, Valid DP: 0.2148, Valid EOD: 0.0555
+2024-06-10 14:42:22 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [38/100], Loss: 0.0109, Valid Acc: 0.8557, Valid F1: 0.8720, Valid DP: 0.2409, Valid EOD: 0.0629
+2024-06-10 14:42:41 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [39/100], Loss: 0.0070, Valid Acc: 0.8393, Valid F1: 0.8499, Valid DP: 0.2302, Valid EOD: 0.0583
+2024-06-10 14:42:41 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/lfw/skew02_v1_strong_nose/best_loss_state.pth.
+2024-06-10 14:43:01 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [40/100], Loss: 0.0044, Valid Acc: 0.8570, Valid F1: 0.8750, Valid DP: 0.2411, Valid EOD: 0.0697
+2024-06-10 14:43:01 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/lfw/skew02_v1_strong_nose/best_loss_state.pth.
+2024-06-10 14:43:20 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [41/100], Loss: 0.0014, Valid Acc: 0.8598, Valid F1: 0.8791, Valid DP: 0.2562, Valid EOD: 0.0751
+2024-06-10 14:43:20 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/lfw/skew02_v1_strong_nose/best_loss_state.pth.
+2024-06-10 14:43:40 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [42/100], Loss: 0.0005, Valid Acc: 0.8543, Valid F1: 0.8792, Valid DP: 0.2552, Valid EOD: 0.0762
+2024-06-10 14:43:40 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/lfw/skew02_v1_strong_nose/best_loss_state.pth.
+2024-06-10 14:44:00 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [43/100], Loss: 0.0004, Valid Acc: 0.8604, Valid F1: 0.8800, Valid DP: 0.2818, Valid EOD: 0.1034
+2024-06-10 14:44:00 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/lfw/skew02_v1_strong_nose/best_loss_state.pth.
+2024-06-10 14:44:20 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [44/100], Loss: 0.0003, Valid Acc: 0.8557, Valid F1: 0.8801, Valid DP: 0.2486, Valid EOD: 0.0711
+2024-06-10 14:44:21 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/lfw/skew02_v1_strong_nose/best_loss_state.pth.
+2024-06-10 14:44:41 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [45/100], Loss: 0.0002, Valid Acc: 0.8523, Valid F1: 0.8742, Valid DP: 0.2341, Valid EOD: 0.0676
+2024-06-10 14:44:41 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/lfw/skew02_v1_strong_nose/best_loss_state.pth.
+2024-06-10 14:45:01 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [46/100], Loss: 0.0007, Valid Acc: 0.8577, Valid F1: 0.8770, Valid DP: 0.2603, Valid EOD: 0.0876
+2024-06-10 14:45:22 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [47/100], Loss: 0.0002, Valid Acc: 0.8482, Valid F1: 0.8715, Valid DP: 0.2359, Valid EOD: 0.0711
+2024-06-10 14:45:42 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [48/100], Loss: 0.0001, Valid Acc: 0.8550, Valid F1: 0.8758, Valid DP: 0.2522, Valid EOD: 0.0852
+2024-06-10 14:45:42 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/lfw/skew02_v1_strong_nose/best_loss_state.pth.
+2024-06-10 14:46:03 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [49/100], Loss: 0.0002, Valid Acc: 0.8557, Valid F1: 0.8787, Valid DP: 0.2748, Valid EOD: 0.0926
+2024-06-10 14:46:24 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [50/100], Loss: 0.0002, Valid Acc: 0.8618, Valid F1: 0.8833, Valid DP: 0.2722, Valid EOD: 0.0926
+2024-06-10 14:46:45 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [51/100], Loss: 0.0001, Valid Acc: 0.8604, Valid F1: 0.8817, Valid DP: 0.2721, Valid EOD: 0.0920
+2024-06-10 14:46:45 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/lfw/skew02_v1_strong_nose/best_loss_state.pth.
+2024-06-10 14:47:07 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [52/100], Loss: 0.0001, Valid Acc: 0.8611, Valid F1: 0.8818, Valid DP: 0.2581, Valid EOD: 0.0834
+2024-06-10 14:47:07 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/lfw/skew02_v1_strong_nose/best_loss_state.pth.
+2024-06-10 14:47:29 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [53/100], Loss: 0.0001, Valid Acc: 0.8523, Valid F1: 0.8748, Valid DP: 0.2276, Valid EOD: 0.0550
+2024-06-10 14:47:50 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [54/100], Loss: 0.0002, Valid Acc: 0.8509, Valid F1: 0.8742, Valid DP: 0.2409, Valid EOD: 0.0702
+2024-06-10 14:48:12 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [55/100], Loss: 0.0001, Valid Acc: 0.8536, Valid F1: 0.8752, Valid DP: 0.2605, Valid EOD: 0.0873
+2024-06-10 14:48:12 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/lfw/skew02_v1_strong_nose/best_loss_state.pth.
+2024-06-10 14:48:34 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [56/100], Loss: 0.0000, Valid Acc: 0.8584, Valid F1: 0.8794, Valid DP: 0.2696, Valid EOD: 0.0944
+2024-06-10 14:48:34 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/lfw/skew02_v1_strong_nose/best_loss_state.pth.
+2024-06-10 14:48:57 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [57/100], Loss: 0.0002, Valid Acc: 0.8570, Valid F1: 0.8785, Valid DP: 0.2762, Valid EOD: 0.0995
+2024-06-10 14:49:19 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [58/100], Loss: 0.0000, Valid Acc: 0.8591, Valid F1: 0.8807, Valid DP: 0.2656, Valid EOD: 0.0920
+2024-06-10 14:49:19 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/lfw/skew02_v1_strong_nose/best_loss_state.pth.
+2024-06-10 14:49:42 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [59/100], Loss: 0.0000, Valid Acc: 0.8577, Valid F1: 0.8793, Valid DP: 0.2589, Valid EOD: 0.0834
+2024-06-10 14:49:42 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/lfw/skew02_v1_strong_nose/best_loss_state.pth.
+2024-06-10 14:50:05 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [60/100], Loss: 0.0000, Valid Acc: 0.8543, Valid F1: 0.8751, Valid DP: 0.2480, Valid EOD: 0.0736
+2024-06-10 14:50:28 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [61/100], Loss: 0.0000, Valid Acc: 0.8516, Valid F1: 0.8735, Valid DP: 0.2300, Valid EOD: 0.0625
+2024-06-10 14:50:51 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [62/100], Loss: 0.0000, Valid Acc: 0.8489, Valid F1: 0.8712, Valid DP: 0.2349, Valid EOD: 0.0655
+2024-06-10 14:51:14 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [63/100], Loss: 0.0000, Valid Acc: 0.8564, Valid F1: 0.8778, Valid DP: 0.2622, Valid EOD: 0.0879
+2024-06-10 14:51:37 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [64/100], Loss: 0.0000, Valid Acc: 0.8577, Valid F1: 0.8795, Valid DP: 0.2755, Valid EOD: 0.0935
+2024-06-10 14:52:01 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [65/100], Loss: 0.0000, Valid Acc: 0.8591, Valid F1: 0.8807, Valid DP: 0.2705, Valid EOD: 0.0920
+2024-06-10 14:52:25 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [66/100], Loss: 0.0000, Valid Acc: 0.8604, Valid F1: 0.8817, Valid DP: 0.2721, Valid EOD: 0.0920
+2024-06-10 14:52:48 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [67/100], Loss: 0.0000, Valid Acc: 0.8577, Valid F1: 0.8791, Valid DP: 0.2655, Valid EOD: 0.0849
+2024-06-10 14:53:12 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [68/100], Loss: 0.0000, Valid Acc: 0.8502, Valid F1: 0.8731, Valid DP: 0.2367, Valid EOD: 0.0697
+2024-06-10 14:53:37 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [69/100], Loss: 0.0001, Valid Acc: 0.8557, Valid F1: 0.8772, Valid DP: 0.2581, Valid EOD: 0.0828
+2024-06-10 14:54:01 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [70/100], Loss: 0.0000, Valid Acc: 0.8584, Valid F1: 0.8791, Valid DP: 0.2827, Valid EOD: 0.1040
+2024-06-10 14:54:01 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/lfw/skew02_v1_strong_nose/best_loss_state.pth.
+2024-06-10 14:54:26 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [71/100], Loss: 0.0000, Valid Acc: 0.8598, Valid F1: 0.8816, Valid DP: 0.2664, Valid EOD: 0.0875
+2024-06-10 14:54:51 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [72/100], Loss: 0.0000, Valid Acc: 0.8591, Valid F1: 0.8811, Valid DP: 0.2656, Valid EOD: 0.0875
+2024-06-10 14:55:15 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [73/100], Loss: 0.0000, Valid Acc: 0.8577, Valid F1: 0.8793, Valid DP: 0.2639, Valid EOD: 0.0900
+2024-06-10 14:55:15 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/lfw/skew02_v1_strong_nose/best_loss_state.pth.
+2024-06-10 14:55:40 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [74/100], Loss: 0.0000, Valid Acc: 0.8564, Valid F1: 0.8781, Valid DP: 0.2540, Valid EOD: 0.0783
+2024-06-10 14:55:40 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/lfw/skew02_v1_strong_nose/best_loss_state.pth.
+2024-06-10 14:56:06 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [75/100], Loss: 0.0000, Valid Acc: 0.8584, Valid F1: 0.8794, Valid DP: 0.2696, Valid EOD: 0.0944
+2024-06-10 14:56:31 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [76/100], Loss: 0.0000, Valid Acc: 0.8591, Valid F1: 0.8806, Valid DP: 0.2721, Valid EOD: 0.0935
+2024-06-10 14:56:57 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [77/100], Loss: 0.0000, Valid Acc: 0.8604, Valid F1: 0.8812, Valid DP: 0.2737, Valid EOD: 0.0980
+2024-06-10 14:57:22 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [78/100], Loss: 0.0000, Valid Acc: 0.8598, Valid F1: 0.8806, Valid DP: 0.2679, Valid EOD: 0.0915
+2024-06-10 14:57:48 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [79/100], Loss: 0.0000, Valid Acc: 0.8598, Valid F1: 0.8802, Valid DP: 0.2728, Valid EOD: 0.0959
+2024-06-10 14:58:14 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [80/100], Loss: 0.0000, Valid Acc: 0.8577, Valid F1: 0.8794, Valid DP: 0.2622, Valid EOD: 0.0885
+2024-06-10 14:58:14 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/lfw/skew02_v1_strong_nose/best_loss_state.pth.
+2024-06-10 14:58:40 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [81/100], Loss: 0.0000, Valid Acc: 0.8584, Valid F1: 0.8796, Valid DP: 0.2663, Valid EOD: 0.0915
+2024-06-10 14:58:40 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/lfw/skew02_v1_strong_nose/best_loss_state.pth.
+2024-06-10 14:59:07 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [82/100], Loss: 0.0000, Valid Acc: 0.8604, Valid F1: 0.8814, Valid DP: 0.2704, Valid EOD: 0.0950
+2024-06-10 14:59:33 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [83/100], Loss: 0.0001, Valid Acc: 0.8598, Valid F1: 0.8827, Valid DP: 0.2534, Valid EOD: 0.0756
+2024-06-10 15:00:00 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [84/100], Loss: 0.0000, Valid Acc: 0.8598, Valid F1: 0.8811, Valid DP: 0.2631, Valid EOD: 0.0870
+2024-06-10 15:00:27 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [85/100], Loss: 0.0000, Valid Acc: 0.8584, Valid F1: 0.8794, Valid DP: 0.2745, Valid EOD: 0.1010
+2024-06-10 15:00:54 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [86/100], Loss: 0.0000, Valid Acc: 0.8591, Valid F1: 0.8811, Valid DP: 0.2656, Valid EOD: 0.0875
+2024-06-10 15:01:21 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [87/100], Loss: 0.0000, Valid Acc: 0.8591, Valid F1: 0.8806, Valid DP: 0.2622, Valid EOD: 0.0870
+2024-06-10 15:01:48 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [88/100], Loss: 0.0000, Valid Acc: 0.8598, Valid F1: 0.8804, Valid DP: 0.2712, Valid EOD: 0.0944
+2024-06-10 15:02:16 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [89/100], Loss: 0.0000, Valid Acc: 0.8611, Valid F1: 0.8818, Valid DP: 0.2778, Valid EOD: 0.0965
+2024-06-10 15:02:43 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [90/100], Loss: 0.0000, Valid Acc: 0.8604, Valid F1: 0.8821, Valid DP: 0.2672, Valid EOD: 0.0875
+2024-06-10 15:03:11 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [91/100], Loss: 0.0000, Valid Acc: 0.8604, Valid F1: 0.8810, Valid DP: 0.2803, Valid EOD: 0.0995
+2024-06-10 15:03:39 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [92/100], Loss: 0.0000, Valid Acc: 0.8584, Valid F1: 0.8803, Valid DP: 0.2582, Valid EOD: 0.0774
+2024-06-10 15:04:07 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [93/100], Loss: 0.0000, Valid Acc: 0.8570, Valid F1: 0.8783, Valid DP: 0.2630, Valid EOD: 0.0879
+2024-06-10 15:04:35 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [94/100], Loss: 0.0000, Valid Acc: 0.8618, Valid F1: 0.8827, Valid DP: 0.2738, Valid EOD: 0.0920
+2024-06-10 15:05:04 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [95/100], Loss: 0.0000, Valid Acc: 0.8611, Valid F1: 0.8829, Valid DP: 0.2648, Valid EOD: 0.0846
+2024-06-10 15:05:32 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [96/100], Loss: 0.0000, Valid Acc: 0.8625, Valid F1: 0.8826, Valid DP: 0.2827, Valid EOD: 0.0995
+2024-06-10 15:06:01 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [97/100], Loss: 0.0000, Valid Acc: 0.8625, Valid F1: 0.8830, Valid DP: 0.2679, Valid EOD: 0.0885
+2024-06-10 15:06:30 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [98/100], Loss: 0.0000, Valid Acc: 0.8618, Valid F1: 0.8823, Valid DP: 0.2638, Valid EOD: 0.0834
+2024-06-10 15:06:59 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [99/100], Loss: 0.0000, Valid Acc: 0.8625, Valid F1: 0.8830, Valid DP: 0.2581, Valid EOD: 0.0819
+2024-06-10 15:06:59 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/lfw/skew02_v1_strong_nose/best_loss_state.pth.
+2024-06-10 15:07:28 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Epoch [100/100], Loss: 0.0000, Valid Acc: 0.8645, Valid F1: 0.8850, Valid DP: 0.2688, Valid EOD: 0.0825
+2024-06-10 15:07:28 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Saved model final to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/lfw/skew02_v1_strong_nose/final_state.pth.
+2024-06-10 15:07:28 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Model and metrics saved.
+2024-06-10 15:07:28 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Training finished.
+2024-06-10 15:07:28 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Final state model loading.
+2024-06-10 15:07:28 - adversarial_debiasing/lfw/skew02_v1_strong_nose - INFO - Model has been loaded from C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/adversarial_debiasing/lfw/skew02_v1_strong_nose.

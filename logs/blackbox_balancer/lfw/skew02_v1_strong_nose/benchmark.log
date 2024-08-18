@@ -1,0 +1,4 @@
+2024-06-10 15:39:40 - blackbox_balancer/lfw/skew02_v1_strong_nose - INFO - Start blackbox multiclass balancer benchmark.
+2024-06-10 15:39:40 - blackbox_balancer/lfw/skew02_v1_strong_nose - INFO - Model has been loaded from C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/blackbox_balancer/lfw/skew02_v1_strong_nose.
+2024-06-10 15:39:42 - blackbox_balancer/lfw/skew02_v1_strong_nose - INFO - Applied post processing
+2024-06-10 15:39:42 - blackbox_balancer/lfw/skew02_v1_strong_nose - INFO - Validation metrics: {'valid_acc': 0.863852961198094, 'valid_f1': 0.882491186839013, 'valid_precision': 0.8972520908004779, 'valid_auc': 0.8629119932626421, 'valid_eod': 0.014231763068972364, 'valid_dp': 0.1935076481642385, 'valid_TPR': 0.8682080924855491, 'valid_TNR': 0.8576158940397351, 'valid_FPR': 0.1423841059602649, 'valid_FNR': 0.13179190751445086, 'valid_MCC': 0.7213342793229962}

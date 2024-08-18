@@ -1,0 +1,249 @@
+2024-07-08 00:18:46 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Start fair contrastive learning benchmark.
+2024-07-08 00:18:46 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Contrastive Training started.
+2024-07-08 00:19:57 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [1/100], Loss: 14.5300
+2024-07-08 00:20:50 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [2/100], Loss: 14.5173
+2024-07-08 00:21:42 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [3/100], Loss: 14.5177
+2024-07-08 00:22:35 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [4/100], Loss: 14.5245
+2024-07-08 00:23:27 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [5/100], Loss: 14.5228
+2024-07-08 00:24:20 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [6/100], Loss: 14.5210
+2024-07-08 00:25:12 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [7/100], Loss: 14.5169
+2024-07-08 00:26:04 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [8/100], Loss: 14.5203
+2024-07-08 00:26:56 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [9/100], Loss: 14.5216
+2024-07-08 00:27:49 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [10/100], Loss: 14.5187
+2024-07-08 00:28:41 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [11/100], Loss: 14.5284
+2024-07-08 00:29:33 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [12/100], Loss: 14.5185
+2024-07-08 00:30:26 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [13/100], Loss: 14.5172
+2024-07-08 00:31:18 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [14/100], Loss: 14.5210
+2024-07-08 00:32:11 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [15/100], Loss: 14.5209
+2024-07-08 00:33:03 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [16/100], Loss: 14.5167
+2024-07-08 00:33:55 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [17/100], Loss: 14.5186
+2024-07-08 00:34:48 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [18/100], Loss: 14.5234
+2024-07-08 00:35:40 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [19/100], Loss: 14.5206
+2024-07-08 00:36:32 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [20/100], Loss: 14.5056
+2024-07-08 00:37:25 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [21/100], Loss: 14.4060
+2024-07-08 00:38:17 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [22/100], Loss: 14.0717
+2024-07-08 00:39:09 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [23/100], Loss: 13.5159
+2024-07-08 00:40:01 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [24/100], Loss: 13.2146
+2024-07-08 00:40:54 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [25/100], Loss: 12.8159
+2024-07-08 00:41:46 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [26/100], Loss: 12.6838
+2024-07-08 00:42:39 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [27/100], Loss: 12.3597
+2024-07-08 00:43:31 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [28/100], Loss: 12.0169
+2024-07-08 00:44:23 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [29/100], Loss: 11.9144
+2024-07-08 00:45:15 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [30/100], Loss: 11.9296
+2024-07-08 00:46:08 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [31/100], Loss: 11.6390
+2024-07-08 00:47:00 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [32/100], Loss: 11.4623
+2024-07-08 00:47:52 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [33/100], Loss: 11.3870
+2024-07-08 00:48:45 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [34/100], Loss: 11.2207
+2024-07-08 00:49:37 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [35/100], Loss: 11.1468
+2024-07-08 00:50:29 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [36/100], Loss: 10.9784
+2024-07-08 00:51:22 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [37/100], Loss: 11.2462
+2024-07-08 00:52:14 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [38/100], Loss: 10.8750
+2024-07-08 00:53:06 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [39/100], Loss: 10.7715
+2024-07-08 00:53:59 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [40/100], Loss: 10.8619
+2024-07-08 00:54:51 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [41/100], Loss: 10.8112
+2024-07-08 00:55:43 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [42/100], Loss: 10.6689
+2024-07-08 00:56:35 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [43/100], Loss: 10.6824
+2024-07-08 00:57:28 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [44/100], Loss: 10.5829
+2024-07-08 00:58:20 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [45/100], Loss: 10.5843
+2024-07-08 00:59:13 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [46/100], Loss: 10.3656
+2024-07-08 01:00:05 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [47/100], Loss: 10.4558
+2024-07-08 01:00:57 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [48/100], Loss: 10.2959
+2024-07-08 01:01:49 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [49/100], Loss: 10.7202
+2024-07-08 01:02:42 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [50/100], Loss: 10.0453
+2024-07-08 01:03:34 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [51/100], Loss: 10.1675
+2024-07-08 01:04:27 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [52/100], Loss: 9.9441
+2024-07-08 01:05:19 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [53/100], Loss: 10.0862
+2024-07-08 01:06:11 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [54/100], Loss: 10.0871
+2024-07-08 01:07:04 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [55/100], Loss: 9.9865
+2024-07-08 01:07:56 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [56/100], Loss: 9.9137
+2024-07-08 01:08:49 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [57/100], Loss: 9.8770
+2024-07-08 01:09:41 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [58/100], Loss: 9.5721
+2024-07-08 01:10:33 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [59/100], Loss: 9.5833
+2024-07-08 01:11:25 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [60/100], Loss: 9.8296
+2024-07-08 01:12:17 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [61/100], Loss: 9.9659
+2024-07-08 01:13:10 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [62/100], Loss: 9.7606
+2024-07-08 01:14:02 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [63/100], Loss: 9.7148
+2024-07-08 01:14:54 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [64/100], Loss: 9.6547
+2024-07-08 01:15:47 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [65/100], Loss: 9.4362
+2024-07-08 01:16:39 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [66/100], Loss: 9.3967
+2024-07-08 01:17:31 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [67/100], Loss: 9.1485
+2024-07-08 01:18:24 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [68/100], Loss: 9.1602
+2024-07-08 01:19:16 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [69/100], Loss: 9.2918
+2024-07-08 01:20:09 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [70/100], Loss: 9.1676
+2024-07-08 01:21:01 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [71/100], Loss: 9.2252
+2024-07-08 01:21:53 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [72/100], Loss: 9.0948
+2024-07-08 01:22:46 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [73/100], Loss: 8.8670
+2024-07-08 01:23:38 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [74/100], Loss: 9.0995
+2024-07-08 01:24:30 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [75/100], Loss: 9.0021
+2024-07-08 01:25:23 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [76/100], Loss: 8.7848
+2024-07-08 01:26:15 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [77/100], Loss: 9.0916
+2024-07-08 01:27:08 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [78/100], Loss: 8.7020
+2024-07-08 01:28:00 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [79/100], Loss: 9.1326
+2024-07-08 01:28:52 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [80/100], Loss: 8.7411
+2024-07-08 01:29:45 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [81/100], Loss: 8.8968
+2024-07-08 01:30:37 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [82/100], Loss: 8.6970
+2024-07-08 01:31:30 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [83/100], Loss: 8.3444
+2024-07-08 01:32:22 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [84/100], Loss: 8.7275
+2024-07-08 01:33:14 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [85/100], Loss: 8.8067
+2024-07-08 01:34:07 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [86/100], Loss: 8.5666
+2024-07-08 01:34:59 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [87/100], Loss: 8.4552
+2024-07-08 01:35:51 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [88/100], Loss: 8.5212
+2024-07-08 01:36:44 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [89/100], Loss: 8.5709
+2024-07-08 01:37:36 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [90/100], Loss: 8.2804
+2024-07-08 01:38:28 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [91/100], Loss: 8.1454
+2024-07-08 01:39:21 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [92/100], Loss: 8.5041
+2024-07-08 01:40:13 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [93/100], Loss: 7.9391
+2024-07-08 01:41:06 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [94/100], Loss: 8.3528
+2024-07-08 01:41:58 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [95/100], Loss: 8.0631
+2024-07-08 01:42:50 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [96/100], Loss: 8.4454
+2024-07-08 01:43:43 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [97/100], Loss: 8.4357
+2024-07-08 01:44:35 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [98/100], Loss: 8.8015
+2024-07-08 01:45:28 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [99/100], Loss: 8.3888
+2024-07-08 01:46:20 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [100/100], Loss: 8.1324
+2024-07-08 01:46:20 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Saved model final_contrastive_model to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/skew08_v1_strong_nose_contrastive/final_contrastive_model_state.pth.
+2024-07-08 01:46:20 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Contrastive Model and loss saved.
+2024-07-08 01:46:20 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Contrastive Training finished.
+2024-07-08 01:46:20 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Training started.
+2024-07-08 01:46:25 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [1/100], Loss: 0.3499, Valid Acc: 0.9195, Valid F1: 0.8656, Valid DP: 0.7585, Valid EOD: 0.1768
+2024-07-08 01:46:25 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/skew08_v1_strong_nose_classifier/best_f1_state.pth.
+2024-07-08 01:46:25 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/skew08_v1_strong_nose_classifier/best_eod_state.pth.
+2024-07-08 01:46:25 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/skew08_v1_strong_nose_classifier/best_loss_state.pth.
+2024-07-08 01:46:31 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [2/100], Loss: 0.2142, Valid Acc: 0.9183, Valid F1: 0.8628, Valid DP: 0.7564, Valid EOD: 0.1851
+2024-07-08 01:46:31 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/skew08_v1_strong_nose_classifier/best_loss_state.pth.
+2024-07-08 01:46:36 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [3/100], Loss: 0.2065, Valid Acc: 0.9207, Valid F1: 0.8673, Valid DP: 0.7600, Valid EOD: 0.1768
+2024-07-08 01:46:36 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/skew08_v1_strong_nose_classifier/best_f1_state.pth.
+2024-07-08 01:46:36 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/skew08_v1_strong_nose_classifier/best_loss_state.pth.
+2024-07-08 01:46:42 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [4/100], Loss: 0.1985, Valid Acc: 0.9231, Valid F1: 0.8752, Valid DP: 0.7756, Valid EOD: 0.1672
+2024-07-08 01:46:42 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/skew08_v1_strong_nose_classifier/best_f1_state.pth.
+2024-07-08 01:46:42 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/skew08_v1_strong_nose_classifier/best_eod_state.pth.
+2024-07-08 01:46:42 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/skew08_v1_strong_nose_classifier/best_loss_state.pth.
+2024-07-08 01:46:48 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [5/100], Loss: 0.1987, Valid Acc: 0.9231, Valid F1: 0.8738, Valid DP: 0.7714, Valid EOD: 0.1704
+2024-07-08 01:46:54 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [6/100], Loss: 0.1977, Valid Acc: 0.9243, Valid F1: 0.8750, Valid DP: 0.7760, Valid EOD: 0.1839
+2024-07-08 01:46:54 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/skew08_v1_strong_nose_classifier/best_loss_state.pth.
+2024-07-08 01:47:00 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [7/100], Loss: 0.1959, Valid Acc: 0.9231, Valid F1: 0.8738, Valid DP: 0.7714, Valid EOD: 0.1704
+2024-07-08 01:47:00 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/skew08_v1_strong_nose_classifier/best_loss_state.pth.
+2024-07-08 01:47:06 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [8/100], Loss: 0.1966, Valid Acc: 0.9243, Valid F1: 0.8750, Valid DP: 0.7760, Valid EOD: 0.1839
+2024-07-08 01:47:12 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [9/100], Loss: 0.1983, Valid Acc: 0.9231, Valid F1: 0.8728, Valid DP: 0.7708, Valid EOD: 0.1787
+2024-07-08 01:47:18 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [10/100], Loss: 0.1951, Valid Acc: 0.9219, Valid F1: 0.8731, Valid DP: 0.7637, Valid EOD: 0.1434
+2024-07-08 01:47:18 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/skew08_v1_strong_nose_classifier/best_eod_state.pth.
+2024-07-08 01:47:18 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/skew08_v1_strong_nose_classifier/best_loss_state.pth.
+2024-07-08 01:47:25 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [11/100], Loss: 0.1931, Valid Acc: 0.9219, Valid F1: 0.8716, Valid DP: 0.7729, Valid EOD: 0.1839
+2024-07-08 01:47:25 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/skew08_v1_strong_nose_classifier/best_loss_state.pth.
+2024-07-08 01:47:31 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [12/100], Loss: 0.1930, Valid Acc: 0.9231, Valid F1: 0.8733, Valid DP: 0.7745, Valid EOD: 0.1839
+2024-07-08 01:47:31 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/skew08_v1_strong_nose_classifier/best_loss_state.pth.
+2024-07-08 01:47:38 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [13/100], Loss: 0.1930, Valid Acc: 0.9231, Valid F1: 0.8743, Valid DP: 0.7683, Valid EOD: 0.1569
+2024-07-08 01:47:44 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [14/100], Loss: 0.1924, Valid Acc: 0.9231, Valid F1: 0.8743, Valid DP: 0.7683, Valid EOD: 0.1569
+2024-07-08 01:47:44 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/skew08_v1_strong_nose_classifier/best_loss_state.pth.
+2024-07-08 01:47:51 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [15/100], Loss: 0.1930, Valid Acc: 0.9219, Valid F1: 0.8726, Valid DP: 0.7668, Valid EOD: 0.1569
+2024-07-08 01:47:58 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [16/100], Loss: 0.1948, Valid Acc: 0.9219, Valid F1: 0.8711, Valid DP: 0.7693, Valid EOD: 0.1787
+2024-07-08 01:48:05 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [17/100], Loss: 0.1909, Valid Acc: 0.9231, Valid F1: 0.8743, Valid DP: 0.7683, Valid EOD: 0.1569
+2024-07-08 01:48:05 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/skew08_v1_strong_nose_classifier/best_loss_state.pth.
+2024-07-08 01:48:12 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [18/100], Loss: 0.1900, Valid Acc: 0.9243, Valid F1: 0.8745, Valid DP: 0.7724, Valid EOD: 0.1787
+2024-07-08 01:48:12 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/skew08_v1_strong_nose_classifier/best_loss_state.pth.
+2024-07-08 01:48:20 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [19/100], Loss: 0.1913, Valid Acc: 0.9243, Valid F1: 0.8779, Valid DP: 0.7709, Valid EOD: 0.1402
+2024-07-08 01:48:20 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/skew08_v1_strong_nose_classifier/best_f1_state.pth.
+2024-07-08 01:48:20 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/skew08_v1_strong_nose_classifier/best_eod_state.pth.
+2024-07-08 01:48:27 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [20/100], Loss: 0.1902, Valid Acc: 0.9219, Valid F1: 0.8711, Valid DP: 0.7693, Valid EOD: 0.1787
+2024-07-08 01:48:34 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [21/100], Loss: 0.1923, Valid Acc: 0.9219, Valid F1: 0.8731, Valid DP: 0.7637, Valid EOD: 0.1434
+2024-07-08 01:48:42 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [22/100], Loss: 0.1908, Valid Acc: 0.9254, Valid F1: 0.8767, Valid DP: 0.7708, Valid EOD: 0.1652
+2024-07-08 01:48:49 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [23/100], Loss: 0.1905, Valid Acc: 0.9219, Valid F1: 0.8726, Valid DP: 0.7668, Valid EOD: 0.1569
+2024-07-08 01:48:57 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [24/100], Loss: 0.1899, Valid Acc: 0.9219, Valid F1: 0.8731, Valid DP: 0.7637, Valid EOD: 0.1434
+2024-07-08 01:48:57 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/skew08_v1_strong_nose_classifier/best_loss_state.pth.
+2024-07-08 01:49:05 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [25/100], Loss: 0.1907, Valid Acc: 0.9219, Valid F1: 0.8726, Valid DP: 0.7668, Valid EOD: 0.1569
+2024-07-08 01:49:12 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [26/100], Loss: 0.1895, Valid Acc: 0.9231, Valid F1: 0.8743, Valid DP: 0.7683, Valid EOD: 0.1569
+2024-07-08 01:49:12 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/skew08_v1_strong_nose_classifier/best_loss_state.pth.
+2024-07-08 01:49:20 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [27/100], Loss: 0.1883, Valid Acc: 0.9231, Valid F1: 0.8743, Valid DP: 0.7683, Valid EOD: 0.1569
+2024-07-08 01:49:20 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/skew08_v1_strong_nose_classifier/best_loss_state.pth.
+2024-07-08 01:49:28 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [28/100], Loss: 0.1909, Valid Acc: 0.9231, Valid F1: 0.8743, Valid DP: 0.7683, Valid EOD: 0.1569
+2024-07-08 01:49:36 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [29/100], Loss: 0.1912, Valid Acc: 0.9219, Valid F1: 0.8726, Valid DP: 0.7668, Valid EOD: 0.1569
+2024-07-08 01:49:44 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [30/100], Loss: 0.1893, Valid Acc: 0.9207, Valid F1: 0.8657, Valid DP: 0.7625, Valid EOD: 0.1987
+2024-07-08 01:49:53 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [31/100], Loss: 0.1893, Valid Acc: 0.9266, Valid F1: 0.8817, Valid DP: 0.7709, Valid EOD: 0.1266
+2024-07-08 01:49:53 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/skew08_v1_strong_nose_classifier/best_f1_state.pth.
+2024-07-08 01:49:53 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/skew08_v1_strong_nose_classifier/best_eod_state.pth.
+2024-07-08 01:50:01 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [32/100], Loss: 0.1889, Valid Acc: 0.9278, Valid F1: 0.8806, Valid DP: 0.7708, Valid EOD: 0.1517
+2024-07-08 01:50:09 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [33/100], Loss: 0.1889, Valid Acc: 0.9243, Valid F1: 0.8774, Valid DP: 0.7673, Valid EOD: 0.1350
+2024-07-08 01:50:18 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [34/100], Loss: 0.1898, Valid Acc: 0.9219, Valid F1: 0.8726, Valid DP: 0.7668, Valid EOD: 0.1569
+2024-07-08 01:50:27 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [35/100], Loss: 0.1887, Valid Acc: 0.9278, Valid F1: 0.8792, Valid DP: 0.7801, Valid EOD: 0.1923
+2024-07-08 01:50:35 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [36/100], Loss: 0.1912, Valid Acc: 0.9231, Valid F1: 0.8743, Valid DP: 0.7683, Valid EOD: 0.1569
+2024-07-08 01:50:44 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [37/100], Loss: 0.1864, Valid Acc: 0.9219, Valid F1: 0.8726, Valid DP: 0.7668, Valid EOD: 0.1569
+2024-07-08 01:50:44 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/skew08_v1_strong_nose_classifier/best_loss_state.pth.
+2024-07-08 01:50:53 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [38/100], Loss: 0.1869, Valid Acc: 0.9278, Valid F1: 0.8802, Valid DP: 0.7739, Valid EOD: 0.1652
+2024-07-08 01:51:02 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [39/100], Loss: 0.1873, Valid Acc: 0.9266, Valid F1: 0.8817, Valid DP: 0.7709, Valid EOD: 0.1266
+2024-07-08 01:51:11 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [40/100], Loss: 0.1873, Valid Acc: 0.9254, Valid F1: 0.8777, Valid DP: 0.7714, Valid EOD: 0.1569
+2024-07-08 01:51:21 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [41/100], Loss: 0.1858, Valid Acc: 0.9254, Valid F1: 0.8777, Valid DP: 0.7714, Valid EOD: 0.1569
+2024-07-08 01:51:21 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/skew08_v1_strong_nose_classifier/best_loss_state.pth.
+2024-07-08 01:51:30 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [42/100], Loss: 0.1869, Valid Acc: 0.9219, Valid F1: 0.8726, Valid DP: 0.7668, Valid EOD: 0.1569
+2024-07-08 01:51:39 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [43/100], Loss: 0.1858, Valid Acc: 0.9219, Valid F1: 0.8731, Valid DP: 0.7637, Valid EOD: 0.1434
+2024-07-08 01:51:39 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/skew08_v1_strong_nose_classifier/best_loss_state.pth.
+2024-07-08 01:51:49 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [44/100], Loss: 0.1869, Valid Acc: 0.9231, Valid F1: 0.8743, Valid DP: 0.7683, Valid EOD: 0.1569
+2024-07-08 01:51:59 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [45/100], Loss: 0.1854, Valid Acc: 0.9243, Valid F1: 0.8760, Valid DP: 0.7699, Valid EOD: 0.1569
+2024-07-08 01:51:59 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/skew08_v1_strong_nose_classifier/best_loss_state.pth.
+2024-07-08 01:52:09 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [46/100], Loss: 0.1865, Valid Acc: 0.9219, Valid F1: 0.8731, Valid DP: 0.7637, Valid EOD: 0.1434
+2024-07-08 01:52:18 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [47/100], Loss: 0.1864, Valid Acc: 0.9219, Valid F1: 0.8726, Valid DP: 0.7668, Valid EOD: 0.1569
+2024-07-08 01:52:28 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [48/100], Loss: 0.1864, Valid Acc: 0.9254, Valid F1: 0.8772, Valid DP: 0.7745, Valid EOD: 0.1704
+2024-07-08 01:52:38 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [49/100], Loss: 0.1857, Valid Acc: 0.9219, Valid F1: 0.8726, Valid DP: 0.7668, Valid EOD: 0.1569
+2024-07-08 01:52:49 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [50/100], Loss: 0.1854, Valid Acc: 0.9219, Valid F1: 0.8731, Valid DP: 0.7637, Valid EOD: 0.1434
+2024-07-08 01:52:59 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [51/100], Loss: 0.1874, Valid Acc: 0.9231, Valid F1: 0.8697, Valid DP: 0.7625, Valid EOD: 0.1851
+2024-07-08 01:53:10 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [52/100], Loss: 0.1897, Valid Acc: 0.9266, Valid F1: 0.8775, Valid DP: 0.7852, Valid EOD: 0.2109
+2024-07-08 01:53:20 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [53/100], Loss: 0.1853, Valid Acc: 0.9254, Valid F1: 0.8795, Valid DP: 0.7658, Valid EOD: 0.1215
+2024-07-08 01:53:20 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/skew08_v1_strong_nose_classifier/best_eod_state.pth.
+2024-07-08 01:53:20 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/skew08_v1_strong_nose_classifier/best_loss_state.pth.
+2024-07-08 01:53:31 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [54/100], Loss: 0.1881, Valid Acc: 0.9231, Valid F1: 0.8748, Valid DP: 0.7652, Valid EOD: 0.1434
+2024-07-08 01:53:42 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [55/100], Loss: 0.1886, Valid Acc: 0.9207, Valid F1: 0.8652, Valid DP: 0.7656, Valid EOD: 0.2122
+2024-07-08 01:53:52 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [56/100], Loss: 0.1853, Valid Acc: 0.9219, Valid F1: 0.8726, Valid DP: 0.7668, Valid EOD: 0.1569
+2024-07-08 01:53:52 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/skew08_v1_strong_nose_classifier/best_loss_state.pth.
+2024-07-08 01:54:03 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [57/100], Loss: 0.1836, Valid Acc: 0.9243, Valid F1: 0.8764, Valid DP: 0.7668, Valid EOD: 0.1434
+2024-07-08 01:54:03 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/skew08_v1_strong_nose_classifier/best_loss_state.pth.
+2024-07-08 01:54:14 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [58/100], Loss: 0.1828, Valid Acc: 0.9243, Valid F1: 0.8755, Valid DP: 0.7729, Valid EOD: 0.1704
+2024-07-08 01:54:14 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/skew08_v1_strong_nose_classifier/best_loss_state.pth.
+2024-07-08 01:54:25 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [59/100], Loss: 0.1851, Valid Acc: 0.9254, Valid F1: 0.8772, Valid DP: 0.7745, Valid EOD: 0.1704
+2024-07-08 01:54:36 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [60/100], Loss: 0.1828, Valid Acc: 0.9243, Valid F1: 0.8764, Valid DP: 0.7668, Valid EOD: 0.1434
+2024-07-08 01:54:36 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/skew08_v1_strong_nose_classifier/best_loss_state.pth.
+2024-07-08 01:54:48 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [61/100], Loss: 0.1849, Valid Acc: 0.9243, Valid F1: 0.8750, Valid DP: 0.7760, Valid EOD: 0.1839
+2024-07-08 01:54:59 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [62/100], Loss: 0.1852, Valid Acc: 0.9278, Valid F1: 0.8838, Valid DP: 0.7761, Valid EOD: 0.1318
+2024-07-08 01:54:59 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/skew08_v1_strong_nose_classifier/best_f1_state.pth.
+2024-07-08 01:55:10 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [63/100], Loss: 0.1857, Valid Acc: 0.9254, Valid F1: 0.8767, Valid DP: 0.7775, Valid EOD: 0.1839
+2024-07-08 01:55:22 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [64/100], Loss: 0.1861, Valid Acc: 0.9266, Valid F1: 0.8775, Valid DP: 0.7785, Valid EOD: 0.1923
+2024-07-08 01:55:33 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [65/100], Loss: 0.1843, Valid Acc: 0.9219, Valid F1: 0.8721, Valid DP: 0.7699, Valid EOD: 0.1704
+2024-07-08 01:55:45 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [66/100], Loss: 0.1861, Valid Acc: 0.9219, Valid F1: 0.8721, Valid DP: 0.7699, Valid EOD: 0.1704
+2024-07-08 01:55:57 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [67/100], Loss: 0.1867, Valid Acc: 0.9254, Valid F1: 0.8809, Valid DP: 0.7766, Valid EOD: 0.1369
+2024-07-08 01:56:09 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [68/100], Loss: 0.1881, Valid Acc: 0.9195, Valid F1: 0.8629, Valid DP: 0.7604, Valid EOD: 0.2070
+2024-07-08 01:56:21 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [69/100], Loss: 0.1854, Valid Acc: 0.9219, Valid F1: 0.8721, Valid DP: 0.7699, Valid EOD: 0.1704
+2024-07-08 01:56:33 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [70/100], Loss: 0.1841, Valid Acc: 0.9290, Valid F1: 0.8859, Valid DP: 0.7813, Valid EOD: 0.1369
+2024-07-08 01:56:33 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/skew08_v1_strong_nose_classifier/best_f1_state.pth.
+2024-07-08 01:56:45 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [71/100], Loss: 0.1849, Valid Acc: 0.9254, Valid F1: 0.8762, Valid DP: 0.7739, Valid EOD: 0.1787
+2024-07-08 01:56:57 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [72/100], Loss: 0.1847, Valid Acc: 0.9266, Valid F1: 0.8812, Valid DP: 0.7740, Valid EOD: 0.1402
+2024-07-08 01:57:09 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [73/100], Loss: 0.1843, Valid Acc: 0.9243, Valid F1: 0.8764, Valid DP: 0.7668, Valid EOD: 0.1434
+2024-07-08 01:57:22 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [74/100], Loss: 0.1831, Valid Acc: 0.9231, Valid F1: 0.8733, Valid DP: 0.7745, Valid EOD: 0.1839
+2024-07-08 01:57:34 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [75/100], Loss: 0.1811, Valid Acc: 0.9254, Valid F1: 0.8781, Valid DP: 0.7683, Valid EOD: 0.1434
+2024-07-08 01:57:34 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/skew08_v1_strong_nose_classifier/best_loss_state.pth.
+2024-07-08 01:57:47 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [76/100], Loss: 0.1837, Valid Acc: 0.9243, Valid F1: 0.8745, Valid DP: 0.7724, Valid EOD: 0.1787
+2024-07-08 01:58:00 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [77/100], Loss: 0.1824, Valid Acc: 0.9266, Valid F1: 0.8808, Valid DP: 0.7771, Valid EOD: 0.1537
+2024-07-08 01:58:12 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [78/100], Loss: 0.1820, Valid Acc: 0.9243, Valid F1: 0.8745, Valid DP: 0.7724, Valid EOD: 0.1787
+2024-07-08 01:58:25 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [79/100], Loss: 0.1857, Valid Acc: 0.9243, Valid F1: 0.8755, Valid DP: 0.7729, Valid EOD: 0.1704
+2024-07-08 01:58:38 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [80/100], Loss: 0.1826, Valid Acc: 0.9266, Valid F1: 0.8808, Valid DP: 0.7771, Valid EOD: 0.1537
+2024-07-08 01:58:51 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [81/100], Loss: 0.1836, Valid Acc: 0.9254, Valid F1: 0.8762, Valid DP: 0.7739, Valid EOD: 0.1787
+2024-07-08 01:59:04 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [82/100], Loss: 0.1837, Valid Acc: 0.9231, Valid F1: 0.8733, Valid DP: 0.7745, Valid EOD: 0.1839
+2024-07-08 01:59:18 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [83/100], Loss: 0.1835, Valid Acc: 0.9278, Valid F1: 0.8838, Valid DP: 0.7761, Valid EOD: 0.1318
+2024-07-08 01:59:31 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [84/100], Loss: 0.1831, Valid Acc: 0.9231, Valid F1: 0.8733, Valid DP: 0.7745, Valid EOD: 0.1839
+2024-07-08 01:59:45 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [85/100], Loss: 0.1827, Valid Acc: 0.9278, Valid F1: 0.8829, Valid DP: 0.7756, Valid EOD: 0.1402
+2024-07-08 01:59:58 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [86/100], Loss: 0.1821, Valid Acc: 0.9231, Valid F1: 0.8733, Valid DP: 0.7745, Valid EOD: 0.1839
+2024-07-08 02:00:12 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [87/100], Loss: 0.1845, Valid Acc: 0.9243, Valid F1: 0.8745, Valid DP: 0.7724, Valid EOD: 0.1787
+2024-07-08 02:00:26 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [88/100], Loss: 0.1816, Valid Acc: 0.9290, Valid F1: 0.8859, Valid DP: 0.7813, Valid EOD: 0.1369
+2024-07-08 02:00:40 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [89/100], Loss: 0.1818, Valid Acc: 0.9243, Valid F1: 0.8745, Valid DP: 0.7724, Valid EOD: 0.1787
+2024-07-08 02:00:54 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [90/100], Loss: 0.1850, Valid Acc: 0.9243, Valid F1: 0.8745, Valid DP: 0.7724, Valid EOD: 0.1787
+2024-07-08 02:01:08 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [91/100], Loss: 0.1881, Valid Acc: 0.9254, Valid F1: 0.8809, Valid DP: 0.7766, Valid EOD: 0.1369
+2024-07-08 02:01:22 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [92/100], Loss: 0.1886, Valid Acc: 0.9231, Valid F1: 0.8718, Valid DP: 0.7770, Valid EOD: 0.2058
+2024-07-08 02:01:37 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [93/100], Loss: 0.1869, Valid Acc: 0.9243, Valid F1: 0.8745, Valid DP: 0.7724, Valid EOD: 0.1787
+2024-07-08 02:01:51 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [94/100], Loss: 0.1839, Valid Acc: 0.9278, Valid F1: 0.8843, Valid DP: 0.7797, Valid EOD: 0.1369
+2024-07-08 02:02:06 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [95/100], Loss: 0.1829, Valid Acc: 0.9243, Valid F1: 0.8725, Valid DP: 0.7713, Valid EOD: 0.1955
+2024-07-08 02:02:20 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [96/100], Loss: 0.1836, Valid Acc: 0.9231, Valid F1: 0.8728, Valid DP: 0.7708, Valid EOD: 0.1787
+2024-07-08 02:02:35 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [97/100], Loss: 0.1814, Valid Acc: 0.9278, Valid F1: 0.8843, Valid DP: 0.7797, Valid EOD: 0.1369
+2024-07-08 02:02:49 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [98/100], Loss: 0.1827, Valid Acc: 0.9254, Valid F1: 0.8762, Valid DP: 0.7739, Valid EOD: 0.1787
+2024-07-08 02:03:04 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [99/100], Loss: 0.1808, Valid Acc: 0.9266, Valid F1: 0.8798, Valid DP: 0.7765, Valid EOD: 0.1620
+2024-07-08 02:03:04 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/skew08_v1_strong_nose_classifier/best_loss_state.pth.
+2024-07-08 02:03:19 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Epoch [100/100], Loss: 0.1805, Valid Acc: 0.9290, Valid F1: 0.8859, Valid DP: 0.7813, Valid EOD: 0.1369
+2024-07-08 02:03:19 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/skew08_v1_strong_nose_classifier/best_loss_state.pth.
+2024-07-08 02:03:19 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Saved model final to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_contrastive/lfw/skew08_v1_strong_nose_classifier/final_state.pth.
+2024-07-08 02:03:19 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Model and metrics saved.
+2024-07-08 02:03:19 - fair_contrastive/lfw/skew08_v1_strong_nose - INFO - Training finished.

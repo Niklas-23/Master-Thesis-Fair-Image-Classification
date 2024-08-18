@@ -1,0 +1,171 @@
+2024-05-18 19:19:23 - base_loss_optimization/lfw/v001_final - INFO - Start base loss benchmark.
+2024-05-18 19:19:23 - base_loss_optimization/lfw/v001_final - INFO - Training started.
+2024-05-18 19:19:35 - base_loss_optimization/lfw/v001_final - INFO - Epoch [1/100], Loss: 1.4797, Valid Acc: 0.6202, Valid F1: 0.0000, Valid DP: 0.0000, Valid EOD: 0.0000
+2024-05-18 19:19:35 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_loss_state.pth.
+2024-05-18 19:19:48 - base_loss_optimization/lfw/v001_final - INFO - Epoch [2/100], Loss: 0.5800, Valid Acc: 0.7387, Valid F1: 0.5453, Valid DP: 0.2102, Valid EOD: 0.1598
+2024-05-18 19:19:48 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_f1_state.pth.
+2024-05-18 19:19:48 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_eod_state.pth.
+2024-05-18 19:19:48 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_loss_state.pth.
+2024-05-18 19:20:01 - base_loss_optimization/lfw/v001_final - INFO - Epoch [3/100], Loss: 0.3332, Valid Acc: 0.8789, Valid F1: 0.8268, Valid DP: 0.2822, Valid EOD: 0.1138
+2024-05-18 19:20:01 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_f1_state.pth.
+2024-05-18 19:20:01 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_eod_state.pth.
+2024-05-18 19:20:01 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_loss_state.pth.
+2024-05-18 19:20:14 - base_loss_optimization/lfw/v001_final - INFO - Epoch [4/100], Loss: 0.2134, Valid Acc: 0.8681, Valid F1: 0.7984, Valid DP: 0.3205, Valid EOD: 0.2187
+2024-05-18 19:20:14 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_loss_state.pth.
+2024-05-18 19:20:27 - base_loss_optimization/lfw/v001_final - INFO - Epoch [5/100], Loss: 0.1431, Valid Acc: 0.8814, Valid F1: 0.8341, Valid DP: 0.2893, Valid EOD: 0.1002
+2024-05-18 19:20:27 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_f1_state.pth.
+2024-05-18 19:20:27 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_eod_state.pth.
+2024-05-18 19:20:27 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_loss_state.pth.
+2024-05-18 19:20:41 - base_loss_optimization/lfw/v001_final - INFO - Epoch [6/100], Loss: 0.0886, Valid Acc: 0.8827, Valid F1: 0.8460, Valid DP: 0.3091, Valid EOD: 0.1362
+2024-05-18 19:20:41 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_f1_state.pth.
+2024-05-18 19:20:41 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_loss_state.pth.
+2024-05-18 19:20:54 - base_loss_optimization/lfw/v001_final - INFO - Epoch [7/100], Loss: 0.0612, Valid Acc: 0.8180, Valid F1: 0.8014, Valid DP: 0.2751, Valid EOD: 0.1320
+2024-05-18 19:20:54 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_loss_state.pth.
+2024-05-18 19:21:08 - base_loss_optimization/lfw/v001_final - INFO - Epoch [8/100], Loss: 0.0748, Valid Acc: 0.8694, Valid F1: 0.8283, Valid DP: 0.3251, Valid EOD: 0.1495
+2024-05-18 19:21:22 - base_loss_optimization/lfw/v001_final - INFO - Epoch [9/100], Loss: 0.0492, Valid Acc: 0.8757, Valid F1: 0.8256, Valid DP: 0.3182, Valid EOD: 0.1525
+2024-05-18 19:21:22 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_loss_state.pth.
+2024-05-18 19:21:36 - base_loss_optimization/lfw/v001_final - INFO - Epoch [10/100], Loss: 0.0322, Valid Acc: 0.8966, Valid F1: 0.8622, Valid DP: 0.3009, Valid EOD: 0.1089
+2024-05-18 19:21:36 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_f1_state.pth.
+2024-05-18 19:21:36 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_loss_state.pth.
+2024-05-18 19:21:50 - base_loss_optimization/lfw/v001_final - INFO - Epoch [11/100], Loss: 0.0257, Valid Acc: 0.8789, Valid F1: 0.8476, Valid DP: 0.3315, Valid EOD: 0.1144
+2024-05-18 19:21:50 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_loss_state.pth.
+2024-05-18 19:22:05 - base_loss_optimization/lfw/v001_final - INFO - Epoch [12/100], Loss: 0.0364, Valid Acc: 0.8675, Valid F1: 0.8038, Valid DP: 0.3204, Valid EOD: 0.1926
+2024-05-18 19:22:19 - base_loss_optimization/lfw/v001_final - INFO - Epoch [13/100], Loss: 0.0274, Valid Acc: 0.8681, Valid F1: 0.8367, Valid DP: 0.2881, Valid EOD: 0.0917
+2024-05-18 19:22:20 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_eod_state.pth.
+2024-05-18 19:22:34 - base_loss_optimization/lfw/v001_final - INFO - Epoch [14/100], Loss: 0.0221, Valid Acc: 0.8732, Valid F1: 0.8445, Valid DP: 0.3087, Valid EOD: 0.0894
+2024-05-18 19:22:34 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_eod_state.pth.
+2024-05-18 19:22:35 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_loss_state.pth.
+2024-05-18 19:22:50 - base_loss_optimization/lfw/v001_final - INFO - Epoch [15/100], Loss: 0.0172, Valid Acc: 0.8865, Valid F1: 0.8536, Valid DP: 0.2876, Valid EOD: 0.0709
+2024-05-18 19:22:50 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_eod_state.pth.
+2024-05-18 19:22:50 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_loss_state.pth.
+2024-05-18 19:23:05 - base_loss_optimization/lfw/v001_final - INFO - Epoch [16/100], Loss: 0.0178, Valid Acc: 0.8840, Valid F1: 0.8479, Valid DP: 0.2773, Valid EOD: 0.0942
+2024-05-18 19:23:20 - base_loss_optimization/lfw/v001_final - INFO - Epoch [17/100], Loss: 0.0139, Valid Acc: 0.8833, Valid F1: 0.8526, Valid DP: 0.3204, Valid EOD: 0.0971
+2024-05-18 19:23:20 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_loss_state.pth.
+2024-05-18 19:23:36 - base_loss_optimization/lfw/v001_final - INFO - Epoch [18/100], Loss: 0.0134, Valid Acc: 0.8859, Valid F1: 0.8571, Valid DP: 0.2805, Valid EOD: 0.0545
+2024-05-18 19:23:36 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_eod_state.pth.
+2024-05-18 19:23:36 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_loss_state.pth.
+2024-05-18 19:23:52 - base_loss_optimization/lfw/v001_final - INFO - Epoch [19/100], Loss: 0.0166, Valid Acc: 0.8833, Valid F1: 0.8342, Valid DP: 0.2955, Valid EOD: 0.1402
+2024-05-18 19:24:08 - base_loss_optimization/lfw/v001_final - INFO - Epoch [20/100], Loss: 0.0182, Valid Acc: 0.8840, Valid F1: 0.8532, Valid DP: 0.3023, Valid EOD: 0.0897
+2024-05-18 19:24:24 - base_loss_optimization/lfw/v001_final - INFO - Epoch [21/100], Loss: 0.0121, Valid Acc: 0.8909, Valid F1: 0.8583, Valid DP: 0.2873, Valid EOD: 0.0883
+2024-05-18 19:24:24 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_loss_state.pth.
+2024-05-18 19:24:41 - base_loss_optimization/lfw/v001_final - INFO - Epoch [22/100], Loss: 0.0114, Valid Acc: 0.8878, Valid F1: 0.8578, Valid DP: 0.3115, Valid EOD: 0.0913
+2024-05-18 19:24:41 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_loss_state.pth.
+2024-05-18 19:24:57 - base_loss_optimization/lfw/v001_final - INFO - Epoch [23/100], Loss: 0.0077, Valid Acc: 0.8713, Valid F1: 0.8393, Valid DP: 0.2894, Valid EOD: 0.0874
+2024-05-18 19:24:58 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_loss_state.pth.
+2024-05-18 19:25:14 - base_loss_optimization/lfw/v001_final - INFO - Epoch [24/100], Loss: 0.0050, Valid Acc: 0.8897, Valid F1: 0.8597, Valid DP: 0.3042, Valid EOD: 0.0872
+2024-05-18 19:25:14 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_loss_state.pth.
+2024-05-18 19:25:31 - base_loss_optimization/lfw/v001_final - INFO - Epoch [25/100], Loss: 0.0053, Valid Acc: 0.8821, Valid F1: 0.8493, Valid DP: 0.2788, Valid EOD: 0.0880
+2024-05-18 19:25:48 - base_loss_optimization/lfw/v001_final - INFO - Epoch [26/100], Loss: 0.0096, Valid Acc: 0.8763, Valid F1: 0.8446, Valid DP: 0.3072, Valid EOD: 0.1096
+2024-05-18 19:26:05 - base_loss_optimization/lfw/v001_final - INFO - Epoch [27/100], Loss: 0.0130, Valid Acc: 0.8802, Valid F1: 0.8479, Valid DP: 0.3244, Valid EOD: 0.1212
+2024-05-18 19:26:23 - base_loss_optimization/lfw/v001_final - INFO - Epoch [28/100], Loss: 0.0164, Valid Acc: 0.8763, Valid F1: 0.8413, Valid DP: 0.2639, Valid EOD: 0.0763
+2024-05-18 19:26:40 - base_loss_optimization/lfw/v001_final - INFO - Epoch [29/100], Loss: 0.0151, Valid Acc: 0.8859, Valid F1: 0.8367, Valid DP: 0.3284, Valid EOD: 0.1896
+2024-05-18 19:26:58 - base_loss_optimization/lfw/v001_final - INFO - Epoch [30/100], Loss: 0.0140, Valid Acc: 0.8833, Valid F1: 0.8449, Valid DP: 0.3515, Valid EOD: 0.1614
+2024-05-18 19:27:16 - base_loss_optimization/lfw/v001_final - INFO - Epoch [31/100], Loss: 0.0099, Valid Acc: 0.8852, Valid F1: 0.8425, Valid DP: 0.2905, Valid EOD: 0.1162
+2024-05-18 19:27:34 - base_loss_optimization/lfw/v001_final - INFO - Epoch [32/100], Loss: 0.0114, Valid Acc: 0.8846, Valid F1: 0.8442, Valid DP: 0.3282, Valid EOD: 0.1744
+2024-05-18 19:27:52 - base_loss_optimization/lfw/v001_final - INFO - Epoch [33/100], Loss: 0.0127, Valid Acc: 0.8763, Valid F1: 0.8382, Valid DP: 0.3097, Valid EOD: 0.1217
+2024-05-18 19:28:11 - base_loss_optimization/lfw/v001_final - INFO - Epoch [34/100], Loss: 0.0096, Valid Acc: 0.8859, Valid F1: 0.8544, Valid DP: 0.3112, Valid EOD: 0.0999
+2024-05-18 19:28:30 - base_loss_optimization/lfw/v001_final - INFO - Epoch [35/100], Loss: 0.0081, Valid Acc: 0.8903, Valid F1: 0.8540, Valid DP: 0.3069, Valid EOD: 0.0896
+2024-05-18 19:28:49 - base_loss_optimization/lfw/v001_final - INFO - Epoch [36/100], Loss: 0.0036, Valid Acc: 0.8884, Valid F1: 0.8496, Valid DP: 0.3303, Valid EOD: 0.1495
+2024-05-18 19:28:49 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_loss_state.pth.
+2024-05-18 19:29:08 - base_loss_optimization/lfw/v001_final - INFO - Epoch [37/100], Loss: 0.0025, Valid Acc: 0.9011, Valid F1: 0.8676, Valid DP: 0.3239, Valid EOD: 0.1211
+2024-05-18 19:29:08 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_f1_state.pth.
+2024-05-18 19:29:08 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_loss_state.pth.
+2024-05-18 19:29:27 - base_loss_optimization/lfw/v001_final - INFO - Epoch [38/100], Loss: 0.0021, Valid Acc: 0.8992, Valid F1: 0.8667, Valid DP: 0.3194, Valid EOD: 0.0911
+2024-05-18 19:29:28 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_loss_state.pth.
+2024-05-18 19:29:47 - base_loss_optimization/lfw/v001_final - INFO - Epoch [39/100], Loss: 0.0036, Valid Acc: 0.8954, Valid F1: 0.8571, Valid DP: 0.3008, Valid EOD: 0.1029
+2024-05-18 19:30:07 - base_loss_optimization/lfw/v001_final - INFO - Epoch [40/100], Loss: 0.0043, Valid Acc: 0.8757, Valid F1: 0.8452, Valid DP: 0.3059, Valid EOD: 0.0856
+2024-05-18 19:30:27 - base_loss_optimization/lfw/v001_final - INFO - Epoch [41/100], Loss: 0.0057, Valid Acc: 0.8897, Valid F1: 0.8590, Valid DP: 0.3204, Valid EOD: 0.1022
+2024-05-18 19:30:47 - base_loss_optimization/lfw/v001_final - INFO - Epoch [42/100], Loss: 0.0080, Valid Acc: 0.8941, Valid F1: 0.8552, Valid DP: 0.3024, Valid EOD: 0.1228
+2024-05-18 19:31:07 - base_loss_optimization/lfw/v001_final - INFO - Epoch [43/100], Loss: 0.0078, Valid Acc: 0.8890, Valid F1: 0.8516, Valid DP: 0.3155, Valid EOD: 0.1367
+2024-05-18 19:31:27 - base_loss_optimization/lfw/v001_final - INFO - Epoch [44/100], Loss: 0.0199, Valid Acc: 0.8795, Valid F1: 0.8435, Valid DP: 0.2987, Valid EOD: 0.1112
+2024-05-18 19:31:48 - base_loss_optimization/lfw/v001_final - INFO - Epoch [45/100], Loss: 0.0243, Valid Acc: 0.8941, Valid F1: 0.8584, Valid DP: 0.2966, Valid EOD: 0.0970
+2024-05-18 19:32:09 - base_loss_optimization/lfw/v001_final - INFO - Epoch [46/100], Loss: 0.0120, Valid Acc: 0.8960, Valid F1: 0.8622, Valid DP: 0.3104, Valid EOD: 0.1087
+2024-05-18 19:32:30 - base_loss_optimization/lfw/v001_final - INFO - Epoch [47/100], Loss: 0.0045, Valid Acc: 0.8909, Valid F1: 0.8559, Valid DP: 0.3072, Valid EOD: 0.1211
+2024-05-18 19:32:51 - base_loss_optimization/lfw/v001_final - INFO - Epoch [48/100], Loss: 0.0018, Valid Acc: 0.8840, Valid F1: 0.8504, Valid DP: 0.2990, Valid EOD: 0.0982
+2024-05-18 19:32:51 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_loss_state.pth.
+2024-05-18 19:33:12 - base_loss_optimization/lfw/v001_final - INFO - Epoch [49/100], Loss: 0.0009, Valid Acc: 0.8954, Valid F1: 0.8624, Valid DP: 0.3070, Valid EOD: 0.1132
+2024-05-18 19:33:12 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_loss_state.pth.
+2024-05-18 19:33:33 - base_loss_optimization/lfw/v001_final - INFO - Epoch [50/100], Loss: 0.0004, Valid Acc: 0.8884, Valid F1: 0.8545, Valid DP: 0.2981, Valid EOD: 0.1058
+2024-05-18 19:33:34 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_loss_state.pth.
+2024-05-18 19:33:55 - base_loss_optimization/lfw/v001_final - INFO - Epoch [51/100], Loss: 0.0001, Valid Acc: 0.8922, Valid F1: 0.8583, Valid DP: 0.3024, Valid EOD: 0.1109
+2024-05-18 19:33:55 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_loss_state.pth.
+2024-05-18 19:34:17 - base_loss_optimization/lfw/v001_final - INFO - Epoch [52/100], Loss: 0.0001, Valid Acc: 0.8928, Valid F1: 0.8595, Valid DP: 0.3075, Valid EOD: 0.1132
+2024-05-18 19:34:17 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_loss_state.pth.
+2024-05-18 19:34:39 - base_loss_optimization/lfw/v001_final - INFO - Epoch [53/100], Loss: 0.0000, Valid Acc: 0.8941, Valid F1: 0.8612, Valid DP: 0.3037, Valid EOD: 0.1107
+2024-05-18 19:34:39 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_loss_state.pth.
+2024-05-18 19:35:01 - base_loss_optimization/lfw/v001_final - INFO - Epoch [54/100], Loss: 0.0000, Valid Acc: 0.8954, Valid F1: 0.8626, Valid DP: 0.3053, Valid EOD: 0.1107
+2024-05-18 19:35:01 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_loss_state.pth.
+2024-05-18 19:35:23 - base_loss_optimization/lfw/v001_final - INFO - Epoch [55/100], Loss: 0.0000, Valid Acc: 0.8954, Valid F1: 0.8626, Valid DP: 0.3053, Valid EOD: 0.1107
+2024-05-18 19:35:23 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_loss_state.pth.
+2024-05-18 19:35:46 - base_loss_optimization/lfw/v001_final - INFO - Epoch [56/100], Loss: 0.0000, Valid Acc: 0.8954, Valid F1: 0.8626, Valid DP: 0.3053, Valid EOD: 0.1107
+2024-05-18 19:35:46 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_loss_state.pth.
+2024-05-18 19:36:09 - base_loss_optimization/lfw/v001_final - INFO - Epoch [57/100], Loss: 0.0000, Valid Acc: 0.8941, Valid F1: 0.8614, Valid DP: 0.3059, Valid EOD: 0.1081
+2024-05-18 19:36:09 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_loss_state.pth.
+2024-05-18 19:36:31 - base_loss_optimization/lfw/v001_final - INFO - Epoch [58/100], Loss: 0.0000, Valid Acc: 0.8941, Valid F1: 0.8614, Valid DP: 0.3059, Valid EOD: 0.1081
+2024-05-18 19:36:54 - base_loss_optimization/lfw/v001_final - INFO - Epoch [59/100], Loss: 0.0000, Valid Acc: 0.8941, Valid F1: 0.8614, Valid DP: 0.3059, Valid EOD: 0.1081
+2024-05-18 19:36:54 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_loss_state.pth.
+2024-05-18 19:37:18 - base_loss_optimization/lfw/v001_final - INFO - Epoch [60/100], Loss: 0.0000, Valid Acc: 0.8960, Valid F1: 0.8633, Valid DP: 0.3061, Valid EOD: 0.1107
+2024-05-18 19:37:18 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_loss_state.pth.
+2024-05-18 19:37:41 - base_loss_optimization/lfw/v001_final - INFO - Epoch [61/100], Loss: 0.0000, Valid Acc: 0.8960, Valid F1: 0.8633, Valid DP: 0.3061, Valid EOD: 0.1107
+2024-05-18 19:38:05 - base_loss_optimization/lfw/v001_final - INFO - Epoch [62/100], Loss: 0.0000, Valid Acc: 0.8960, Valid F1: 0.8633, Valid DP: 0.3061, Valid EOD: 0.1107
+2024-05-18 19:38:05 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_loss_state.pth.
+2024-05-18 19:38:29 - base_loss_optimization/lfw/v001_final - INFO - Epoch [63/100], Loss: 0.0000, Valid Acc: 0.8960, Valid F1: 0.8636, Valid DP: 0.3083, Valid EOD: 0.1081
+2024-05-18 19:38:29 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_loss_state.pth.
+2024-05-18 19:38:52 - base_loss_optimization/lfw/v001_final - INFO - Epoch [64/100], Loss: 0.0000, Valid Acc: 0.8941, Valid F1: 0.8614, Valid DP: 0.3059, Valid EOD: 0.1081
+2024-05-18 19:38:53 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_loss_state.pth.
+2024-05-18 19:39:16 - base_loss_optimization/lfw/v001_final - INFO - Epoch [65/100], Loss: 0.0000, Valid Acc: 0.8954, Valid F1: 0.8628, Valid DP: 0.3075, Valid EOD: 0.1081
+2024-05-18 19:39:40 - base_loss_optimization/lfw/v001_final - INFO - Epoch [66/100], Loss: 0.0000, Valid Acc: 0.8954, Valid F1: 0.8626, Valid DP: 0.3091, Valid EOD: 0.1107
+2024-05-18 19:40:05 - base_loss_optimization/lfw/v001_final - INFO - Epoch [67/100], Loss: 0.0000, Valid Acc: 0.8960, Valid F1: 0.8636, Valid DP: 0.3083, Valid EOD: 0.1081
+2024-05-18 19:40:30 - base_loss_optimization/lfw/v001_final - INFO - Epoch [68/100], Loss: 0.0000, Valid Acc: 0.8966, Valid F1: 0.8643, Valid DP: 0.3091, Valid EOD: 0.1081
+2024-05-18 19:40:30 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_loss_state.pth.
+2024-05-18 19:40:54 - base_loss_optimization/lfw/v001_final - INFO - Epoch [69/100], Loss: 0.0000, Valid Acc: 0.8954, Valid F1: 0.8628, Valid DP: 0.3075, Valid EOD: 0.1081
+2024-05-18 19:40:55 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_loss_state.pth.
+2024-05-18 19:41:19 - base_loss_optimization/lfw/v001_final - INFO - Epoch [70/100], Loss: 0.0000, Valid Acc: 0.8960, Valid F1: 0.8636, Valid DP: 0.3083, Valid EOD: 0.1081
+2024-05-18 19:41:45 - base_loss_optimization/lfw/v001_final - INFO - Epoch [71/100], Loss: 0.0000, Valid Acc: 0.8960, Valid F1: 0.8633, Valid DP: 0.3099, Valid EOD: 0.1107
+2024-05-18 19:41:45 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_loss_state.pth.
+2024-05-18 19:42:10 - base_loss_optimization/lfw/v001_final - INFO - Epoch [72/100], Loss: 0.0000, Valid Acc: 0.8960, Valid F1: 0.8638, Valid DP: 0.3067, Valid EOD: 0.1056
+2024-05-18 19:42:36 - base_loss_optimization/lfw/v001_final - INFO - Epoch [73/100], Loss: 0.0000, Valid Acc: 0.8954, Valid F1: 0.8626, Valid DP: 0.3091, Valid EOD: 0.1107
+2024-05-18 19:42:36 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_loss_state.pth.
+2024-05-18 19:43:01 - base_loss_optimization/lfw/v001_final - INFO - Epoch [74/100], Loss: 0.0000, Valid Acc: 0.8954, Valid F1: 0.8626, Valid DP: 0.3091, Valid EOD: 0.1107
+2024-05-18 19:43:27 - base_loss_optimization/lfw/v001_final - INFO - Epoch [75/100], Loss: 0.0000, Valid Acc: 0.8954, Valid F1: 0.8635, Valid DP: 0.3027, Valid EOD: 0.1005
+2024-05-18 19:43:27 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_loss_state.pth.
+2024-05-18 19:43:53 - base_loss_optimization/lfw/v001_final - INFO - Epoch [76/100], Loss: 0.0000, Valid Acc: 0.8966, Valid F1: 0.8647, Valid DP: 0.3059, Valid EOD: 0.1030
+2024-05-18 19:43:53 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_loss_state.pth.
+2024-05-18 19:44:19 - base_loss_optimization/lfw/v001_final - INFO - Epoch [77/100], Loss: 0.0000, Valid Acc: 0.8954, Valid F1: 0.8626, Valid DP: 0.3091, Valid EOD: 0.1107
+2024-05-18 19:44:46 - base_loss_optimization/lfw/v001_final - INFO - Epoch [78/100], Loss: 0.0000, Valid Acc: 0.8954, Valid F1: 0.8626, Valid DP: 0.3091, Valid EOD: 0.1107
+2024-05-18 19:45:12 - base_loss_optimization/lfw/v001_final - INFO - Epoch [79/100], Loss: 0.0000, Valid Acc: 0.8973, Valid F1: 0.8654, Valid DP: 0.3067, Valid EOD: 0.1030
+2024-05-18 19:45:39 - base_loss_optimization/lfw/v001_final - INFO - Epoch [80/100], Loss: 0.0000, Valid Acc: 0.8954, Valid F1: 0.8626, Valid DP: 0.3091, Valid EOD: 0.1107
+2024-05-18 19:45:39 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_loss_state.pth.
+2024-05-18 19:46:06 - base_loss_optimization/lfw/v001_final - INFO - Epoch [81/100], Loss: 0.0000, Valid Acc: 0.8966, Valid F1: 0.8645, Valid DP: 0.3075, Valid EOD: 0.1056
+2024-05-18 19:46:06 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_loss_state.pth.
+2024-05-18 19:46:33 - base_loss_optimization/lfw/v001_final - INFO - Epoch [82/100], Loss: 0.0000, Valid Acc: 0.8960, Valid F1: 0.8633, Valid DP: 0.3099, Valid EOD: 0.1107
+2024-05-18 19:47:00 - base_loss_optimization/lfw/v001_final - INFO - Epoch [83/100], Loss: 0.0000, Valid Acc: 0.8966, Valid F1: 0.8647, Valid DP: 0.3059, Valid EOD: 0.1030
+2024-05-18 19:47:00 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_loss_state.pth.
+2024-05-18 19:47:28 - base_loss_optimization/lfw/v001_final - INFO - Epoch [84/100], Loss: 0.0000, Valid Acc: 0.8973, Valid F1: 0.8654, Valid DP: 0.3067, Valid EOD: 0.1030
+2024-05-18 19:47:28 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_loss_state.pth.
+2024-05-18 19:47:55 - base_loss_optimization/lfw/v001_final - INFO - Epoch [85/100], Loss: 0.0000, Valid Acc: 0.8966, Valid F1: 0.8647, Valid DP: 0.3059, Valid EOD: 0.1030
+2024-05-18 19:48:23 - base_loss_optimization/lfw/v001_final - INFO - Epoch [86/100], Loss: 0.0000, Valid Acc: 0.8960, Valid F1: 0.8640, Valid DP: 0.3051, Valid EOD: 0.1030
+2024-05-18 19:48:51 - base_loss_optimization/lfw/v001_final - INFO - Epoch [87/100], Loss: 0.0000, Valid Acc: 0.8966, Valid F1: 0.8647, Valid DP: 0.3059, Valid EOD: 0.1030
+2024-05-18 19:49:19 - base_loss_optimization/lfw/v001_final - INFO - Epoch [88/100], Loss: 0.0000, Valid Acc: 0.8966, Valid F1: 0.8643, Valid DP: 0.3091, Valid EOD: 0.1081
+2024-05-18 19:49:19 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_loss_state.pth.
+2024-05-18 19:49:48 - base_loss_optimization/lfw/v001_final - INFO - Epoch [89/100], Loss: 0.0000, Valid Acc: 0.8966, Valid F1: 0.8647, Valid DP: 0.3059, Valid EOD: 0.1030
+2024-05-18 19:50:16 - base_loss_optimization/lfw/v001_final - INFO - Epoch [90/100], Loss: 0.0000, Valid Acc: 0.8966, Valid F1: 0.8645, Valid DP: 0.3075, Valid EOD: 0.1056
+2024-05-18 19:50:16 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_loss_state.pth.
+2024-05-18 19:50:45 - base_loss_optimization/lfw/v001_final - INFO - Epoch [91/100], Loss: 0.0000, Valid Acc: 0.8966, Valid F1: 0.8643, Valid DP: 0.3091, Valid EOD: 0.1081
+2024-05-18 19:51:14 - base_loss_optimization/lfw/v001_final - INFO - Epoch [92/100], Loss: 0.0000, Valid Acc: 0.8960, Valid F1: 0.8633, Valid DP: 0.3099, Valid EOD: 0.1107
+2024-05-18 19:51:43 - base_loss_optimization/lfw/v001_final - INFO - Epoch [93/100], Loss: 0.0000, Valid Acc: 0.8973, Valid F1: 0.8654, Valid DP: 0.3067, Valid EOD: 0.1030
+2024-05-18 19:52:12 - base_loss_optimization/lfw/v001_final - INFO - Epoch [94/100], Loss: 0.0000, Valid Acc: 0.8966, Valid F1: 0.8647, Valid DP: 0.3059, Valid EOD: 0.1030
+2024-05-18 19:52:42 - base_loss_optimization/lfw/v001_final - INFO - Epoch [95/100], Loss: 0.0000, Valid Acc: 0.8973, Valid F1: 0.8654, Valid DP: 0.3067, Valid EOD: 0.1030
+2024-05-18 19:52:42 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_loss_state.pth.
+2024-05-18 19:53:11 - base_loss_optimization/lfw/v001_final - INFO - Epoch [96/100], Loss: 0.0000, Valid Acc: 0.8973, Valid F1: 0.8654, Valid DP: 0.3067, Valid EOD: 0.1030
+2024-05-18 19:53:11 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_loss_state.pth.
+2024-05-18 19:53:41 - base_loss_optimization/lfw/v001_final - INFO - Epoch [97/100], Loss: 0.0000, Valid Acc: 0.8966, Valid F1: 0.8647, Valid DP: 0.3059, Valid EOD: 0.1030
+2024-05-18 19:53:41 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_loss_state.pth.
+2024-05-18 19:54:11 - base_loss_optimization/lfw/v001_final - INFO - Epoch [98/100], Loss: 0.0000, Valid Acc: 0.8973, Valid F1: 0.8654, Valid DP: 0.3067, Valid EOD: 0.1030
+2024-05-18 19:54:11 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_loss_state.pth.
+2024-05-18 19:54:41 - base_loss_optimization/lfw/v001_final - INFO - Epoch [99/100], Loss: 0.0000, Valid Acc: 0.8966, Valid F1: 0.8647, Valid DP: 0.3059, Valid EOD: 0.1030
+2024-05-18 19:54:41 - base_loss_optimization/lfw/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/best_loss_state.pth.
+2024-05-18 19:55:11 - base_loss_optimization/lfw/v001_final - INFO - Epoch [100/100], Loss: 0.0000, Valid Acc: 0.8973, Valid F1: 0.8654, Valid DP: 0.3067, Valid EOD: 0.1030
+2024-05-18 19:55:11 - base_loss_optimization/lfw/v001_final - INFO - Saved model final to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/base_loss_optimization/lfw/v001_final/final_state.pth.
+2024-05-18 19:55:11 - base_loss_optimization/lfw/v001_final - INFO - Model and metrics saved.
+2024-05-18 19:55:11 - base_loss_optimization/lfw/v001_final - INFO - Training finished.

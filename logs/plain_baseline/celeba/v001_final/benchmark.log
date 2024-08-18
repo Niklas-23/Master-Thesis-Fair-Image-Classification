@@ -1,0 +1,98 @@
+2024-05-22 11:51:59 - plain_baseline/celeba/v001_final - INFO - Training started.
+2024-05-22 12:06:10 - plain_baseline/celeba/v001_final - INFO - Epoch [1/50], Loss: 0.3196, Valid Acc: 0.8129, Valid F1: 0.7606, Valid DP: 0.1469, Valid EOD: 0.1454
+2024-05-22 12:06:11 - plain_baseline/celeba/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/celeba/v001_final/best_f1_state.pth.
+2024-05-22 12:06:11 - plain_baseline/celeba/v001_final - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/celeba/v001_final/best_eod_state.pth.
+2024-05-22 12:06:11 - plain_baseline/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/celeba/v001_final/best_loss_state.pth.
+2024-05-22 12:12:10 - plain_baseline/celeba/v001_final - INFO - Epoch [2/50], Loss: 0.1862, Valid Acc: 0.9136, Valid F1: 0.9054, Valid DP: 0.1361, Valid EOD: 0.0597
+2024-05-22 12:12:10 - plain_baseline/celeba/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/celeba/v001_final/best_f1_state.pth.
+2024-05-22 12:12:10 - plain_baseline/celeba/v001_final - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/celeba/v001_final/best_eod_state.pth.
+2024-05-22 12:12:10 - plain_baseline/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/celeba/v001_final/best_loss_state.pth.
+2024-05-22 12:18:11 - plain_baseline/celeba/v001_final - INFO - Epoch [3/50], Loss: 0.1761, Valid Acc: 0.8848, Valid F1: 0.8666, Valid DP: 0.1168, Valid EOD: 0.0436
+2024-05-22 12:18:11 - plain_baseline/celeba/v001_final - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/celeba/v001_final/best_eod_state.pth.
+2024-05-22 12:18:12 - plain_baseline/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/celeba/v001_final/best_loss_state.pth.
+2024-05-22 12:24:16 - plain_baseline/celeba/v001_final - INFO - Epoch [4/50], Loss: 0.1651, Valid Acc: 0.9106, Valid F1: 0.9006, Valid DP: 0.1196, Valid EOD: 0.0359
+2024-05-22 12:24:16 - plain_baseline/celeba/v001_final - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/celeba/v001_final/best_eod_state.pth.
+2024-05-22 12:24:16 - plain_baseline/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/celeba/v001_final/best_loss_state.pth.
+2024-05-22 12:59:13 - plain_baseline/celeba/v001_final - INFO - Epoch [5/50], Loss: 0.1599, Valid Acc: 0.9260, Valid F1: 0.9220, Valid DP: 0.1467, Valid EOD: 0.0511
+2024-05-22 12:59:13 - plain_baseline/celeba/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/celeba/v001_final/best_f1_state.pth.
+2024-05-22 12:59:13 - plain_baseline/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/celeba/v001_final/best_loss_state.pth.
+2024-05-22 13:05:23 - plain_baseline/celeba/v001_final - INFO - Epoch [6/50], Loss: 0.1502, Valid Acc: 0.9267, Valid F1: 0.9226, Valid DP: 0.1420, Valid EOD: 0.0546
+2024-05-22 13:05:23 - plain_baseline/celeba/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/celeba/v001_final/best_f1_state.pth.
+2024-05-22 13:05:24 - plain_baseline/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/celeba/v001_final/best_loss_state.pth.
+2024-05-22 13:11:39 - plain_baseline/celeba/v001_final - INFO - Epoch [7/50], Loss: 0.1416, Valid Acc: 0.8929, Valid F1: 0.8776, Valid DP: 0.1060, Valid EOD: 0.0178
+2024-05-22 13:11:39 - plain_baseline/celeba/v001_final - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/celeba/v001_final/best_eod_state.pth.
+2024-05-22 13:11:39 - plain_baseline/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/celeba/v001_final/best_loss_state.pth.
+2024-05-22 13:17:55 - plain_baseline/celeba/v001_final - INFO - Epoch [8/50], Loss: 0.1315, Valid Acc: 0.9218, Valid F1: 0.9167, Valid DP: 0.1364, Valid EOD: 0.0514
+2024-05-22 13:17:55 - plain_baseline/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/celeba/v001_final/best_loss_state.pth.
+2024-05-22 13:24:17 - plain_baseline/celeba/v001_final - INFO - Epoch [9/50], Loss: 0.1184, Valid Acc: 0.9144, Valid F1: 0.9058, Valid DP: 0.1262, Valid EOD: 0.0486
+2024-05-22 13:24:17 - plain_baseline/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/celeba/v001_final/best_loss_state.pth.
+2024-05-22 13:30:43 - plain_baseline/celeba/v001_final - INFO - Epoch [10/50], Loss: 0.1038, Valid Acc: 0.9126, Valid F1: 0.9115, Valid DP: 0.1537, Valid EOD: 0.0486
+2024-05-22 13:30:43 - plain_baseline/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/celeba/v001_final/best_loss_state.pth.
+2024-05-22 13:37:13 - plain_baseline/celeba/v001_final - INFO - Epoch [11/50], Loss: 0.0902, Valid Acc: 0.9098, Valid F1: 0.9038, Valid DP: 0.1475, Valid EOD: 0.0674
+2024-05-22 13:37:13 - plain_baseline/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/celeba/v001_final/best_loss_state.pth.
+2024-05-22 13:43:48 - plain_baseline/celeba/v001_final - INFO - Epoch [12/50], Loss: 0.0745, Valid Acc: 0.9169, Valid F1: 0.9127, Valid DP: 0.1417, Valid EOD: 0.0499
+2024-05-22 13:43:48 - plain_baseline/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/celeba/v001_final/best_loss_state.pth.
+2024-05-22 13:50:29 - plain_baseline/celeba/v001_final - INFO - Epoch [13/50], Loss: 0.0579, Valid Acc: 0.9128, Valid F1: 0.9105, Valid DP: 0.1376, Valid EOD: 0.0423
+2024-05-22 13:50:29 - plain_baseline/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/celeba/v001_final/best_loss_state.pth.
+2024-05-22 13:57:13 - plain_baseline/celeba/v001_final - INFO - Epoch [14/50], Loss: 0.0472, Valid Acc: 0.9190, Valid F1: 0.9144, Valid DP: 0.1350, Valid EOD: 0.0487
+2024-05-22 13:57:13 - plain_baseline/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/celeba/v001_final/best_loss_state.pth.
+2024-05-22 14:04:02 - plain_baseline/celeba/v001_final - INFO - Epoch [15/50], Loss: 0.0398, Valid Acc: 0.9154, Valid F1: 0.9103, Valid DP: 0.1426, Valid EOD: 0.0574
+2024-05-22 14:04:02 - plain_baseline/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/celeba/v001_final/best_loss_state.pth.
+2024-05-22 14:10:55 - plain_baseline/celeba/v001_final - INFO - Epoch [16/50], Loss: 0.0329, Valid Acc: 0.9135, Valid F1: 0.9092, Valid DP: 0.1322, Valid EOD: 0.0424
+2024-05-22 14:10:55 - plain_baseline/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/celeba/v001_final/best_loss_state.pth.
+2024-05-22 14:17:51 - plain_baseline/celeba/v001_final - INFO - Epoch [17/50], Loss: 0.0283, Valid Acc: 0.9147, Valid F1: 0.9102, Valid DP: 0.1329, Valid EOD: 0.0455
+2024-05-22 14:17:52 - plain_baseline/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/celeba/v001_final/best_loss_state.pth.
+2024-05-22 14:24:52 - plain_baseline/celeba/v001_final - INFO - Epoch [18/50], Loss: 0.0244, Valid Acc: 0.9148, Valid F1: 0.9108, Valid DP: 0.1251, Valid EOD: 0.0367
+2024-05-22 14:24:52 - plain_baseline/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/celeba/v001_final/best_loss_state.pth.
+2024-05-22 14:31:55 - plain_baseline/celeba/v001_final - INFO - Epoch [19/50], Loss: 0.0230, Valid Acc: 0.9195, Valid F1: 0.9168, Valid DP: 0.1377, Valid EOD: 0.0429
+2024-05-22 14:31:55 - plain_baseline/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/celeba/v001_final/best_loss_state.pth.
+2024-05-22 14:39:03 - plain_baseline/celeba/v001_final - INFO - Epoch [20/50], Loss: 0.0203, Valid Acc: 0.9164, Valid F1: 0.9122, Valid DP: 0.1301, Valid EOD: 0.0472
+2024-05-22 14:39:03 - plain_baseline/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/celeba/v001_final/best_loss_state.pth.
+2024-05-22 14:46:15 - plain_baseline/celeba/v001_final - INFO - Epoch [21/50], Loss: 0.0202, Valid Acc: 0.9158, Valid F1: 0.9118, Valid DP: 0.1357, Valid EOD: 0.0493
+2024-05-22 14:46:15 - plain_baseline/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/celeba/v001_final/best_loss_state.pth.
+2024-05-22 14:53:31 - plain_baseline/celeba/v001_final - INFO - Epoch [22/50], Loss: 0.0170, Valid Acc: 0.9159, Valid F1: 0.9123, Valid DP: 0.1342, Valid EOD: 0.0470
+2024-05-22 14:53:31 - plain_baseline/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/celeba/v001_final/best_loss_state.pth.
+2024-05-22 15:00:54 - plain_baseline/celeba/v001_final - INFO - Epoch [23/50], Loss: 0.0174, Valid Acc: 0.9125, Valid F1: 0.9114, Valid DP: 0.1239, Valid EOD: 0.0282
+2024-05-22 15:08:21 - plain_baseline/celeba/v001_final - INFO - Epoch [24/50], Loss: 0.0161, Valid Acc: 0.9144, Valid F1: 0.9113, Valid DP: 0.1428, Valid EOD: 0.0509
+2024-05-22 15:08:22 - plain_baseline/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/celeba/v001_final/best_loss_state.pth.
+2024-05-22 15:15:55 - plain_baseline/celeba/v001_final - INFO - Epoch [25/50], Loss: 0.0170, Valid Acc: 0.9154, Valid F1: 0.9100, Valid DP: 0.1397, Valid EOD: 0.0568
+2024-05-22 15:23:32 - plain_baseline/celeba/v001_final - INFO - Epoch [26/50], Loss: 0.0139, Valid Acc: 0.9186, Valid F1: 0.9144, Valid DP: 0.1200, Valid EOD: 0.0333
+2024-05-22 15:23:32 - plain_baseline/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/celeba/v001_final/best_loss_state.pth.
+2024-05-22 15:31:13 - plain_baseline/celeba/v001_final - INFO - Epoch [27/50], Loss: 0.0139, Valid Acc: 0.9189, Valid F1: 0.9139, Valid DP: 0.1277, Valid EOD: 0.0406
+2024-05-22 15:38:58 - plain_baseline/celeba/v001_final - INFO - Epoch [28/50], Loss: 0.0141, Valid Acc: 0.9155, Valid F1: 0.9125, Valid DP: 0.1445, Valid EOD: 0.0504
+2024-05-22 15:46:49 - plain_baseline/celeba/v001_final - INFO - Epoch [29/50], Loss: 0.0137, Valid Acc: 0.9193, Valid F1: 0.9149, Valid DP: 0.1288, Valid EOD: 0.0438
+2024-05-22 15:46:49 - plain_baseline/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/celeba/v001_final/best_loss_state.pth.
+2024-05-22 15:54:44 - plain_baseline/celeba/v001_final - INFO - Epoch [30/50], Loss: 0.0120, Valid Acc: 0.9180, Valid F1: 0.9135, Valid DP: 0.1366, Valid EOD: 0.0476
+2024-05-22 15:54:44 - plain_baseline/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/celeba/v001_final/best_loss_state.pth.
+2024-05-22 16:02:44 - plain_baseline/celeba/v001_final - INFO - Epoch [31/50], Loss: 0.0116, Valid Acc: 0.9175, Valid F1: 0.9125, Valid DP: 0.1344, Valid EOD: 0.0449
+2024-05-22 16:02:44 - plain_baseline/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/celeba/v001_final/best_loss_state.pth.
+2024-05-22 16:10:47 - plain_baseline/celeba/v001_final - INFO - Epoch [32/50], Loss: 0.0108, Valid Acc: 0.9119, Valid F1: 0.9056, Valid DP: 0.1261, Valid EOD: 0.0405
+2024-05-22 16:10:47 - plain_baseline/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/celeba/v001_final/best_loss_state.pth.
+2024-05-22 16:18:55 - plain_baseline/celeba/v001_final - INFO - Epoch [33/50], Loss: 0.0110, Valid Acc: 0.9165, Valid F1: 0.9129, Valid DP: 0.1464, Valid EOD: 0.0559
+2024-05-22 16:27:07 - plain_baseline/celeba/v001_final - INFO - Epoch [34/50], Loss: 0.0109, Valid Acc: 0.9170, Valid F1: 0.9134, Valid DP: 0.1265, Valid EOD: 0.0330
+2024-05-22 16:35:21 - plain_baseline/celeba/v001_final - INFO - Epoch [35/50], Loss: 0.0112, Valid Acc: 0.9147, Valid F1: 0.9117, Valid DP: 0.1321, Valid EOD: 0.0392
+2024-05-22 16:43:39 - plain_baseline/celeba/v001_final - INFO - Epoch [36/50], Loss: 0.0109, Valid Acc: 0.9155, Valid F1: 0.9108, Valid DP: 0.1500, Valid EOD: 0.0637
+2024-05-22 16:52:01 - plain_baseline/celeba/v001_final - INFO - Epoch [37/50], Loss: 0.0104, Valid Acc: 0.9192, Valid F1: 0.9159, Valid DP: 0.1295, Valid EOD: 0.0412
+2024-05-22 16:52:01 - plain_baseline/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/celeba/v001_final/best_loss_state.pth.
+2024-05-22 17:00:32 - plain_baseline/celeba/v001_final - INFO - Epoch [38/50], Loss: 0.0085, Valid Acc: 0.9169, Valid F1: 0.9143, Valid DP: 0.1315, Valid EOD: 0.0418
+2024-05-22 17:00:32 - plain_baseline/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/celeba/v001_final/best_loss_state.pth.
+2024-05-22 17:09:03 - plain_baseline/celeba/v001_final - INFO - Epoch [39/50], Loss: 0.0098, Valid Acc: 0.9190, Valid F1: 0.9142, Valid DP: 0.1321, Valid EOD: 0.0472
+2024-05-22 17:17:39 - plain_baseline/celeba/v001_final - INFO - Epoch [40/50], Loss: 0.0082, Valid Acc: 0.9128, Valid F1: 0.9088, Valid DP: 0.1364, Valid EOD: 0.0513
+2024-05-22 17:17:39 - plain_baseline/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/celeba/v001_final/best_loss_state.pth.
+2024-05-22 17:26:22 - plain_baseline/celeba/v001_final - INFO - Epoch [41/50], Loss: 0.0101, Valid Acc: 0.9190, Valid F1: 0.9150, Valid DP: 0.1270, Valid EOD: 0.0330
+2024-05-22 17:35:07 - plain_baseline/celeba/v001_final - INFO - Epoch [42/50], Loss: 0.0098, Valid Acc: 0.9164, Valid F1: 0.9143, Valid DP: 0.1279, Valid EOD: 0.0299
+2024-05-22 17:43:58 - plain_baseline/celeba/v001_final - INFO - Epoch [43/50], Loss: 0.0081, Valid Acc: 0.9181, Valid F1: 0.9137, Valid DP: 0.1380, Valid EOD: 0.0452
+2024-05-22 17:43:58 - plain_baseline/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/celeba/v001_final/best_loss_state.pth.
+2024-05-22 17:52:52 - plain_baseline/celeba/v001_final - INFO - Epoch [44/50], Loss: 0.0074, Valid Acc: 0.9134, Valid F1: 0.9097, Valid DP: 0.1407, Valid EOD: 0.0480
+2024-05-22 17:52:52 - plain_baseline/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/celeba/v001_final/best_loss_state.pth.
+2024-05-22 18:01:50 - plain_baseline/celeba/v001_final - INFO - Epoch [45/50], Loss: 0.0078, Valid Acc: 0.9187, Valid F1: 0.9134, Valid DP: 0.1526, Valid EOD: 0.0684
+2024-05-22 18:10:53 - plain_baseline/celeba/v001_final - INFO - Epoch [46/50], Loss: 0.0086, Valid Acc: 0.9164, Valid F1: 0.9124, Valid DP: 0.1284, Valid EOD: 0.0356
+2024-05-22 18:20:03 - plain_baseline/celeba/v001_final - INFO - Epoch [47/50], Loss: 0.0078, Valid Acc: 0.9170, Valid F1: 0.9135, Valid DP: 0.1328, Valid EOD: 0.0401
+2024-05-22 18:29:19 - plain_baseline/celeba/v001_final - INFO - Epoch [48/50], Loss: 0.0068, Valid Acc: 0.9120, Valid F1: 0.9103, Valid DP: 0.1334, Valid EOD: 0.0370
+2024-05-22 18:29:19 - plain_baseline/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/celeba/v001_final/best_loss_state.pth.
+2024-05-22 18:38:38 - plain_baseline/celeba/v001_final - INFO - Epoch [49/50], Loss: 0.0078, Valid Acc: 0.9173, Valid F1: 0.9147, Valid DP: 0.1427, Valid EOD: 0.0449
+2024-05-22 18:48:03 - plain_baseline/celeba/v001_final - INFO - Epoch [50/50], Loss: 0.0064, Valid Acc: 0.9185, Valid F1: 0.9141, Valid DP: 0.1451, Valid EOD: 0.0557
+2024-05-22 18:48:03 - plain_baseline/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/celeba/v001_final/best_loss_state.pth.
+2024-05-22 18:48:03 - plain_baseline/celeba/v001_final - INFO - Saved model final to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/celeba/v001_final/final_state.pth.
+2024-05-22 18:48:03 - plain_baseline/celeba/v001_final - INFO - Model and metrics saved.
+2024-05-22 18:48:03 - plain_baseline/celeba/v001_final - INFO - Training finished.

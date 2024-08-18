@@ -1,0 +1,139 @@
+2024-07-08 11:09:31 - fair_feat_distill/lfw/v2_target_smiling - INFO - Start fair feature distillation benchmark.
+2024-07-08 11:09:31 - fair_feat_distill/lfw/v2_target_smiling - INFO - Training started.
+2024-07-08 11:09:43 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [1/100], Loss: 4.3392, Valid Acc: 0.4559, Valid F1: 0.5811, Valid DP: 0.0351, Valid EOD: 0.0046
+2024-07-08 11:09:43 - fair_feat_distill/lfw/v2_target_smiling - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/v2_target_smiling/best_f1_state.pth.
+2024-07-08 11:09:43 - fair_feat_distill/lfw/v2_target_smiling - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/v2_target_smiling/best_eod_state.pth.
+2024-07-08 11:09:44 - fair_feat_distill/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 11:09:56 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [2/100], Loss: 0.8594, Valid Acc: 0.8776, Valid F1: 0.8355, Valid DP: 0.3014, Valid EOD: 0.1230
+2024-07-08 11:09:56 - fair_feat_distill/lfw/v2_target_smiling - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/v2_target_smiling/best_f1_state.pth.
+2024-07-08 11:09:56 - fair_feat_distill/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 11:10:09 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [3/100], Loss: 0.3916, Valid Acc: 0.8992, Valid F1: 0.8713, Valid DP: 0.2931, Valid EOD: 0.0596
+2024-07-08 11:10:09 - fair_feat_distill/lfw/v2_target_smiling - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/v2_target_smiling/best_f1_state.pth.
+2024-07-08 11:10:09 - fair_feat_distill/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 11:10:22 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [4/100], Loss: 0.2490, Valid Acc: 0.8998, Valid F1: 0.8688, Valid DP: 0.2916, Valid EOD: 0.0684
+2024-07-08 11:10:23 - fair_feat_distill/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 11:10:36 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [5/100], Loss: 0.1706, Valid Acc: 0.8954, Valid F1: 0.8610, Valid DP: 0.3015, Valid EOD: 0.0916
+2024-07-08 11:10:36 - fair_feat_distill/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 11:10:49 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [6/100], Loss: 0.1155, Valid Acc: 0.9030, Valid F1: 0.8722, Valid DP: 0.2745, Valid EOD: 0.0636
+2024-07-08 11:10:49 - fair_feat_distill/lfw/v2_target_smiling - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/v2_target_smiling/best_f1_state.pth.
+2024-07-08 11:10:50 - fair_feat_distill/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 11:11:03 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [7/100], Loss: 0.0901, Valid Acc: 0.8922, Valid F1: 0.8649, Valid DP: 0.2935, Valid EOD: 0.0813
+2024-07-08 11:11:03 - fair_feat_distill/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 11:11:17 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [8/100], Loss: 0.0876, Valid Acc: 0.8979, Valid F1: 0.8608, Valid DP: 0.2879, Valid EOD: 0.0879
+2024-07-08 11:11:17 - fair_feat_distill/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 11:11:32 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [9/100], Loss: 0.0877, Valid Acc: 0.8897, Valid F1: 0.8484, Valid DP: 0.2913, Valid EOD: 0.1159
+2024-07-08 11:11:46 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [10/100], Loss: 0.0952, Valid Acc: 0.8973, Valid F1: 0.8586, Valid DP: 0.2740, Valid EOD: 0.0810
+2024-07-08 11:12:00 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [11/100], Loss: 0.1034, Valid Acc: 0.8916, Valid F1: 0.8644, Valid DP: 0.2646, Valid EOD: 0.0418
+2024-07-08 11:12:15 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [12/100], Loss: 0.1126, Valid Acc: 0.9062, Valid F1: 0.8739, Valid DP: 0.2893, Valid EOD: 0.0865
+2024-07-08 11:12:15 - fair_feat_distill/lfw/v2_target_smiling - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/v2_target_smiling/best_f1_state.pth.
+2024-07-08 11:12:30 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [13/100], Loss: 0.1108, Valid Acc: 0.8935, Valid F1: 0.8552, Valid DP: 0.2892, Valid EOD: 0.1077
+2024-07-08 11:12:44 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [14/100], Loss: 0.1042, Valid Acc: 0.8941, Valid F1: 0.8586, Valid DP: 0.2988, Valid EOD: 0.1240
+2024-07-08 11:13:00 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [15/100], Loss: 0.0859, Valid Acc: 0.9055, Valid F1: 0.8784, Valid DP: 0.2860, Valid EOD: 0.0596
+2024-07-08 11:13:00 - fair_feat_distill/lfw/v2_target_smiling - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/v2_target_smiling/best_f1_state.pth.
+2024-07-08 11:13:00 - fair_feat_distill/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 11:13:15 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [16/100], Loss: 0.0711, Valid Acc: 0.8998, Valid F1: 0.8679, Valid DP: 0.2867, Valid EOD: 0.0712
+2024-07-08 11:13:15 - fair_feat_distill/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 11:13:31 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [17/100], Loss: 0.0689, Valid Acc: 0.9055, Valid F1: 0.8732, Valid DP: 0.2885, Valid EOD: 0.0644
+2024-07-08 11:13:31 - fair_feat_distill/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 11:13:47 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [18/100], Loss: 0.0656, Valid Acc: 0.8966, Valid F1: 0.8674, Valid DP: 0.2752, Valid EOD: 0.0650
+2024-07-08 11:13:47 - fair_feat_distill/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 11:14:02 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [19/100], Loss: 0.0610, Valid Acc: 0.8935, Valid F1: 0.8616, Valid DP: 0.2835, Valid EOD: 0.0905
+2024-07-08 11:14:02 - fair_feat_distill/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 11:14:19 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [20/100], Loss: 0.0594, Valid Acc: 0.9030, Valid F1: 0.8745, Valid DP: 0.2946, Valid EOD: 0.0798
+2024-07-08 11:14:19 - fair_feat_distill/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 11:14:35 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [21/100], Loss: 0.0573, Valid Acc: 0.8947, Valid F1: 0.8642, Valid DP: 0.2998, Valid EOD: 0.0704
+2024-07-08 11:14:35 - fair_feat_distill/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 11:14:51 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [22/100], Loss: 0.0565, Valid Acc: 0.8998, Valid F1: 0.8683, Valid DP: 0.2986, Valid EOD: 0.1030
+2024-07-08 11:14:51 - fair_feat_distill/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 11:15:08 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [23/100], Loss: 0.0584, Valid Acc: 0.8979, Valid F1: 0.8675, Valid DP: 0.2941, Valid EOD: 0.0803
+2024-07-08 11:15:25 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [24/100], Loss: 0.0566, Valid Acc: 0.8954, Valid F1: 0.8624, Valid DP: 0.2691, Valid EOD: 0.0689
+2024-07-08 11:15:42 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [25/100], Loss: 0.0549, Valid Acc: 0.9049, Valid F1: 0.8718, Valid DP: 0.3001, Valid EOD: 0.1089
+2024-07-08 11:15:42 - fair_feat_distill/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 11:15:59 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [26/100], Loss: 0.0558, Valid Acc: 0.9023, Valid F1: 0.8710, Valid DP: 0.2883, Valid EOD: 0.0834
+2024-07-08 11:16:16 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [27/100], Loss: 0.0546, Valid Acc: 0.8992, Valid F1: 0.8672, Valid DP: 0.3086, Valid EOD: 0.0860
+2024-07-08 11:16:16 - fair_feat_distill/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 11:16:34 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [28/100], Loss: 0.0594, Valid Acc: 0.9049, Valid F1: 0.8735, Valid DP: 0.2910, Valid EOD: 0.0738
+2024-07-08 11:16:52 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [29/100], Loss: 0.0589, Valid Acc: 0.8960, Valid F1: 0.8622, Valid DP: 0.2726, Valid EOD: 0.0939
+2024-07-08 11:17:10 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [30/100], Loss: 0.0617, Valid Acc: 0.8966, Valid F1: 0.8647, Valid DP: 0.3135, Valid EOD: 0.1104
+2024-07-08 11:17:28 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [31/100], Loss: 0.0721, Valid Acc: 0.8922, Valid F1: 0.8506, Valid DP: 0.3032, Valid EOD: 0.1162
+2024-07-08 11:17:46 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [32/100], Loss: 0.0775, Valid Acc: 0.8960, Valid F1: 0.8633, Valid DP: 0.3175, Valid EOD: 0.0898
+2024-07-08 11:18:04 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [33/100], Loss: 0.0803, Valid Acc: 0.8916, Valid F1: 0.8581, Valid DP: 0.2908, Valid EOD: 0.0763
+2024-07-08 11:18:23 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [34/100], Loss: 0.0725, Valid Acc: 0.8992, Valid F1: 0.8640, Valid DP: 0.2820, Valid EOD: 0.0700
+2024-07-08 11:18:41 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [35/100], Loss: 0.0726, Valid Acc: 0.8922, Valid F1: 0.8545, Valid DP: 0.2903, Valid EOD: 0.0927
+2024-07-08 11:19:00 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [36/100], Loss: 0.0758, Valid Acc: 0.8941, Valid F1: 0.8614, Valid DP: 0.2946, Valid EOD: 0.0860
+2024-07-08 11:19:19 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [37/100], Loss: 0.0798, Valid Acc: 0.8954, Valid F1: 0.8612, Valid DP: 0.2810, Valid EOD: 0.0669
+2024-07-08 11:19:39 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [38/100], Loss: 0.0746, Valid Acc: 0.8954, Valid F1: 0.8633, Valid DP: 0.3005, Valid EOD: 0.0735
+2024-07-08 11:19:58 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [39/100], Loss: 0.0632, Valid Acc: 0.8973, Valid F1: 0.8620, Valid DP: 0.3044, Valid EOD: 0.0795
+2024-07-08 11:20:18 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [40/100], Loss: 0.0577, Valid Acc: 0.8941, Valid F1: 0.8600, Valid DP: 0.2929, Valid EOD: 0.0791
+2024-07-08 11:20:37 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [41/100], Loss: 0.0562, Valid Acc: 0.8922, Valid F1: 0.8595, Valid DP: 0.3132, Valid EOD: 0.0893
+2024-07-08 11:20:58 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [42/100], Loss: 0.0521, Valid Acc: 0.9030, Valid F1: 0.8724, Valid DP: 0.2880, Valid EOD: 0.0610
+2024-07-08 11:20:58 - fair_feat_distill/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 11:21:18 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [43/100], Loss: 0.0490, Valid Acc: 0.8992, Valid F1: 0.8649, Valid DP: 0.2944, Valid EOD: 0.0967
+2024-07-08 11:21:18 - fair_feat_distill/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 11:21:38 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [44/100], Loss: 0.0513, Valid Acc: 0.8935, Valid F1: 0.8600, Valid DP: 0.3024, Valid EOD: 0.0789
+2024-07-08 11:21:58 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [45/100], Loss: 0.0491, Valid Acc: 0.9062, Valid F1: 0.8748, Valid DP: 0.2942, Valid EOD: 0.0837
+2024-07-08 11:22:19 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [46/100], Loss: 0.0496, Valid Acc: 0.8928, Valid F1: 0.8607, Valid DP: 0.2919, Valid EOD: 0.0783
+2024-07-08 11:22:40 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [47/100], Loss: 0.0492, Valid Acc: 0.8998, Valid F1: 0.8626, Valid DP: 0.3124, Valid EOD: 0.1077
+2024-07-08 11:23:01 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [48/100], Loss: 0.0478, Valid Acc: 0.8979, Valid F1: 0.8634, Valid DP: 0.2890, Valid EOD: 0.0746
+2024-07-08 11:23:01 - fair_feat_distill/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 11:23:22 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [49/100], Loss: 0.0508, Valid Acc: 0.8973, Valid F1: 0.8648, Valid DP: 0.2699, Valid EOD: 0.0516
+2024-07-08 11:23:44 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [50/100], Loss: 0.0487, Valid Acc: 0.9036, Valid F1: 0.8733, Valid DP: 0.2683, Valid EOD: 0.0511
+2024-07-08 11:24:05 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [51/100], Loss: 0.0490, Valid Acc: 0.8973, Valid F1: 0.8650, Valid DP: 0.2910, Valid EOD: 0.0638
+2024-07-08 11:24:27 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [52/100], Loss: 0.0487, Valid Acc: 0.8941, Valid F1: 0.8593, Valid DP: 0.2939, Valid EOD: 0.0868
+2024-07-08 11:24:49 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [53/100], Loss: 0.0454, Valid Acc: 0.8973, Valid F1: 0.8636, Valid DP: 0.2893, Valid EOD: 0.0865
+2024-07-08 11:24:49 - fair_feat_distill/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 11:25:11 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [54/100], Loss: 0.0462, Valid Acc: 0.8935, Valid F1: 0.8595, Valid DP: 0.2829, Valid EOD: 0.0840
+2024-07-08 11:25:33 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [55/100], Loss: 0.0524, Valid Acc: 0.8979, Valid F1: 0.8648, Valid DP: 0.2945, Valid EOD: 0.0888
+2024-07-08 11:25:55 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [56/100], Loss: 0.0478, Valid Acc: 0.8935, Valid F1: 0.8586, Valid DP: 0.2931, Valid EOD: 0.1015
+2024-07-08 11:26:18 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [57/100], Loss: 0.0485, Valid Acc: 0.8947, Valid F1: 0.8574, Valid DP: 0.3087, Valid EOD: 0.1222
+2024-07-08 11:26:41 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [58/100], Loss: 0.0480, Valid Acc: 0.8909, Valid F1: 0.8574, Valid DP: 0.2711, Valid EOD: 0.0763
+2024-07-08 11:27:04 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [59/100], Loss: 0.0458, Valid Acc: 0.8947, Valid F1: 0.8586, Valid DP: 0.2742, Valid EOD: 0.0799
+2024-07-08 11:27:27 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [60/100], Loss: 0.0478, Valid Acc: 0.8922, Valid F1: 0.8576, Valid DP: 0.2845, Valid EOD: 0.0964
+2024-07-08 11:27:50 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [61/100], Loss: 0.0484, Valid Acc: 0.8941, Valid F1: 0.8603, Valid DP: 0.2837, Valid EOD: 0.0766
+2024-07-08 11:28:14 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [62/100], Loss: 0.0487, Valid Acc: 0.8954, Valid F1: 0.8612, Valid DP: 0.2810, Valid EOD: 0.0669
+2024-07-08 11:28:37 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [63/100], Loss: 0.0541, Valid Acc: 0.8928, Valid F1: 0.8583, Valid DP: 0.3042, Valid EOD: 0.0964
+2024-07-08 11:29:01 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [64/100], Loss: 0.0585, Valid Acc: 0.8884, Valid F1: 0.8555, Valid DP: 0.2727, Valid EOD: 0.0661
+2024-07-08 11:29:25 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [65/100], Loss: 0.0572, Valid Acc: 0.8954, Valid F1: 0.8624, Valid DP: 0.2767, Valid EOD: 0.0689
+2024-07-08 11:29:49 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [66/100], Loss: 0.0576, Valid Acc: 0.8985, Valid F1: 0.8630, Valid DP: 0.2828, Valid EOD: 0.0799
+2024-07-08 11:30:14 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [67/100], Loss: 0.0577, Valid Acc: 0.8935, Valid F1: 0.8537, Valid DP: 0.2648, Valid EOD: 0.0566
+2024-07-08 11:30:38 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [68/100], Loss: 0.0686, Valid Acc: 0.8916, Valid F1: 0.8586, Valid DP: 0.3065, Valid EOD: 0.1081
+2024-07-08 11:31:03 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [69/100], Loss: 0.0722, Valid Acc: 0.8922, Valid F1: 0.8590, Valid DP: 0.2975, Valid EOD: 0.0811
+2024-07-08 11:31:28 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [70/100], Loss: 0.0818, Valid Acc: 0.8916, Valid F1: 0.8507, Valid DP: 0.2824, Valid EOD: 0.0938
+2024-07-08 11:31:53 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [71/100], Loss: 0.0712, Valid Acc: 0.9017, Valid F1: 0.8724, Valid DP: 0.2714, Valid EOD: 0.0653
+2024-07-08 11:32:18 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [72/100], Loss: 0.0636, Valid Acc: 0.9004, Valid F1: 0.8673, Valid DP: 0.2858, Valid EOD: 0.0644
+2024-07-08 11:32:43 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [73/100], Loss: 0.0548, Valid Acc: 0.8966, Valid F1: 0.8672, Valid DP: 0.2730, Valid EOD: 0.0454
+2024-07-08 11:33:09 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [74/100], Loss: 0.0537, Valid Acc: 0.8903, Valid F1: 0.8599, Valid DP: 0.2817, Valid EOD: 0.0549
+2024-07-08 11:33:35 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [75/100], Loss: 0.0462, Valid Acc: 0.8966, Valid F1: 0.8650, Valid DP: 0.2778, Valid EOD: 0.0636
+2024-07-08 11:34:01 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [76/100], Loss: 0.0471, Valid Acc: 0.8985, Valid F1: 0.8671, Valid DP: 0.2916, Valid EOD: 0.0709
+2024-07-08 11:34:27 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [77/100], Loss: 0.0446, Valid Acc: 0.8928, Valid F1: 0.8576, Valid DP: 0.2902, Valid EOD: 0.0820
+2024-07-08 11:34:27 - fair_feat_distill/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 11:34:53 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [78/100], Loss: 0.0435, Valid Acc: 0.8954, Valid F1: 0.8608, Valid DP: 0.3031, Valid EOD: 0.0794
+2024-07-08 11:34:53 - fair_feat_distill/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 11:35:19 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [79/100], Loss: 0.0442, Valid Acc: 0.8960, Valid F1: 0.8624, Valid DP: 0.3012, Valid EOD: 0.0840
+2024-07-08 11:35:46 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [80/100], Loss: 0.0422, Valid Acc: 0.8985, Valid F1: 0.8667, Valid DP: 0.2872, Valid EOD: 0.0613
+2024-07-08 11:35:46 - fair_feat_distill/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 11:36:13 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [81/100], Loss: 0.0410, Valid Acc: 0.8979, Valid F1: 0.8650, Valid DP: 0.2967, Valid EOD: 0.0715
+2024-07-08 11:36:13 - fair_feat_distill/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 11:36:40 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [82/100], Loss: 0.0441, Valid Acc: 0.9017, Valid F1: 0.8676, Valid DP: 0.2993, Valid EOD: 0.0845
+2024-07-08 11:37:07 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [83/100], Loss: 0.0430, Valid Acc: 0.9017, Valid F1: 0.8705, Valid DP: 0.2897, Valid EOD: 0.0661
+2024-07-08 11:37:34 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [84/100], Loss: 0.0444, Valid Acc: 0.9017, Valid F1: 0.8716, Valid DP: 0.2816, Valid EOD: 0.0607
+2024-07-08 11:38:02 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [85/100], Loss: 0.0430, Valid Acc: 0.9042, Valid F1: 0.8728, Valid DP: 0.2902, Valid EOD: 0.0664
+2024-07-08 11:38:29 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [86/100], Loss: 0.0443, Valid Acc: 0.9049, Valid F1: 0.8733, Valid DP: 0.2774, Valid EOD: 0.0542
+2024-07-08 11:38:57 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [87/100], Loss: 0.0423, Valid Acc: 0.9042, Valid F1: 0.8747, Valid DP: 0.2756, Valid EOD: 0.0434
+2024-07-08 11:39:25 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [88/100], Loss: 0.0404, Valid Acc: 0.9036, Valid F1: 0.8733, Valid DP: 0.3061, Valid EOD: 0.0954
+2024-07-08 11:39:25 - fair_feat_distill/lfw/v2_target_smiling - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/v2_target_smiling/best_loss_state.pth.
+2024-07-08 11:39:54 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [89/100], Loss: 0.0423, Valid Acc: 0.9023, Valid F1: 0.8723, Valid DP: 0.2862, Valid EOD: 0.0533
+2024-07-08 11:40:22 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [90/100], Loss: 0.0423, Valid Acc: 0.9017, Valid F1: 0.8658, Valid DP: 0.2932, Valid EOD: 0.0754
+2024-07-08 11:40:50 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [91/100], Loss: 0.0438, Valid Acc: 0.9004, Valid F1: 0.8686, Valid DP: 0.2799, Valid EOD: 0.0564
+2024-07-08 11:41:19 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [92/100], Loss: 0.0455, Valid Acc: 0.8909, Valid F1: 0.8547, Valid DP: 0.3001, Valid EOD: 0.1044
+2024-07-08 11:41:48 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [93/100], Loss: 0.0482, Valid Acc: 0.8922, Valid F1: 0.8564, Valid DP: 0.2623, Valid EOD: 0.0421
+2024-07-08 11:42:17 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [94/100], Loss: 0.0445, Valid Acc: 0.8960, Valid F1: 0.8620, Valid DP: 0.2856, Valid EOD: 0.0743
+2024-07-08 11:42:46 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [95/100], Loss: 0.0462, Valid Acc: 0.8998, Valid F1: 0.8647, Valid DP: 0.2941, Valid EOD: 0.0995
+2024-07-08 11:43:15 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [96/100], Loss: 0.0426, Valid Acc: 0.9004, Valid F1: 0.8648, Valid DP: 0.2960, Valid EOD: 0.0998
+2024-07-08 11:43:45 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [97/100], Loss: 0.0430, Valid Acc: 0.8979, Valid F1: 0.8637, Valid DP: 0.2761, Valid EOD: 0.0573
+2024-07-08 11:44:15 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [98/100], Loss: 0.0415, Valid Acc: 0.8998, Valid F1: 0.8686, Valid DP: 0.2932, Valid EOD: 0.0783
+2024-07-08 11:44:45 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [99/100], Loss: 0.0432, Valid Acc: 0.8985, Valid F1: 0.8675, Valid DP: 0.2921, Valid EOD: 0.0806
+2024-07-08 11:45:15 - fair_feat_distill/lfw/v2_target_smiling - INFO - Epoch [100/100], Loss: 0.0416, Valid Acc: 0.8954, Valid F1: 0.8660, Valid DP: 0.2850, Valid EOD: 0.0650
+2024-07-08 11:45:15 - fair_feat_distill/lfw/v2_target_smiling - INFO - Saved model final to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/fair_feat_distill/lfw/v2_target_smiling/final_state.pth.
+2024-07-08 11:45:15 - fair_feat_distill/lfw/v2_target_smiling - INFO - Model and metrics saved.
+2024-07-08 11:45:15 - fair_feat_distill/lfw/v2_target_smiling - INFO - Training finished.

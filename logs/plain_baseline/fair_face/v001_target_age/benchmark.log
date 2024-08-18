@@ -1,0 +1,155 @@
+2024-05-28 09:11:18 - plain_baseline/fair_face/v001_target_age - INFO - Training started.
+2024-05-28 09:16:10 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [1/100], Loss: 1.2416, Valid Acc: 0.4614, Valid F1: 0.4514, Valid DP: 0.1985, Valid EOD: 0.2927
+2024-05-28 09:16:10 - plain_baseline/fair_face/v001_target_age - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/fair_face/v001_target_age/best_f1_state.pth.
+2024-05-28 09:16:10 - plain_baseline/fair_face/v001_target_age - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/fair_face/v001_target_age/best_eod_state.pth.
+2024-05-28 09:16:10 - plain_baseline/fair_face/v001_target_age - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/fair_face/v001_target_age/best_loss_state.pth.
+2024-05-28 09:20:26 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [2/100], Loss: 0.9726, Valid Acc: 0.5273, Valid F1: 0.4730, Valid DP: 0.2955, Valid EOD: 0.3336
+2024-05-28 09:20:26 - plain_baseline/fair_face/v001_target_age - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/fair_face/v001_target_age/best_f1_state.pth.
+2024-05-28 09:20:26 - plain_baseline/fair_face/v001_target_age - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/fair_face/v001_target_age/best_loss_state.pth.
+2024-05-28 09:21:56 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [3/100], Loss: 0.8753, Valid Acc: 0.5043, Valid F1: 0.4908, Valid DP: 0.1750, Valid EOD: 0.1920
+2024-05-28 09:21:56 - plain_baseline/fair_face/v001_target_age - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/fair_face/v001_target_age/best_f1_state.pth.
+2024-05-28 09:21:56 - plain_baseline/fair_face/v001_target_age - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/fair_face/v001_target_age/best_eod_state.pth.
+2024-05-28 09:21:57 - plain_baseline/fair_face/v001_target_age - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/fair_face/v001_target_age/best_loss_state.pth.
+2024-05-28 09:23:27 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [4/100], Loss: 0.8053, Valid Acc: 0.5653, Valid F1: 0.5813, Valid DP: 0.1775, Valid EOD: 0.2356
+2024-05-28 09:23:27 - plain_baseline/fair_face/v001_target_age - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/fair_face/v001_target_age/best_f1_state.pth.
+2024-05-28 09:23:27 - plain_baseline/fair_face/v001_target_age - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/fair_face/v001_target_age/best_loss_state.pth.
+2024-05-28 09:24:57 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [5/100], Loss: 0.7387, Valid Acc: 0.5963, Valid F1: 0.5963, Valid DP: 0.1558, Valid EOD: 0.2135
+2024-05-28 09:24:57 - plain_baseline/fair_face/v001_target_age - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/fair_face/v001_target_age/best_f1_state.pth.
+2024-05-28 09:24:57 - plain_baseline/fair_face/v001_target_age - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/fair_face/v001_target_age/best_loss_state.pth.
+2024-05-28 09:26:28 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [6/100], Loss: 0.6714, Valid Acc: 0.5439, Valid F1: 0.5370, Valid DP: 0.1777, Valid EOD: 0.1685
+2024-05-28 09:26:28 - plain_baseline/fair_face/v001_target_age - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/fair_face/v001_target_age/best_eod_state.pth.
+2024-05-28 09:26:28 - plain_baseline/fair_face/v001_target_age - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/fair_face/v001_target_age/best_loss_state.pth.
+2024-05-28 09:28:05 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [7/100], Loss: 0.5827, Valid Acc: 0.5520, Valid F1: 0.5550, Valid DP: 0.1826, Valid EOD: 0.1983
+2024-05-28 09:28:05 - plain_baseline/fair_face/v001_target_age - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/fair_face/v001_target_age/best_loss_state.pth.
+2024-05-28 09:29:38 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [8/100], Loss: 0.4944, Valid Acc: 0.6040, Valid F1: 0.5965, Valid DP: 0.1844, Valid EOD: 0.2070
+2024-05-28 09:29:38 - plain_baseline/fair_face/v001_target_age - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/fair_face/v001_target_age/best_f1_state.pth.
+2024-05-28 09:29:38 - plain_baseline/fair_face/v001_target_age - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/fair_face/v001_target_age/best_loss_state.pth.
+2024-05-28 09:31:09 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [9/100], Loss: 0.4045, Valid Acc: 0.5718, Valid F1: 0.5585, Valid DP: 0.1728, Valid EOD: 0.1790
+2024-05-28 09:31:09 - plain_baseline/fair_face/v001_target_age - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/fair_face/v001_target_age/best_loss_state.pth.
+2024-05-28 09:32:42 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [10/100], Loss: 0.3154, Valid Acc: 0.5839, Valid F1: 0.5721, Valid DP: 0.1496, Valid EOD: 0.1601
+2024-05-28 09:32:42 - plain_baseline/fair_face/v001_target_age - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/fair_face/v001_target_age/best_eod_state.pth.
+2024-05-28 09:32:42 - plain_baseline/fair_face/v001_target_age - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/fair_face/v001_target_age/best_loss_state.pth.
+2024-05-28 09:34:14 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [11/100], Loss: 0.2411, Valid Acc: 0.5831, Valid F1: 0.5847, Valid DP: 0.1450, Valid EOD: 0.2368
+2024-05-28 09:34:14 - plain_baseline/fair_face/v001_target_age - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/fair_face/v001_target_age/best_loss_state.pth.
+2024-05-28 09:35:47 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [12/100], Loss: 0.1917, Valid Acc: 0.5814, Valid F1: 0.5847, Valid DP: 0.1401, Valid EOD: 0.1895
+2024-05-28 09:35:48 - plain_baseline/fair_face/v001_target_age - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/fair_face/v001_target_age/best_loss_state.pth.
+2024-05-28 09:37:21 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [13/100], Loss: 0.1483, Valid Acc: 0.5845, Valid F1: 0.5852, Valid DP: 0.1360, Valid EOD: 0.1802
+2024-05-28 09:37:21 - plain_baseline/fair_face/v001_target_age - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/fair_face/v001_target_age/best_loss_state.pth.
+2024-05-28 09:38:55 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [14/100], Loss: 0.1265, Valid Acc: 0.5509, Valid F1: 0.5566, Valid DP: 0.1194, Valid EOD: 0.1450
+2024-05-28 09:38:55 - plain_baseline/fair_face/v001_target_age - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/fair_face/v001_target_age/best_eod_state.pth.
+2024-05-28 09:38:55 - plain_baseline/fair_face/v001_target_age - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/fair_face/v001_target_age/best_loss_state.pth.
+2024-05-28 09:40:29 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [15/100], Loss: 0.1031, Valid Acc: 0.5525, Valid F1: 0.5544, Valid DP: 0.1379, Valid EOD: 0.1931
+2024-05-28 09:40:29 - plain_baseline/fair_face/v001_target_age - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/fair_face/v001_target_age/best_loss_state.pth.
+2024-05-28 09:42:04 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [16/100], Loss: 0.0870, Valid Acc: 0.5896, Valid F1: 0.5883, Valid DP: 0.1580, Valid EOD: 0.1730
+2024-05-28 09:42:04 - plain_baseline/fair_face/v001_target_age - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/fair_face/v001_target_age/best_loss_state.pth.
+2024-05-28 09:43:39 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [17/100], Loss: 0.0735, Valid Acc: 0.5841, Valid F1: 0.5845, Valid DP: 0.1524, Valid EOD: 0.1753
+2024-05-28 09:43:39 - plain_baseline/fair_face/v001_target_age - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/fair_face/v001_target_age/best_loss_state.pth.
+2024-05-28 09:45:15 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [18/100], Loss: 0.0762, Valid Acc: 0.5605, Valid F1: 0.5533, Valid DP: 0.2176, Valid EOD: 0.1979
+2024-05-28 09:46:51 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [19/100], Loss: 0.0729, Valid Acc: 0.5161, Valid F1: 0.5199, Valid DP: 0.1692, Valid EOD: 0.1677
+2024-05-28 09:46:51 - plain_baseline/fair_face/v001_target_age - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/fair_face/v001_target_age/best_loss_state.pth.
+2024-05-28 09:48:28 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [20/100], Loss: 0.0645, Valid Acc: 0.5731, Valid F1: 0.5837, Valid DP: 0.1334, Valid EOD: 0.1703
+2024-05-28 09:48:28 - plain_baseline/fair_face/v001_target_age - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/fair_face/v001_target_age/best_loss_state.pth.
+2024-05-28 09:50:05 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [21/100], Loss: 0.0547, Valid Acc: 0.5908, Valid F1: 0.5866, Valid DP: 0.1538, Valid EOD: 0.1649
+2024-05-28 09:50:05 - plain_baseline/fair_face/v001_target_age - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/fair_face/v001_target_age/best_loss_state.pth.
+2024-05-28 09:51:43 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [22/100], Loss: 0.0561, Valid Acc: 0.5588, Valid F1: 0.5734, Valid DP: 0.1417, Valid EOD: 0.1673
+2024-05-28 09:53:20 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [23/100], Loss: 0.0582, Valid Acc: 0.5929, Valid F1: 0.5855, Valid DP: 0.1648, Valid EOD: 0.1826
+2024-05-28 09:54:59 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [24/100], Loss: 0.0513, Valid Acc: 0.5690, Valid F1: 0.5694, Valid DP: 0.1496, Valid EOD: 0.1411
+2024-05-28 09:54:59 - plain_baseline/fair_face/v001_target_age - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/fair_face/v001_target_age/best_eod_state.pth.
+2024-05-28 09:54:59 - plain_baseline/fair_face/v001_target_age - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/fair_face/v001_target_age/best_loss_state.pth.
+2024-05-28 09:56:38 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [25/100], Loss: 0.0462, Valid Acc: 0.5702, Valid F1: 0.5723, Valid DP: 0.1458, Valid EOD: 0.1534
+2024-05-28 09:56:38 - plain_baseline/fair_face/v001_target_age - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/fair_face/v001_target_age/best_loss_state.pth.
+2024-05-28 09:58:18 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [26/100], Loss: 0.0466, Valid Acc: 0.5499, Valid F1: 0.5474, Valid DP: 0.1527, Valid EOD: 0.1513
+2024-05-28 09:59:57 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [27/100], Loss: 0.0481, Valid Acc: 0.5131, Valid F1: 0.5118, Valid DP: 0.1624, Valid EOD: 0.1746
+2024-05-28 10:01:37 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [28/100], Loss: 0.0457, Valid Acc: 0.5836, Valid F1: 0.5824, Valid DP: 0.1502, Valid EOD: 0.2631
+2024-05-28 10:01:37 - plain_baseline/fair_face/v001_target_age - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/fair_face/v001_target_age/best_loss_state.pth.
+2024-05-28 10:03:17 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [29/100], Loss: 0.0399, Valid Acc: 0.5803, Valid F1: 0.5858, Valid DP: 0.1397, Valid EOD: 0.1872
+2024-05-28 10:03:18 - plain_baseline/fair_face/v001_target_age - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/fair_face/v001_target_age/best_loss_state.pth.
+2024-05-28 10:04:58 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [30/100], Loss: 0.0426, Valid Acc: 0.5818, Valid F1: 0.5723, Valid DP: 0.1628, Valid EOD: 0.2215
+2024-05-28 10:06:39 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [31/100], Loss: 0.0440, Valid Acc: 0.5857, Valid F1: 0.5891, Valid DP: 0.1577, Valid EOD: 0.1730
+2024-05-28 10:08:21 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [32/100], Loss: 0.0371, Valid Acc: 0.5879, Valid F1: 0.5934, Valid DP: 0.1301, Valid EOD: 0.1383
+2024-05-28 10:08:21 - plain_baseline/fair_face/v001_target_age - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/fair_face/v001_target_age/best_eod_state.pth.
+2024-05-28 10:08:21 - plain_baseline/fair_face/v001_target_age - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/fair_face/v001_target_age/best_loss_state.pth.
+2024-05-28 10:10:03 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [33/100], Loss: 0.0369, Valid Acc: 0.5454, Valid F1: 0.5401, Valid DP: 0.1412, Valid EOD: 0.2171
+2024-05-28 10:10:04 - plain_baseline/fair_face/v001_target_age - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/fair_face/v001_target_age/best_loss_state.pth.
+2024-05-28 10:11:46 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [34/100], Loss: 0.0347, Valid Acc: 0.5782, Valid F1: 0.5773, Valid DP: 0.1556, Valid EOD: 0.1606
+2024-05-28 10:11:46 - plain_baseline/fair_face/v001_target_age - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/fair_face/v001_target_age/best_loss_state.pth.
+2024-05-28 10:13:29 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [35/100], Loss: 0.0353, Valid Acc: 0.5698, Valid F1: 0.5700, Valid DP: 0.1406, Valid EOD: 0.1767
+2024-05-28 10:15:13 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [36/100], Loss: 0.0395, Valid Acc: 0.5771, Valid F1: 0.5740, Valid DP: 0.1655, Valid EOD: 0.1673
+2024-05-28 10:16:57 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [37/100], Loss: 0.0364, Valid Acc: 0.5858, Valid F1: 0.5812, Valid DP: 0.1634, Valid EOD: 0.1610
+2024-05-28 10:18:41 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [38/100], Loss: 0.0374, Valid Acc: 0.5669, Valid F1: 0.5725, Valid DP: 0.1538, Valid EOD: 0.1722
+2024-05-28 10:20:26 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [39/100], Loss: 0.0332, Valid Acc: 0.5808, Valid F1: 0.5874, Valid DP: 0.1588, Valid EOD: 0.2104
+2024-05-28 10:20:26 - plain_baseline/fair_face/v001_target_age - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/fair_face/v001_target_age/best_loss_state.pth.
+2024-05-28 10:22:10 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [40/100], Loss: 0.0360, Valid Acc: 0.5814, Valid F1: 0.5648, Valid DP: 0.1514, Valid EOD: 0.1558
+2024-05-28 10:23:56 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [41/100], Loss: 0.0375, Valid Acc: 0.5900, Valid F1: 0.5829, Valid DP: 0.1534, Valid EOD: 0.1433
+2024-05-28 10:25:41 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [42/100], Loss: 0.0329, Valid Acc: 0.5916, Valid F1: 0.5957, Valid DP: 0.1582, Valid EOD: 0.2036
+2024-05-28 10:25:41 - plain_baseline/fair_face/v001_target_age - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/fair_face/v001_target_age/best_loss_state.pth.
+2024-05-28 10:27:29 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [43/100], Loss: 0.0258, Valid Acc: 0.5938, Valid F1: 0.5883, Valid DP: 0.1332, Valid EOD: 0.1397
+2024-05-28 10:27:29 - plain_baseline/fair_face/v001_target_age - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/fair_face/v001_target_age/best_loss_state.pth.
+2024-05-28 10:29:16 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [44/100], Loss: 0.0336, Valid Acc: 0.5386, Valid F1: 0.5337, Valid DP: 0.1675, Valid EOD: 0.1529
+2024-05-28 10:31:03 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [45/100], Loss: 0.0306, Valid Acc: 0.5908, Valid F1: 0.5947, Valid DP: 0.1304, Valid EOD: 0.1739
+2024-05-28 10:32:51 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [46/100], Loss: 0.0311, Valid Acc: 0.5710, Valid F1: 0.5600, Valid DP: 0.1958, Valid EOD: 0.2028
+2024-05-28 10:34:39 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [47/100], Loss: 0.0276, Valid Acc: 0.5734, Valid F1: 0.5698, Valid DP: 0.1587, Valid EOD: 0.2014
+2024-05-28 10:36:28 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [48/100], Loss: 0.0252, Valid Acc: 0.5867, Valid F1: 0.5823, Valid DP: 0.1399, Valid EOD: 0.1478
+2024-05-28 10:36:28 - plain_baseline/fair_face/v001_target_age - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/fair_face/v001_target_age/best_loss_state.pth.
+2024-05-28 10:38:16 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [49/100], Loss: 0.0305, Valid Acc: 0.5841, Valid F1: 0.5782, Valid DP: 0.1384, Valid EOD: 0.1818
+2024-05-28 10:40:05 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [50/100], Loss: 0.0344, Valid Acc: 0.5754, Valid F1: 0.5789, Valid DP: 0.1493, Valid EOD: 0.2284
+2024-05-28 10:41:55 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [51/100], Loss: 0.0296, Valid Acc: 0.5710, Valid F1: 0.5679, Valid DP: 0.1497, Valid EOD: 0.1608
+2024-05-28 10:43:45 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [52/100], Loss: 0.0193, Valid Acc: 0.5916, Valid F1: 0.5944, Valid DP: 0.1500, Valid EOD: 0.1974
+2024-05-28 10:43:45 - plain_baseline/fair_face/v001_target_age - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/fair_face/v001_target_age/best_loss_state.pth.
+2024-05-28 10:45:36 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [53/100], Loss: 0.0204, Valid Acc: 0.5840, Valid F1: 0.5779, Valid DP: 0.1570, Valid EOD: 0.1787
+2024-05-28 10:47:27 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [54/100], Loss: 0.0312, Valid Acc: 0.5593, Valid F1: 0.5605, Valid DP: 0.1540, Valid EOD: 0.1863
+2024-05-28 10:49:18 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [55/100], Loss: 0.0319, Valid Acc: 0.5619, Valid F1: 0.5567, Valid DP: 0.1803, Valid EOD: 0.1612
+2024-05-28 10:51:10 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [56/100], Loss: 0.0249, Valid Acc: 0.5629, Valid F1: 0.5576, Valid DP: 0.1668, Valid EOD: 0.1531
+2024-05-28 10:53:02 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [57/100], Loss: 0.0221, Valid Acc: 0.5756, Valid F1: 0.5781, Valid DP: 0.1380, Valid EOD: 0.1464
+2024-05-28 10:54:55 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [58/100], Loss: 0.0208, Valid Acc: 0.5836, Valid F1: 0.5854, Valid DP: 0.1491, Valid EOD: 0.1852
+2024-05-28 10:56:48 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [59/100], Loss: 0.0220, Valid Acc: 0.5825, Valid F1: 0.5812, Valid DP: 0.1415, Valid EOD: 0.1716
+2024-05-28 10:58:41 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [60/100], Loss: 0.0218, Valid Acc: 0.5847, Valid F1: 0.5854, Valid DP: 0.1509, Valid EOD: 0.1768
+2024-05-28 11:00:35 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [61/100], Loss: 0.0277, Valid Acc: 0.5291, Valid F1: 0.5394, Valid DP: 0.1573, Valid EOD: 0.1714
+2024-05-28 11:02:30 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [62/100], Loss: 0.0228, Valid Acc: 0.5884, Valid F1: 0.5849, Valid DP: 0.1553, Valid EOD: 0.1713
+2024-05-28 11:04:24 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [63/100], Loss: 0.0240, Valid Acc: 0.5675, Valid F1: 0.5670, Valid DP: 0.1557, Valid EOD: 0.1991
+2024-05-28 11:06:19 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [64/100], Loss: 0.0241, Valid Acc: 0.5714, Valid F1: 0.5706, Valid DP: 0.1424, Valid EOD: 0.1387
+2024-05-28 11:08:14 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [65/100], Loss: 0.0180, Valid Acc: 0.5812, Valid F1: 0.5801, Valid DP: 0.1613, Valid EOD: 0.1890
+2024-05-28 11:08:14 - plain_baseline/fair_face/v001_target_age - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/fair_face/v001_target_age/best_loss_state.pth.
+2024-05-28 11:10:10 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [66/100], Loss: 0.0224, Valid Acc: 0.5668, Valid F1: 0.5642, Valid DP: 0.1579, Valid EOD: 0.1809
+2024-05-28 11:12:07 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [67/100], Loss: 0.0232, Valid Acc: 0.5646, Valid F1: 0.5587, Valid DP: 0.1746, Valid EOD: 0.1988
+2024-05-28 11:14:03 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [68/100], Loss: 0.0214, Valid Acc: 0.5736, Valid F1: 0.5754, Valid DP: 0.1415, Valid EOD: 0.1693
+2024-05-28 11:16:00 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [69/100], Loss: 0.0233, Valid Acc: 0.5840, Valid F1: 0.5849, Valid DP: 0.1746, Valid EOD: 0.1948
+2024-05-28 11:17:58 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [70/100], Loss: 0.0198, Valid Acc: 0.5892, Valid F1: 0.5875, Valid DP: 0.1753, Valid EOD: 0.2122
+2024-05-28 11:19:56 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [71/100], Loss: 0.0203, Valid Acc: 0.5818, Valid F1: 0.5836, Valid DP: 0.1434, Valid EOD: 0.1552
+2024-05-28 11:21:54 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [72/100], Loss: 0.0212, Valid Acc: 0.5754, Valid F1: 0.5748, Valid DP: 0.1479, Valid EOD: 0.1439
+2024-05-28 11:23:53 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [73/100], Loss: 0.0177, Valid Acc: 0.5891, Valid F1: 0.5813, Valid DP: 0.1399, Valid EOD: 0.1365
+2024-05-28 11:23:54 - plain_baseline/fair_face/v001_target_age - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/fair_face/v001_target_age/best_eod_state.pth.
+2024-05-28 11:23:54 - plain_baseline/fair_face/v001_target_age - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/fair_face/v001_target_age/best_loss_state.pth.
+2024-05-28 11:25:53 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [74/100], Loss: 0.0148, Valid Acc: 0.5800, Valid F1: 0.5879, Valid DP: 0.1322, Valid EOD: 0.1543
+2024-05-28 11:25:53 - plain_baseline/fair_face/v001_target_age - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/fair_face/v001_target_age/best_loss_state.pth.
+2024-05-28 11:27:54 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [75/100], Loss: 0.0172, Valid Acc: 0.5795, Valid F1: 0.5749, Valid DP: 0.1563, Valid EOD: 0.1538
+2024-05-28 11:29:54 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [76/100], Loss: 0.0200, Valid Acc: 0.5701, Valid F1: 0.5638, Valid DP: 0.1789, Valid EOD: 0.1828
+2024-05-28 11:31:55 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [77/100], Loss: 0.0217, Valid Acc: 0.5890, Valid F1: 0.5772, Valid DP: 0.1719, Valid EOD: 0.1497
+2024-05-28 11:33:56 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [78/100], Loss: 0.0193, Valid Acc: 0.5922, Valid F1: 0.5906, Valid DP: 0.1564, Valid EOD: 0.2091
+2024-05-28 11:35:57 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [79/100], Loss: 0.0170, Valid Acc: 0.5841, Valid F1: 0.5813, Valid DP: 0.1697, Valid EOD: 0.2184
+2024-05-28 11:37:59 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [80/100], Loss: 0.0174, Valid Acc: 0.5878, Valid F1: 0.5839, Valid DP: 0.1553, Valid EOD: 0.1636
+2024-05-28 11:40:01 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [81/100], Loss: 0.0132, Valid Acc: 0.5786, Valid F1: 0.5696, Valid DP: 0.1583, Valid EOD: 0.1589
+2024-05-28 11:40:01 - plain_baseline/fair_face/v001_target_age - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/fair_face/v001_target_age/best_loss_state.pth.
+2024-05-28 11:42:03 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [82/100], Loss: 0.0156, Valid Acc: 0.5802, Valid F1: 0.5819, Valid DP: 0.1647, Valid EOD: 0.1796
+2024-05-28 11:44:04 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [83/100], Loss: 0.0211, Valid Acc: 0.5847, Valid F1: 0.5878, Valid DP: 0.1537, Valid EOD: 0.1513
+2024-05-28 11:46:25 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [84/100], Loss: 0.0184, Valid Acc: 0.5812, Valid F1: 0.5842, Valid DP: 0.1448, Valid EOD: 0.1530
+2024-05-28 11:51:13 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [85/100], Loss: 0.0134, Valid Acc: 0.5861, Valid F1: 0.5828, Valid DP: 0.1473, Valid EOD: 0.1601
+2024-05-28 11:53:18 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [86/100], Loss: 0.0195, Valid Acc: 0.5743, Valid F1: 0.5681, Valid DP: 0.1475, Valid EOD: 0.1690
+2024-05-28 11:55:22 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [87/100], Loss: 0.0160, Valid Acc: 0.5769, Valid F1: 0.5791, Valid DP: 0.1767, Valid EOD: 0.1436
+2024-05-28 11:57:27 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [88/100], Loss: 0.0161, Valid Acc: 0.5804, Valid F1: 0.5831, Valid DP: 0.1426, Valid EOD: 0.1981
+2024-05-28 11:59:32 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [89/100], Loss: 0.0163, Valid Acc: 0.5626, Valid F1: 0.5547, Valid DP: 0.1472, Valid EOD: 0.1662
+2024-05-28 12:01:37 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [90/100], Loss: 0.0141, Valid Acc: 0.5811, Valid F1: 0.5806, Valid DP: 0.1627, Valid EOD: 0.1836
+2024-05-28 12:03:43 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [91/100], Loss: 0.0148, Valid Acc: 0.5884, Valid F1: 0.5849, Valid DP: 0.1885, Valid EOD: 0.2163
+2024-05-28 12:05:49 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [92/100], Loss: 0.0137, Valid Acc: 0.5614, Valid F1: 0.5540, Valid DP: 0.1638, Valid EOD: 0.1624
+2024-05-28 12:07:56 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [93/100], Loss: 0.0147, Valid Acc: 0.5779, Valid F1: 0.5732, Valid DP: 0.1647, Valid EOD: 0.1793
+2024-05-28 12:10:03 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [94/100], Loss: 0.0178, Valid Acc: 0.5842, Valid F1: 0.5822, Valid DP: 0.1445, Valid EOD: 0.2123
+2024-05-28 12:12:11 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [95/100], Loss: 0.0157, Valid Acc: 0.5834, Valid F1: 0.5779, Valid DP: 0.1489, Valid EOD: 0.1657
+2024-05-28 12:14:18 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [96/100], Loss: 0.0123, Valid Acc: 0.5881, Valid F1: 0.5780, Valid DP: 0.1618, Valid EOD: 0.2250
+2024-05-28 12:14:18 - plain_baseline/fair_face/v001_target_age - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/fair_face/v001_target_age/best_loss_state.pth.
+2024-05-28 12:16:27 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [97/100], Loss: 0.0148, Valid Acc: 0.5905, Valid F1: 0.5817, Valid DP: 0.1527, Valid EOD: 0.1673
+2024-05-28 12:18:35 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [98/100], Loss: 0.0141, Valid Acc: 0.5876, Valid F1: 0.5704, Valid DP: 0.1426, Valid EOD: 0.1736
+2024-05-28 12:20:44 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [99/100], Loss: 0.0142, Valid Acc: 0.5848, Valid F1: 0.5784, Valid DP: 0.1833, Valid EOD: 0.1590
+2024-05-28 12:22:54 - plain_baseline/fair_face/v001_target_age - INFO - Epoch [100/100], Loss: 0.0126, Valid Acc: 0.5795, Valid F1: 0.5760, Valid DP: 0.1721, Valid EOD: 0.1708
+2024-05-28 12:22:54 - plain_baseline/fair_face/v001_target_age - INFO - Saved model final to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/plain_baseline/fair_face/v001_target_age/final_state.pth.
+2024-05-28 12:22:54 - plain_baseline/fair_face/v001_target_age - INFO - Model and metrics saved.
+2024-05-28 12:22:54 - plain_baseline/fair_face/v001_target_age - INFO - Training finished.

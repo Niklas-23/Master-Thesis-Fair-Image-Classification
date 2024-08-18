@@ -1,0 +1,86 @@
+2024-07-08 23:01:14 - shared_adv_encoder/celeba/v001_final - INFO - Start shared adversarial encoder benchmark.
+2024-07-08 23:01:14 - shared_adv_encoder/celeba/v001_final - INFO - Training started.
+2024-07-08 23:07:44 - shared_adv_encoder/celeba/v001_final - INFO - Epoch [1/50], Loss: -0.4842, Valid Acc: 0.9321, Valid F1: 0.9287, Valid DP: 0.1157, Valid EOD: 0.0227
+2024-07-08 23:07:44 - shared_adv_encoder/celeba/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/celeba/v001_final/best_f1_state.pth.
+2024-07-08 23:07:44 - shared_adv_encoder/celeba/v001_final - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/celeba/v001_final/best_eod_state.pth.
+2024-07-08 23:07:44 - shared_adv_encoder/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/celeba/v001_final/best_loss_state.pth.
+2024-07-08 23:14:19 - shared_adv_encoder/celeba/v001_final - INFO - Epoch [2/50], Loss: -0.5101, Valid Acc: 0.9304, Valid F1: 0.9289, Valid DP: 0.1448, Valid EOD: 0.0391
+2024-07-08 23:14:19 - shared_adv_encoder/celeba/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/celeba/v001_final/best_f1_state.pth.
+2024-07-08 23:14:19 - shared_adv_encoder/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/celeba/v001_final/best_loss_state.pth.
+2024-07-08 23:20:57 - shared_adv_encoder/celeba/v001_final - INFO - Epoch [3/50], Loss: -0.5183, Valid Acc: 0.9278, Valid F1: 0.9266, Valid DP: 0.1123, Valid EOD: 0.0148
+2024-07-08 23:20:58 - shared_adv_encoder/celeba/v001_final - INFO - Saved model best_eod to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/celeba/v001_final/best_eod_state.pth.
+2024-07-08 23:20:58 - shared_adv_encoder/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/celeba/v001_final/best_loss_state.pth.
+2024-07-08 23:27:39 - shared_adv_encoder/celeba/v001_final - INFO - Epoch [4/50], Loss: -0.5282, Valid Acc: 0.9324, Valid F1: 0.9290, Valid DP: 0.1232, Valid EOD: 0.0287
+2024-07-08 23:27:39 - shared_adv_encoder/celeba/v001_final - INFO - Saved model best_f1 to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/celeba/v001_final/best_f1_state.pth.
+2024-07-08 23:27:39 - shared_adv_encoder/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/celeba/v001_final/best_loss_state.pth.
+2024-07-08 23:34:27 - shared_adv_encoder/celeba/v001_final - INFO - Epoch [5/50], Loss: -0.5416, Valid Acc: 0.9298, Valid F1: 0.9254, Valid DP: 0.1335, Valid EOD: 0.0436
+2024-07-08 23:34:27 - shared_adv_encoder/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/celeba/v001_final/best_loss_state.pth.
+2024-07-08 23:41:17 - shared_adv_encoder/celeba/v001_final - INFO - Epoch [6/50], Loss: -0.5491, Valid Acc: 0.9284, Valid F1: 0.9266, Valid DP: 0.1336, Valid EOD: 0.0306
+2024-07-08 23:41:17 - shared_adv_encoder/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/celeba/v001_final/best_loss_state.pth.
+2024-07-08 23:48:10 - shared_adv_encoder/celeba/v001_final - INFO - Epoch [7/50], Loss: -0.5727, Valid Acc: 0.9208, Valid F1: 0.9139, Valid DP: 0.1213, Valid EOD: 0.0304
+2024-07-08 23:48:10 - shared_adv_encoder/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/celeba/v001_final/best_loss_state.pth.
+2024-07-08 23:57:37 - shared_adv_encoder/celeba/v001_final - INFO - Epoch [8/50], Loss: -0.2570, Valid Acc: 0.6702, Valid F1: 0.5784, Valid DP: 0.1238, Valid EOD: 0.1227
+2024-07-09 00:10:56 - shared_adv_encoder/celeba/v001_final - INFO - Epoch [9/50], Loss: 0.0800, Valid Acc: 0.9029, Valid F1: 0.8986, Valid DP: 0.1317, Valid EOD: 0.0532
+2024-07-09 00:17:59 - shared_adv_encoder/celeba/v001_final - INFO - Epoch [10/50], Loss: 0.2046, Valid Acc: 0.8856, Valid F1: 0.8827, Valid DP: 0.1392, Valid EOD: 0.0674
+2024-07-09 00:25:06 - shared_adv_encoder/celeba/v001_final - INFO - Epoch [11/50], Loss: -0.4244, Valid Acc: 0.9033, Valid F1: 0.9015, Valid DP: 0.1389, Valid EOD: 0.0526
+2024-07-09 00:32:15 - shared_adv_encoder/celeba/v001_final - INFO - Epoch [12/50], Loss: -0.4500, Valid Acc: 0.9093, Valid F1: 0.9073, Valid DP: 0.1197, Valid EOD: 0.0307
+2024-07-09 00:39:28 - shared_adv_encoder/celeba/v001_final - INFO - Epoch [13/50], Loss: -0.4662, Valid Acc: 0.9167, Valid F1: 0.9119, Valid DP: 0.1254, Valid EOD: 0.0405
+2024-07-09 00:46:43 - shared_adv_encoder/celeba/v001_final - INFO - Epoch [14/50], Loss: -0.4783, Valid Acc: 0.9190, Valid F1: 0.9146, Valid DP: 0.1337, Valid EOD: 0.0458
+2024-07-09 00:54:03 - shared_adv_encoder/celeba/v001_final - INFO - Epoch [15/50], Loss: -0.4900, Valid Acc: 0.9185, Valid F1: 0.9134, Valid DP: 0.1290, Valid EOD: 0.0433
+2024-07-09 01:01:24 - shared_adv_encoder/celeba/v001_final - INFO - Epoch [16/50], Loss: -0.4975, Valid Acc: 0.9205, Valid F1: 0.9176, Valid DP: 0.1356, Valid EOD: 0.0423
+2024-07-09 01:08:51 - shared_adv_encoder/celeba/v001_final - INFO - Epoch [17/50], Loss: -0.5047, Valid Acc: 0.9192, Valid F1: 0.9142, Valid DP: 0.1358, Valid EOD: 0.0525
+2024-07-09 01:16:19 - shared_adv_encoder/celeba/v001_final - INFO - Epoch [18/50], Loss: -0.5120, Valid Acc: 0.9190, Valid F1: 0.9147, Valid DP: 0.1361, Valid EOD: 0.0478
+2024-07-09 01:23:52 - shared_adv_encoder/celeba/v001_final - INFO - Epoch [19/50], Loss: -0.5213, Valid Acc: 0.9187, Valid F1: 0.9152, Valid DP: 0.1349, Valid EOD: 0.0429
+2024-07-09 01:31:26 - shared_adv_encoder/celeba/v001_final - INFO - Epoch [20/50], Loss: -0.5293, Valid Acc: 0.9186, Valid F1: 0.9143, Valid DP: 0.1317, Valid EOD: 0.0462
+2024-07-09 01:39:05 - shared_adv_encoder/celeba/v001_final - INFO - Epoch [21/50], Loss: -0.5389, Valid Acc: 0.9163, Valid F1: 0.9122, Valid DP: 0.1322, Valid EOD: 0.0488
+2024-07-09 01:46:48 - shared_adv_encoder/celeba/v001_final - INFO - Epoch [22/50], Loss: -0.5506, Valid Acc: 0.9140, Valid F1: 0.9107, Valid DP: 0.1371, Valid EOD: 0.0557
+2024-07-09 01:54:34 - shared_adv_encoder/celeba/v001_final - INFO - Epoch [23/50], Loss: -0.5630, Valid Acc: 0.9112, Valid F1: 0.9063, Valid DP: 0.1312, Valid EOD: 0.0506
+2024-07-09 02:02:23 - shared_adv_encoder/celeba/v001_final - INFO - Epoch [24/50], Loss: -0.5746, Valid Acc: 0.9113, Valid F1: 0.9080, Valid DP: 0.1488, Valid EOD: 0.0701
+2024-07-09 02:02:23 - shared_adv_encoder/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/celeba/v001_final/best_loss_state.pth.
+2024-07-09 02:10:15 - shared_adv_encoder/celeba/v001_final - INFO - Epoch [25/50], Loss: -0.5844, Valid Acc: 0.9112, Valid F1: 0.9062, Valid DP: 0.1325, Valid EOD: 0.0568
+2024-07-09 02:10:15 - shared_adv_encoder/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/celeba/v001_final/best_loss_state.pth.
+2024-07-09 02:18:10 - shared_adv_encoder/celeba/v001_final - INFO - Epoch [26/50], Loss: -0.5960, Valid Acc: 0.9115, Valid F1: 0.9070, Valid DP: 0.1345, Valid EOD: 0.0589
+2024-07-09 02:18:11 - shared_adv_encoder/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/celeba/v001_final/best_loss_state.pth.
+2024-07-09 02:26:11 - shared_adv_encoder/celeba/v001_final - INFO - Epoch [27/50], Loss: -0.6030, Valid Acc: 0.9104, Valid F1: 0.9046, Valid DP: 0.1294, Valid EOD: 0.0487
+2024-07-09 02:26:11 - shared_adv_encoder/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/celeba/v001_final/best_loss_state.pth.
+2024-07-09 02:34:13 - shared_adv_encoder/celeba/v001_final - INFO - Epoch [28/50], Loss: -0.6099, Valid Acc: 0.9043, Valid F1: 0.9026, Valid DP: 0.1270, Valid EOD: 0.0440
+2024-07-09 02:34:13 - shared_adv_encoder/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/celeba/v001_final/best_loss_state.pth.
+2024-07-09 02:42:20 - shared_adv_encoder/celeba/v001_final - INFO - Epoch [29/50], Loss: -0.6165, Valid Acc: 0.9086, Valid F1: 0.9024, Valid DP: 0.1276, Valid EOD: 0.0523
+2024-07-09 02:42:20 - shared_adv_encoder/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/celeba/v001_final/best_loss_state.pth.
+2024-07-09 02:50:29 - shared_adv_encoder/celeba/v001_final - INFO - Epoch [30/50], Loss: -0.6233, Valid Acc: 0.9125, Valid F1: 0.9083, Valid DP: 0.1264, Valid EOD: 0.0434
+2024-07-09 02:50:29 - shared_adv_encoder/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/celeba/v001_final/best_loss_state.pth.
+2024-07-09 02:58:41 - shared_adv_encoder/celeba/v001_final - INFO - Epoch [31/50], Loss: -0.6258, Valid Acc: 0.9103, Valid F1: 0.9065, Valid DP: 0.1311, Valid EOD: 0.0488
+2024-07-09 02:58:42 - shared_adv_encoder/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/celeba/v001_final/best_loss_state.pth.
+2024-07-09 03:06:59 - shared_adv_encoder/celeba/v001_final - INFO - Epoch [32/50], Loss: -0.6296, Valid Acc: 0.9144, Valid F1: 0.9098, Valid DP: 0.1277, Valid EOD: 0.0445
+2024-07-09 03:06:59 - shared_adv_encoder/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/celeba/v001_final/best_loss_state.pth.
+2024-07-09 03:15:17 - shared_adv_encoder/celeba/v001_final - INFO - Epoch [33/50], Loss: -0.6325, Valid Acc: 0.9095, Valid F1: 0.9046, Valid DP: 0.1287, Valid EOD: 0.0469
+2024-07-09 03:15:17 - shared_adv_encoder/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/celeba/v001_final/best_loss_state.pth.
+2024-07-09 03:23:35 - shared_adv_encoder/celeba/v001_final - INFO - Epoch [34/50], Loss: -0.6367, Valid Acc: 0.9101, Valid F1: 0.9055, Valid DP: 0.1134, Valid EOD: 0.0276
+2024-07-09 03:23:36 - shared_adv_encoder/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/celeba/v001_final/best_loss_state.pth.
+2024-07-09 03:31:58 - shared_adv_encoder/celeba/v001_final - INFO - Epoch [35/50], Loss: -0.6395, Valid Acc: 0.9122, Valid F1: 0.9083, Valid DP: 0.1295, Valid EOD: 0.0439
+2024-07-09 03:31:58 - shared_adv_encoder/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/celeba/v001_final/best_loss_state.pth.
+2024-07-09 03:40:23 - shared_adv_encoder/celeba/v001_final - INFO - Epoch [36/50], Loss: -0.6405, Valid Acc: 0.9128, Valid F1: 0.9081, Valid DP: 0.1342, Valid EOD: 0.0533
+2024-07-09 03:40:23 - shared_adv_encoder/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/celeba/v001_final/best_loss_state.pth.
+2024-07-09 03:48:53 - shared_adv_encoder/celeba/v001_final - INFO - Epoch [37/50], Loss: -0.6420, Valid Acc: 0.9107, Valid F1: 0.9068, Valid DP: 0.1400, Valid EOD: 0.0578
+2024-07-09 03:48:53 - shared_adv_encoder/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/celeba/v001_final/best_loss_state.pth.
+2024-07-09 03:57:26 - shared_adv_encoder/celeba/v001_final - INFO - Epoch [38/50], Loss: -0.6433, Valid Acc: 0.9107, Valid F1: 0.9053, Valid DP: 0.1215, Valid EOD: 0.0390
+2024-07-09 03:57:26 - shared_adv_encoder/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/celeba/v001_final/best_loss_state.pth.
+2024-07-09 04:06:02 - shared_adv_encoder/celeba/v001_final - INFO - Epoch [39/50], Loss: -0.6450, Valid Acc: 0.9065, Valid F1: 0.9041, Valid DP: 0.1353, Valid EOD: 0.0476
+2024-07-09 04:06:02 - shared_adv_encoder/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/celeba/v001_final/best_loss_state.pth.
+2024-07-09 04:14:41 - shared_adv_encoder/celeba/v001_final - INFO - Epoch [40/50], Loss: -0.6455, Valid Acc: 0.9111, Valid F1: 0.9073, Valid DP: 0.1310, Valid EOD: 0.0456
+2024-07-09 04:14:41 - shared_adv_encoder/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/celeba/v001_final/best_loss_state.pth.
+2024-07-09 04:23:27 - shared_adv_encoder/celeba/v001_final - INFO - Epoch [41/50], Loss: -0.6469, Valid Acc: 0.9031, Valid F1: 0.9000, Valid DP: 0.1498, Valid EOD: 0.0609
+2024-07-09 04:23:28 - shared_adv_encoder/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/celeba/v001_final/best_loss_state.pth.
+2024-07-09 04:32:12 - shared_adv_encoder/celeba/v001_final - INFO - Epoch [42/50], Loss: -0.6756, Valid Acc: 0.9039, Valid F1: 0.8976, Valid DP: 0.1139, Valid EOD: 0.0332
+2024-07-09 04:32:12 - shared_adv_encoder/celeba/v001_final - INFO - Saved model best_loss to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/celeba/v001_final/best_loss_state.pth.
+2024-07-09 04:41:03 - shared_adv_encoder/celeba/v001_final - INFO - Epoch [43/50], Loss: -0.3814, Valid Acc: 0.9067, Valid F1: 0.9013, Valid DP: 0.1427, Valid EOD: 0.0620
+2024-07-09 04:49:56 - shared_adv_encoder/celeba/v001_final - INFO - Epoch [44/50], Loss: -0.4654, Valid Acc: 0.9192, Valid F1: 0.9155, Valid DP: 0.1330, Valid EOD: 0.0383
+2024-07-09 04:58:53 - shared_adv_encoder/celeba/v001_final - INFO - Epoch [45/50], Loss: -0.4840, Valid Acc: 0.9211, Valid F1: 0.9183, Valid DP: 0.1143, Valid EOD: 0.0151
+2024-07-09 05:07:51 - shared_adv_encoder/celeba/v001_final - INFO - Epoch [46/50], Loss: -0.4989, Valid Acc: 0.9244, Valid F1: 0.9204, Valid DP: 0.1257, Valid EOD: 0.0335
+2024-07-09 05:16:54 - shared_adv_encoder/celeba/v001_final - INFO - Epoch [47/50], Loss: -0.5137, Valid Acc: 0.9237, Valid F1: 0.9197, Valid DP: 0.1272, Valid EOD: 0.0315
+2024-07-09 05:26:00 - shared_adv_encoder/celeba/v001_final - INFO - Epoch [48/50], Loss: -0.5237, Valid Acc: 0.9196, Valid F1: 0.9178, Valid DP: 0.1317, Valid EOD: 0.0342
+2024-07-09 05:35:08 - shared_adv_encoder/celeba/v001_final - INFO - Epoch [49/50], Loss: -0.5373, Valid Acc: 0.9204, Valid F1: 0.9169, Valid DP: 0.1184, Valid EOD: 0.0246
+2024-07-09 05:44:22 - shared_adv_encoder/celeba/v001_final - INFO - Epoch [50/50], Loss: -0.5568, Valid Acc: 0.9161, Valid F1: 0.9117, Valid DP: 0.1222, Valid EOD: 0.0331
+2024-07-09 05:44:22 - shared_adv_encoder/celeba/v001_final - INFO - Saved model final to C:\Users\Niklas\Documents\GitHub\master-thesis/model_weights/shared_adv_encoder/celeba/v001_final/final_state.pth.
+2024-07-09 05:44:22 - shared_adv_encoder/celeba/v001_final - INFO - Model and metrics saved.
+2024-07-09 05:44:22 - shared_adv_encoder/celeba/v001_final - INFO - Training finished.
