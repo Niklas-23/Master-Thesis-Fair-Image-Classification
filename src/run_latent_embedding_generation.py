@@ -1,8 +1,5 @@
 import argparse
 import os
-from datetime import datetime
-
-import pandas as pd
 import numpy as np
 
 from src.benchmark_models.ResNet18 import ResNet18

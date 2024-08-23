@@ -1,12 +1,9 @@
-
-import pandas as pd
 import matplotlib.pyplot as plt
 
 def plot_attribute_protected_distribution(dataframe, attribute_column, gender_column):
     label_distribution = dataframe.groupby(gender_column)[attribute_column].value_counts(normalize=True) * 100
     label_distribution = label_distribution.unstack()
 
-    #plt.figure(figsize=(20, 46))
 
     ax = label_distribution.plot(kind='bar', color=['darkblue', 'lightblue'])
     plt.title(f'{attribute_column} Distribution by Gender')
@@ -57,8 +54,6 @@ def plot_protected_feature_distribution(dataframe, feature_column, protected_col
     label_distribution = dataframe.groupby(protected_column)[feature_column].value_counts(normalize=True) * 100
     label_distribution = label_distribution.unstack()
 
-    #plt.figure(figsize=(20, 46))
-
     ax = label_distribution.plot(kind='bar')
     plt.title(f'{feature_column} Distribution by {protected_column}')
     plt.xlabel('Gender')
@@ -82,8 +77,6 @@ def plot_protected_feature_distribution(dataframe, feature_column, protected_col
 def plot_protected_feature_distribution_binary(dataframe, feature_column, protected_column, title=None, save_fig_path=None):
     label_distribution = dataframe.groupby(protected_column)[feature_column].value_counts(normalize=True) * 100
     label_distribution = label_distribution.unstack()
-
-    #plt.figure(figsize=(20, 46))
 
     ax = label_distribution.plot(kind='bar')
     plt.title(f'{feature_column} Distribution by {protected_column}')

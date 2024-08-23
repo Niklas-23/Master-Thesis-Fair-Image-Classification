@@ -1,0 +1,3 @@
+## Logs
+
+The logs were only used in order to be able to check the progress again after running the experiments via the terminal. Since the logs are overwritten with every start with the same version/path name, the logs are no longer available for all experiments. The final results that were reported are all based on the csv files in the model_weights folder, which contain the progression of all metrics.

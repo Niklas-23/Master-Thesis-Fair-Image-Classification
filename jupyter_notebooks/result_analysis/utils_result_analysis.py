@@ -9,9 +9,8 @@ def plot_metric(df_tuples, metric_name, y_label=None, title=None, smoothing_fact
     if not 0 <= smoothing_factor <= 1:
         raise ValueError("The smoothing factor must be between 0 (inclusive) and 1 (inclusive).")
 
-    plt.figure(figsize=(12, 8))  # Adjust size as needed
+    plt.figure(figsize=(12, 8))
 
-    # Use the tab10 color scheme
     colors = plt.cm.tab10(np.linspace(0, 1, len(df_tuples)))
 
     for idx, (df, name) in enumerate(df_tuples):

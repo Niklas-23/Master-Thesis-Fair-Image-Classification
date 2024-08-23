@@ -1,6 +1,5 @@
 import argparse
 import os
-from datetime import datetime
 
 import torch
 from torchvision import transforms

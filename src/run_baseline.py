@@ -1,8 +1,4 @@
 import argparse
-import os
-from datetime import datetime
-
-from torchvision import transforms
 
 from src.benchmark_models.ResNet18 import ResNet18
 from src.datasets.CelebA_dataset import CelebADataset
